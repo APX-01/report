@@ -148,6 +148,10 @@
 
 #### 1.1.1. Descripción de la Startup
 
+APX-01 es una startup fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a desarrollar soluciones tecnológicas para revolucionar la educación en Perú. Nuestro primer proyecto, EduHive, es una plataforma integral que conecta a estudiantes y profesores en un ecosistema dinámico, donde la gestión de grupos de estudio, retos académicos y tareas se simplifica y gamifica.
+
+EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles gestionar sus tareas, revisar retos académicos activos y acceder a sus horarios de clases de manera sencilla y organizada. Además, los alumnos pueden explorar los perfiles de sus profesores, conocer sus especializaciones, horarios de atención y métodos de contacto, facilitando una comunicación más fluida y efectiva. De la misma manera, los profesores pueden crear y administrar grupos de estudio en los que podrán establecer retos académicos y monitorear el progreso de sus alumnos. La plataforma también incorpora elementos de gamificación, como sistemas de puntuación y reconocimientos, para motivar el aprendizaje y fomentar la participación activa en grupos de estudio y desafíos educativos, promoviendo un ecosistema educativo dinámico, digital y accesible.
+
 #### 1.1.2. Perfiles de integrantes del equipo
 
 ### 1.2. Solution Profile
