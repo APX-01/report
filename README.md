@@ -570,7 +570,95 @@ Tácticas:
 ### 2.4. Ubiquitous Language
 
 
-
+<table cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th colspan="3"><strong>Ubiquitous Language</strong></th>
+    </tr>
+    <tr>
+      <th><strong>Término en inglés</strong></th>
+      <th><strong>Término en español</strong></th>
+      <th><strong>Descripción</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Study Group</td>
+      <td>Grupo de Estudio</td>
+      <td>Un grupo conformado por estudiantes que colaboran para estudiar y resolver retos académicos. Se define un objetivo común y una estructura de trabajo para su éxito.</td>
+    </tr>
+    <tr>
+      <td>Task</td>
+      <td>Tarea</td>
+      <td>Actividad específica asignada a un estudiante o grupo, generalmente con plazos o metas claras.</td>
+    </tr>
+    <tr>
+      <td>Academic Challenge</td>
+      <td>Reto Académico</td>
+      <td>Actividad educativa diseñada por el profesor para evaluar y motivar el aprendizaje de los estudiantes. Incluye tareas prácticas o de resolución de problemas.</td>
+    </tr>
+    <tr>
+      <td>Group Objective</td>
+      <td>Objetivo del Grupo</td>
+      <td>Meta clara definida para el grupo de estudio, relacionada con el tema de estudio o el resultado esperado de su trabajo colaborativo.</td>
+    </tr>
+    <tr>
+      <td>Schedule</td>
+      <td>Horario</td>
+      <td>La planificación temporal de actividades del grupo, como las sesiones de estudio o la entrega de tareas.</td>
+    </tr>
+    <tr>
+      <td>Feedback</td>
+      <td>Retroalimentación</td>
+      <td>Comentarios y observaciones proporcionados por el profesor o compañeros, con el fin de mejorar el rendimiento de los estudiantes.</td>
+    </tr>
+    <tr>
+      <td>Progress Tracking</td>
+      <td>Seguimiento del Progreso</td>
+      <td>Método de monitoreo del avance individual o grupal, utilizado por los profesores para evaluar la participación y el desempeño académico.</td>
+    </tr>
+    <tr>
+      <td>Motivation</td>
+      <td>Motivación</td>
+      <td>Factor que impulsa a los estudiantes a participar activamente, basado en incentivos como los sistemas de puntuación o logros.</td>
+    </tr>
+    <tr>
+      <td>Learning Materials</td>
+      <td>Materiales de Aprendizaje</td>
+      <td>Recursos académicos proporcionados por el profesor, como lecturas, videos y ejercicios, para apoyar el proceso de aprendizaje.</td>
+    </tr>
+    <tr>
+      <td>Study Session</td>
+      <td>Sesión de Estudio</td>
+      <td>Encuentro o periodo de tiempo dedicado a trabajar en conjunto sobre materiales de estudio o tareas académicas.</td>
+    </tr>
+    <tr>
+      <td>Student Profile</td>
+      <td>Perfil del Estudiante</td>
+      <td>Información personal y académica de un estudiante, como sus logros, metas, y desempeño dentro de un grupo.</td>
+    </tr>
+    <tr>
+      <td>Instructor Profile</td>
+      <td>Perfil del Profesor</td>
+      <td>Información relacionada con el profesor, sus especializaciones, horarios de atención y métodos de contacto.</td>
+    </tr>
+    <tr>
+      <td>Analytics</td>
+      <td>Análisis</td>
+      <td>Herramienta utilizada para interpretar y visualizar el rendimiento de los estudiantes a través de datos recopilados de sus actividades.</td>
+    </tr>
+    <tr>
+      <td>Group Collaboration</td>
+      <td>Colaboración en Grupo</td>
+      <td>Trabajo conjunto de los miembros del grupo para alcanzar un objetivo común. Incluye la comunicación y cooperación entre los estudiantes.</td>
+    </tr>
+    <tr>
+      <td>Achievement System</td>
+      <td>Sistema de Logros</td>
+      <td>Sistema diseñado para reconocer el rendimiento y éxito de los estudiantes mediante puntos, medallas o certificados, fomentando la competitividad sana.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Capítulo III: Requirements specification
