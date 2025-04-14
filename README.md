@@ -243,6 +243,110 @@ Desarrollado por Harvard y el MIT, Open edX es una plataforma robusta para curso
 
 #### 2.1.1. Análisis competitivo
 
+
+<table> 
+  <tr>
+    <th colspan="6"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2"> ¿Por qué llevar acabo este análisis? </td>
+    <td colspan="4"> Pregunta </td>
+  </tr>
+  <tr>
+    <td colspan="4"> Deberíamos llevar a cabo este análisis para conocer el entorno, la competencia, tomar decisiones de desarrollo y construir nuestra propuesta de valor. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td style="text-align: center;"> <div>EduHive</div> <img src="./images/chapter-2/eduhive.png" alt="EduHive" width="200"/> </td>
+    <td style="text-align: center;"> <div>Chamilo</div> <img src="./images/chapter-2/chamilo.png" alt="Chamilo" width="200"/> </td>
+    <td style="text-align: center;"> <div>Canvas</div> <img src="./images/chapter-2/canvas.png" alt="Canvas" width="200"/> </td>
+    <td style="text-align: center;"> <div>Moodle</div> <img src="./images/chapter-2/moodle.png" alt="Moodle" width="200"/> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma gamificada para conectar a estudiantes y profesores mediante gestión de retos, tareas y grupos de estudio colaborativos.</td>
+    <td>Plataforma educativa open source ligera y sencilla para crear y gestionar cursos virtuales con enfoque en colaboración.</td>
+    <td>LMS moderno y escalable, enfocado en la experiencia de usuario y la integración con herramientas de terceros.</td>
+    <td>LMS ampliamente utilizado, muy configurable, con comunidad activa y enfoque en educación formal y continua.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes? </td>
+    <td>Gamificación integrada, conexión directa estudiante-docente, interfaz moderna, enfoque colaborativo y motivacional.</td>
+    <td>Facilidad de uso, bajo consumo de recursos, ideal para instituciones pequeñas/medianas.</td>
+    <td>Interfaz intuitiva, integración robusta (API, LTI), apps móviles, experiencia moderna.</td>
+    <td>Extensibilidad, miles de plugins, comunidad global, adaptabilidad a distintos niveles educativos.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td> Mercado Objetivo </td>
+    <td>Estudiantes y profesores universitarios en Perú; instituciones que buscan digitalizar su enseñanza con una experiencia atractiva.</td>
+    <td>Centros educativos de habla hispana, especialmente de educación básica y media.</td>
+    <td>Universidades y centros educativos grandes en países desarrollados; instituciones con foco en experiencia digital.</td>
+    <td>Universidades, colegios, gobiernos y empresas de todo el mundo; adaptable a distintas necesidades educativas.</td>
+  </tr>
+  <tr>
+    <td> Estrategias de Marketing </td>
+    <td>Generar alianzas con universidades y redes estudiantiles</td>
+    <td>Promoción por su facilidad de implementación y uso; comunidad y eventos educativos.</td>
+    <td>Campañas institucionales, participación en conferencias, marketing directo a universidades.</td>
+    <td>Distribución vía comunidad, asociaciones educativas, y marketing institucional.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td> Productos & Servicios </td>
+    <td>Gestión de grupos, retos, tareas, horarios; perfiles docentes; gamificación; métricas de progreso.</td>
+    <td>Cursos virtuales, tareas, exámenes, seguimiento, colaboración básica.</td>
+    <td>Gestión de cursos, tareas, integración de apps externas, mobile apps, calendario académico.</td>
+    <td>Cursos, exámenes, plugins avanzados, aprendizaje adaptativo, integraciones multimedia.</td>
+  </tr>
+  <tr>
+    <td> Precios & Costos</td>
+    <td>Modelo gratuito para estudiantes, versión premium de 7 dolares para brindar soporte o funcionalidades personalizadas.</td>
+    <td>Completamente gratuito (open source); costos asociados a servidores/soporte.</td>
+    <td>Open source con versión gratuita; versión cloud/enterprise con costo.</td>
+    <td>Gratuito (open source); servicios premium disponibles con MoodleCloud o partners.</td>
+  </tr>
+  <tr>
+    <td> Canales de distribución </td>
+    <td>Web oficial, convenios con universidades</td>
+    <td>Descarga directa desde web.</td>
+    <td>GitHub, partners educativos, sitio oficial (Canvas Free for Teachers).</td>
+    <td>Web oficial y empresas proveedoras autorizadas.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Análisis SWOT</td>
+    <td> Fortalezas </td>
+    <td>Innovación, gamificación nativa, enfoque en experiencia estudiantil, motivación académica.</td>
+    <td>Ligero, fácil de usar y buen rendimiento en servidores básicos.</td>
+    <td>Moderno, escalable, apps móviles, excelente UI/UX, alta compatibilidad.</td>
+    <td>Altamente configurable, comunidad enorme, muy probado a nivel global.</td>
+  </tr>
+  <tr>
+    <td> Debilidades</td>
+    <td>Poca presencia en el mercado, requiere validación institucional.</td>
+    <td>Menos funciones avanzadas comparado con otros LMS, interfaz menos moderna.</td>
+    <td>Complejo de instalar, depende de servicios cloud si se desea escalar rápido.</td>
+    <td>Puede ser complejo para usuarios nuevos, requiere personal técnico para mantener.</td>
+  </tr>
+  <tr>
+    <td> Oportunidades</td>
+    <td>Expansión en universidades peruanas, integración con apps educativas, escalamiento regional.</td>
+    <td>Mejorar diseño, expandir funciones modernas para captar nuevos usuarios.</td>
+    <td>Mayor adopción en América Latina, alianzas con plataformas edtech.</td>
+    <td>Integración con IA y nuevas tecnologías educativas, adaptación a educación híbrida.</td>
+  </tr>
+  <tr>
+    <td> Amenazas</td>
+    <td>Resistencia al cambio por parte de instituciones tradicionales.</td>
+    <td>Limitado crecimiento frente a plataformas más modernas.</td>
+    <td>Dependencia de actualizaciones constantes, competencia con Moodle y Blackboard.</td>
+    <td>Riesgo de sobrecarga por su complejidad; posible saturación de mercado LMS.</td>
+  </tr>
+</table>
+
+
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
 ### 2.2. Entrevistas
