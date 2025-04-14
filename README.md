@@ -4,17 +4,17 @@
 
 ### **CURSO:** Aplicaciones para Dispositivos Moviles
 
-### **NRC**: 
+### **NRC**:
 
-### **Profesor:** 
+### **Profesor:**
 
 ### **Ingeniería de software**
 
 ## Informe de Trabajo Final
 
-### **Nombre del startup:** 
+### **Nombre del startup:**
 
-### **Nombre del producto:** 
+### **Nombre del producto:**
 
 ## **Integrantes**
 
@@ -160,6 +160,8 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.2.2. Lean UX Process
 
+El Lean UX process es una metodología iterativa de diseño que pone al usuario en el centro del proceso, enfocándose en la colaboración continua del equipo y en ciclos cortos de trabajo. A través de investigaciones, pruebas rápidas y validación constante de ideas, se busca comprobar la validez de las ideas planteadas. A diferencia de los métodos tradicionales, este evita la documentación pesada y prioriza la retroalimentación temprana para validar o descartar hipótesis de manera ágil, siempre orientándose a satisfacer las necesidades reales de los usuarios.
+
 ##### 1.2.2.1. Lean UX Problem Statements
 
 ##### 1.2.2.2. Lean UX Assumptions
@@ -177,11 +179,14 @@ Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colabor
 **Edad aproximada:** 17-25 años
 
 **Necesidades:**
+
 - Organización eficiente de estudios grupales
 - Acceso centralizado a materiales, horarios y tareas
 - Motivación mediante gamificación y reconocimiento académico
-- 
+-
+
 **Beneficios clave:**
+
 - Plataforma única para gestión de aprendizaje colaborativo
 - Sistema de retos que potencia habilidades prácticas
 - Conexión directa con profesores y compañeros
@@ -193,11 +198,13 @@ Educadores innovadores que requieren soluciones para dinamizar sus clases y redu
 **Edad aproximada:** 30-55 años
 
 **Necesidades:**
+
 - Herramientas para dinamizar la enseñanza
 - Reducción de carga administrativa
 - Monitoreo del progreso estudiantil
 
 **Beneficios clave:**
+
 - Creación de retos académicos personalizables
 - Panel de analytics para seguimiento de alumnos
 - Integración flexible con metodologías educativas existentes
