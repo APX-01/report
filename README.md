@@ -170,6 +170,38 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 ### 1.3. Segmentos Objetivo
 
+### **Segmento Objetivo 1: Estudiantes Universitarios**
+
+Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colaborativo. Necesitan centralizar tareas, horarios y materiales académicos, además de motivación mediante retos gamificados. Benefician de conexión directa con profesores y sistemas de reconocimiento por logros.
+
+**Edad aproximada:** 17-25 años
+
+**Necesidades:**
+- Organización eficiente de estudios grupales
+- Acceso centralizado a materiales, horarios y tareas
+- Motivación mediante gamificación y reconocimiento académico
+- 
+**Beneficios clave:**
+- Plataforma única para gestión de aprendizaje colaborativo
+- Sistema de retos que potencia habilidades prácticas
+- Conexión directa con profesores y compañeros
+
+### **Segmento Objetivo 2: Profesores Universitarios**
+
+Educadores innovadores que requieren soluciones para dinamizar sus clases y reducir carga administrativa. Buscan crear actividades interactivas, monitorear progreso estudiantil y adaptarse a diferentes metodologías pedagógicas.
+
+**Edad aproximada:** 30-55 años
+
+**Necesidades:**
+- Herramientas para dinamizar la enseñanza
+- Reducción de carga administrativa
+- Monitoreo del progreso estudiantil
+
+**Beneficios clave:**
+- Creación de retos académicos personalizables
+- Panel de analytics para seguimiento de alumnos
+- Integración flexible con metodologías educativas existentes
+
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
