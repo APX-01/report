@@ -4,17 +4,17 @@
 
 ### **CURSO:** Aplicaciones para Dispositivos Moviles
 
-### **NRC**: 
+### **NRC**:
 
-### **Profesor:** 
+### **Profesor:**
 
 ### **Ingeniería de software**
 
 ## Informe de Trabajo Final
 
-### **Nombre del startup:** 
+### **Nombre del startup:**
 
-### **Nombre del producto:** 
+### **Nombre del producto:**
 
 ## **Integrantes**
 
@@ -169,6 +169,77 @@
 ## Capítulo II: Requirements Elicitation & Analysis
 
 ### 2.1. Competidores
+
+En esta sección, se presenta un análisis de los principales competidores de nuestra startup, centrado en aquellos que operan con modelos de negocio digitales similares o que, aunque no sean idénticos, ofrecen productos o servicios que se superponen parcialmente con los de EduHive. Evaluamos tanto competidores directos, que se encuentran en el mismo segmento de mercado, como competidores indirectos, que abordan áreas relacionadas como el uso de grupos de estudio, horarios, calendarios, etc.
+
+**1. Chamilo**
+
+<img src="./images/chapter-2/chamilo.png" alt="Chamilo" width="400"/>
+
+**Descripción:**
+
+Chamilo es una plataforma de aprendizaje libre y de código abierto orientada a facilitar la educación en línea. Es ligera, fácil de usar y tiene una fuerte presencia en instituciones educativas de habla hispana, especialmente en Latinoamérica.
+
+**Principales características:**
+
+* Gestión de cursos, tareas, exámenes y contenidos multimedia.
+* Interfaz intuitiva, ideal para entornos con poca experiencia técnica.
+* Herramientas colaborativas: foros, chats, wikis, encuestas.
+* Seguimiento del progreso del estudiante.
+* Certificaciones automáticas y calificaciones.
+* Soporte multilingüe.
+* Se instala fácilmente en servidores modestos.
+
+**2. Canvas LMS**
+
+<img src="./images/chapter-2/canvas.png" alt="Canvas" width="400"/>
+
+**Descripción:**
+
+Canvas LMS es una plataforma moderna y flexible, ampliamente utilizada en universidades de EE.UU. Tiene un enfoque centrado en la experiencia de usuario y permite integraciones con otras herramientas educativas.
+
+**Principales características:**
+
+* Gestión de cursos, tareas, evaluaciones y rúbricas.
+* Integración con videollamadas, Google Docs, etc.
+* Sistema de calendario y notificaciones.
+* Interfaz moderna y personalizable.
+* Alta escalabilidad, aunque la versión completa es de pago (Open Source cubre lo esencial).
+
+**3. Moodle**
+
+<img src="./images/chapter-2/moodle.png" alt="Moodle" width="400"/>
+
+**Descripción:**
+
+Moodle es una de las plataformas LMS más populares del mundo. Se destaca por su extensibilidad a través de plugins y su amplia comunidad de desarrolladores. Utilizada por universidades, escuelas y empresas.
+
+**Principales características:**
+
+* Creación de cursos, cuestionarios, tareas, foros, wikis y más.
+* Sistema de roles y permisos muy detallado.
+* Seguimiento avanzado del progreso del alumno.
+* Interfaz personalizable con miles de plugins.
+* Integración con herramientas externas y videoconferencias (BigBlueButton, Zoom).
+* Soporte para gamificación (medallas, rankings, niveles).
+* Multiplataforma y multilingüe.
+
+**4. Open edX**
+
+<img src="./images/chapter-2/openedx.png" alt="Open edX" width="400"/>
+
+**Descripción:**
+
+Desarrollado por Harvard y el MIT, Open edX es una plataforma robusta para cursos en línea tipo MOOC. Aunque más compleja de implementar, es ideal para proyectos educativos a gran escala.
+
+**Principales características:**
+
+* Creación de cursos interactivos con vídeos, exámenes, y tareas.
+* Soporte para cursos auto-dirigidos o con fechas definidas.
+* Análisis avanzados del aprendizaje.
+* Herramientas de colaboración como foros y wikis.
+* Compatible con gamificación y credenciales digitales.
+* Escalable para miles de usuarios concurrentes.
 
 #### 2.1.1. Análisis competitivo
 
