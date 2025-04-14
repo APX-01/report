@@ -12,7 +12,7 @@
 
 ## Informe de Trabajo Final
 
-### **Nombre del startup:**
+### **Nombre del startup: **
 
 ### **Nombre del producto:**
 
@@ -243,7 +243,6 @@ Desarrollado por Harvard y el MIT, Open edX es una plataforma robusta para curso
 
 #### 2.1.1. Análisis competitivo
 
-
 <table> 
   <tr>
     <th colspan="6"> Competitive Analysis Landscape </th>
@@ -345,15 +344,11 @@ Desarrollado por Harvard y el MIT, Open edX es una plataforma robusta para curso
   </tr>
 </table>
 
-
-
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
 **Frente a Chamilo**
 
-
 <img src="./images/chapter-2/chamilo.png" alt="Chamilo" width="400"/>
-
 
 Estrategias:
 
@@ -369,9 +364,7 @@ Tácticas:
 
 **Frente a Canvas**
 
-
 <img src="./images/chapter-2/canvas.png" alt="Canvas" width="400"/>
-
 
 Estrategias:
 
@@ -388,9 +381,7 @@ Tácticas:
 
 **Frente a Moodle**
 
-
 <img src="./images/chapter-2/moodle.png" alt="Moodle" width="400"/>
-
 
 Estrategias:
 
@@ -405,6 +396,43 @@ Tácticas:
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
+
+**Segmento Objetivo 1: Estudiantes Universitarios**
+
+**Preguntas principales:**
+
+1. ¿Podrías contarme un poco sobre ti? (edad, carrera, lugar de residencia y ocupacion)
+2. ¿Cómo organizas actualmente tus tareas, horarios y trabajos en grupo?
+3. ¿Qué herramientas digitales utilizas con más frecuencia para estudiar o coordinar con tu equipo?
+4. ¿Qué tan fácil o difícil es para ti mantenerte motivado/a durante el ciclo académico?
+5. ¿Qué valoras más en una plataforma educativa o de gestión del aprendizaje?
+6. ¿Qué te parecería si se añadieran retos o elementos gamificados a tus cursos?
+
+**Preguntas complementarias:**
+
+7. ¿Utilizas más el celular, la laptop o una tablet para estudiar?
+8. ¿Has usado plataformas como Moodle, Canvas u otras? ¿Qué te gustó o no te gustó?
+9. ¿Qué tan importante es para ti recibir reconocimientos o insignias por tus logros?
+10. ¿Qué redes sociales o canales digitales usas más para temas académicos?
+
+**Segmento Objetivo 2: Profesores Universitarios**
+
+
+**Preguntas principales:**
+
+1. ¿Podría contarme un poco sobre usted? (edad, distrito de residencia y ocupacion)
+2. ¿Qué herramientas digitales utiliza actualmente para gestionar sus clases?
+3. ¿Qué aspectos de su trabajo le consumen más tiempo fuera del aula?
+4. ¿Cómo monitorea actualmente el avance de sus estudiantes?
+5. ¿Qué valoraría más en una plataforma educativa para apoyar su enseñanza?
+6. ¿Qué tipo de actividades interactivas suele aplicar o le gustaría aplicar en clase?
+7. ¿Qué tan dispuesto estaría a incorporar retos o elementos gamificados para motivar a sus alumnos?
+
+**Preguntas complementarias:**
+
+8. ¿Prefiere trabajar desde laptop, PC o tablet?
+9. ¿Qué tan importante es para usted tener estadísticas o datos visuales sobre el desempeño del grupo?
+10. ¿Qué otros canales (correo, redes, WhatsApp, campus virtual) usa para comunicarse con sus alumnos?
 
 #### 2.2.2. Registro de entrevistas
 
