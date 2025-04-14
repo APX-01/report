@@ -349,6 +349,59 @@ Desarrollado por Harvard y el MIT, Open edX es una plataforma robusta para curso
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
+**Frente a Chamilo**
+
+
+<img src="./images/chapter-2/chamilo.png" alt="Chamilo" width="400"/>
+
+
+Estrategias:
+
+* **Diferenciación por experiencia de usuario (UX/UI)**: Mientras Chamilo tiene una interfaz funcional pero básica, apostaremos por una plataforma más intuitiva y visualmente atractiva.
+* **Estrategia de comunidad activa**: Aprovechar la baja visibilidad de la comunidad de Chamilo para formar una comunidad más activa y comprometida en nuestra plataforma (eventos).
+
+Tácticas:
+
+* Realizar pruebas de usabilidad frecuentes para optimizar la interfaz.
+* Ofrecer documentación amigable y soporte proactivo, donde Chamilo es más limitado.
+
+---
+
+**Frente a Canvas**
+
+
+<img src="./images/chapter-2/canvas.png" alt="Canvas" width="400"/>
+
+
+Estrategias:
+
+* **Penetración en mercados con menos recursos**: Canvas es fuerte en instituciones grandes, pero tu startup puede enfocarse en medianas y pequeñas instituciones educativas.
+* **Agilidad e innovación en funciones**: Aprovecha que Canvas, al ser robusto, puede ser más lento en adoptar cambios o innovaciones.
+
+Tácticas:
+
+* Ofrecer una versión gratuita limitada pero útil para captar usuarios en etapa inicial.
+* Incluir funcionalidades nuevas o innovadoras como gamificación.
+* Utilizar canales alternativos (influencers edtech, redes locales) para captar usuarios donde Canvas no llega fácilmente.
+
+---
+
+**Frente a Moodle**
+
+
+<img src="./images/chapter-2/moodle.png" alt="Moodle" width="400"/>
+
+
+Estrategias:
+
+* **Simplificación y experiencia out-of-the-box**: Moodle es muy personalizable, pero eso también lo hace complejo para usuarios no técnicos. Tu producto puede destacarse ofreciendo soluciones listas para usar.
+* **Integraciones modernas y nativas**: Moodle requiere plugins adicionales para muchas funciones; puedes destacar al tener todo integrado desde el inicio.
+
+Tácticas:
+
+* Crear plantillas prediseñadas para diferentes tipos de cursos (educación básica, profesional, corporativa).
+* Incluir soporte técnico especializado para evitar que los usuarios dependan de técnicos propios como en Moodle.
+
 ### 2.2. Entrevistas
 
 #### 2.2.1. Diseño de entrevistas
