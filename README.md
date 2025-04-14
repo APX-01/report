@@ -512,7 +512,7 @@ Tácticas:
   </thead>
   <tbody>
     <tr>
-      <td>Seleccionar los miembros y definir el objetivo del grupo de estudio</td>
+      <td>Gestionar los miembros y definir el objetivo del grupo de estudio</td>
       <td>Baja</td>
       <td>Alta</td>
     </tr>
@@ -555,7 +555,23 @@ Tácticas:
 
 #### 2.3.5. As-is Scenario Mapping
 
+**Segmento 1: Estudiantes Universitarios**
+
+
+<img src="./images/chapter-2/asisestudiantes.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+
+
+**Segmento 2: Profesores Universitarios**
+
+
+<img src="./images/chapter-2/asisprofesores.png" alt="Profesores Universitarios" width="800"/>
+
+
 ### 2.4. Ubiquitous Language
+
+
+
+
 
 ## Capítulo III: Requirements specification
 
