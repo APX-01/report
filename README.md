@@ -537,11 +537,6 @@ Tácticas:
       <td>Media</td>
     </tr>
     <tr>
-      <td>Consultar y analizar reportes de rendimiento (analytics)</td>
-      <td>Media</td>
-      <td>Media</td>
-    </tr>
-    <tr>
       <td>Ajustar la dificultad o el enfoque de los retos según el avance del grupo</td>
       <td>Media</td>
       <td>Alta</td>
