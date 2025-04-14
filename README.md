@@ -417,7 +417,6 @@ Tácticas:
 
 **Segmento Objetivo 2: Profesores Universitarios**
 
-
 **Preguntas principales:**
 
 1. ¿Podría contarme un poco sobre usted? (edad, distrito de residencia y ocupacion)
@@ -443,6 +442,117 @@ Tácticas:
 #### 2.3.1. User Personas
 
 #### 2.3.2. User Task Matrix
+
+**Segmento 1: Estudiantes Universitarios**
+
+<table  cellspacing="0" border="1">
+  <thead>
+    <tr>
+      <th>Tarea (Task)</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Revisar los miembros y objetivo del grupo de estudio al que pertenece</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Revisar el horario y organización del grupo</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Acceder y consultar materiales académicos subidos por el profesor</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Resolver retos académicos planteados por el profesor</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Revisar el progreso personal dentro del grupo</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Recibir y analizar feedback de actividades realizadas</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Ajustar su ritmo o estrategia de estudio según feedback y resultados</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+**Segmento 2: Profesores Universitarios**
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Tarea (Task)</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Seleccionar los miembros y definir el objetivo del grupo de estudio</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Crear el grupo de estudio y establecer su horario</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Subir y actualizar materiales académicos (lecturas, videos, recursos)</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Crear y configurar retos académicos para el grupo</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Monitorear el progreso y participación de los estudiantes</td>
+      <td>Alta</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Consultar y analizar reportes de rendimiento (analytics)</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Ajustar la dificultad o el enfoque de los retos según el avance del grupo</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Revisar y dar feedback sobre actividades realizadas</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.3.3. User Journey Mapping
 
