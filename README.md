@@ -450,6 +450,10 @@ Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de lo
 
 ### 3.3. Impact Mapping
 
+
+<img src="./images/chapter-3/impactmapping.png" alt="Impact Mapping" width="1000"/>
+
+
 ### 3.4. Product Backlog
 
 ## Capítulo IV: Solution Software Design
