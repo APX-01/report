@@ -158,6 +158,10 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.2.1. Antecedentes y problemática
 
+En el contexto educativo peruano, aún persisten desafíos significativos en la implementación de herramientas digitales que faciliten el aprendizaje colaborativo. Muchas universidades continúan utilizando métodos tradicionales para gestionar grupos de estudio y asignar tareas, lo que genera procesos académicos poco eficientes. Esta situación se ve agravada por la falta de plataformas integradas que permitan una interacción fluida y natural entre estudiantes y docentes, limitando las oportunidades para un aprendizaje más dinámico y participativo.
+
+Por el lado de los estudiantes, es común observar dificultades para organizar trabajos grupales y mantener una comunicación efectiva con sus profesores. Los docentes, por su parte, enfrentan el reto constante de motivar a sus alumnos y gestionar eficientemente las actividades académicas. Esta problemática evidencia la necesidad de desarrollar soluciones tecnológicas que no solo simplifiquen los procesos educativos, sino que también fomenten un mayor engagement mediante enfoques innovadores y adaptados a la realidad local.
+
 #### 1.2.2. Lean UX Process
 
 El Lean UX process es una metodología iterativa de diseño que pone al usuario en el centro del proceso, enfocándose en la colaboración continua del equipo y en ciclos cortos de trabajo. A través de investigaciones, pruebas rápidas y validación constante de ideas, se busca comprobar la validez de las ideas planteadas. A diferencia de los métodos tradicionales, este evita la documentación pesada y prioriza la retroalimentación temprana para validar o descartar hipótesis de manera ágil, siempre orientándose a satisfacer las necesidades reales de los usuarios.
