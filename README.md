@@ -172,7 +172,7 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 
 ##### 1.2.2.2. Lean UX Assumptions
 
-###### **User Assumptions (Suposiciones de Usuario)**
+**User Assumptions (Suposiciones de Usuario)**
 
 - ¿Quién es el usuario?: Los usuarios son estudiantes y profesores universitarios que buscan mejorar la organización de sus actividades académicas, productividad y la comunicación en el entorno educativo.
 - ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja como una herramienta diaria para planificar clases, tareas, retos académicos y la gestión de grupos de estudio, facilitando la interacción constante entre estudiantes y profesores.
@@ -181,7 +181,7 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 - ¿Qué características son importantes?: Las características importantes son la gestión de tareas, administración de grupos de estudio, perfiles detallados de profesores, sistema de retos académicos, visualización de horarios, interfaz sencilla e intuitiva.
 - ¿Cómo debe verse y comportarse nuestro producto?: Nuestro producto debe tener un diseño amigable y moderno, con navegación fluida, colores que generen motivación y claridad visual, y tiempos de respuesta rápidos para no frustrar a los usuarios.
 
-###### **Business Assumptions (Suposiciones de Negocio)**
+**Business Assumptions (Suposiciones de Negocio)**
 
 - Necesidades y problemas: Creemos que las universidades necesitan herramientas que mejoren la productividad académica y la colaboración digital entre alumnos y docentes.
 - Plataforma: Estas necesidades se pueden resolver mediante una aplicación web para mayor accesibilidad.
@@ -193,19 +193,19 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 - Competencia: Nuestra competencia serán las plataformas similares en el área de educación, gestión académica y organización.
 - Ventaja competitiva: Superaremos a la competencia gracias a nuestra plataforma que ofrece varias funciones en un solo lugar y que esta enfocada en la experiencia, motivación y colaboración del estudiante y profesor universitario.
 
-###### **Technical Assumptions (Suposiciones Técnicas)**
+**Technical Assumptions (Suposiciones Técnicas)**
 
 - Tecnología utilizada: Se utilizarán tecnologías web modernas para el desarrollo de la plataforma.
 - Integraciones: La plataforma se integrará con servicios externos de calendarios digitales y comunicación.
 - Escalabilidad: La aplicación será diseñada para soportar un número creciente de usuarios y datos.
 
-###### **Market Assumptions (Suposiciones de Mercado)**
+**Market Assumptions (Suposiciones de Mercado)**
 
 - Tamaño del mercado: El mercado objetivo incluye universidades, abarcando a estudiantes y docentes que buscan soluciones digitales para la organización académica.
 - Competencia: Los principales competidores son otras plataformas de organización y gestión educativa.
 - Tendencias: Existe un crecimiento en la digitalización de la educación y mayor preferencia por soluciones de productividad.
 
-###### **Design Assumptions (Suposiciones de Diseño)**
+**Design Assumptions (Suposiciones de Diseño)**
 
 - Interacción del usuario: La plataforma estará diseñada para una navegación sencilla, intuitiva y accesible.
 - Experiencia del usuario: El enfoque estará en ofrecer una experiencia fluida y agradable, facilitando la realización de actividades sin complicaciones.
