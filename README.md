@@ -2,30 +2,30 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-### **CURSO:** Aplicaciones para Dispositivos Moviles
+### **CURSO:** Desarrollo de Aplicaciones Open Source
 
-### **NRC**:
+### **NRC**: 4334
 
-### **Profesor:**
+### **Profesor:** Hugo Allan Mori Paiva
 
 ### **Ingeniería de software**
 
 ## Informe de Trabajo Final
 
-### **Nombre del startup:**
+### **Nombre del startup:** APX-01
 
-### **Nombre del producto:**
+### **Nombre del producto:** EduHive
 
 ## **Integrantes**
 
 
-| **Nombre**                      | **Codigo** |
-| ------------------------------- | ---------- |
-| **Alejo Cardenas Jose Antonio** | U202122484 |
-|                                 |            |
-|                                 |            |
-|                                 |            |
-|                                 |            |
+| **Nombre**                             | **Codigo** |
+| -------------------------------------- | ---------- |
+| **Alejo Cardenas Jose Antonio**        | U202122484 |
+| **Luquillas Asto Omar**                | U20211G641 |
+| **Real Calderón Sebastián Omar**     | U20221D964 |
+| **Flores Apaico Josue Antonio**        | U20201F773 |
+| **Mendoza Vergara Franklin Alejandro** | U202312343 |
 
 **Abril 2025**
 
@@ -163,6 +163,12 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 El Lean UX process es una metodología iterativa de diseño que pone al usuario en el centro del proceso, enfocándose en la colaboración continua del equipo y en ciclos cortos de trabajo. A través de investigaciones, pruebas rápidas y validación constante de ideas, se busca comprobar la validez de las ideas planteadas. A diferencia de los métodos tradicionales, este evita la documentación pesada y prioriza la retroalimentación temprana para validar o descartar hipótesis de manera ágil, siempre orientándose a satisfacer las necesidades reales de los usuarios.
 
 ##### 1.2.2.1. Lean UX Problem Statements
+
+Actualmente, los estudiantes y profesores universitarios se enfrentan a varios desafíos cuando intentan organizar sus actividades académicas y comunicarse de forma eficiente. En la mayoría de los casos, dependen de múltiples herramientas que no están conectadas entre sí, como aplicaciones de mensajería, correos electrónicos y agendas separadas, lo que provoca confusiones, olvidos y dificulta llevar un buen control de tareas y responsabilidades.
+
+Para los estudiantes, esto significa tener que recordar plazos de entrega, participar en grupos y mantenerse al día con algunas tareas de manera dispersa. Por otro lado, los profesores tienen dificultades para crear y gestionar grupos de estudio, monitorear el progreso de sus alumnos y mantener una comunicación clara, directa y constante con ellos.
+
+Esta situación no solo genera desorganización, sino que también puede disminuir la motivación y participación de los estudiantes, afectando su rendimiento académico. Por eso, es necesario contar con una plataforma integrada que centralice todas estas funciones, facilitando la organización de tareas, la realización de retos académicos y la interacción directa entre estudiantes y profesores, promoviendo así un entorno educativo más dinámico, ordenado y participativo.
 
 ##### 1.2.2.2. Lean UX Assumptions
 
