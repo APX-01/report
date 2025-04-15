@@ -206,6 +206,8 @@
 <img src="./images/chapter-3/tobeestudiantes.png" alt="To-Be Estudiantes Universitarios" width="800"/>
 
 
+
+
 **2. Segmento 2: Profesores Universitarios**
 
 
