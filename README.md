@@ -215,6 +215,106 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
+Hypothesis Statement 01:
+
+- Creemos que los usuarios necesitan una plataforma centralizada para gestionar actividades académicas y mejorar la comunicación.
+- Sabremos que estamos en lo correcto cuando veamos una adopción activa de la herramienta dentro de grupos de estudio y recibamos comentarios positivos sobre la facilidad de organización que ofrece.
+
+Hypothesis Statement 02:
+
+- Creemos que la falta de integración entre herramientas actuales genera desorganización y pérdida de información importante para los estudiantes y docentes.
+- Sabremos que estamos en lo correcto cuando los usuarios nos indiquen que ya no necesitan usar múltiples aplicaciones por separado y notemos una reducción en quejas relacionadas con la desorganización.
+
+Hypothesis Statement 03:
+
+- Creemos que una plataforma que permita crear y gestionar grupos de estudio facilitará la colaboración entre estudiantes.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la creación de grupos dentro de la plataforma.
+
+Hypothesis Statement 04:
+
+- Creemos que la inclusión de un calendario ayudará a los usuarios a cumplir con sus tareas y fechas de entrega de forma oportuna.
+- Sabremos que estamos en lo correcto cuando observemos una disminución en los retrasos de tareas.
+
+Hypothesis Statement 05:
+
+- Creemos que la implementación de retos académicos incentivará la participación y el compromiso de los estudiantes.
+- Sabremos que estamos en lo correcto cuando veamos un aumento en la participación de actividades opcionales y retos dentro de la plataforma.
+
+Hypothesis Statement 06:
+
+- Creemos que una interfaz intuitiva y accesible facilitará la adopción de la plataforma por parte de los usuarios.
+- Sabremos que estamos en lo correcto cuando los usuarios utilicen la aplicación con fluidez y la tasa de abandono inicial sea baja.
+
+Hypothesis Statement 07:
+
+- Creemos que permitir a los profesores monitorear el progreso de sus estudiantes mejorará la efectividad del seguimiento académico.
+- Sabremos que estamos en lo correcto cuando los profesores utilicen frecuentemente las funciones de seguimiento y den feedback positivo.
+
+Hypothesis Statement 08:
+
+- Creemos que facilitar el acceso a la información de contacto y disponibilidad de los profesores mejorará la comunicación entre estudiantes y docentes.
+- Sabremos que estamos en lo correcto cuando los estudiantes reporten mayor facilidad para contactar a sus profesores y se reduzcan las consultas relacionadas con cómo ubicarlos.
+
+Hypothesis Statement 09:
+
+- Creemos que los usuarios valoran la personalización de recordatorios en el calendario según sus preferencias.
+- Sabremos que estamos en lo correcto cuando la mayoría de los usuarios personalicen sus ajustes de recordatorios.
+
+Hypothesis Statement 10:
+
+- Creemos que ofrecer una vista consolidada del horario académico, incluyendo entregas, exámenes y actividades de grupo, ayudará a los usuarios a visualizar mejor su carga semanal.
+- Sabremos que estamos en lo correcto cuando los usuarios consulten frecuentemente la vista de horario y reporten sentirse más organizados.
+
+Hypothesis Statement 11:
+
+- Creemos que mostrar logros y avances individuales motivará a los estudiantes a continuar usando la plataforma.
+- Sabremos que estamos en lo correcto cuando observemos una alta interacción con los paneles de progreso y mejoras.
+
+Hypothesis Statement 12:
+
+- Creemos que la privacidad y seguridad de la información son fundamentales para la adopción de la plataforma.
+- Sabremos que estamos en lo correcto cuando los usuarios expresen confianza en el manejo de sus datos y no haya incidentes reportados.
+
+Hypothesis Statement 13:
+
+- Creemos que una experiencia de usuario que minimice la curva de aprendizaje aumentará la retención de usuarios nuevos.
+- Sabremos que estamos en lo correcto cuando los nuevos usuarios se familiaricen con la plataforma en menos de una semana.
+
+Hypothesis Statement 14:
+
+- Creemos que una paleta de colores atractiva y una tipografía clara mejorarán la experiencia visual y la permanencia en la aplicación.
+- Sabremos que estamos en lo correcto cuando los usuarios valoren positivamente el diseño en encuestas de satisfacción.
+
+Hypothesis Statement 15:
+
+- Creemos que ofrecer soporte rápido y accesible motivará a los usuarios a permanecer en la plataforma.
+- Sabremos que estamos en lo correcto cuando las consultas de soporte sean resueltas de manera efectiva.
+
+Hypothesis Statement 16:
+
+- Creemos que el crecimiento de la educación híbrida aumentará la demanda de herramientas digitales integradas.
+- Sabremos que estamos en lo correcto cuando identifiquemos un incremento sostenido en la adopción de la plataforma durante ciclos académicos híbridos o virtuales.
+
+Hypothesis Statement 17:
+
+- Creemos que permitir a los estudiantes compartir recursos y materiales dentro de sus grupos mejorará el aprendizaje colaborativo.
+- Sabremos que estamos en lo correcto cuando observemos una alta frecuencia de archivos y enlaces compartidos en los espacios grupales.
+
+Hypothesis Statement 18:
+
+- Creemos que la disponibilidad de estadísticas y reportes académicos ayudará a los profesores a tomar mejores decisiones pedagógicas.
+- Sabremos que estamos en lo correcto cuando los profesores utilicen estas herramientas para ajustar sus clases y estrategias de enseñanza.
+
+Hypothesis Statement 19:
+
+- Creemos que promocionar la plataforma a través de programas académicos y redes sociales, atraerá la mayoría de nuestros usuarios.
+- Sabremos que estamos en lo correcto cuando veamos un aumento significativo en los registros de nuevos usuarios.
+
+Hypothesis Statement 20:
+
+- Creemos que incluir una sección de anuncios importantes permitirá mantener informada a la comunidad académica sin depender de medios externos.
+- Sabremos que estamos en lo correcto cuando los usuarios accedan frecuentemente a esta sección.
+
 ##### 1.2.2.4. Lean UX Canvas
 
 ### 1.3. Segmentos Objetivo
