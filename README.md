@@ -172,6 +172,47 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 
 ##### 1.2.2.2. Lean UX Assumptions
 
+###### **User Assumptions (Suposiciones de Usuario)**
+
+- ¿Quién es el usuario?: Los usuarios son estudiantes y profesores universitarios que buscan mejorar la organización de sus actividades académicas, productividad y la comunicación en el entorno educativo.
+- ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja como una herramienta diaria para planificar clases, tareas, retos académicos y la gestión de grupos de estudio, facilitando la interacción constante entre estudiantes y profesores.
+- ¿Qué problemas resuelve nuestro producto?: Nuestro producto resuelve problemas de desorganización, falta de comunicación efectiva, dispersión de herramientas y baja motivación por la falta de dinamismo en las actividades académicas.
+- ¿Cuándo y cómo se usa nuestro producto?: Nuestro producto se utiliza antes y después de clases, para revisar tareas pendientes, crear o unirse a grupos de estudio, consultar horarios, participar en retos académicos y comunicarse directamente con los profesores o compañeros.
+- ¿Qué características son importantes?: Las características importantes son la gestión de tareas, administración de grupos de estudio, perfiles detallados de profesores, sistema de retos académicos, visualización de horarios, interfaz sencilla e intuitiva.
+- ¿Cómo debe verse y comportarse nuestro producto?: Nuestro producto debe tener un diseño amigable y moderno, con navegación fluida, colores que generen motivación y claridad visual, y tiempos de respuesta rápidos para no frustrar a los usuarios.
+
+###### **Business Assumptions (Suposiciones de Negocio)**
+
+- Necesidades y problemas: Creemos que las universidades necesitan herramientas que mejoren la productividad académica y la colaboración digital entre alumnos y docentes.
+- Plataforma: Estas necesidades se pueden resolver mediante una aplicación web para mayor accesibilidad.
+- Segmentación: Los usuarios serán estudiantes y profesores universitarios de todas las áreas académicas.
+- Comportamientos: El valor principal que un usuario quiere obtener de nuestro servicio es una mayor facilidad, colaboración y disciplina en el área académica.
+- Beneficios: Los usuarios obtendrán una mejora de la organización académica, aumento en la participación de los estudiantes, comunicación más fluida y mayor motivación.
+- Captación de clientes: Obtendremos nuestros usuarios a través de promociones de alianzas con universidades, redes sociales, y recomendaciones de usuarios dentro de las comunidades universitarias.
+- Modelos de ingresos: Generaremos ingresos mediante una suscripción para funciones avanzadas en la plataforma.
+- Competencia: Nuestra competencia serán las plataformas similares en el área de educación, gestión académica y organización.
+- Ventaja competitiva: Superaremos a la competencia gracias a nuestra plataforma que ofrece varias funciones en un solo lugar y que esta enfocada en la experiencia, motivación y colaboración del estudiante y profesor universitario.
+
+###### **Technical Assumptions (Suposiciones Técnicas)**
+
+- Tecnología utilizada: Se utilizarán tecnologías web modernas para el desarrollo de la plataforma.
+- Integraciones: La plataforma se integrará con servicios externos de calendarios digitales y comunicación.
+- Escalabilidad: La aplicación será diseñada para soportar un número creciente de usuarios y datos.
+
+###### **Market Assumptions (Suposiciones de Mercado)**
+
+- Tamaño del mercado: El mercado objetivo incluye universidades, abarcando a estudiantes y docentes que buscan soluciones digitales para la organización académica.
+- Competencia: Los principales competidores son otras plataformas de organización y gestión educativa.
+- Tendencias: Existe un crecimiento en la digitalización de la educación y mayor preferencia por soluciones de productividad.
+
+###### **Design Assumptions (Suposiciones de Diseño)**
+
+- Interacción del usuario: La plataforma estará diseñada para una navegación sencilla, intuitiva y accesible.
+- Experiencia del usuario: El enfoque estará en ofrecer una experiencia fluida y agradable, facilitando la realización de actividades sin complicaciones.
+- Colores y tipografía: Los usuarios valoran el uso de una paleta de colores que transmita dinamismo y profesionalismo, junto con tipografías modernas y legibles que mejoren la experiencia visual.
+- Preferencias visuales: Los usuarios prefieren un diseño visual atractivo pero limpio, que los permita concentrarse fácilmente en las funciones principales de la plataforma.
+- Prototipos y pruebas: Se desarrollarán validaciones de las características principales que serán evaluados mediante pruebas de usabilidad.
+
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
 ##### 1.2.2.4. Lean UX Canvas
