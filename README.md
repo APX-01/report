@@ -12,7 +12,7 @@
 
 ## Informe de Trabajo Final
 
-### **Nombre del startup:** APX-01
+
 
 ### **Nombre del producto:** EduHive
 
@@ -23,7 +23,7 @@
 | -------------------------------------- | ---------- |
 | **Alejo Cardenas Jose Antonio**        | U202122484 |
 | **Luquillas Asto Omar**                | U20211G641 |
-|     | U20221D964 |
+|  
 | **Flores Apaico Josue**        | U20201F773 |
 | **Mendoza Vergara Franklin Alejandro** | U202312343 |
 
