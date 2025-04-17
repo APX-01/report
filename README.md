@@ -23,7 +23,6 @@
 | -------------------------------------- | ---------- |
 | **Alejo Cardenas Jose Antonio**        | U202122484 |
 | **Luquillas Asto Omar**                | U20211G641 |
-|  
 | **Flores Apaico Josue**        | U20201F773 |
 | **Mendoza Vergara Franklin Alejandro** | U202312343 |
 
