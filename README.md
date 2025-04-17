@@ -24,7 +24,7 @@
 | **Alejo Cardenas Jose Antonio**        | U202122484 |
 | **Luquillas Asto Omar**                | U20211G641 |
 | **Real Calderón Sebastián Omar**     | U20221D964 |
-| **Flores Apaico Josue Antonio**        | U20201F773 |
+| **Flores Apaico Josue**        | U20201F773 |
 | **Mendoza Vergara Franklin Alejandro** | U202312343 |
 
 **Abril 2025**
