@@ -16,7 +16,7 @@
 
 ### **Nombre del producto:** EduHive
 
-## **Integrantes**
+
 
 
 | **Nombre**                             | **Codigo** |
