@@ -561,6 +561,11 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 #### 2.3.3. User Journey Mapping
 
+* **Estudiantes Universitarios**
+
+<img src="./images/chapter-2/Journey-Map-Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+
+
 #### 2.3.4. Empathy Mapping
 
 #### 2.3.5. As-is Scenario Mapping
