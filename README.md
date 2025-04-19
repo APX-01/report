@@ -447,6 +447,10 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 <img src="./images/chapter-2/UserPerson_Student.png" alt="Canvas" width="400"/>
 
+**Segmento 2: Profesores Universitarios**
+
+<img src="./images/chapter-2/UserPerson_Teacher.png" alt="Canvas" width="400"/>
+
 #### 2.3.2. User Task Matrix
 
 **Segmento 1: Estudiantes Universitarios**
