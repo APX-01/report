@@ -571,6 +571,11 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 #### 2.3.4. Empathy Mapping
 
+**Segmento 1: Estudiantes Universitarios**
+
+<img src="./images/chapter-2/Empathy_Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+
+
 #### 2.3.5. As-is Scenario Mapping
 
 **Segmento 1: Estudiantes Universitarios**
