@@ -441,6 +441,12 @@ Tácticas:
 
 #### 2.3.1. User Personas
 
+A continuación, presentamos los User Persona correspondientes a cada segmento objetivo, basados en las características de sus usuarios ideales.
+
+**Segmento 1: Estudiantes Universitarios**
+
+<img src="./images/chapter-2/UserPerson_Student.png" alt="Canvas" width="400"/>
+
 #### 2.3.2. User Task Matrix
 
 **Segmento 1: Estudiantes Universitarios**
