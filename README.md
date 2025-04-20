@@ -340,6 +340,29 @@ Los botones, tanto principales como secundarios, deben resaltar de forma clara u
 
 <p align="justify">
 
+3. <strong>Tema:</strong>
+La apariencia visual debe alinearse con la identidad de la aplicación, haciendo uso de los colores previamente definidos.
+</p>
+
+* **mode-light**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/tema-light.png" alt="light-mode" width="250" height="250">
+  </td>
+</div><br>
+
+* **mode-black**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/tema-dark.png" alt="light-mode" width="250" height="250">
+  </td>
+</div><br>
+
+<p align="justify">
+
+
 ##### 4.1.1.1. Candidate Context Discovery
 
 ##### 4.1.1.2. Domain Message Flows Modeling
