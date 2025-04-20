@@ -456,7 +456,13 @@ El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando s
   </td>
 </div><br>
 
+* **Mobile Safety** 
 
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="200" height="320">
+  </td>
+</div><br>
 
 
 #### 4.3.2. Landing Page Mock-up
