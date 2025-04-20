@@ -362,6 +362,16 @@ La apariencia visual debe alinearse con la identidad de la aplicación, haciendo
 
 <p align="justify">
 
+4. <strong>Logo:</strong>
+El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando siempre sus proporciones originales.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Logo-EduHive.png" alt="logo" width="250" height="220">
+  </td>
+</div>
+
 
 ##### 4.1.1.1. Candidate Context Discovery
 
