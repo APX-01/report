@@ -388,6 +388,16 @@ El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando s
 
 #### 4.3.1. Landing Page Wireframe
 
+**Desktop**
+
+* **Home Landing Page** 
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="400" height="250">
+  </td>
+</div><br>
+
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design 
