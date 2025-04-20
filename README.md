@@ -229,7 +229,54 @@ El tamaño de la fuente se ajusta de manera automática según la pantalla, aseg
 **Colores**<br>
 La paleta de colores está compuesta por cinco tonos principales, cuidadosamente seleccionados para transmitir una apariencia limpia, moderna y profesional en cada sección de la aplicación.
 
-<img src="./images/chapter-4/Colors.png" alt="Moodle" width="400"/>
+<img src="./images/chapter-4/Colors.png" alt="Moodle" width="400"/><br>
+
+<p align="justify">
+<strong>Color Primario:</strong><br>
+Amarillo Dorado (#F4BE1D): Este color es el más predominante en el diseño, utilizado en botones principales, resaltados visuales y líneas de separación. Aporta energía y visibilidad, creando una experiencia amigable y dinámica para el usuario.
+</p>
+
+<p align="justify">
+<strong>Colores Secundarios:</strong><br>
+
+<ul>
+<li>Morado Oscuro (#362A5E): Utilizado en títulos o textos destacados. Añade contraste y profundidad al diseño.
+<li>Beige Claro (#FEF8EB): Funciona como fondo o zonas de descanso visual, aportando claridad sin perder calidez.
+<li>Gris Oscuro (#2B2B2B): Utilizado para tipografía y elementos de interfaz. Este color garantiza buena legibilidad.
+<li>Beige Suave (#F4E0A5): Aparece en elementos secundarios o de soporte, equilibrando la paleta general.
+</ul>
+
+</p>
+
+<p align="justify">
+<strong>Texto</strong><br>
+Todos los textos utilizan el color #2B2B2B (Gris Oscuro) para asegurar un alto contraste y una lectura fluida sobre fondos claros.
+La tipografía empleada en toda la aplicación es Open Sans, una fuente legible, moderna y profesional.
+</p>
+
+
+<p align="justify">
+<strong>Botones</strong><br>
+Los botones siguen un sistema de color funcional:
+
+<ul>
+
+<li>Botones de Acción Principal:
+
+<ul>
+<li>Fondo: #F4BE1D (Amarillo Dorado)
+<li>Texto: Blanco
+<li>Hover: El fondo se oscurece ligeramente para reforzar la retroalimentación visual.
+</ul>
+
+<li>Botones de Acción Secundaria:
+
+<ul>
+<li>Fondo: Blanco con borde y texto en #F4BE1D
+<li>Hover: Puede invertirse el color de fondo y texto o intensificar el borde para marcar interacción.
+</ul>
+
+</ul>
 
 #### 4.1.2. Web Style Guidelines
 
