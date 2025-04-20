@@ -328,6 +328,17 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 
 <p align="justify">
 
+2. <strong>Botones:</strong>  
+Los botones, tanto principales como secundarios, deben resaltar de forma clara utilizando una paleta de colores uniforme y coherente.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/button.png" alt="Buttons" width="350" height="200">
+  </td>
+</div>
+
+<p align="justify">
 
 ##### 4.1.1.1. Candidate Context Discovery
 
