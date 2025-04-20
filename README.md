@@ -398,6 +398,14 @@ El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando s
   </td>
 </div><br>
 
+* **Why DriveNow** 
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="400" height="250">
+  </td>
+</div><br>
+
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design 
