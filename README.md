@@ -430,6 +430,16 @@ El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando s
   </td>
 </div><br>
 
+**Mobile**
+
+* **Mobile Landing Page** 
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="200" height="320">
+  </td>
+</div><br>
+
 
 
 
