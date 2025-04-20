@@ -277,9 +277,56 @@ Los botones siguen un sistema de color funcional:
 </ul>
 
 </ul>
+</p>
+
+<p align="justify">
+<strong>Formularios</strong><br>
+
+<ul>
+<li>Los campos de texto siguen un diseño simple con líneas delimitadoras delgadas.
+<li>Indicadores como el tiempo, la señal y los íconos del sistema están incluidos para crear una maqueta realista.
+</ul>
+
+</p>
+
+<p align="justify">
+<strong>Íconos y Sistema Visual</strong><br>
+
+<ul>
+<li>Los íconos siguen un estilo de línea simple, usando colores oscuros (#2B2B2B) y están inspirados en la librería Vuesax.
+<li>Están diseñados para facilitar la comprensión sin sobrecargar la interfaz.
+</ul>
+
+</p>
+
+
+<p align="justify">
+<strong>Estados de Hover</strong><br>
+Cuando el usuario interactúa con botones o íconos, los colores de fondo se intensifican levemente, mejorando la experiencia visual y confirmando la acción.
+</p>
+
+<p align="justify">
+<strong>Espaciado y Distribución</strong><br>
+El diseño se basa en un sistema modular de 8px, asegurando alineación precisa y consistencia visual entre todos los elementos.
+</p>
+
+
 
 #### 4.1.2. Web Style Guidelines
 
+<p align="justify">
+1. <strong>Diseño:</strong> 
+El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visualización y funcionalidad en cualquier tipo de dispositivo.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/diseño.png" alt="design" width="300" height="220">
+  </td>
+</div>
+
+
+<p align="justify">
 
 
 ##### 4.1.1.1. Candidate Context Discovery
