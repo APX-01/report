@@ -206,11 +206,13 @@
 
 ### 3.4. Product Backlog
 
-## Capítulo IV: Solution Software Design
+## Capítulo IV: Product Design
 
-### 4.1. Strategic-Level Domain-Driven Design
+### 4.1. Style Guidelines
 
-#### 4.1.1. EventStorming
+#### 4.1.1. General Style Guidelines
+
+#### 4.1.2. Web Style Guidelines
 
 ##### 4.1.1.1. Candidate Context Discovery
 
