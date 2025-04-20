@@ -218,6 +218,19 @@ En esta parte, daremos a conocer nuestra propuesta para el diseño, estilo y asp
 
 <img src="./images/chapter-4/Logo-EduHive.png" alt="Moodle" width="400"/>
 
+
+**Tipografía**<br>
+Open Sans ha sido seleccionada como la fuente principal para todos los textos de la aplicación. Esta tipografía se distingue por su excelente legibilidad y su estilo moderno, lo que garantiza una experiencia de lectura clara y agradable en cualquier dispositivo.
+
+El tamaño de la fuente se ajusta de manera automática según la pantalla, asegurando una visualización óptima tanto en móviles como en computadoras.
+
+<img src="./images/chapter-4/Letra.png" alt="Moodle" width="400"/>
+
+**Colores**<br>
+La paleta de colores está compuesta por cinco tonos principales, cuidadosamente seleccionados para transmitir una apariencia limpia, moderna y profesional en cada sección de la aplicación.
+
+<img src="./images/chapter-4/Colors.png" alt="Moodle" width="400"/>
+
 #### 4.1.2. Web Style Guidelines
 
 
