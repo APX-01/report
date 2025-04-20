@@ -210,9 +210,17 @@
 
 ### 4.1. Style Guidelines
 
+En esta parte, daremos a conocer nuestra propuesta para el diseño, estilo y aspecto visual tanto de la página web como de las secciones de nuestra aplicación. Buscamos ofrecer a los usuarios una experiencia cómoda y sencilla mediante una interfaz clara e intuitiva. Para ello, seleccionamos cuidadosamente elementos visuales que resulten atractivos y agradables, además de definir límites que nos permitan evitar el uso de gráficos que puedan afectar negativamente la estética.
+
 #### 4.1.1. General Style Guidelines
 
+**Branding:** Creamos un logotipo distintivo y memorable que encapsula la esencia de nuestra plataforma educativa colaborativa. Incorporamos elementos visuales que representan tanto el mundo académico como el sentido de comunidad y organización, usando una colmena estilizada y una abeja con birrete como símbolos centrales de aprendizaje colectivo, constancia y crecimiento.
+
+<img src="./images/chapter-4/Logo-EduHive.png" alt="Moodle" width="400"/>
+
 #### 4.1.2. Web Style Guidelines
+
+
 
 ##### 4.1.1.1. Candidate Context Discovery
 
