@@ -149,33 +149,26 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 ## Antecedentes y Problemática (Análisis 5W2H)
 
 ### **1. WHAT (Qué)**  
-Problema central:  
 - Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
 
 ### **2. WHY (Por qué)**  
-Causas raíz:  
 - Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.  
 
 ### **3. WHO (Quién)**  
-Afectados:  
 - **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.  
 - **Docentes**: Carga administrativa al coordinar actividades colaborativas.  
 - **Instituciones**: No cuentan con métricas de participación estudiantil.  
 
 ### **4. WHERE (Dónde)**  
-Ámbito de impacto:  
 - Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).  
 
 ### **5. WHEN (Cuándo)**  
-Momento crítico:  
 - Durante periodos de proyectos grupales y exámenes parciales.  
 
 ### **6. HOW (Cómo)**  
-Manifestación del problema:  
 - Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.  
 
 ### **7. HOW MUCH (Cuánto)**  
-Impacto cuantificable:
 - Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.  
 
 
