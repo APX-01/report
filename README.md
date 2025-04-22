@@ -373,6 +373,7 @@ Para la landing page de EduHive, se usará una organización de forma jerárquic
 Las etiquetas en la landing page son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
 
 #### 4.2.3. SEO Tags and Meta Tags
+Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda. 
 
 #### 4.2.4. Searching Systems
 
