@@ -146,7 +146,7 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.2.1. Antecedentes y problemática
 
-## Antecedentes y Problemática (Análisis 5W2H)
+## Análisis 5W2H
 
 ### **1. WHAT (Qué)**  
 - Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
