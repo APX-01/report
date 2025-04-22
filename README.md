@@ -140,6 +140,12 @@ APX-01 es una startup fundada por estudiantes de la Universidad Peruana de Cienc
 
 EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles gestionar sus tareas, revisar retos académicos activos y acceder a sus horarios de clases de manera sencilla y organizada. Además, los alumnos pueden explorar los perfiles de sus profesores, conocer sus especializaciones, horarios de atención y métodos de contacto, facilitando una comunicación más fluida y efectiva. De la misma manera, los profesores pueden crear y administrar grupos de estudio en los que podrán establecer retos académicos y monitorear el progreso de sus alumnos. La plataforma también incorpora elementos de gamificación, como sistemas de puntuación y reconocimientos, para motivar el aprendizaje y fomentar la participación activa en grupos de estudio y desafíos educativos, promoviendo un ecosistema educativo dinámico, digital y accesible.
 
+- Misión:
+"Democratizar el acceso a herramientas educativas colaborativas en Perú mediante tecnología open-source, rompiendo las barreras de la educación tradicional con soluciones gamificadas que empoderen a estudiantes y docentes por igual."
+
+- Visión:
+"Convertirnos en el ecosistema educativo digital líder en el Perú, transformando la manera en que se aprende y enseña mediante soluciones tecnológicas orientadas a las necesidades de tanto estudiantes como docentes."
+
 #### 1.1.2. Perfiles de integrantes del equipo
 
 ### 1.2. Solution Profile
