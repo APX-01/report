@@ -146,9 +146,38 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.2.1. Antecedentes y problemática
 
-En el contexto educativo peruano, aún persisten desafíos significativos en la implementación de herramientas digitales que faciliten el aprendizaje colaborativo. Muchas universidades continúan utilizando métodos tradicionales para gestionar grupos de estudio y asignar tareas, lo que genera procesos académicos poco eficientes. Esta situación se ve agravada por la falta de plataformas integradas que permitan una interacción fluida y natural entre estudiantes y docentes, limitando las oportunidades para un aprendizaje más dinámico y participativo.
+## Antecedentes y Problemática (Análisis 5W2H)
 
-Por el lado de los estudiantes, es común observar dificultades para organizar trabajos grupales y mantener una comunicación efectiva con sus profesores. Los docentes, por su parte, enfrentan el reto constante de motivar a sus alumnos y gestionar eficientemente las actividades académicas. Esta problemática evidencia la necesidad de desarrollar soluciones tecnológicas que no solo simplifiquen los procesos educativos, sino que también fomenten un mayor engagement mediante enfoques innovadores y adaptados a la realidad local.
+### **1. WHAT (Qué)**  
+Problema central:  
+- Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
+
+### **2. WHY (Por qué)**  
+Causas raíz:  
+- Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.  
+
+### **3. WHO (Quién)**  
+Afectados:  
+- **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.  
+- **Docentes**: Carga administrativa al coordinar actividades colaborativas.  
+- **Instituciones**: No cuentan con métricas de participación estudiantil.  
+
+### **4. WHERE (Dónde)**  
+Ámbito de impacto:  
+- Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).  
+
+### **5. WHEN (Cuándo)**  
+Momento crítico:  
+- Durante periodos de proyectos grupales y exámenes parciales.  
+
+### **6. HOW (Cómo)**  
+Manifestación del problema:  
+- Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.  
+
+### **7. HOW MUCH (Cuánto)**  
+Impacto cuantificable:
+- Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.  
+
 
 #### 1.2.2. Lean UX Process
 
