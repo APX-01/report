@@ -543,7 +543,7 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 * **Estudiantes Universitarios**
 
-<img src="./images/chapter-2/Journey-Map-Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+<img src="./images/chapter-2/User-Journey-Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
 * **Profesores Universitarios**
 
