@@ -379,6 +379,7 @@ Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los
 La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
 
 #### 4.2.5. Navigation Systems
+El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
 
 ### 4.3. Landing Page UI Design
 
