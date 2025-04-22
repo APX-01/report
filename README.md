@@ -427,6 +427,14 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
   </td>
 </div><br>
 
+* **Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register.png" alt="light-mode" width="400" height="250">
+  </td>
+</div><br>
+
 **Mobile**
 
 * **Mobile Landing Page**
