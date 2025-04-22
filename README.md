@@ -375,8 +375,17 @@ El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando s
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
+Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva:
+
+**Estudiante:** Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
+
+**Profesor:** Para los profesores, se buscará una organización jerárquica y secuencial, ya que se busca ordenar sus propias subfunciones referentes al del docente y luego seguir pasos para corrección y comunicación con los alumnos.
+
+**Contacto:** Para contactar al equipo se utilizará una opción de ayuda organizada, de modo que la comunicación se pueda dar de manera correcta.
+
 
 #### 4.2.2. Labeling Systems
+
 
 #### 4.2.3. SEO Tags and Meta Tags
 
