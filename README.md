@@ -376,6 +376,7 @@ Las etiquetas en la landing page son simples y fáciles de entender para no gene
 Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda. 
 
 #### 4.2.4. Searching Systems
+La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
 
 #### 4.2.5. Navigation Systems
 
