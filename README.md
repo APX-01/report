@@ -363,6 +363,8 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos. 
 Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
 
+<img src="./images/chapter-4/Organization_system.png" alt="Moodle" width="400"/>
+
 **Estudiante**: Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
 
 **• Challenges**: En este apartado, el estudiante es capaz de visualizar y realizar las diferentes tareas y retos académicos, además de realizar las entregas correspondientes.
