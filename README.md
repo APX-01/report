@@ -477,6 +477,25 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-m
 
   - Al presentarle la plataforma educativa, su interés fue inmediato. Señaló que le ofrecía precisamente las herramientas que le hubiera gustado tener en su etapa docente. Le llamó la atención la posibilidad de interactuar con sus estudiantes de manera más dinámica, ya sea enviando horarios, proponiendo retos personalizados o haciendo seguimiento al progreso individual de cada alumno. Valoró especialmente la función de análisis del rendimiento, ya que permite identificar en qué temas destaca cada estudiante, lo que facilitaría una enseñanza más personalizada y efectiva.
 
+
+
+
+  **Entrevista 2**
+  - Nombre: Melina Micaela
+  - Apellidos: Orderique Castro
+  - Edad: 22 Años
+
+![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/Interviews-Melina.png)
+
+URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link)
+
+- Resumen de la entrevista:
+
+  - Durante la entrevista, la docente compartió su experiencia previa en el ámbito educativo, destacando que había utilizado diversos recursos para apoyar el aprendizaje de sus alumnos, como una pizarra interactiva y juegos didácticos, entre ellos el popular "pupiletras", con el objetivo de captar su atención de manera lúdica.
+
+  - Sin embargo, mencionó que enfrentaba ciertas limitaciones, especialmente en lo que respecta a la participación activa de los estudiantes. Aunque deseaba que ellos pudieran interactuar directamente en la pizarra durante sus explicaciones, las herramientas disponibles no lo permitían. Además, señaló que la comunicación y organización fuera del aula resultaban poco prácticas, ya que debía enviar horarios o comunicados a través de WhatsApp o correos electrónicos. También comentó que no contaba con una plataforma donde pudiera centralizar actividades, tareas o avisos, lo que la obligaba a anunciar todo exclusivamente durante las clases presenciales.
+
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
