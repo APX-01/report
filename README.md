@@ -485,6 +485,14 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
   </td>
 </div><br>
 
+* **Mobile Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register-mobil.png" alt="light-mode" width="180" height="350">
+  </td>
+</div><br>
+
 #### 4.3.2. Landing Page Mock-up
 
 ### 4.4. Web Applications UX/UI Design
