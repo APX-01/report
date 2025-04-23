@@ -342,7 +342,9 @@ Hypothesis Statement 20:
 
 ##### 1.2.2.4. Lean UX Canvas
 
+
 <img src="./images/chapter-1/LeanUXCanvas.png" alt="Lean UX Canvas">
+
 
 ### 1.3. Segmentos Objetivo
 
