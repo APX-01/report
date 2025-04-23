@@ -423,18 +423,41 @@ Tácticas:
 
 #### 2.2.2. Registro de entrevistas
 
-- Entrevista 1
+*Segmento Estudiantes Universitarios:*
+
+- *Entrevista 1*
   - Nombre: Sebastián
   - Apellidos: Pacheco Astiguetta
   - Edad: 22 Años
+  - Distrito: San Miguel
 
 ![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
 
-URL: [Link de la Entrevista](https://drive.google.com/file/d/1T-rBw5O6lMWw8o4Exxo0R7D7_45Oszhh/view?usp=sharing)
+  - Inicio: 0:23
+  - Duración: 4:46
+
+URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing)
 
 - Resumen de la entrevista:
 
   - La entrevista con Sebastián Pacheco nos indica principalmente la dificultad que tienen varios estudiantes universitarios para mantenerse motivados a través del ciclo escolar. Nos comenta como la falta de participación o interacción por parte de sus compañeros puede llevar a una desmotivación. También nos comenta que aprecia que una aplicación dedicada al estudio tenga una funcionalidad de notificaciones, que le permitan recordarse a si mismo las tareas pendientes. Por último, Sebastián expresa una opinión positiva hacia la idea de un sistema gamificado que involucre medallas o premios para mantener la motivación en los proyectos.
+- *Entrevista 2*
+
+  - Nombre: Luis
+  - Apellidos: Alejo Cárdenas
+  - Edad: 22 Años
+  - Distrito: San Martin de Porres
+  - Inicio de la entrevista: 0:30
+  - Duracion: 03:54
+
+<img src="./images/chapter-2/entrevistaS12.png" alt="Moodle" width="800"/>
+
+URL: [Entrevista Luis](https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing)
+
+- Resumen de la entrevista:
+  - La entrevista con Luis nos indica principalmente tiene la dificultad de organizar su tiempo con sus horarios siendo estudiante y practicante.Asi mismo, usa herramientas como Google calendar, Trello y Notion para agendar clases, definir reuniones, seguir el profeso de sus tareas,etc. Nos comenta que usa googlemet y discord para reuniones, Notion para apuntes y GitHub para el codigo. También nos comenta que su motivacion se ve mermada conforme avanza el ciclo,ya que es mas dificil tener una buena organizacion con mas tareas. Ademas, busca un app organizada y centralizada priorizando la comunicacion. Por otro lado, considera que la gamificacion haria mucho mas interesante los cursos o temas. Por ultimo, usa bastante Whatsapp y Discord para temas academicos, pues le permiten una mayor libertad, comodidad y simplicidad mediante sus interfaces.
+
+*Segmento Profesores Universitarios:*
 
 
 * **Profesores Universitarios**
