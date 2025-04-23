@@ -472,6 +472,28 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Contact**
 
+**Sección de Formulario de Contacto**
+
+**Encabezado Amigable:**<br> El título principal "Say Hello to Us" establece un tono cálido y acogedor para fomentar la interacción del usuario.
+
+**Formulario de Entrada:**<br> Dispuesto en un layout de dos columnas en Desktop que se reorganiza verticalmente para Mobile, incluye los siguientes campos:
+
+<ul>
+
+<li>Nombre completo
+<li>Correo electrónico
+<li>Número de teléfono
+<li>Empresa
+<li>Área de mensaje personalizado
+
+</ul>
+
+**Política de Privacidad:**<br> Se incorpora una casilla de aceptación de Términos de Servicio y Política de Privacidad, obligatoria antes del envío.
+
+**Botón CTA ("Send Message"):**<br> De gran visibilidad, invita a completar la acción con un solo clic o toque, dependiendo del dispositivo.
+
+**Diseño Estilizado:**<br> Con bordes redondeados y elementos visuales como el ícono de avión de papel, se refuerza una sensación moderna y accesible, adaptable para pantallas de Desktop y Mobile.
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="./images/chapter-4/Contact.png" alt="light-mode" width="800" height="500">
