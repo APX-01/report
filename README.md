@@ -406,45 +406,176 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 #### 4.3.1. Landing Page Wireframe
 
+El wireframe presenta la estructura esencial y el flujo de la landing page, adaptado para versiones tanto en **Desktop** como en **Mobile**. Se organiza en diferentes secciones clave:
+
 **Desktop**
 
 * **Home Landing Page**
 
+<strong>Encabezado:</strong><br>
+Incluye el logotipo en la esquina superior izquierda y un menú de navegación con las secciones: “Why DriveNow”, “Testimonies”, “Safety”, “Contact”, “Register” y “Login”. Además, se destacan los botones de acceso a cuenta (“Login” y “Register”) dentro de una franja de diseño distintivo que facilita su visibilidad.
+
+<strong>Sección Hero:</strong><br>
+Contiene un título llamativo: “Upgrade Yourself”, que comunica el propósito de la página. Está acompañado de un breve texto introductorio (placeholder de lorem ipsum) que da contexto al visitante.
+También incluye un campo de búsqueda visible con un ícono de lupa, lo que sugiere que el sitio está orientado a encontrar cursos o contenidos personalizados.
+Visualmente se apoya en dos imágenes: una junto al título y otra en el lado derecho, ayudando a equilibrar el diseño y hacerlo más atractivo.
+
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
 * **Why DriveNow**
 
+**Encabezado Visual:**<br> Utiliza formas geométricas como fondo decorativo para crear un entorno visual dinámico y moderno.
+
+**Mensaje Principal (CTA):**<br> Incluye un título llamativo "You’re Dream To Know More?" que busca captar la atención del usuario e incentivar el interés por saber más sobre el producto o servicio.
+
+**Texto de Apoyo:**<br> Proporciona una breve descripción que refuerza el valor de unirse o conocer más sobre la oferta.
+
+**Botón de Acción (CTA):**<br> Presenta un botón destacado con el texto "Join Now" que invita a la conversión inmediata.
+
+**Diseño Visual:**<br> Contraste marcado entre fondo oscuro y elementos en tonos claros, ideal para mantener la legibilidad y dirigir la atención al contenido relevante.
+
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
 * **Testimonies**
 
+**Título Principal:**<br> Se destaca la palabra “Testimonials” en el centro, indicando claramente el propósito de la sección.
+
+**Subtítulo Descriptivo:**<br> Una breve línea de texto complementa el título, brindando contexto sobre la importancia de las opiniones compartidas.
+
+**Citas de Clientes:**<br> Se presentan dos tarjetas con testimonios de usuarios, incluyendo una cita textual, nombre y cargo del autor (John Doe, CEO).
+
+**Elementos Visuales:**<br> Se utilizan íconos de comillas como parte del diseño de cada tarjeta para reforzar visualmente la idea de testimonio.
+
+**Navegación Lateral:**<br> Se incluyen flechas a los lados izquierdo y derecho para explorar más opiniones, funcional tanto en Desktop como adaptado para Mobile con navegación táctil.
+
+**Diseño Limpio y Centrado:**<br> La estructura mantiene un equilibrio visual con espacio suficiente entre los elementos, priorizando la legibilidad.<br>
+
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
 * **Safety**
 
+**Sección de Seguridad y Confianza**
+
+**Iconografía Central:**<br> Se destacan dos íconos principales con temática de seguridad y protección, reforzando visualmente los beneficios del servicio.
+
+**Mensajes de Valor:**<br> Dos bloques de texto acompañan a los íconos, comunicando confianza en el proceso de arrendamiento y respaldo con seguros aprobados.
+
+**Botones CTA (Call to Action):**<br> Cada mensaje incluye un botón “Learn More” que invita al usuario a explorar más detalles, manteniendo accesibilidad y visibilidad clara en Desktop y adaptabilidad en Mobile.
+
+**Diseño Equilibrado:**<br> Distribución en columnas que en Desktop se presenta en línea horizontal, y en Mobile se espera una reorganización vertical para facilitar la navegación táctil.
+
+
+<br>**Pie de Página (Footer)**
+
+**Información Institucional:** Se incluyen columnas con enlaces organizados por categorías: Company, Services y Resources.
+
+**Redes Sociales y Selector de Idioma:** Íconos sociales (LinkedIn, Twitter, etc.) y un selector de idioma están disponibles, adaptables a la visualización móvil.
+
+**Derechos y Marca:** Texto con derechos reservados y una imagen de marca ubicada estratégicamente.
+
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Safety.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Safety.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
 * **Contact**
 
+**Sección de Formulario de Contacto**
+
+**Encabezado Amigable:**<br> El título principal "Say Hello to Us" establece un tono cálido y acogedor para fomentar la interacción del usuario.
+
+**Formulario de Entrada:**<br> Dispuesto en un layout de dos columnas en Desktop que se reorganiza verticalmente para Mobile, incluye los siguientes campos:
+
+<ul>
+
+<li>Nombre completo
+<li>Correo electrónico
+<li>Número de teléfono
+<li>Empresa
+<li>Área de mensaje personalizado
+
+</ul>
+
+**Política de Privacidad:**<br> Se incorpora una casilla de aceptación de Términos de Servicio y Política de Privacidad, obligatoria antes del envío.
+
+**Botón CTA ("Send Message"):**<br> De gran visibilidad, invita a completar la acción con un solo clic o toque, dependiendo del dispositivo.
+
+**Diseño Estilizado:**<br> Con bordes redondeados y elementos visuales como el ícono de avión de papel, se refuerza una sensación moderna y accesible, adaptable para pantallas de Desktop y Mobile.
+
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Contact.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Contact.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Register**
+
+**Sección de Registro**
+
+**Mensaje de Bienvenida:**<br> En Desktop, se muestra una tarjeta lateral con un saludo amigable (“Nice to meet you :)”), que se ubica en la parte superior o se elimina en Mobile para dar prioridad al formulario.
+
+**Formulario de Registro:**<br> 
+
+<ul>
+
+<li>Opción para registrarse mediante redes sociales (Facebook, Twitter, Google), con botones claramente diferenciados.
+<li>Alternativa para registrarse con correo electrónico ingresando:
+<ul>
+<li>Nombre
+<li>Correo electrónico
+<li>Contraseña y confirmación
+</ul>
+<li>Casilla para aceptar los Términos de Servicio y Política de Privacidad antes de habilitar el botón de registro.
+
+</ul>
+
+**Diseño Dividido:**<br> En Desktop, se divide en dos paneles visuales bien contrastados. En Mobile, se reordena en una sola columna para facilitar la navegación táctil.
+
+**Estética Moderna:**<br> Tipografía clara, esquinas redondeadas y elementos gráficos sutiles (como los rombos decorativos) aportan dinamismo visual manteniendo una estructura funcional.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Login**
+
+**Mensaje de Bienvenida:**<br> En Desktop, se visualiza un panel lateral con un mensaje de saludo (“Welcome back”), que se ajusta o elimina en Mobile para centrarse en la funcionalidad.
+
+**Opciones de Autenticación:**
+
+<ul>
+<li>Login a través de redes sociales (Facebook, Twitter, Google), con botones visualmente diferenciados y accesibles.
+<li>Alternativa con correo electrónico, solicitando:
+<ul>
+<li>Nombre de usuario o correo
+<li>Contraseña
+<li>Opción para recordar la sesión
+<li>Enlace para recuperación de contraseña
+</ul>
+</ul>
+
+**Diseño Dividido:**<br> Panel izquierdo con imagen y bienvenida; panel derecho con el formulario. En Mobile, el diseño se reorganiza en formato vertical para una mejor experiencia de usuario.
+
+**Estilo Visual:**<br> Uso de bloques suaves, esquinas redondeadas, y decoración con rombos sutiles que mantienen coherencia con la sección de registro.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -454,7 +585,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -462,7 +593,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Why-DriveNow.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Why-DriveNow.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -470,7 +601,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Testimonies.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Testimonies.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -478,7 +609,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -486,7 +617,23 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Footer.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Footer.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register-mobil.png" alt="light-mode" width="260" height="600">
+  </td>
+</div><br>
+
+* **Mobile Login**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login-mobil.png" alt="light-mode" width="260" height="600">
   </td>
 </div><br>
 
