@@ -445,6 +445,24 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Safety**
 
+**Sección de Seguridad y Confianza**
+
+**Iconografía Central:**<br> Se destacan dos íconos principales con temática de seguridad y protección, reforzando visualmente los beneficios del servicio.
+
+**Mensajes de Valor:**<br> Dos bloques de texto acompañan a los íconos, comunicando confianza en el proceso de arrendamiento y respaldo con seguros aprobados.
+
+**Botones CTA (Call to Action):**<br> Cada mensaje incluye un botón “Learn More” que invita al usuario a explorar más detalles, manteniendo accesibilidad y visibilidad clara en Desktop y adaptabilidad en Mobile.
+
+**Diseño Equilibrado:**<br> Distribución en columnas que en Desktop se presenta en línea horizontal, y en Mobile se espera una reorganización vertical para facilitar la navegación táctil.
+
+
+<br>**Pie de Página (Footer)**
+
+**Información Institucional:** Se incluyen columnas con enlaces organizados por categorías: Company, Services y Resources.
+
+**Redes Sociales y Selector de Idioma:** Íconos sociales (LinkedIn, Twitter, etc.) y un selector de idioma están disponibles, adaptables a la visualización móvil.
+
+**Derechos y Marca:** Texto con derechos reservados y una imagen de marca ubicada estratégicamente.
 
 <div align="center">
   <td colspan="1" rowspan="6">
