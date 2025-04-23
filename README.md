@@ -391,7 +391,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -399,7 +399,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -407,7 +407,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -415,7 +415,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Safety.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Safety.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -423,7 +423,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Contact.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Contact.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -431,7 +431,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Register.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Register.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -439,7 +439,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Login.png" alt="light-mode" width="400" height="250">
+    <img src="./images/chapter-4/Login.png" alt="light-mode" width="800" height="500">
   </td>
 </div><br>
 
@@ -449,7 +449,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -457,7 +457,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Why-DriveNow.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Why-DriveNow.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -465,7 +465,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Testimonies.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Testimonies.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -473,7 +473,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -481,7 +481,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Mobile-Footer.png" alt="light-mode" width="200" height="320">
+    <img src="./images/chapter-4/Mobile-Footer.png" alt="light-mode" width="300" height="540">
   </td>
 </div><br>
 
@@ -489,7 +489,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Register-mobil.png" alt="light-mode" width="180" height="350">
+    <img src="./images/chapter-4/Register-mobil.png" alt="light-mode" width="260" height="600">
   </td>
 </div><br>
 
@@ -497,7 +497,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 <div align="center">
   <td colspan="1" rowspan="6">
-    <img src="./images/chapter-4/Login-mobil.png" alt="light-mode" width="180" height="350">
+    <img src="./images/chapter-4/Login-mobil.png" alt="light-mode" width="260" height="600">
   </td>
 </div><br>
 
