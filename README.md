@@ -475,6 +475,7 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 #### 4.2.4. Searching Systems
 La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
+Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados.
 
 #### 4.2.5. Navigation Systems
 El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
