@@ -385,9 +385,19 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 #### 4.3.1. Landing Page Wireframe
 
+El wireframe presenta la estructura esencial y el flujo de la landing page, adaptado para versiones tanto en **Desktop** como en **Mobile**. Se organiza en diferentes secciones clave:
+
 **Desktop**
 
 * **Home Landing Page**
+
+<strong>Encabezado:</strong><br>
+Incluye el logotipo en la esquina superior izquierda y un menú de navegación con las secciones: “Why DriveNow”, “Testimonies”, “Safety”, “Contact”, “Register” y “Login”. Además, se destacan los botones de acceso a cuenta (“Login” y “Register”) dentro de una franja de diseño distintivo que facilita su visibilidad.
+
+<strong>Sección Hero:</strong><br>
+Contiene un título llamativo: “Upgrade Yourself”, que comunica el propósito de la página. Está acompañado de un breve texto introductorio (placeholder de lorem ipsum) que da contexto al visitante.
+También incluye un campo de búsqueda visible con un ícono de lupa, lo que sugiere que el sitio está orientado a encontrar cursos o contenidos personalizados.
+Visualmente se apoya en dos imágenes: una junto al título y otra en el lado derecho, ayudando a equilibrar el diseño y hacerlo más atractivo.
 
 <div align="center">
   <td colspan="1" rowspan="6">
@@ -397,6 +407,8 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 * **Why DriveNow**
 
+
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="800" height="500">
@@ -405,6 +417,8 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 * **Testimonies**
 
+
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="800" height="500">
@@ -412,6 +426,7 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 </div><br>
 
 * **Safety**
+
 
 <div align="center">
   <td colspan="1" rowspan="6">
