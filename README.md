@@ -257,8 +257,8 @@ Hypothesis Statement 03:
 
 Hypothesis Statement 04:
 
-- Creemos que la inclusión de un calendario ayudará a los usuarios a cumplir con sus tareas y fechas de entrega de forma oportuna.
-- Sabremos que estamos en lo correcto cuando observemos una disminución en los retrasos de tareas.
+- Creemos que la inclusión de un horario de clases dentro de la plataforma ayudará a los usuarios a organizar mejor su tiempo y visualizar de manera clara sus actividades académicas.
+- Sabremos que estamos en lo correcto cuando observemos una mejora en la puntualidad de asistencia a clases y una mayor percepción de organización por parte de los usuarios.
 
 Hypothesis Statement 05:
 
@@ -282,13 +282,13 @@ Hypothesis Statement 08:
 
 Hypothesis Statement 09:
 
-- Creemos que los usuarios valoran la personalización de recordatorios en el calendario según sus preferencias.
-- Sabremos que estamos en lo correcto cuando la mayoría de los usuarios personalicen sus ajustes de recordatorios.
+- Creemos que la incorporación de elementos de gamificación, como badges y sistemas de puntuación, aumentará la motivación y participación de los usuarios en los retos académicos y grupos de estudio.
+- Sabremos que estamos en lo correcto cuando observemos un incremento en la participación activa en desafíos educativos y una mayor frecuencia de interacción dentro de la plataforma.
 
 Hypothesis Statement 10:
 
-- Creemos que ofrecer una vista consolidada del horario académico, incluyendo entregas, exámenes y actividades de grupo, ayudará a los usuarios a visualizar mejor su carga semanal.
-- Sabremos que estamos en lo correcto cuando los usuarios consulten frecuentemente la vista de horario y reporten sentirse más organizados.
+- Creemos que ofrecer una vista clara y centralizada del horario de clases ayudará a los usuarios a planificar mejor su semana académica.
+- Sabremos que estamos en lo correcto cuando los usuarios consulten regularmente su horario y reporten una mayor facilidad para organizar otras actividades en función de sus clases.
 
 Hypothesis Statement 11:
 
