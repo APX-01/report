@@ -141,10 +141,9 @@ APX-01 es una startup fundada por estudiantes de la Universidad Peruana de Cienc
 EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles gestionar sus tareas, revisar retos académicos activos y acceder a sus horarios de clases de manera sencilla y organizada. Además, los alumnos pueden explorar los perfiles de sus profesores, conocer sus especializaciones, horarios de atención y métodos de contacto, facilitando una comunicación más fluida y efectiva. De la misma manera, los profesores pueden crear y administrar grupos de estudio en los que podrán establecer retos académicos y monitorear el progreso de sus alumnos. La plataforma también incorpora elementos de gamificación, como sistemas de puntuación y reconocimientos, para motivar el aprendizaje y fomentar la participación activa en grupos de estudio y desafíos educativos, promoviendo un ecosistema educativo dinámico, digital y accesible.
 
 - Misión:
-"Democratizar el acceso a herramientas educativas colaborativas en Perú mediante tecnología open-source, rompiendo las barreras de la educación tradicional con soluciones gamificadas que empoderen a estudiantes y docentes por igual."
-
+  "Democratizar el acceso a herramientas educativas colaborativas en Perú mediante tecnología open-source, rompiendo las barreras de la educación tradicional con soluciones gamificadas que empoderen a estudiantes y docentes por igual."
 - Visión:
-"Convertirnos en el ecosistema educativo digital líder en el Perú, transformando la manera en que se aprende y enseña mediante soluciones tecnológicas orientadas a las necesidades de tanto estudiantes como docentes."
+  "Convertirnos en el ecosistema educativo digital líder en el Perú, transformando la manera en que se aprende y enseña mediante soluciones tecnológicas orientadas a las necesidades de tanto estudiantes como docentes."
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -154,29 +153,35 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 ## Análisis 5W2H
 
-### **1. WHAT (Qué)**  
+### **1. WHAT (Qué)**
+
 - Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
 
-### **2. WHY (Por qué)**  
-- Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.  
+### **2. WHY (Por qué)**
 
-### **3. WHO (Quién)**  
-- **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.  
-- **Docentes**: Carga administrativa al coordinar actividades colaborativas.  
-- **Instituciones**: No cuentan con métricas de participación estudiantil.  
+- Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.
 
-### **4. WHERE (Dónde)**  
-- Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).  
+### **3. WHO (Quién)**
 
-### **5. WHEN (Cuándo)**  
-- Durante periodos de proyectos grupales y exámenes parciales.  
+- **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.
+- **Docentes**: Carga administrativa al coordinar actividades colaborativas.
+- **Instituciones**: No cuentan con métricas de participación estudiantil.
 
-### **6. HOW (Cómo)**  
-- Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.  
+### **4. WHERE (Dónde)**
 
-### **7. HOW MUCH (Cuánto)**  
-- Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.  
+- Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).
 
+### **5. WHEN (Cuándo)**
+
+- Durante periodos de proyectos grupales y exámenes parciales.
+
+### **6. HOW (Cómo)**
+
+- Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.
+
+### **7. HOW MUCH (Cuánto)**
+
+- Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.
 
 #### 1.2.2. Lean UX Process
 
@@ -209,14 +214,14 @@ Esta situación no solo genera desorganización, sino que también puede disminu
 - Comportamientos: El valor principal que un usuario quiere obtener de nuestro servicio es una mayor facilidad, colaboración y disciplina en el área académica.
 - Beneficios: Los usuarios obtendrán una mejora de la organización académica, aumento en la participación de los estudiantes, comunicación más fluida y mayor motivación.
 - Captación de clientes: Obtendremos nuestros usuarios a través de promociones de alianzas con universidades, redes sociales, y recomendaciones de usuarios dentro de las comunidades universitarias.
-- Modelos de ingresos: Generaremos ingresos mediante una suscripción para funciones avanzadas en la plataforma.
+- Modelos de ingresos: Al tratarse de una aplicación open source orientada al uso académico y comunitario, no se contempla un modelo de ingresos directo.
 - Competencia: Nuestra competencia serán las plataformas similares en el área de educación, gestión académica y organización.
-- Ventaja competitiva: Superaremos a la competencia gracias a nuestra plataforma que ofrece varias funciones en un solo lugar y que esta enfocada en la experiencia, motivación y colaboración del estudiante y profesor universitario.
+- Ventaja competitiva: Superaremos a la competencia gracias a nuestra plataforma que ofrece varias funciones en un solo lugar y que esta enfocada en la experiencia, motivación y colaboración del estudiante y del profesor universitario.
 
 **Technical Assumptions (Suposiciones Técnicas)**
 
 - Tecnología utilizada: Se utilizarán tecnologías web modernas para el desarrollo de la plataforma.
-- Integraciones: La plataforma se integrará con servicios externos de calendarios digitales y comunicación.
+- Integraciones: La plataforma se integrará con un servicio externo de badges digitales para implementar elementos de gamificación.
 - Escalabilidad: La aplicación será diseñada para soportar un número creciente de usuarios y datos.
 
 **Market Assumptions (Suposiciones de Mercado)**
