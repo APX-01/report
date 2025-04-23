@@ -425,7 +425,17 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Testimonies**
 
+**Título Principal:**<br> Se destaca la palabra “Testimonials” en el centro, indicando claramente el propósito de la sección.
 
+**Subtítulo Descriptivo:**<br> Una breve línea de texto complementa el título, brindando contexto sobre la importancia de las opiniones compartidas.
+
+**Citas de Clientes:**<br> Se presentan dos tarjetas con testimonios de usuarios, incluyendo una cita textual, nombre y cargo del autor (John Doe, CEO).
+
+**Elementos Visuales:**<br> Se utilizan íconos de comillas como parte del diseño de cada tarjeta para reforzar visualmente la idea de testimonio.
+
+**Navegación Lateral:**<br> Se incluyen flechas a los lados izquierdo y derecho para explorar más opiniones, funcional tanto en Desktop como adaptado para Mobile con navegación táctil.
+
+**Diseño Limpio y Centrado:**<br> La estructura mantiene un equilibrio visual con espacio suficiente entre los elementos, priorizando la legibilidad.<br>
 
 <div align="center">
   <td colspan="1" rowspan="6">
