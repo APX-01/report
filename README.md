@@ -391,7 +391,19 @@ Cada segmento está dividido y organizado para guiar al usuario en entender las 
 
 
 #### 4.2.2. Labeling Systems
+
 Las etiquetas en la landing page son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
+
+**•	Challenges**: La sección challenges es el núcleo de la aplicación. Es la que permite crear, visualizar y resolver las diferentes tareas académicas.
+
+**•	Teams**: La sección Teams es la que se encarga de la gestión total de la comunicación entre usuarios, además permite la creación de grupos propios con sus propias funciones como mensajes y chat.
+
+**•	Analytics**: La sección Analyitcs muestra el progreso de los alumnos y los cambios que se tendrían al realizar las tareas
+
+**•	Schedule**: La sección Schedula se encarga de mostrar y editar el calendario de las clases.
+
+**•	Badges**: La sección Badges es la encargada de dar y mostrar las diferentes insignias referentes a los desafíos completados
+
 
 #### 4.2.3. SEO Tags and Meta Tags
 Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda. 
