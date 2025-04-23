@@ -407,7 +407,15 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Why DriveNow**
 
+**Encabezado Visual:**<br> Utiliza formas geométricas como fondo decorativo para crear un entorno visual dinámico y moderno.
 
+**Mensaje Principal (CTA):**<br> Incluye un título llamativo "You’re Dream To Know More?" que busca captar la atención del usuario e incentivar el interés por saber más sobre el producto o servicio.
+
+**Texto de Apoyo:**<br> Proporciona una breve descripción que refuerza el valor de unirse o conocer más sobre la oferta.
+
+**Botón de Acción (CTA):**<br> Presenta un botón destacado con el texto "Join Now" que invita a la conversión inmediata.
+
+**Diseño Visual:**<br> Contraste marcado entre fondo oscuro y elementos en tonos claros, ideal para mantener la legibilidad y dirigir la atención al contenido relevante.
 
 <div align="center">
   <td colspan="1" rowspan="6">
