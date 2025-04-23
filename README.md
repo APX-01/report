@@ -495,6 +495,28 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1o
 
   - Sin embargo, mencionó que enfrentaba ciertas limitaciones, especialmente en lo que respecta a la participación activa de los estudiantes. Aunque deseaba que ellos pudieran interactuar directamente en la pizarra durante sus explicaciones, las herramientas disponibles no lo permitían. Además, señaló que la comunicación y organización fuera del aula resultaban poco prácticas, ya que debía enviar horarios o comunicados a través de WhatsApp o correos electrónicos. También comentó que no contaba con una plataforma donde pudiera centralizar actividades, tareas o avisos, lo que la obligaba a anunciar todo exclusivamente durante las clases presenciales.
 
+**Entrevista 3**
+
+- Nombre: Ariana
+
+-	Apellidos: Castilla
+
+-	Edad: 24 Años
+
+-	Distrito: La Victoria
+
+-	Inicio de la entrevista: 0:03
+
+-	Duracion: 06:14
+
+![Imagen de la entrevista 3 del Segmento Objetivo 2](/images/chapter-2/Entrevista_3.png)
+
+URL: https://youtu.be/QTE_TH3pnVc
+
+-	Resumen de la entrevista:
+
+    -	La entrevista con Ariana nos cuenta que, como profesora de idiomas, actualmente usa aplicaciones como Canva, materiales de libros en la red y videos de Youtube, además del uso de la IA para preparar fichas para resolver. Lo que más busca en una aplicación educativa es que se realice un seguimiento al progreso de los alumnos, para saber que partes se le complica. Además, como actividades interactivas destaca el uso de exposiciones y ve como una buena idea el uso de herramientas gamificadas y un sistema de contactos directos con el alumno para mejorar el aprendizaje.
+
 
 #### 2.2.3. Análisis de entrevistas
 
