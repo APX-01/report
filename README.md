@@ -814,6 +814,10 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.7.1. Class Diagrams
 
+![](/images/chapter-4/eduhive-class-diagram.jpeg)
+
+Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88)
+
 #### 4.7.2. Class Dictionary
 
 ### 4.8. Database Design
