@@ -423,6 +423,19 @@ Tácticas:
 
 #### 2.2.2. Registro de entrevistas
 
+- Entrevista 1
+  - Nombre: Sebastián
+  - Apellidos: Pacheco Astiguetta
+  - Edad: 22 Años
+
+![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
+
+URL: [Link de la Entrevista](https://drive.google.com/file/d/1T-rBw5O6lMWw8o4Exxo0R7D7_45Oszhh/view?usp=sharing)
+
+- Resumen de la entrevista:
+
+  - La entrevista con Sebastián Pacheco nos indica principalmente la dificultad que tienen varios estudiantes universitarios para mantenerse motivados a través del ciclo escolar. Nos comenta como la falta de participación o interacción por parte de sus compañeros puede llevar a una desmotivación. También nos comenta que aprecia que una aplicación dedicada al estudio tenga una funcionalidad de notificaciones, que le permitan recordarse a si mismo las tareas pendientes. Por último, Sebastián expresa una opinión positiva hacia la idea de un sistema gamificado que involucre medallas o premios para mantener la motivación en los proyectos.
+
 #### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
