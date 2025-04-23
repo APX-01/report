@@ -502,6 +502,29 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Register**
 
+**Sección de Registro**
+
+**Mensaje de Bienvenida:**<br> En Desktop, se muestra una tarjeta lateral con un saludo amigable (“Nice to meet you :)”), que se ubica en la parte superior o se elimina en Mobile para dar prioridad al formulario.
+
+**Formulario de Registro:**<br> 
+
+<ul>
+
+<li>Opción para registrarse mediante redes sociales (Facebook, Twitter, Google), con botones claramente diferenciados.
+<li>Alternativa para registrarse con correo electrónico ingresando:
+<ul>
+<li>Nombre
+<li>Correo electrónico
+<li>Contraseña y confirmación
+</ul>
+<li>Casilla para aceptar los Términos de Servicio y Política de Privacidad antes de habilitar el botón de registro.
+
+</ul>
+
+**Diseño Dividido:**<br> En Desktop, se divide en dos paneles visuales bien contrastados. En Mobile, se reordena en una sola columna para facilitar la navegación táctil.
+
+**Estética Moderna:**<br> Tipografía clara, esquinas redondeadas y elementos gráficos sutiles (como los rombos decorativos) aportan dinamismo visual manteniendo una estructura funcional.
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="./images/chapter-4/Register.png" alt="light-mode" width="800" height="500">
