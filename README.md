@@ -406,7 +406,72 @@ Las etiquetas en la landing page son simples y fáciles de entender para no gene
 
 
 #### 4.2.3. SEO Tags and Meta Tags
-Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda. 
+
+Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda:
+
+**Landing Page**:
+
+**•	Title**:
+ EduHive: Plataforma para la gestión educativa de cursos
+
+**•	Meta Description**:
+EduHive es una Plataforma diseñada para la gestión educativa entre alumnos y profesor que busca conectar ambos sectores en un ecosistema dinámico con distintas herramientas como grupos de estudio o retos académicos
+
+**•	Keywords**:
+Plataforma educative, gestion de cursos, administración de tareas, productividad de usuarios
+
+**•	Author**: Eduhive Team
+
+**Challenges**:
+
+**•	Title**: Desafíos académicos 
+
+**•	Meta Description**: Gestiona y permite visualizar las tareas y los retos académicos
+
+**•	Keywords**: Tareas, retos académicos, gestión de actividades
+
+**•	Author**: Eduhive Team
+
+**Teams**:
+
+**•	Title**: Gestión de comunicación 
+
+**•	Meta Description**: Acceso a mensajes con alumnos y profesores, así como creación de equipos de trabajo
+
+**•	Keywords**: correo, gestión de equipos, reuniones, planificación de trabajo
+
+**•	Author**: Eduhive Team
+
+**Analytics**:
+
+**•	Title**: Gestión de progreso
+
+**•	Meta Description**: Muestra el progreso del alumno a lo largo del curso y calcular notas al resolver desafíos
+
+**•	Keywords**: seguimiento, progreso del alumno, gestión de desempeño
+
+**•	Author**: Eduhive Team
+
+**Schedule**:
+
+**•	Title**: Calendario académico
+
+**•	Meta Description**: Acceso a un calendario académico que se puede editar al agregar distintos eventos
+
+**•	Keywords**: gestión de tiempo, eventos, organización de clases
+
+**•	Author**: Eduhive Team
+
+**Badges**:
+
+**•	Title**: Gestión de insignias
+
+**•	Meta Description**: Se hace una visualización y entregas de insignias referentes a actividades gamificadas.
+
+**•	Keywords**: herramientas de gamificación, insignias, calificaciones
+
+**•	Author**: Eduhive Team
+
 
 #### 4.2.4. Searching Systems
 La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
