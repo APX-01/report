@@ -533,6 +533,25 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Login**
 
+**Mensaje de Bienvenida:**<br> En Desktop, se visualiza un panel lateral con un mensaje de saludo (“Welcome back”), que se ajusta o elimina en Mobile para centrarse en la funcionalidad.
+
+**Opciones de Autenticación:**
+
+<ul>
+<li>Login a través de redes sociales (Facebook, Twitter, Google), con botones visualmente diferenciados y accesibles.
+<li>Alternativa con correo electrónico, solicitando:
+<ul>
+<li>Nombre de usuario o correo
+<li>Contraseña
+<li>Opción para recordar la sesión
+<li>Enlace para recuperación de contraseña
+</ul>
+</ul>
+
+**Diseño Dividido:**<br> Panel izquierdo con imagen y bienvenida; panel derecho con el formulario. En Mobile, el diseño se reorganiza en formato vertical para una mejor experiencia de usuario.
+
+**Estilo Visual:**<br> Uso de bloques suaves, esquinas redondeadas, y decoración con rombos sutiles que mantienen coherencia con la sección de registro.
+
 <div align="center">
   <td colspan="1" rowspan="6">
     <img src="./images/chapter-4/Login.png" alt="light-mode" width="800" height="500">
