@@ -430,7 +430,7 @@ Tácticas:
 
 ![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
 
-URL: [Link de la Entrevista](https://drive.google.com/file/d/1T-rBw5O6lMWw8o4Exxo0R7D7_45Oszhh/view?usp=sharing)
+URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing)
 
 - Resumen de la entrevista:
 
