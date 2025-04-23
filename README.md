@@ -427,8 +427,12 @@ Tácticas:
   - Nombre: Sebastián
   - Apellidos: Pacheco Astiguetta
   - Edad: 22 Años
+  - Distrito: San Miguel
 
 ![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
+
+  - Inicio: 0:23
+  - Duración: 4:46
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing)
 
