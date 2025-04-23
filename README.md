@@ -480,6 +480,77 @@ Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqu
 #### 4.2.5. Navigation Systems
 El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
 
+**1.	Landing Page**
+
+**•	Estructura**:
+
+*	Muestra todas las diferentes opciones del sitio web.
+
+*	Botones de acción para gestionar y manipular las funciones que se ofrecen.
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Visualiza, se comunica y puede resolver distintas tareas.
+
+*	Profesor: Gestiona las actividades de los alumnos y realiza un seguimiento a este.
+
+**2.	Sección de Challenges**
+
+**•	Estructura**:
+
+*	Visualización de todos los tipos de actividades que se pueden crear o resolver.
+
+*	Submenú para los distintos tipos de desafíos.
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Puede interactuar y resolver los desafíos impuestos.
+
+*	Profesor: Puede crear y calificar desafíos para los alumnos.
+
+**3.	Sección de Teams**
+
+**•	Estructura**:
+
+*	Visualización de alumnos y profesores para interactuar.
+
+*	Submenú para crear grupos y usar el sistema de mensajes.
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Puede interactuar con compañeros de clase y profesores, además de crear sus propios grupos.
+
+*	Profesor: Puede interactuar con los alumnos y profesores, además de crear grupos de estudio seleccionando alumnos.
+
+**4.	Sección de Analytics**
+
+**•	Estructura**:
+
+*	Visualización de estadísticas sobre el progreso de los estudiantes
+
+*	Acceso a una función para calcular notas futuras.
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Visualizar sus estadísticas y calcular futuras notas
+
+*	Profesor: Puede analizar el progreso académico de sus alumnos
+
+**5.	Sección de Badges**
+
+**•	Estructura**:
+
+*	Visualización y entrega de insignias conseguidas por las herramientas de gamificación
+
+* Submenú para filtrar los tipos de insignias conseguidas
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Puede visualizar sus insignias conseguidas, así como analizar que desafíos realizar para conseguir más.
+
+*	Profesor: Puede entregar las insignias y crearlas en base a las actividades a realizar de los estudiantes.
+
+
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
