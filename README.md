@@ -360,13 +360,34 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
-Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva:
+Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos. 
+Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
 
-**Estudiante:** Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
+**Estudiante**: Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
 
-**Profesor:** Para los profesores, se buscará una organización jerárquica y secuencial, ya que se busca ordenar sus propias subfunciones referentes al del docente y luego seguir pasos para corrección y comunicación con los alumnos.
+**• Challenges**: En este apartado, el estudiante es capaz de visualizar y realizar las diferentes tareas y retos académicos, además de realizar las entregas correspondientes.
 
-**Contacto:** Para contactar al equipo se utilizará una opción de ayuda organizada, de modo que la comunicación se pueda dar de manera correcta.
+**•	Teams**: El estudiante puede gestionar distintos equipos de trabajo de las clases y comunicarse con ellos mediante mensajes o chats.
+
+**•	Analytics**: El estudiante puede observar su progreso a lo largo de sus clases y hacer cálculos de posibles resultados que obtendría según hiciera distintos desafíos.
+
+**•	Schedule**: Aquí, se podrá visualizar un calendario con todas las actividades pertinentes del usuario, así como este mismo modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases
+
+**•	Badges**: Se pueden observar las distintas medallas e insignias que ha conseguido el estudiante a lo largo del curso, acentuando el valor de las herramientas de gamificación de la aplicación
+
+**Profesor**: Para los profesores, se buscará una organización jerárquica y secuencial, ya que se busca ordenar sus propias subfunciones referentes al del docente y luego seguir pasos para corrección y comunicación con los alumnos.
+
+**•	Challenges**: En este apartado, el profesor es capaz de proponer y realizar las distintas tareas y retos académicos que van a visualizar los alumnos, además de fijar fechas de entrega
+
+**•	Teams**: El profesor puede gestionar los distintos equipos de trabajo entre los estudiantes, para conseguir una comunicación activa entre ellos
+
+**•	Analytics**: Se puede analizar el progreso del alumno al presentar las calificaciones del estudiante para encontrar a los que necesiten un apoyo mayor
+
+**•	Schedule**: Aquí, se podrá visualizar un calendario con todas las actividades pertinentes del profesor como las clases, así como este puede modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases.
+
+**•	Badges**: Se puede hacer entrega de insignias a los estudiantes que cumplan diversas actividades, además de gestionar el aprendizaje y la motivación de estos mediante estas herramientas
+
+Cada segmento está dividido y organizado para guiar al usuario en entender las funcionalidades y poder usarlas sin problema alguno.
 
 
 #### 4.2.2. Labeling Systems
