@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150" alt="UPC Logo">
+span
 
 # Universidad Peruana de Ciencias Aplicadas
 
@@ -360,7 +360,8 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
-Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos. 
+
+Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos.
 Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
 
 <img src="./images/chapter-4/Organization_system_2.png" alt="Moodle" width="400"/>
@@ -391,7 +392,6 @@ Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendr
 
 Cada segmento está dividido y organizado para guiar al usuario en entender las funcionalidades y poder usarlas sin problema alguno.
 
-
 #### 4.2.2. Labeling Systems
 
 Las etiquetas en la landing page son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
@@ -406,7 +406,6 @@ Las etiquetas en la landing page son simples y fáciles de entender para no gene
 
 **•	Badges**: La sección Badges es la encargada de dar y mostrar las diferentes insignias referentes a los desafíos completados
 
-
 #### 4.2.3. SEO Tags and Meta Tags
 
 Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda:
@@ -414,7 +413,7 @@ Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los
 **Landing Page**:
 
 **•	Title**:
- EduHive: Plataforma para la gestión educativa de cursos
+EduHive: Plataforma para la gestión educativa de cursos
 
 **•	Meta Description**:
 EduHive es una Plataforma diseñada para la gestión educativa entre alumnos y profesor que busca conectar ambos sectores en un ecosistema dinámico con distintas herramientas como grupos de estudio o retos académicos
@@ -426,7 +425,7 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 **Challenges**:
 
-**•	Title**: Desafíos académicos 
+**•	Title**: Desafíos académicos
 
 **•	Meta Description**: Gestiona y permite visualizar las tareas y los retos académicos
 
@@ -436,7 +435,7 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 **Teams**:
 
-**•	Title**: Gestión de comunicación 
+**•	Title**: Gestión de comunicación
 
 **•	Meta Description**: Acceso a mensajes con alumnos y profesores, así como creación de equipos de trabajo
 
@@ -474,98 +473,86 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 **•	Author**: Eduhive Team
 
-
 #### 4.2.4. Searching Systems
+
 La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
 Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados. Mediante un side bar se podrán observar las diferentes funciones que se encuentran en el header de la aplicación.
 
 #### 4.2.5. Navigation Systems
+
 El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
 
 **1.	Landing Page**
 
 **•	Estructura**:
 
-*	Muestra todas las diferentes opciones del sitio web.
-
-*	Botones de acción para gestionar y manipular las funciones que se ofrecen.
+* Muestra todas las diferentes opciones del sitio web.
+* Botones de acción para gestionar y manipular las funciones que se ofrecen.
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Visualiza, se comunica y puede resolver distintas tareas.
-
-*	Profesor: Gestiona las actividades de los alumnos y realiza un seguimiento a este.
+* Estudiante: Visualiza, se comunica y puede resolver distintas tareas.
+* Profesor: Gestiona las actividades de los alumnos y realiza un seguimiento a este.
 
 **2.	Sección de Challenges**
 
 **•	Estructura**:
 
-*	Visualización de todos los tipos de actividades que se pueden crear o resolver.
-
-*	Submenú para los distintos tipos de desafíos.
+* Visualización de todos los tipos de actividades que se pueden crear o resolver.
+* Submenú para los distintos tipos de desafíos.
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Puede interactuar y resolver los desafíos impuestos.
-
-*	Profesor: Puede crear y calificar desafíos para los alumnos.
+* Estudiante: Puede interactuar y resolver los desafíos impuestos.
+* Profesor: Puede crear y calificar desafíos para los alumnos.
 
 **3.	Sección de Teams**
 
 **•	Estructura**:
 
-*	Visualización de alumnos y profesores para interactuar.
-
-*	Submenú para crear grupos y usar el sistema de mensajes.
+* Visualización de alumnos y profesores para interactuar.
+* Submenú para crear grupos y usar el sistema de mensajes.
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Puede interactuar con compañeros de clase y profesores, además de crear sus propios grupos.
-
-*	Profesor: Puede interactuar con los alumnos y profesores, además de crear grupos de estudio seleccionando alumnos.
+* Estudiante: Puede interactuar con compañeros de clase y profesores, además de crear sus propios grupos.
+* Profesor: Puede interactuar con los alumnos y profesores, además de crear grupos de estudio seleccionando alumnos.
 
 **4.	Sección de Analytics**
 
 **•	Estructura**:
 
-*	Visualización de estadísticas sobre el progreso de los estudiantes
-
-*	Acceso a una función para calcular notas futuras.
+* Visualización de estadísticas sobre el progreso de los estudiantes
+* Acceso a una función para calcular notas futuras.
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Visualizar sus estadísticas y calcular futuras notas
-
-*	Profesor: Puede analizar el progreso académico de sus alumnos
+* Estudiante: Visualizar sus estadísticas y calcular futuras notas
+* Profesor: Puede analizar el progreso académico de sus alumnos
 
 **5.	Sección de Schedule**
 
 **•	Estructura**:
 
-*	Visualización del horario académico de los estudiantes
-
-*	Acceso a una función para agregar y editar distintos eventos en el horario.
+* Visualización del horario académico de los estudiantes
+* Acceso a una función para agregar y editar distintos eventos en el horario.
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Visualizar su horario y editarlo como desee
-
-*	Profesor: Puede observar su propio horario y gestionar eventos y actividades referentes a sus alumnos
+* Estudiante: Visualizar su horario y editarlo como desee
+* Profesor: Puede observar su propio horario y gestionar eventos y actividades referentes a sus alumnos
 
 **6.	Sección de Badges**
 
 **•	Estructura**:
 
-*	Visualización y entrega de insignias conseguidas por las herramientas de gamificación
-
+* Visualización y entrega de insignias conseguidas por las herramientas de gamificación
 * Submenú para filtrar los tipos de insignias conseguidas
 
 **•	Acción del Usuario**:
 
-*	Estudiante: Puede visualizar sus insignias conseguidas, así como analizar que desafíos realizar para conseguir más.
-
-*	Profesor: Puede entregar las insignias y crearlas en base a las actividades a realizar de los estudiantes.
-
+* Estudiante: Puede visualizar sus insignias conseguidas, así como analizar que desafíos realizar para conseguir más.
+* Profesor: Puede entregar las insignias y crearlas en base a las actividades a realizar de los estudiantes.
 
 ### 4.3. Landing Page UI Design
 
@@ -641,7 +628,6 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 **Diseño Equilibrado:**<br> Distribución en columnas que en Desktop se presenta en línea horizontal, y en Mobile se espera una reorganización vertical para facilitar la navegación táctil.
 
-
 <br>**Pie de Página (Footer)**
 
 **Información Institucional:** Se incluyen columnas con enlaces organizados por categorías: Company, Services y Resources.
@@ -692,7 +678,7 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 **Mensaje de Bienvenida:**<br> En Desktop, se muestra una tarjeta lateral con un saludo amigable (“Nice to meet you :)”), que se ubica en la parte superior o se elimina en Mobile para dar prioridad al formulario.
 
-**Formulario de Registro:**<br> 
+**Formulario de Registro:**<br>
 
 <ul>
 
@@ -818,9 +804,31 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 ### 4.6. Domain-Driven Software Architecture
 
+Para el desarrollo del sistema EduHive, se ha adoptado un enfoque de Domain-Driven Design (DDD), que permite organizar la arquitectura del software en torno a los dominios clave del negocio académico. Esta metodología facilita la modularidad, escalabilidad y mantenibilidad del sistema, al dividir la lógica en Bounded Contexts especializados, cada uno con sus propias capas. A continuación, se detallan los diagramas que representan esta arquitectura.
+
+
+
+
+
+
+
+
+
 #### 4.6.1. Software Architecture Context Diagram
 
+El Context Diagram de EduHive presenta una visión de alto nivel del sistema, centrándose en su interacción con los usuarios principales (estudiantes y profesores) y el sistema externo Open Badges. En este diagrama, EduHive representa el sistema completo, recibiendo interacciones directas de los usuarios y comunicándose con Open Badges para la gestión de insignias digitales. No se detallan componentes internos, sino que se enfoca en delimitar el alcance del sistema y sus relaciones externas, destacando quiénes lo utilizan y con qué servicios externos se integra.
+
+
+<img src="./
+
+
+
+
+
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -836,68 +844,76 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 **User:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| userId | int | Identificador único del usuario en el sistema |
-| firstName | string | Nombre(s) del usuario |
-| lastName | string | Apellido(s) del usuario |
-| email | string | Correo electrónico del usuario (único) |
-| password | string | Contraseña encriptada del usuario |
+
+| Atributos | Tipo   | Descripción                                   |
+| --------- | ------ | ---------------------------------------------- |
+| userId    | int    | Identificador único del usuario en el sistema |
+| firstName | string | Nombre(s) del usuario                          |
+| lastName  | string | Apellido(s) del usuario                        |
+| email     | string | Correo electrónico del usuario (único)       |
+| password  | string | Contraseña encriptada del usuario             |
 
 **Teacher:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| teacherId | int | Identificador único del profesor |
+
+| Atributos   | Tipo              | Descripción                               |
+| ----------- | ----------------- | ------------------------------------------ |
+| teacherId   | int               | Identificador único del profesor          |
 | ownedGroups | List&lt;Group&gt; | Lista de grupos que administra el profesor |
 
 **Student:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| studentId | int | Identificador único del estudiante |
+
+| Atributos | Tipo | Descripción                        |
+| --------- | ---- | ----------------------------------- |
+| studentId | int  | Identificador único del estudiante |
 
 **Group:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| groupId | int | Identificador único del grupo |
-| groupName | string | Nombre descriptivo del grupo |
-| studentList | List&lt;Student&gt; | Lista de estudiantes pertenecientes al grupo |
-| challenges | List&lt;Challenge&gt; | Retos o actividades asignadas al grupo |
+
+| Atributos   | Tipo                  | Descripción                                 |
+| ----------- | --------------------- | -------------------------------------------- |
+| groupId     | int                   | Identificador único del grupo               |
+| groupName   | string                | Nombre descriptivo del grupo                 |
+| studentList | List&lt;Student&gt;   | Lista de estudiantes pertenecientes al grupo |
+| challenges  | List&lt;Challenge&gt; | Retos o actividades asignadas al grupo       |
 
 **Content:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| contentId | int | Identificador único del contenido |
-| images | List&lt;Image&gt; | Lista de imágenes incluidas en el contenido |
-| documents | List&lt;Document&gt; | Lista de documentos adjuntos |
-| text | string | Texto principal del contenido |
+
+| Atributos | Tipo                 | Descripción                                 |
+| --------- | -------------------- | -------------------------------------------- |
+| contentId | int                  | Identificador único del contenido           |
+| images    | List&lt;Image&gt;    | Lista de imágenes incluidas en el contenido |
+| documents | List&lt;Document&gt; | Lista de documentos adjuntos                 |
+| text      | string               | Texto principal del contenido                |
 
 **Challenge:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| challengeId | int | Identificador único del reto |
-| title | string | Título descriptivo del reto |
-| content | Content | Contenido detallado del reto |
+
+| Atributos   | Tipo                   | Descripción                            |
+| ----------- | ---------------------- | --------------------------------------- |
+| challengeId | int                    | Identificador único del reto           |
+| title       | string                 | Título descriptivo del reto            |
+| content     | Content                | Contenido detallado del reto            |
 | submissions | List&lt;Submission&gt; | Entregas realizadas por los estudiantes |
 
 **Submission:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| submissionId | int | Identificador único de la entrega |
-| content | Content | Contenido de la entrega del estudiante |
-| comments | List&lt;Comment&gt; | Comentarios asociados a la entrega |
+
+| Atributos    | Tipo                | Descripción                           |
+| ------------ | ------------------- | -------------------------------------- |
+| submissionId | int                 | Identificador único de la entrega     |
+| content      | Content             | Contenido de la entrega del estudiante |
+| comments     | List&lt;Comment&gt; | Comentarios asociados a la entrega     |
 
 **Comment:**
 
-| Atributos | Tipo | Descripción |
-|-|-|-|
-| commentId | int | Identificador único del comentario |
-| content | Content | Contenido textual del comentario |
+
+| Atributos | Tipo    | Descripción                        |
+| --------- | ------- | ----------------------------------- |
+| commentId | int     | Identificador único del comentario |
+| content   | Content | Contenido textual del comentario    |
 
 ### 4.8. Database Design
 
