@@ -806,29 +806,14 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 Para el desarrollo del sistema EduHive, se ha adoptado un enfoque de Domain-Driven Design (DDD), que permite organizar la arquitectura del software en torno a los dominios clave del negocio académico. Esta metodología facilita la modularidad, escalabilidad y mantenibilidad del sistema, al dividir la lógica en Bounded Contexts especializados, cada uno con sus propias capas. A continuación, se detallan los diagramas que representan esta arquitectura.
 
-
-
-
-
-
-
-
-
 #### 4.6.1. Software Architecture Context Diagram
 
 El Context Diagram de EduHive presenta una visión de alto nivel del sistema, centrándose en su interacción con los usuarios principales (estudiantes y profesores) y el sistema externo Open Badges. En este diagrama, EduHive representa el sistema completo, recibiendo interacciones directas de los usuarios y comunicándose con Open Badges para la gestión de insignias digitales. No se detallan componentes internos, sino que se enfoca en delimitar el alcance del sistema y sus relaciones externas, destacando quiénes lo utilizan y con qué servicios externos se integra.
 
-
-<img src="./
-
-
-
-
+<img src="./images/chapter-4/contextDiagram.png" alt="Context Diagram" width="600"/>
 
 
 #### 4.6.2. Software Architecture Container Diagrams
-
-
 
 #### 4.6.3. Software Architecture Components Diagrams
 
