@@ -820,6 +820,71 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 #### 4.7.2. Class Dictionary
 
+**User:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| userId | int | Identificador único del usuario en el sistema |
+| firstName | string | Nombre(s) del usuario |
+| lastName | string | Apellido(s) del usuario |
+| email | string | Correo electrónico del usuario (único) |
+| password | string | Contraseña encriptada del usuario |
+
+**Teacher:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| teacherId | int | Identificador único del profesor |
+| ownedGroups | List&lt;Group&gt; | Lista de grupos que administra el profesor |
+
+**Student:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| studentId | int | Identificador único del estudiante |
+
+**Group:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| groupId | int | Identificador único del grupo |
+| groupName | string | Nombre descriptivo del grupo |
+| studentList | List&lt;Student&gt; | Lista de estudiantes pertenecientes al grupo |
+| challenges | List&lt;Challenge&gt; | Retos o actividades asignadas al grupo |
+
+**Content:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| contentId | int | Identificador único del contenido |
+| images | List&lt;Image&gt; | Lista de imágenes incluidas en el contenido |
+| documents | List&lt;Document&gt; | Lista de documentos adjuntos |
+| text | string | Texto principal del contenido |
+
+**Challenge:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| challengeId | int | Identificador único del reto |
+| title | string | Título descriptivo del reto |
+| content | Content | Contenido detallado del reto |
+| submissions | List&lt;Submission&gt; | Entregas realizadas por los estudiantes |
+
+**Submission:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| submissionId | int | Identificador único de la entrega |
+| content | Content | Contenido de la entrega del estudiante |
+| comments | List&lt;Comment&gt; | Comentarios asociados a la entrega |
+
+**Comment:**
+
+| Atributos | Tipo | Descripción |
+|-|-|-|
+| commentId | int | Identificador único del comentario |
+| content | Content | Contenido textual del comentario |
+
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
