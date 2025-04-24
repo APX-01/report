@@ -520,6 +520,21 @@ URL: https://youtu.be/QTE_TH3pnVc
 
 #### 2.2.3. Análisis de entrevistas
 
+**Análisis Segmento 1**: Estudiantes Universitarios
+
+La entrevista con estudiantes universitarios destaca una diversa cantidad de problemas con los que lidian en su vida académica, tales como la falta de organización, la desmotivación y la falta de comunicación.
+
+La mayoría de ellos resalta que una buena aplicación educativa debería contar con un sistema de notificaciones y una correcta organización para ayudar a los estudiantes menos hábiles. Además, todos acordaron que un sistema de gamificación con medallas y premios sería una gran idea que haría las clases más interesantes y motivarían más a los alumnos
+
+Los estudiantes están enfocados en mejorar su situación académica con herramientas útiles e innovadores que busquen sacar la mayor productividad de cada uno de ellos.
+
+**Análisis Segmento 2**: Profesores Universitarios
+
+La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, falta de materiales y dificultad en el seguimiento del progreso del alumno.
+
+Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas lúdicas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
+
+
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
