@@ -340,6 +340,96 @@ Antes de comenzar, es importante definir claramente los requisitos de  la págin
 
 #### 5.1.2. Source Code Management
 
+En esta sección, nuestro equipo establece los medios y el esquema de  organización que aplicará para el seguimiento de modificaciones  utilizando GitHub como plataforma y sistema de control de versiones.  De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.
+
+
+* Plataforma de control de versiones:
+  De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.  Los URLs de los repositorios son los siguientes:
+
+  * Landing Page : [Landing Page](https://github.com/APX-01/Landing-Page)
+  * Frontend Web Applications : [Frontend Web Applications](https://github.com/APX-01/Frontend-Web-Applications)
+  * Backend Web Services : [Backend Web Services](https://github.com/APX-01/Backend-Web-Services)
+* Implementación de GitFlow:
+  Organizamos el repositorio en ramas para diferentes entornos.
+
+  * Ramas base:
+
+    - Main branch (rama principal): Contiene la versión de producción.
+    - Develop branch: Contiene el código en desarrollo, que eventualmente  será fusionado en la rama principal.
+  * Feature branches:
+
+    * Feature branch:
+
+      Para cada funcionalidad nueva se crea una rama desde develop.Convención para el nombre: `feature/nombre-corto-descriptivo`
+  * Release branches:
+
+    - Release branch:
+
+      Se crean cuando el proyecto está listo para pasar a producción, desde develop.
+      Convención: `release/x.y.z` (usando versionado semántico)
+  * Hotfix branches:
+
+    * Hotfix branch:
+
+      Se crean desde `main` para corregir errores críticos en producción.
+      Convención: `hotfix/x.y.z`
+* Versionado semántico (Semantic Versioning)
+
+  - Semantic Versioning Format:
+
+    Aplicamos semantic versioning para nombrar nuestras releases siguiendo  el esquema MAJOR.MINOR.PATCH
+
+    <table border="1" cellspacing="0" cellpadding="8">
+      <thead>
+        <tr>
+          <th>Parte</th>
+          <th>Significado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>MAJOR</strong></td>
+          <td>Cambios importantes que rompen la compatibilidad con versiones anteriores (por ejemplo, eliminas funciones o cambias APIs que otros ya usaban).</td>
+        </tr>
+        <tr>
+          <td><strong>MINOR</strong></td>
+          <td>Añades nuevas funcionalidades de forma compatible (sin romper lo que ya funciona).</td>
+        </tr>
+        <tr>
+          <td><strong>PATCH</strong></td>
+          <td>Solucionas errores o bugs, sin agregar nuevas funciones ni romper nada.</td>
+        </tr>
+      </tbody>
+    </table>
+* Mensajes de commit con Conventional Commits
+
+  Utilizamos Conventional Commits para los mensajes en nuestros commits. Usando el siguiente template:
+
+  `<tipo>(<opcional-alcance>): <mensaje>`
+
+  - Tipos:
+
+  `feat`: nueva funcionalidad
+
+  `fix`: corrección de errores
+
+  `docs`: cambios en la documentación
+
+  `style`: cambios de estilo/formato (sin afectar funcionalidad)
+
+  `refactor`: reestructuración del código (sin cambios funcionales)
+
+  `test`: añadir o modificar pruebas
+
+  `chore`: tareas de mantenimiento
+
+  * Ejemplos:
+
+    feat(auth): Added auth
+
+    fix(landing): fix landing header
+
+
 #### 5.1.3. Source Code Style Guide & Conventions
 
 #### 5.1.4. Software Deployment Configuration
