@@ -32,15 +32,56 @@
 ## Registro de Versiones del Informe
 
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| -------- | ----- | ----- | ----------------------------- |
+
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.1</td>
+      <td>2025-04-02</td>
+      <td>Casas Sanchez Gabriel Alexander, Astonitas Díaz Juan Diego y Pacheco Astiguetta Sebastian</td>
+      <td>Desarrollo de los ítems: 1.1. Startup Profile, que incluye los subítems 1.1.1. Descripción de la Startup y 1.1.2. Perfiles de integrantes del equipo. Luego se presenta el 1.2. Solution Profile, que contiene los apartados 1.2.1. Antecedentes y problemática y 1.2.2. Lean UX Process, el cual se desglosa en 1.2.2.1. Lean UX Problem Statements, 1.2.2.2, 1.2.2.3 y 1.2.2.4. Finalmente, se desarrolla la sección 1.3. Lean UX Assumptions, que incluye los ítems Lean UX Hypothesis Statements, Lean UX Canvas y Segmentos objetivo.</td>
+    </tr>
+    <tr>
+      <td>0.2</td>
+      <td>2025-04-07</td>
+      <td>Pasquale Barrenechea Gianluca Santino y Alejo Cardenas Jose Antonio</td>
+      <td>Desarrollo de los ítems: La sección 2 del informe está compuesta por varios apartados clave, comenzando con el 2.1. Competidores, que abarca los subítems 2.1.1. Análisis competitivo y 2.1.2. Estrategias y tácticas frente a competidores. Luego se desarrolla el 2.2. Entrevistas, que incluye 2.2.1. Diseño de entrevistas, 2.2.2. Registro de entrevistas y 2.2.3. Análisis de entrevistas. A continuación, se presenta el 2.3. Needfinding, compuesto por 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.3.3. User Journey Mapping, 2.3.4. Empathy Mapping y 2.3.5. As-is Scenario Mapping. Finalmente, se cierra esta parte del informe con el apartado 2.4. Ubiquitous Language.</td>
+    </tr>
+    <tr>
+      <td>0.3</td>
+      <td>2025-04-18</td>
+      <td>Alejo Cardenas Jose Antonio, Astonitas Díaz Juan Diego</td>
+      <td>Desarrollo de los ítems: 3.1. To-Be Scenario Mapping, 3.2. Avance de las User Stories, 3.3. Impact Mapping y 3.4. Avance del Product Backlog.</td>
+    </tr>
+    <tr>
+      <td>0.4</td>
+      <td>2025-04-21</td>
+      <td>Casas Sanchez Gabriel Alexander, Alejo Cardenas Jose Antonio, Astonitas Díaz Juan Diego, Pasquale Barrenechea Gianluca Santino y Pacheco Astiguetta Sebastian</td>
+      <td>Desarrollo de los ítems: 3.2. Finalizacion de las User Stories, 3.4. Finalizacion del Product Backlog, 4.1. Strategic-Level Domain-Driven Design y comprende los siguientes subítems: 4.1.1. EventStorming, que a su vez incluye 4.1.1.1. Candidate Context Discovery, 4.1.1.2, 4.1.1.3. Domain Message Flows Modeling y Bounded Context Canvases. También se desarrolla el apartado 4.1.2. Context Mapping y 4.1.3. Software Architecture, que contiene 4.1.3.1. Software Architecture Context Level Diagrams, 4.1.3.2. Software Architecture Container Level Diagrams y 4.1.3.3 Software Architecture Deployment Diagrams.  </td>
+    </tr>
+    <tr>
+      <td>1.0</td>
+      <td>2025-04-22</td>
+      <td>Casas Sanchez Gabriel Alexander, Astonitas Díaz Juan Diego y Alejo Cardenas Jose Antonio</td>
+      <td>Revisión completa hasta el capitulo 4, corrección ortográfica y coherencia global del reporte.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Project Report Collaboration Insights
 
 ## Contenido
 
 - [Student Outcome](#student-outcome)
-- [Objetivos SMART](#objetivos-smart)
 - [Capítulo I](#capítulo-i)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -128,7 +169,65 @@
 
 ## Student Outcome
 
-## Objetivos SMART
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Criterio específico</th>
+      <th style="text-align: left;">Acciones realizadas</th>
+      <th style="text-align: left;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Comunica oralmente con efectividad a diferentes rangos de audiencia. </td>
+      <td>
+Alejo Cardenas Jose Antonio-TB1:<br>
+Durante el desarrollo del proyecto, fortalecí mi comunicación oral al presentar y explicar temas como el análisis de competidores, los resultados de las entrevistas, el proceso de needfinding y el uso del Ubiquitous Language. Me aseguré de adaptar mi discurso según el público, ya fuera técnico o no técnico, para que mis aportes fueran comprendidos con claridad. También participé activamente en exposiciones grupales sobre el Impact Mapping, el Product Backlog y el Software Configuration Management, así como en reuniones donde propuse ideas relacionadas con la Landing Page y la implementación de servicios, buscando siempre que mis ideas sean claras y bien estructuradas.
+<br>  
+Luquillas Asto Omar-TB1:<br>
+Me encargué de presentar oralmente entregables como el Solution Profile, los resultados de las entrevistas, el To-Be Scenario Mapping y las User Stories, explicándolos con claridad a mis compañeros y profesores. En cada exposición, procuré utilizar un lenguaje técnico adecuado, pero accesible para todos. Además, durante sesiones de trabajo en equipo, expuse mi visión sobre la arquitectura orientada al dominio, el desarrollo de la Landing Page y la implementación de servicios, buscando generar consenso y asegurar una comprensión compartida de los objetivos del proyecto.
+<br> 
+Real Calderón Sebastián Omar-TB1:<br>
+Contribuí con la redacción de diversos documentos como el Startup Profile, el Solution Profile y los entregables sobre los segmentos objetivo, cuidando la estructura y el lenguaje para que fueran claros y coherentes. También elaboré contenido técnico para las User Stories, el diseño de UX/UI, la arquitectura orientada a objetos y el diseño de base de datos, utilizando una redacción precisa y enfocada en que tanto técnicos como no técnicos pudieran comprender la información. Busqué siempre que mis aportes escritos comunicaran bien el propósito y el funcionamiento de cada elemento del proyecto.
+<br>
+Flores Apaico Josue Antonio-TB1:<br>
+Fortalecí mi comunicación oral al exponer los resultados de las entrevistas, el análisis del needfinding y mi participación en la definición de User Stories, buscando explicar claramente mis ideas al equipo. También compartí mi propuesta para las Style Guidelines y participé activamente en las discusiones sobre la interfaz de la Landing Page, así como en sesiones de diseño de UX/UI, donde me aseguré de justificar mis decisiones y adaptar mi lenguaje según el perfil del interlocutor.
+<br>
+Mendoza Vergara Franklin Alejandro-TB1:<br>
+Desarrollé mi comunicación oral participando en las exposiciones sobre los hallazgos de las entrevistas y la definición de las User Stories, donde expliqué de forma clara cómo estas se alineaban con los objetivos del proyecto. También presenté propuestas para la arquitectura de la información, utilizando ejemplos visuales y explicaciones técnicas que facilitaron el entendimiento del equipo. Mi participación en sesiones de diseño de UX/UI me permitió argumentar mis ideas de forma estructurada y accesible.
+<br>
+      </td>
+      <td>
+        x
+      </td>
+    </tr>
+    <tr>
+      <td>2. Comunica por escrito con efectividad a diferentes rangos de audiencia. </td>
+      <td>
+Alejo Cardenas Jose Antonio-TB1:<br>
+A lo largo del proyecto, desarrollé mis habilidades de comunicación escrita al redactar documentos como el análisis de competidores, los entregables del Product Backlog, y la documentación del Software Configuration Management. También colaboré en la redacción de secciones para la Landing Page y los reportes de Services & Applications Implementation. Además, me encargué del registro de versiones del informe y participé en la elaboración de los comentarios dentro de Project Report Collaboration Insights, donde busqué mantener una redacción clara, técnica y adaptada a diferentes tipos de lectores dentro del equipo.
+<br>  
+Luquillas Asto Omar-TB1:<br>
+Tuve la responsabilidad de redactar varios entregables clave como el Solution Profile, las User Stories y partes del Product Backlog, utilizando un lenguaje preciso y bien estructurado. También escribí documentación técnica sobre la Domain-Driven Software Architecture, colaboré en el diseño de la Landing Page, y desarrollé contenidos para la sección de Services & Applications Implementation. Además, redacté avances de las Conclusiones, la Bibliografía y los Anexos, enfocándome en mantener un estilo claro, coherente y profesional que pudiera ser comprendido por diversos tipos de audiencia.
+<br> 
+Real Calderón Sebastián Omar-TB1:<br>
+Durante el proyecto, participé activamente en presentaciones donde expuse el Startup Profile, el Solution Profile y los segmentos objetivo, siempre procurando que mi mensaje fuera comprensible tanto para mis compañeros como para los docentes. También colaboré en la explicación de los resultados de las entrevistas y en la creación de User Stories, lo cual me permitió comunicar con claridad cómo esas necesidades se traducían en funcionalidades. En las sesiones de diseño de UX/UI, pude expresar mis ideas visuales y funcionales, ajustando mi lenguaje a la naturaleza técnica o general del público.
+<br>
+Flores Apaico Josue Antonio-TB1:<br>
+Aporté a la comunicación escrita del equipo al redactar User Stories que reflejaban de manera clara las necesidades del usuario, además de desarrollar las Style Guidelines y la documentación visual para la Landing Page UI Design. También contribuí a la elaboración del documento de Web Applications UX/UI Design, manteniendo un lenguaje visualmente descriptivo y técnico, pero accesible, con el fin de que cualquier lector pudiera comprender el propósito de los elementos diseñados y cómo se conectaban con las necesidades identificadas.
+<br>
+Mendoza Vergara Franklin Alejandro-TB1:<br>
+Contribuí a la redacción de las User Stories del proyecto, redactándolas con detalle y claridad para asegurar su correcta interpretación por parte del equipo. También participé en la creación de la Information Architecture, asegurándome de organizar la información de forma lógica y comprensible. En la documentación de Web Applications UX/UI Design, redacté propuestas visuales y funcionales usando un lenguaje técnico pero accesible, garantizando que la documentación fuera útil para desarrolladores, diseñadores y docentes por igual.
+<br>
+      <td>
+        x
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Capitulo I
 
@@ -136,254 +235,23 @@
 
 #### 1.1.1. Descripción de la Startup
 
-APX-01 es una startup fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a desarrollar soluciones tecnológicas para revolucionar la educación en Perú. Nuestro primer proyecto, EduHive, es una plataforma integral que conecta a estudiantes y profesores en un ecosistema dinámico, donde la gestión de grupos de estudio, retos académicos y tareas se simplifica y gamifica.
-
-EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles gestionar sus tareas, revisar retos académicos activos y acceder a sus horarios de clases de manera sencilla y organizada. Además, los alumnos pueden explorar los perfiles de sus profesores, conocer sus especializaciones, horarios de atención y métodos de contacto, facilitando una comunicación más fluida y efectiva. De la misma manera, los profesores pueden crear y administrar grupos de estudio en los que podrán establecer retos académicos y monitorear el progreso de sus alumnos. La plataforma también incorpora elementos de gamificación, como sistemas de puntuación y reconocimientos, para motivar el aprendizaje y fomentar la participación activa en grupos de estudio y desafíos educativos, promoviendo un ecosistema educativo dinámico, digital y accesible.
-
-- Misión:
-  "Democratizar el acceso a herramientas educativas colaborativas en Perú mediante tecnología open-source, rompiendo las barreras de la educación tradicional con soluciones gamificadas que empoderen a estudiantes y docentes por igual."
-- Visión:
-  "Convertirnos en el ecosistema educativo digital líder en el Perú, transformando la manera en que se aprende y enseña mediante soluciones tecnológicas orientadas a las necesidades de tanto estudiantes como docentes."
-
 #### 1.1.2. Perfiles de integrantes del equipo
 
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
 
-## Análisis 5W2H
-
-### **1. WHAT (Qué)**
-
-- Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
-
-### **2. WHY (Por qué)**
-
-- Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.
-
-### **3. WHO (Quién)**
-
-- **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.
-- **Docentes**: Carga administrativa al coordinar actividades colaborativas.
-- **Instituciones**: No cuentan con métricas de participación estudiantil.
-
-### **4. WHERE (Dónde)**
-
-- Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).
-
-### **5. WHEN (Cuándo)**
-
-- Durante periodos de proyectos grupales y exámenes parciales.
-
-### **6. HOW (Cómo)**
-
-- Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.
-
-### **7. HOW MUCH (Cuánto)**
-
-- Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.
-
 #### 1.2.2. Lean UX Process
-
-El Lean UX process es una metodología iterativa de diseño que pone al usuario en el centro del proceso, enfocándose en la colaboración continua del equipo y en ciclos cortos de trabajo. A través de investigaciones, pruebas rápidas y validación constante de ideas, se busca comprobar la validez de las ideas planteadas. A diferencia de los métodos tradicionales, este evita la documentación pesada y prioriza la retroalimentación temprana para validar o descartar hipótesis de manera ágil, siempre orientándose a satisfacer las necesidades reales de los usuarios.
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-Actualmente, los estudiantes y profesores universitarios se enfrentan a varios desafíos cuando intentan organizar sus actividades académicas y comunicarse de forma eficiente. En la mayoría de los casos, dependen de múltiples herramientas que no están conectadas entre sí, como aplicaciones de mensajería, correos electrónicos y agendas separadas, lo que provoca confusiones, olvidos y dificulta llevar un buen control de tareas y responsabilidades.
-
-Para los estudiantes, esto significa tener que recordar plazos de entrega, participar en grupos y mantenerse al día con algunas tareas de manera dispersa. Por otro lado, los profesores tienen dificultades para crear y gestionar grupos de estudio, monitorear el progreso de sus alumnos y mantener una comunicación clara, directa y constante con ellos.
-
-Esta situación no solo genera desorganización, sino que también puede disminuir la motivación y participación de los estudiantes, afectando su rendimiento académico. Por eso, es necesario contar con una plataforma integrada que centralice todas estas funciones, facilitando la organización de tareas, la realización de retos académicos y la interacción directa entre estudiantes y profesores, promoviendo así un entorno educativo más dinámico, ordenado y participativo.
-
 ##### 1.2.2.2. Lean UX Assumptions
-
-**User Assumptions (Suposiciones de Usuario)**
-
-- ¿Quién es el usuario?: Los usuarios son estudiantes y profesores universitarios que buscan mejorar la organización de sus actividades académicas, productividad y la comunicación en el entorno educativo.
-- ¿Dónde encaja nuestro producto en su trabajo o vida?: Nuestro producto encaja como una herramienta diaria para planificar clases, tareas, retos académicos y la gestión de grupos de estudio, facilitando la interacción constante entre estudiantes y profesores.
-- ¿Qué problemas resuelve nuestro producto?: Nuestro producto resuelve problemas de desorganización, falta de comunicación efectiva, dispersión de herramientas y baja motivación por la falta de dinamismo en las actividades académicas.
-- ¿Cuándo y cómo se usa nuestro producto?: Nuestro producto se utiliza antes y después de clases, para revisar tareas pendientes, crear o unirse a grupos de estudio, consultar horarios, participar en retos académicos y comunicarse directamente con los profesores o compañeros.
-- ¿Qué características son importantes?: Las características importantes son la gestión de tareas, administración de grupos de estudio, perfiles detallados de profesores, sistema de retos académicos, visualización de horarios, interfaz sencilla e intuitiva.
-- ¿Cómo debe verse y comportarse nuestro producto?: Nuestro producto debe tener un diseño amigable y moderno, con navegación fluida, colores que generen motivación y claridad visual, y tiempos de respuesta rápidos para no frustrar a los usuarios.
-
-**Business Assumptions (Suposiciones de Negocio)**
-
-- Necesidades y problemas: Creemos que las universidades necesitan herramientas que mejoren la productividad académica y la colaboración digital entre alumnos y docentes.
-- Plataforma: Estas necesidades se pueden resolver mediante una aplicación web para mayor accesibilidad.
-- Segmentación: Los usuarios serán estudiantes y profesores universitarios de todas las áreas académicas.
-- Comportamientos: El valor principal que un usuario quiere obtener de nuestro servicio es una mayor facilidad, colaboración y disciplina en el área académica.
-- Beneficios: Los usuarios obtendrán una mejora de la organización académica, aumento en la participación de los estudiantes, comunicación más fluida y mayor motivación.
-- Captación de clientes: Obtendremos nuestros usuarios a través de promociones de alianzas con universidades, redes sociales, y recomendaciones de usuarios dentro de las comunidades universitarias.
-- Modelos de ingresos: Al tratarse de una aplicación open source orientada al uso académico y comunitario, no se contempla un modelo de ingresos directo.
-- Competencia: Nuestra competencia serán las plataformas similares en el área de educación, gestión académica y organización.
-- Ventaja competitiva: Superaremos a la competencia gracias a nuestra plataforma que ofrece varias funciones en un solo lugar y que esta enfocada en la experiencia, motivación y colaboración del estudiante y del profesor universitario.
-
-**Technical Assumptions (Suposiciones Técnicas)**
-
-- Tecnología utilizada: Se utilizarán tecnologías web modernas para el desarrollo de la plataforma.
-- Integraciones: La plataforma se integrará con un servicio externo de badges digitales para implementar elementos de gamificación.
-- Escalabilidad: La aplicación será diseñada para soportar un número creciente de usuarios y datos.
-
-**Market Assumptions (Suposiciones de Mercado)**
-
-- Tamaño del mercado: El mercado objetivo incluye universidades, abarcando a estudiantes y docentes que buscan soluciones digitales para la organización académica.
-- Competencia: Los principales competidores son otras plataformas de organización y gestión educativa.
-- Tendencias: Existe un crecimiento en la digitalización de la educación y mayor preferencia por soluciones de productividad.
-
-**Design Assumptions (Suposiciones de Diseño)**
-
-- Interacción del usuario: La plataforma estará diseñada para una navegación sencilla, intuitiva y accesible.
-- Experiencia del usuario: El enfoque estará en ofrecer una experiencia fluida y agradable, facilitando la realización de actividades sin complicaciones.
-- Colores y tipografía: Los usuarios valoran el uso de una paleta de colores que transmita dinamismo y profesionalismo, junto con tipografías modernas y legibles que mejoren la experiencia visual.
-- Preferencias visuales: Los usuarios prefieren un diseño visual atractivo pero limpio, que los permita concentrarse fácilmente en las funciones principales de la plataforma.
-- Prototipos y pruebas: Se desarrollarán validaciones de las características principales que serán evaluados mediante pruebas de usabilidad.
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
-Hypothesis Statement 01:
-
-- Creemos que los usuarios necesitan una plataforma centralizada para gestionar actividades académicas y mejorar la comunicación.
-- Sabremos que estamos en lo correcto cuando veamos una adopción activa de la herramienta dentro de grupos de estudio y recibamos comentarios positivos sobre la facilidad de organización que ofrece.
-
-Hypothesis Statement 02:
-
-- Creemos que la falta de integración entre herramientas actuales genera desorganización y pérdida de información importante para los estudiantes y docentes.
-- Sabremos que estamos en lo correcto cuando los usuarios nos indiquen que ya no necesitan usar múltiples aplicaciones por separado y notemos una reducción en quejas relacionadas con la desorganización.
-
-Hypothesis Statement 03:
-
-- Creemos que una plataforma que permita crear y gestionar grupos de estudio facilitará la colaboración entre estudiantes.
-- Sabremos que estamos en lo correcto cuando veamos un aumento en la creación de grupos dentro de la plataforma.
-
-Hypothesis Statement 04:
-
-- Creemos que la inclusión de un horario de clases dentro de la plataforma ayudará a los usuarios a organizar mejor su tiempo y visualizar de manera clara sus actividades académicas.
-- Sabremos que estamos en lo correcto cuando observemos una mejora en la puntualidad de asistencia a clases y una mayor percepción de organización por parte de los usuarios.
-
-Hypothesis Statement 05:
-
-- Creemos que la implementación de retos académicos incentivará la participación y el compromiso de los estudiantes.
-- Sabremos que estamos en lo correcto cuando veamos un aumento en la participación de actividades opcionales y retos dentro de la plataforma.
-
-Hypothesis Statement 06:
-
-- Creemos que una interfaz intuitiva y accesible facilitará la adopción de la plataforma por parte de los usuarios.
-- Sabremos que estamos en lo correcto cuando los usuarios utilicen la aplicación con fluidez y la tasa de abandono inicial sea baja.
-
-Hypothesis Statement 07:
-
-- Creemos que permitir a los profesores monitorear el progreso de sus estudiantes mejorará la efectividad del seguimiento académico.
-- Sabremos que estamos en lo correcto cuando los profesores utilicen frecuentemente las funciones de seguimiento y den feedback positivo.
-
-Hypothesis Statement 08:
-
-- Creemos que facilitar el acceso a la información de contacto y disponibilidad de los profesores mejorará la comunicación entre estudiantes y docentes.
-- Sabremos que estamos en lo correcto cuando los estudiantes reporten mayor facilidad para contactar a sus profesores y se reduzcan las consultas relacionadas con cómo ubicarlos.
-
-Hypothesis Statement 09:
-
-- Creemos que la incorporación de elementos de gamificación, como badges y sistemas de puntuación, aumentará la motivación y participación de los usuarios en los retos académicos y grupos de estudio.
-- Sabremos que estamos en lo correcto cuando observemos un incremento en la participación activa en desafíos educativos y una mayor frecuencia de interacción dentro de la plataforma.
-
-Hypothesis Statement 10:
-
-- Creemos que ofrecer una vista clara y centralizada del horario de clases ayudará a los usuarios a planificar mejor su semana académica.
-- Sabremos que estamos en lo correcto cuando los usuarios consulten regularmente su horario y reporten una mayor facilidad para organizar otras actividades en función de sus clases.
-
-Hypothesis Statement 11:
-
-- Creemos que mostrar logros y avances individuales motivará a los estudiantes a continuar usando la plataforma.
-- Sabremos que estamos en lo correcto cuando observemos una alta interacción con los paneles de progreso y mejoras.
-
-Hypothesis Statement 12:
-
-- Creemos que la privacidad y seguridad de la información son fundamentales para la adopción de la plataforma.
-- Sabremos que estamos en lo correcto cuando los usuarios expresen confianza en el manejo de sus datos y no haya incidentes reportados.
-
-Hypothesis Statement 13:
-
-- Creemos que una experiencia de usuario que minimice la curva de aprendizaje aumentará la retención de usuarios nuevos.
-- Sabremos que estamos en lo correcto cuando los nuevos usuarios se familiaricen con la plataforma en menos de una semana.
-
-Hypothesis Statement 14:
-
-- Creemos que una paleta de colores atractiva y una tipografía clara mejorarán la experiencia visual y la permanencia en la aplicación.
-- Sabremos que estamos en lo correcto cuando los usuarios valoren positivamente el diseño en encuestas de satisfacción.
-
-Hypothesis Statement 15:
-
-- Creemos que ofrecer soporte rápido y accesible motivará a los usuarios a permanecer en la plataforma.
-- Sabremos que estamos en lo correcto cuando las consultas de soporte sean resueltas de manera efectiva.
-
-Hypothesis Statement 16:
-
-- Creemos que el crecimiento de la educación híbrida aumentará la demanda de herramientas digitales integradas.
-- Sabremos que estamos en lo correcto cuando identifiquemos un incremento sostenido en la adopción de la plataforma durante ciclos académicos híbridos o virtuales.
-
-Hypothesis Statement 17:
-
-- Creemos que permitir a los estudiantes compartir recursos y materiales dentro de sus grupos mejorará el aprendizaje colaborativo.
-- Sabremos que estamos en lo correcto cuando observemos una alta frecuencia de archivos y enlaces compartidos en los espacios grupales.
-
-Hypothesis Statement 18:
-
-- Creemos que la disponibilidad de estadísticas y reportes académicos ayudará a los profesores a tomar mejores decisiones pedagógicas.
-- Sabremos que estamos en lo correcto cuando los profesores utilicen estas herramientas para ajustar sus clases y estrategias de enseñanza.
-
-Hypothesis Statement 19:
-
-- Creemos que promocionar la plataforma a través de programas académicos y redes sociales, atraerá la mayoría de nuestros usuarios.
-- Sabremos que estamos en lo correcto cuando veamos un aumento significativo en los registros de nuevos usuarios.
-
-Hypothesis Statement 20:
-
-- Creemos que incluir una sección de anuncios importantes permitirá mantener informada a la comunidad académica sin depender de medios externos.
-- Sabremos que estamos en lo correcto cuando los usuarios accedan frecuentemente a esta sección.
-
 ##### 1.2.2.4. Lean UX Canvas
 
-
-<img src="./images/chapter-1/LeanUXCanvas.png" alt="Lean UX Canvas">
-
-
 ### 1.3. Segmentos Objetivo
-
-### **Segmento Objetivo 1: Estudiantes Universitarios**
-
-Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colaborativo. Necesitan centralizar tareas, horarios y materiales académicos, además de motivación mediante retos gamificados. Benefician de conexión directa con profesores y sistemas de reconocimiento por logros.
-
-**Edad aproximada:** 17-25 años
-
-**Necesidades:**
-
-- Organización eficiente de estudios grupales
-- Acceso centralizado a materiales, horarios y tareas
-- Motivación mediante gamificación y reconocimiento académico
--
-
-**Beneficios clave:**
-
-- Plataforma única para gestión de aprendizaje colaborativo
-- Sistema de retos que potencia habilidades prácticas
-- Conexión directa con profesores y compañeros
-
-### **Segmento Objetivo 2: Profesores Universitarios**
-
-Educadores innovadores que requieren soluciones para dinamizar sus clases y reducir carga administrativa. Buscan crear actividades interactivas, monitorear progreso estudiantil y adaptarse a diferentes metodologías pedagógicas.
-
-**Edad aproximada:** 30-55 años
-
-**Necesidades:**
-
-- Herramientas para dinamizar la enseñanza
-- Reducción de carga administrativa
-- Monitoreo del progreso estudiantil
-
-**Beneficios clave:**
-
-- Creación de retos académicos personalizables
-- Panel de analytics para seguimiento de alumnos
-- Integración flexible con metodologías educativas existentes
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
