@@ -363,7 +363,7 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos. 
 Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
 
-<img src="./images/chapter-4/Organization_system.png" alt="Moodle" width="400"/>
+<img src="./images/chapter-4/Organization_system_2.png" alt="Moodle" width="400"/>
 
 **Estudiante**: Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
 
@@ -373,7 +373,7 @@ Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendr
 
 **•	Analytics**: El estudiante puede observar su progreso a lo largo de sus clases y hacer cálculos de posibles resultados que obtendría según hiciera distintos desafíos.
 
-**•	Schedule**: Aquí, se podrá visualizar un calendario con todas las actividades pertinentes del usuario, así como este mismo modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases
+**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del usuario, así como este mismo modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases
 
 **•	Badges**: Se pueden observar las distintas medallas e insignias que ha conseguido el estudiante a lo largo del curso, acentuando el valor de las herramientas de gamificación de la aplicación
 
@@ -385,7 +385,7 @@ Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendr
 
 **•	Analytics**: Se puede analizar el progreso del alumno al presentar las calificaciones del estudiante para encontrar a los que necesiten un apoyo mayor
 
-**•	Schedule**: Aquí, se podrá visualizar un calendario con todas las actividades pertinentes del profesor como las clases, así como este puede modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases.
+**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del profesor como las clases, así como este puede modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases.
 
 **•	Badges**: Se puede hacer entrega de insignias a los estudiantes que cumplan diversas actividades, además de gestionar el aprendizaje y la motivación de estos mediante estas herramientas
 
@@ -402,7 +402,7 @@ Las etiquetas en la landing page son simples y fáciles de entender para no gene
 
 **•	Analytics**: La sección Analyitcs muestra el progreso de los alumnos y los cambios que se tendrían al realizar las tareas
 
-**•	Schedule**: La sección Schedula se encarga de mostrar y editar el calendario de las clases.
+**•	Schedule**: La sección Schedula se encarga de mostrar y editar el horario de las clases.
 
 **•	Badges**: La sección Badges es la encargada de dar y mostrar las diferentes insignias referentes a los desafíos completados
 
@@ -456,9 +456,9 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 **Schedule**:
 
-**•	Title**: Calendario académico
+**•	Title**: Horario académico
 
-**•	Meta Description**: Acceso a un calendario académico que se puede editar al agregar distintos eventos
+**•	Meta Description**: Acceso a un horario académico que se puede editar al agregar distintos eventos
 
 **•	Keywords**: gestión de tiempo, eventos, organización de clases
 
@@ -477,7 +477,7 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 #### 4.2.4. Searching Systems
 La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
-Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados.
+Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados. Mediante un side bar se podrán observar las diferentes funciones que se encuentran en el header de la aplicación.
 
 #### 4.2.5. Navigation Systems
 El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
@@ -538,7 +538,21 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 *	Profesor: Puede analizar el progreso académico de sus alumnos
 
-**5.	Sección de Badges**
+**5.	Sección de Schedule**
+
+**•	Estructura**:
+
+*	Visualización del horario académico de los estudiantes
+
+*	Acceso a una función para agregar y editar distintos eventos en el horario.
+
+**•	Acción del Usuario**:
+
+*	Estudiante: Visualizar su horario y editarlo como desee
+
+*	Profesor: Puede observar su propio horario y gestionar eventos y actividades referentes a sus alumnos
+
+**6.	Sección de Badges**
 
 **•	Estructura**:
 
