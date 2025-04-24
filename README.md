@@ -889,6 +889,8 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 #### 4.8.1. Database Diagram
 
+![ERD EduHive](/images/chapter-4/erdEduHive.png)
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
