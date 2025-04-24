@@ -434,9 +434,7 @@ En esta sección, nuestro equipo establece los medios y el esquema de  organizac
 
 El equipo ha definido las siguientes convenciones de nombres y estilos de codificación, aplicadas en los lenguajes **HTML, CSS, JavaScript, TypeScript y Java**. Todas las nomenclaturas están en **inglés**, buscando claridad, estandarización y buenas prácticas de desarrollo. Se han adoptado guías de estilo reconocidas y actualizadas para cada tecnología.
 
----
-
-## 🟠 HTML
+### HTML
 
 - **Guía adoptada**: [W3C HTML Style Guide](https://www.w3.org/TR/html5/)
 - **Nomenclatura y convenciones**:
@@ -446,9 +444,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
   - Uso semántico de etiquetas: `<header>`, `<section>`, `<footer>`
   - Comentarios HTML: `<!-- This is a comment -->`
 
----
-
-## 🔵 CSS
+### CSS
 
 - **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - **Nomenclatura y convenciones**:
@@ -458,9 +454,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
   - Evitar `!important` a menos que sea necesario.
   - Indentación: 2 espacios.
 
----
-
-## 🟡 JavaScript
+### JavaScript
 
 - **Guía adoptada**: [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 - **Nomenclatura y convenciones**:
@@ -480,9 +474,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
       function calculateTotal() {}
       ```
 
----
-
-## 🟢 TypeScript
+### TypeScript
 
 - **Guía adoptada**: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 - **Nomenclatura y convenciones**:
@@ -494,9 +486,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
   - Interfaces nombradas con sufijo `DTO` o `Props`.
   - Uso de modificadores `readonly`, `private`, `public`.
 
----
-
-## 🔴 Java
+### Java
 
 - **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - **Nomenclatura y convenciones**:
@@ -521,7 +511,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 Adicionalmente hemos considerado tener convenciones para los siguientes apartados:
 
 
-## 🟠 Gherkin Conventions for Readable Specifications
+### Gherkin Conventions for Readable Specifications
 
 - **Guía adoptada**: [Gherkin Syntax and Conventions](https://cucumber.io/docs/gherkin/reference/)
 - **Nomenclatura y convenciones**:
@@ -546,9 +536,7 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
       | user2    | pass456  |
     ```
 
----
-
-## 🔵 Angular Coding Style Guide
+### Angular Coding Style Guide
 
 - **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
 - **Nomenclatura y convenciones**:
@@ -562,9 +550,7 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
   - **Uso de `trackBy` en `*ngFor`**: Para mejorar el rendimiento al iterar sobre listas grandes.
   - **Servicios**: `camelCase` para nombres de funciones y métodos.
 
----
-
-## 🟡 Spring Boot Features
+### Spring Boot Features
 
 - **Guía adoptada**: [Spring Boot Features](https://spring.io/projects/spring-boot)
 - **Nomenclatura y convenciones**:
@@ -588,6 +574,108 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 
 
 #### 5.1.4. Software Deployment Configuration
+
+Esta sección describe la configuración y los pasos necesarios para realizar el despliegue exitoso de los diferentes productos digitales en la solución. A continuación se especifican los pasos para desplegar la **Landing Page en GitHub Pages**, el **Frontend Web Application en Firebase** y los **Web Services Backend en Azure**.
+
+
+### Despliegue de la Landing Page en GitHub Pages
+
+#### Pasos de despliegue:
+
+1. **Preparar el repositorio**:
+
+   - Asegúrate de que tu código de la Landing Page esté en el repositorio correcto de GitHub.
+   - El repositorio debe contener todos los archivos estáticos necesarios (HTML, CSS, JavaScript, imágenes, etc.).
+2. **Configurar GitHub Pages**:
+
+   - En el repositorio de GitHub, ve a la pestaña **Settings**.
+   - En la sección **Pages**, selecciona la rama que deseas usar para desplegar el sitio. Generalmente, se usa la rama `main` o `gh-pages` (si se tiene una rama específica para ello).
+   - En la opción **Source**, selecciona la carpeta del proyecto (usualmente `root` o `docs` si es necesario) y confirma la configuración.
+3. **Desplegar**:
+
+   - Una vez configurado, GitHub generará una URL en la sección **GitHub Pages** (por ejemplo, `https://tu-usuario.github.io/tu-repositorio`).
+   - El despliegue se realizará automáticamente con cada cambio realizado en la rama seleccionada, siempre y cuando se realicen **commits** que actualicen el repositorio.
+4. **Verificación**:
+
+   - Accede a la URL proporcionada por GitHub Pages y verifica que el sitio esté funcionando correctamente.
+
+### Despliegue de la Frontend Web Application en Firebase
+
+#### Pasos de despliegue:
+
+1. **Instalar Firebase CLI**:
+
+   - Si no lo has hecho, instala Firebase CLI en tu máquina local:
+     ```bash
+     npm install -g firebase-tools
+     ```
+2. **Iniciar sesión en Firebase**:
+
+   - Inicia sesión en Firebase desde la terminal:
+     ```bash
+     firebase login
+     ```
+3. **Inicializar el proyecto en Firebase**:
+
+   - Navega a la raíz de tu proyecto y ejecuta el siguiente comando para inicializar Firebase:
+     ```bash
+     firebase init
+     ```
+   - Selecciona las opciones de Firebase Hosting durante la configuración.
+   - Asegúrate de elegir la carpeta correcta donde se encuentran los archivos de tu Frontend (generalmente `build/` o `dist/` si usas frameworks como React, Angular o Vue).
+4. **Construir la aplicación (si es necesario)**:
+
+   - Si usas un framework de JavaScript, ejecuta el comando para construir la aplicación:
+     - **React**:
+       ```bash
+       npm run build
+       ```
+     - **Angular**:
+       ```bash
+       ng build --prod
+       ```
+     - **Vue**:
+       ```bash
+       npm run build
+       ```
+   - Esto generará los archivos estáticos listos para el despliegue en una carpeta como `build/`, `dist/`, etc.
+5. **Desplegar a Firebase Hosting**:
+
+   - Una vez que el proyecto esté configurado y la aplicación esté construida, ejecuta el siguiente comando para desplegar:
+     ```bash
+     firebase deploy
+     ```
+6. **Verificación**:
+
+   - Accede a la URL proporcionada por Firebase para ver tu aplicación en vivo (por ejemplo, `https://tu-proyecto.web.app`).
+
+### Despliegue de los Web Services (Backend) en Azure
+
+#### Pasos de despliegue:
+
+1. **Preparar el proyecto**:
+
+   - Asegúrate de que tu backend esté listo para el despliegue. Esto incluye tener una aplicación Java, Node.js, Python o cualquier otro framework adecuado para los Web Services.
+2. **Crear un recurso en Azure**:
+
+   - En el portal de **Azure**, ve a la sección de **App Services** y selecciona **Create a Resource**.
+   - Elige la opción **App Service** y sigue los pasos para crear un nuevo recurso, configurando el nombre, la región y el sistema operativo (Linux o Windows).
+3. **Configurar el entorno de ejecución**:
+
+   - Selecciona el tipo de tecnología que utilizarás (por ejemplo, **Java**, **Node.js**, etc.).
+   - Asegúrate de que el servicio tenga acceso a los recursos necesarios, como bases de datos o almacenamiento en la nube, si es requerido.
+4. **Conectar el proyecto con el repositorio GitHub**:
+
+   - En la sección de **Deployment Center** de tu nuevo **App Service** en Azure, selecciona la opción **GitHub** como origen para el despliegue automático.
+   - Conecta tu cuenta de GitHub y selecciona el repositorio y la rama que contiene el código del backend.
+5. **Desplegar la aplicación**:
+
+   - Una vez conectado el repositorio de GitHub, configura los detalles del despliegue (si es necesario) y habilita el despliegue automático.
+   - Azure detectará automáticamente cualquier cambio en la rama seleccionada y desplegará los cambios cuando se realicen nuevos **commits**.
+6. **Verificación**:
+
+   - Una vez completado el despliegue, podrás acceder a tu Web Service a través de la URL proporcionada por Azure (por ejemplo, `https://mi-aplicacion.azurewebsites.net`).
+
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
