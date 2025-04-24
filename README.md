@@ -818,9 +818,32 @@ El Container Diagram de EduHive detalla la estructura interna del sistema, mostr
 
 <img src="./images/chapter-4/containerDiagram.png" alt="Container Diagram" width="600"/>
 
-
-
 #### 4.6.3. Software Architecture Components Diagrams
+
+Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Open Badges en el caso de BadgesBC).
+
+- Analytics BC
+
+<img src="./images/chapter-4/componentDiagram1.png" alt="Component Diagram 1" width="600"/>
+
+- Badges BC
+
+<img src="./images/chapter-4/componentDiagram2.png" alt="Component Diagram 2" width="600"/>
+
+- Challenges BC
+
+<img src="./images/chapter-4/componentDiagram3.png" alt="Component Diagram 3" width="600"/>
+
+
+- Schedule BC
+
+<img src="./images/chapter-4/componentDiagram4.png" alt="Component Diagram 4" width="600"/>
+
+- Teams BC
+
+<img src="./images/chapter-4/componentDiagram5.png" alt="Component Diagram 5" width="600"/>
+
+
 
 ### 4.7. Software Object-Oriented Design
 
