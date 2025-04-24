@@ -46,31 +46,31 @@
     <tr>
       <td>0.1</td>
       <td>2025-04-02</td>
-      <td>Casas Sanchez Gabriel Alexander, Astonitas Díaz Juan Diego y Pacheco Astiguetta Sebastian</td>
-      <td>Desarrollo de los ítems: 1.1. Startup Profile, que incluye los subítems 1.1.1. Descripción de la Startup y 1.1.2. Perfiles de integrantes del equipo. Luego se presenta el 1.2. Solution Profile, que contiene los apartados 1.2.1. Antecedentes y problemática y 1.2.2. Lean UX Process, el cual se desglosa en 1.2.2.1. Lean UX Problem Statements, 1.2.2.2, 1.2.2.3 y 1.2.2.4. Finalmente, se desarrolla la sección 1.3. Lean UX Assumptions, que incluye los ítems Lean UX Hypothesis Statements, Lean UX Canvas y Segmentos objetivo.</td>
+      <td>integrantes</td>
+      <td>Desarrollo de los ítems: </td>
     </tr>
     <tr>
       <td>0.2</td>
       <td>2025-04-07</td>
-      <td>Pasquale Barrenechea Gianluca Santino y Alejo Cardenas Jose Antonio</td>
-      <td>Desarrollo de los ítems: La sección 2 del informe está compuesta por varios apartados clave, comenzando con el 2.1. Competidores, que abarca los subítems 2.1.1. Análisis competitivo y 2.1.2. Estrategias y tácticas frente a competidores. Luego se desarrolla el 2.2. Entrevistas, que incluye 2.2.1. Diseño de entrevistas, 2.2.2. Registro de entrevistas y 2.2.3. Análisis de entrevistas. A continuación, se presenta el 2.3. Needfinding, compuesto por 2.3.1. User Personas, 2.3.2. User Task Matrix, 2.3.3. User Journey Mapping, 2.3.4. Empathy Mapping y 2.3.5. As-is Scenario Mapping. Finalmente, se cierra esta parte del informe con el apartado 2.4. Ubiquitous Language.</td>
+      <td>integrantes</td>
+      <td>Desarrollo de los ítems: </td>
     </tr>
     <tr>
       <td>0.3</td>
       <td>2025-04-18</td>
-      <td>Alejo Cardenas Jose Antonio, Astonitas Díaz Juan Diego</td>
-      <td>Desarrollo de los ítems: 3.1. To-Be Scenario Mapping, 3.2. Avance de las User Stories, 3.3. Impact Mapping y 3.4. Avance del Product Backlog.</td>
+      <td>integrantes</td>
+      <td>Desarrollo de los ítems: </td>
     </tr>
     <tr>
       <td>0.4</td>
       <td>2025-04-21</td>
-      <td>Casas Sanchez Gabriel Alexander, Alejo Cardenas Jose Antonio, Astonitas Díaz Juan Diego, Pasquale Barrenechea Gianluca Santino y Pacheco Astiguetta Sebastian</td>
-      <td>Desarrollo de los ítems: 3.2. Finalizacion de las User Stories, 3.4. Finalizacion del Product Backlog, 4.1. Strategic-Level Domain-Driven Design y comprende los siguientes subítems: 4.1.1. EventStorming, que a su vez incluye 4.1.1.1. Candidate Context Discovery, 4.1.1.2, 4.1.1.3. Domain Message Flows Modeling y Bounded Context Canvases. También se desarrolla el apartado 4.1.2. Context Mapping y 4.1.3. Software Architecture, que contiene 4.1.3.1. Software Architecture Context Level Diagrams, 4.1.3.2. Software Architecture Container Level Diagrams y 4.1.3.3 Software Architecture Deployment Diagrams.  </td>
+      <td>integrantes</td>
+      <td>Desarrollo de los ítems:   </td>
     </tr>
     <tr>
       <td>1.0</td>
       <td>2025-04-22</td>
-      <td>Casas Sanchez Gabriel Alexander, Astonitas Díaz Juan Diego y Alejo Cardenas Jose Antonio</td>
+      <td>integrantes</td>
       <td>Revisión completa hasta el capitulo 4, corrección ortográfica y coherencia global del reporte.</td>
     </tr>
   </tbody>
@@ -200,7 +200,7 @@ Desarrollé mi comunicación oral participando en las exposiciones sobre los hal
 <br>
       </td>
       <td>
-        x
+        A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.
       </td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@ Mendoza Vergara Franklin Alejandro-TB1:<br>
 Contribuí a la redacción de las User Stories del proyecto, redactándolas con detalle y claridad para asegurar su correcta interpretación por parte del equipo. También participé en la creación de la Information Architecture, asegurándome de organizar la información de forma lógica y comprensible. En la documentación de Web Applications UX/UI Design, redacté propuestas visuales y funcionales usando un lenguaje técnico pero accesible, garantizando que la documentación fuera útil para desarrolladores, diseñadores y docentes por igual.
 <br>
       <td>
-        x
+        El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.
       </td>
     </tr>
   </tbody>
