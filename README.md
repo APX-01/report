@@ -466,7 +466,6 @@ URL: [Entrevista Luis](https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkA
   - Inicio de la entrevista: 0:10
   - Duración: 07:30
 
-
 <img src="./images/chapter-2/entrevistaS13.png" alt="Moodle" width="800"/>
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link)
@@ -476,14 +475,17 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAR
 
 *Segmento Profesores Universitarios:*
 
-* **Profesores Universitarios**
+- Entrevista 1
 
-  - Entrevista 1
   - Nombre: Jose Alejandro
   - Apellidos: Marchena Chauca
   - Edad: 23 Años
+  - Distrito: -
+  - Inicio de la entrevista: -
+  - Duración: -
 
-![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/Entrevista-Jose.png)
+
+![Imagen de la entrevista 1 del Segmento Objetivo 2](/images/chapter-2/Entrevista-Jose.png)
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link)
 
@@ -491,14 +493,17 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-m
 
   - Durante la entrevista, el docente compartió su experiencia como profesor en un instituto, destacando las limitaciones que enfrentaba en su labor diaria. A pesar de que recibía material por parte de la institución, este resultaba insuficiente y carecía de elementos interactivos que facilitaran el aprendizaje de sus alumnos. Además, comentó que los canales de comunicación eran poco eficientes, ya que solían limitarse a mensajes por WhatsApp o correos electrónicos, lo que dificultaba un acompañamiento más cercano y organizado.
   - Al presentarle la plataforma educativa, su interés fue inmediato. Señaló que le ofrecía precisamente las herramientas que le hubiera gustado tener en su etapa docente. Le llamó la atención la posibilidad de interactuar con sus estudiantes de manera más dinámica, ya sea enviando horarios, proponiendo retos personalizados o haciendo seguimiento al progreso individual de cada alumno. Valoró especialmente la función de análisis del rendimiento, ya que permite identificar en qué temas destaca cada estudiante, lo que facilitaría una enseñanza más personalizada y efectiva.
-
-  **Entrevista 2**
+- Entrevista 2
 
   - Nombre: Melina Micaela
   - Apellidos: Orderique Castro
   - Edad: 22 Años
+  - Distrito: -
+  - Inicio de la entrevista: -
+  - Duración: -
 
-![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/Interviews-Melina.png)
+
+![Imagen de la entrevista 1 del Segmento Objetivo 2](/images/chapter-2/Interviews-Melina.png)
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link)
 
@@ -539,7 +544,6 @@ Los estudiantes están enfocados en mejorar su situación académica con herrami
 La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, falta de materiales y dificultad en el seguimiento del progreso del alumno.
 
 Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas lúdicas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
-
 
 ### 2.3. Needfinding
 
