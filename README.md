@@ -256,6 +256,88 @@ Abril 2025
 
 #### 5.1.1. Software Development Environment Configuration
 
+Antes de comenzar, es importante definir claramente los requisitos de  la página web. Esto incluye las funcionalidades que se desean ofrecer  en nuestra plataforma.
+
+* Project Management:
+
+  * Trello
+    Propósito de Uso: Gestión de tareas del equipo, seguimiento de actividades y organización del flujo de trabajo del proyecto.
+    Ruta de Referencia/Descarga: [Trello](https://trello.com) (SaaS)
+
+  <img src="./images/chapter-5/trello.png" alt="Trello" width="400"/>
+* Requirements Management:
+
+  * Google Docs
+
+    Propósito de Uso: Redactar y compartir la documentación de requisitos funcionales y no funcionales del proyecto, permitiendo colaboración en tiempo real entre los miembros del equipo.
+    Ruta de Referencia/Descarga: [Google Docs](https://docs.google.com) (SaaS)
+
+    <img src="./images/chapter-5/googleDocs.png" alt="Google Docs" width="400"/>
+* Product UX/UI Design:
+
+  * Figma
+
+    Propósito de Uso: Diseño de wireframes, prototipos navegables y diagramas de flujo de pantallas (wireflows).
+    Ruta de Referencia/Descarga: [Figma](https://www.figma.com) (SaaS)
+
+    <img src="./images/chapter-5/figma.png" alt="Figma" width="400"/>
+* Software Development:
+
+  * GitHub (con GitFlow)
+
+    Propósito de Uso: Control de versiones, colaboración entre desarrolladores, organización mediante ramas y almacenamiento del código y documentación.
+    Ruta de Referencia/Descarga: [GitHub](https://github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHub.png" alt="Git Hub" width="400"/>
+  * WebStorm IDE
+
+    Propósito de Uso: Edición del código fuente del proyecto.
+    Ruta de Referencia/Descarga: [WebStorm IDE](https://www.jetbrains.com/webstorm/) (SaaS)
+
+    <img src="./images/chapter-5/webStorm.png" alt="Web Storm" width="400"/>
+  * Postman:
+
+    Propósito de Uso: Pruebas de APIs para verificar peticiones, respuestas y funcionamiento de los endpoints.
+    Ruta de Referencia/Descarga: [Postman](https://www.postman.com/downloads/) (SaaS)
+
+    <img src="./images/chapter-5/postman.png" alt="Postman" width="400"/>
+
+
+* Software Deployment:
+
+  * Firebase
+
+    Propósito de Uso: Plataforma utilizada para el despliegue y alojamiento del producto digital, así como servicios backend como base de datos, autenticación y funciones en la nube.
+    Ruta de Referencia/Descarga: [Fire Base](https://firebase.google.com) (SaaS)
+
+    <img src="./images/chapter-5/fireBase.png" alt="Firebase" width="400"/>
+  * GitHub Page
+
+    Propósito de Uso: Despliegue de la landing page del proyecto, permitiendo su visualización pública desde el repositorio.
+    Ruta de Referencia/Descarga: [GitHub Actions](https://pages.github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHubPages.png" alt="Github Pages" width="300"/>
+  * Microsoft Azure
+
+    Propósito de Uso: Plataforma para el despliegue del backend del sistema, incluyendo servicios como API hosting, bases de datos y autenticación.
+    Ruta de Referencia/Descarga: [Microsoft Azure](https://azure.microsoft.com) (SaaS)
+
+    <img src="./images/chapter-5/microsoftAzure.png" alt="Microsoft Azure" width="400"/>
+* Software Documentation:
+
+  * Git Hub
+    Propósito de Uso: Almacenamiento, versionado y colaboración en la documentación del proyecto, así como la gestión del repositorio que contiene la documentación.
+    Ruta de Referencia/Descarga: [Git Hub](https://github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHub.png" alt="Git Hub" width="400"/>
+  * Web Storm IDE
+    Propósito de Uso: Edición de archivos Markdown y documentación técnica relacionada al proyecto. Se utiliza para estructurar y organizar la documentación de forma eficiente.
+    Ruta de Referencia/Descarga: [Web Storm IDE](https://www.jetbrains.com/webstorm/) (SaaS)
+
+  <img src="./images/chapter-5/webStorm.png" alt="Web Storm IDE" width="400"/>
+
+  Con esta configuración, nuestro equipo puede colaborar de manera  eficiente y gestionar el ciclo de vida completo del desarrollo del  producto digital, desde la planificación hasta el despliegue y  mantenimiento.
+
 #### 5.1.2. Source Code Management
 
 #### 5.1.3. Source Code Style Guide & Conventions
