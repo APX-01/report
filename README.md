@@ -433,8 +433,8 @@ Tácticas:
 
 ![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
 
-  - Inicio: 0:23
-  - Duración: 4:46
+- Inicio: 0:23
+- Duración: 4:46
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing)
 
@@ -455,10 +455,26 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmf
 URL: [Entrevista Luis](https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing)
 
 - Resumen de la entrevista:
+
   - La entrevista con Luis nos indica principalmente tiene la dificultad de organizar su tiempo con sus horarios siendo estudiante y practicante.Asi mismo, usa herramientas como Google calendar, Trello y Notion para agendar clases, definir reuniones, seguir el profeso de sus tareas,etc. Nos comenta que usa googlemet y discord para reuniones, Notion para apuntes y GitHub para el codigo. También nos comenta que su motivacion se ve mermada conforme avanza el ciclo,ya que es mas dificil tener una buena organizacion con mas tareas. Ademas, busca un app organizada y centralizada priorizando la comunicacion. Por otro lado, considera que la gamificacion haria mucho mas interesante los cursos o temas. Por ultimo, usa bastante Whatsapp y Discord para temas academicos, pues le permiten una mayor libertad, comodidad y simplicidad mediante sus interfaces.
+- *Entrevista 3*
+
+  - Nombre: Jhon Alexander
+  - Apellidos: Chuchon
+  - Edad: 19 años
+  - Distrito: San Martin de Porres
+  - Inicio de la entrevista: 0:10
+  - Duración: 07:30
+
+
+<img src="./images/chapter-2/entrevistaS13.png" alt="Moodle" width="800"/>
+
+URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link)
+
+- Resumen de la entrevista:
+  - La entrevista con Jhon resalta la importancia de que los estudiantes universitarios se mantengan comunicados, organizados y motivados. Él menciona que valora las plataformas que están bien estructuradas y que ofrecen diversas herramientas integradas en un solo lugar. Además, considera que un sistema gamificado sería útil, ya que fomentaría la competitividad, la motivación por superarse y una mayor participación entre los estudiantes. Finalmente, destaca la utilidad de poder visualizar fácilmente las fechas límite de tareas o pendientes, ya que es común que los estudiantes las olviden.
 
 *Segmento Profesores Universitarios:*
-
 
 * **Profesores Universitarios**
 
@@ -474,13 +490,10 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-m
 - Resumen de la entrevista:
 
   - Durante la entrevista, el docente compartió su experiencia como profesor en un instituto, destacando las limitaciones que enfrentaba en su labor diaria. A pesar de que recibía material por parte de la institución, este resultaba insuficiente y carecía de elementos interactivos que facilitaran el aprendizaje de sus alumnos. Además, comentó que los canales de comunicación eran poco eficientes, ya que solían limitarse a mensajes por WhatsApp o correos electrónicos, lo que dificultaba un acompañamiento más cercano y organizado.
-
   - Al presentarle la plataforma educativa, su interés fue inmediato. Señaló que le ofrecía precisamente las herramientas que le hubiera gustado tener en su etapa docente. Le llamó la atención la posibilidad de interactuar con sus estudiantes de manera más dinámica, ya sea enviando horarios, proponiendo retos personalizados o haciendo seguimiento al progreso individual de cada alumno. Valoró especialmente la función de análisis del rendimiento, ya que permite identificar en qué temas destaca cada estudiante, lo que facilitaría una enseñanza más personalizada y efectiva.
 
-
-
-
   **Entrevista 2**
+
   - Nombre: Melina Micaela
   - Apellidos: Orderique Castro
   - Edad: 22 Años
@@ -492,31 +505,24 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1o
 - Resumen de la entrevista:
 
   - Durante la entrevista, la docente compartió su experiencia previa en el ámbito educativo, destacando que había utilizado diversos recursos para apoyar el aprendizaje de sus alumnos, como una pizarra interactiva y juegos didácticos, entre ellos el popular "pupiletras", con el objetivo de captar su atención de manera lúdica.
-
   - Sin embargo, mencionó que enfrentaba ciertas limitaciones, especialmente en lo que respecta a la participación activa de los estudiantes. Aunque deseaba que ellos pudieran interactuar directamente en la pizarra durante sus explicaciones, las herramientas disponibles no lo permitían. Además, señaló que la comunicación y organización fuera del aula resultaban poco prácticas, ya que debía enviar horarios o comunicados a través de WhatsApp o correos electrónicos. También comentó que no contaba con una plataforma donde pudiera centralizar actividades, tareas o avisos, lo que la obligaba a anunciar todo exclusivamente durante las clases presenciales.
 
 **Entrevista 3**
 
 - Nombre: Ariana
-
--	Apellidos: Castilla
-
--	Edad: 24 Años
-
--	Distrito: La Victoria
-
--	Inicio de la entrevista: 0:03
-
--	Duracion: 06:14
+- Apellidos: Castilla
+- Edad: 24 Años
+- Distrito: La Victoria
+- Inicio de la entrevista: 0:03
+- Duracion: 06:14
 
 ![Imagen de la entrevista 3 del Segmento Objetivo 2](/images/chapter-2/Entrevista_3.png)
 
 URL: https://youtu.be/QTE_TH3pnVc
 
--	Resumen de la entrevista:
+- Resumen de la entrevista:
 
-    -	La entrevista con Ariana nos cuenta que, como profesora de idiomas, actualmente usa aplicaciones como Canva, materiales de libros en la red y videos de Youtube, además del uso de la IA para preparar fichas para resolver. Lo que más busca en una aplicación educativa es que se realice un seguimiento al progreso de los alumnos, para saber que partes se le complica. Además, como actividades interactivas destaca el uso de exposiciones y ve como una buena idea el uso de herramientas gamificadas y un sistema de contactos directos con el alumno para mejorar el aprendizaje.
-
+  - La entrevista con Ariana nos cuenta que, como profesora de idiomas, actualmente usa aplicaciones como Canva, materiales de libros en la red y videos de Youtube, además del uso de la IA para preparar fichas para resolver. Lo que más busca en una aplicación educativa es que se realice un seguimiento al progreso de los alumnos, para saber que partes se le complica. Además, como actividades interactivas destaca el uso de exposiciones y ve como una buena idea el uso de herramientas gamificadas y un sistema de contactos directos con el alumno para mejorar el aprendizaje.
 
 #### 2.2.3. Análisis de entrevistas
 
