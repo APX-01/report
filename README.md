@@ -432,6 +432,161 @@ En esta sección, nuestro equipo establece los medios y el esquema de  organizac
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
+El equipo ha definido las siguientes convenciones de nombres y estilos de codificación, aplicadas en los lenguajes **HTML, CSS, JavaScript, TypeScript y Java**. Todas las nomenclaturas están en **inglés**, buscando claridad, estandarización y buenas prácticas de desarrollo. Se han adoptado guías de estilo reconocidas y actualizadas para cada tecnología.
+
+---
+
+## 🟠 HTML
+
+- **Guía adoptada**: [W3C HTML Style Guide](https://www.w3.org/TR/html5/)
+- **Nomenclatura y convenciones**:
+  - Minúsculas para etiquetas y atributos: `<div class="container">`
+  - Indentación: 2 espacios.
+  - Atributos entre comillas dobles: `<img src="logo.png" alt="Company Logo">`
+  - Uso semántico de etiquetas: `<header>`, `<section>`, `<footer>`
+  - Comentarios HTML: `<!-- This is a comment -->`
+
+---
+
+## 🔵 CSS
+
+- **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- **Nomenclatura y convenciones**:
+  - `kebab-case` para clases e IDs:
+    Ejemplo: `.main-header`, `#footer-section`
+  - Agrupación de estilos por componente.
+  - Evitar `!important` a menos que sea necesario.
+  - Indentación: 2 espacios.
+
+---
+
+## 🟡 JavaScript
+
+- **Guía adoptada**: [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- **Nomenclatura y convenciones**:
+  - `camelCase` para variables y funciones:
+    Ejemplo: `let userName = 'José';`, `function calculateTotal() {}`
+  - `PascalCase` para clases:
+    Ejemplo: `class ShoppingCart { }`
+  - Evitar `snake_case`.
+  - Usar `const` y `let` en lugar de `var`.
+  - Comentarios:
+    - Línea: `// Get user info`
+    - Bloque:
+      ```js
+      /**
+       * Calculates total price with tax.
+       */
+      function calculateTotal() {}
+      ```
+
+---
+
+## 🟢 TypeScript
+
+- **Guía adoptada**: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+- **Nomenclatura y convenciones**:
+  - `camelCase` para variables, funciones y propiedades:
+    Ejemplo: `let isActive: boolean = true;`, `function getUserData() {}`
+  - `PascalCase` para clases, interfaces, enums y tipos:
+    Ejemplo: `class ProductItem {}`, `interface UserDTO {}`, `enum Status { Active, Inactive }`
+  - Tipado estricto (`strict: true`) habilitado.
+  - Interfaces nombradas con sufijo `DTO` o `Props`.
+  - Uso de modificadores `readonly`, `private`, `public`.
+
+---
+
+## 🔴 Java
+
+- **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- **Nomenclatura y convenciones**:
+  - `PascalCase` para clases:
+    Ejemplo: `public class OrderService {}`
+  - `camelCase` para variables, métodos y atributos:
+    Ejemplo: `int totalAmount;`, `calculateTotalPrice();`
+  - Constantes en MAYÚSCULAS con `snake_case`:
+    Ejemplo: `public static final int MAX_USERS = 100;`
+  - Comentarios tipo Javadoc:
+    ```java
+    /**
+     * Gets the total price of all items.
+     * @return total price
+     */
+    public double getTotalPrice() {}
+    ```
+  - Paquetes en minúsculas separados por punto:
+    Ejemplo: `com.project.backend.controller`
+
+
+Adicionalmente hemos considerado tener convenciones para los siguientes apartados:
+
+
+## 🟠 Gherkin Conventions for Readable Specifications
+
+- **Guía adoptada**: [Gherkin Syntax and Conventions](https://cucumber.io/docs/gherkin/reference/)
+- **Nomenclatura y convenciones**:
+  - **Estructura**:
+    - **Given**: Define el contexto o el estado inicial.
+    - **When**: Define la acción o evento que ocurre.
+    - **Then**: Define el resultado o la expectativa después de la acción.
+  - Ejemplo:
+    ```gherkin
+    Feature: User login
+      Scenario: Successful login with valid credentials
+        Given the user is on the login page
+        When the user enters valid credentials
+        Then the user should be redirected to the dashboard
+    ```
+  - **Uso de tablas** para datos:
+    Ejemplo:
+    ```gherkin
+    Given the following users exist:
+      | username | password |
+      | user1    | pass123  |
+      | user2    | pass456  |
+    ```
+
+---
+
+## 🔵 Angular Coding Style Guide
+
+- **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
+- **Nomenclatura y convenciones**:
+  - **Estructura de carpetas**:
+    - `app/` para componentes, servicios y módulos.
+    - `assets/` para imágenes, fuentes y otros recursos.
+  - **Nombres de clases**: `PascalCase` para componentes, servicios y directivas.
+    Ejemplo: `export class UserProfileComponent { }`
+  - **Componentes Standalone**: Usar `standalone: true` en la declaración de `@Component`.
+  - **Indentación**: 2 espacios.
+  - **Uso de `trackBy` en `*ngFor`**: Para mejorar el rendimiento al iterar sobre listas grandes.
+  - **Servicios**: `camelCase` para nombres de funciones y métodos.
+
+---
+
+## 🟡 Spring Boot Features
+
+- **Guía adoptada**: [Spring Boot Features](https://spring.io/projects/spring-boot)
+- **Nomenclatura y convenciones**:
+  - **Paquetes**: El paquete raíz debe ser el nombre del proyecto, seguido de subpaquetes para organización.
+    Ejemplo: `com.projectname.backend`
+  - **Clases y métodos**: Usar `PascalCase` para clases y `camelCase` para métodos y variables.
+  - **Configuración**: Usar `@Value` para inyectar propiedades desde archivos `application.properties`.
+  - **Controladores**:
+    Ejemplo:
+    ```java
+    @RestController
+    @RequestMapping("/api/users")
+    public class UserController {
+      @GetMapping("/{id}")
+      public ResponseEntity<User> getUser(@PathVariable Long id) {
+        // Logic
+      }
+    }
+    ```
+  - **Logging**: Usar `@Slf4j` para la integración de `SLF4J` en clases de servicios y controladores.
+
+
 #### 5.1.4. Software Deployment Configuration
 
 ### 5.2. Landing Page, Services & Applications Implementation.
