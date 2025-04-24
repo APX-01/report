@@ -812,8 +812,13 @@ El Context Diagram de EduHive presenta una visión de alto nivel del sistema, ce
 
 <img src="./images/chapter-4/contextDiagram.png" alt="Context Diagram" width="600"/>
 
-
 #### 4.6.2. Software Architecture Container Diagrams
+
+El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cinco Bounded Contexts especializados: Challenges BC, Teams BC, Analytics BC, Schedule BC y Badges BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Badges BC adicionalmente interactúa con el sistema externo Open Badges para las insignias digitales.
+
+<img src="./images/chapter-4/containerDiagram.png" alt="Container Diagram" width="600"/>
+
+
 
 #### 4.6.3. Software Architecture Components Diagrams
 
