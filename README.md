@@ -301,8 +301,6 @@ Antes de comenzar, es importante definir claramente los requisitos de  la págin
     Ruta de Referencia/Descarga: [Postman](https://www.postman.com/downloads/) (SaaS)
 
     <img src="./images/chapter-5/postman.png" alt="Postman" width="400"/>
-
-
 * Software Deployment:
 
   * Firebase
@@ -341,7 +339,6 @@ Antes de comenzar, es importante definir claramente los requisitos de  la págin
 #### 5.1.2. Source Code Management
 
 En esta sección, nuestro equipo establece los medios y el esquema de  organización que aplicará para el seguimiento de modificaciones  utilizando GitHub como plataforma y sistema de control de versiones.  De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.
-
 
 * Plataforma de control de versiones:
   De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.  Los URLs de los repositorios son los siguientes:
@@ -429,7 +426,6 @@ En esta sección, nuestro equipo establece los medios y el esquema de  organizac
 
     fix(landing): fix landing header
 
-
 #### 5.1.3. Source Code Style Guide & Conventions
 
 El equipo ha definido las siguientes convenciones de nombres y estilos de codificación, aplicadas en los lenguajes **HTML, CSS, JavaScript, TypeScript y Java**. Todas las nomenclaturas están en **inglés**, buscando claridad, estandarización y buenas prácticas de desarrollo. Se han adoptado guías de estilo reconocidas y actualizadas para cada tecnología.
@@ -507,9 +503,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
   - Paquetes en minúsculas separados por punto:
     Ejemplo: `com.project.backend.controller`
 
-
 Adicionalmente hemos considerado tener convenciones para los siguientes apartados:
-
 
 ### Gherkin Conventions for Readable Specifications
 
@@ -572,11 +566,9 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
     ```
   - **Logging**: Usar `@Slf4j` para la integración de `SLF4J` en clases de servicios y controladores.
 
-
 #### 5.1.4. Software Deployment Configuration
 
 Esta sección describe la configuración y los pasos necesarios para realizar el despliegue exitoso de los diferentes productos digitales en la solución. A continuación se especifican los pasos para desplegar la **Landing Page en GitHub Pages**, el **Frontend Web Application en Firebase** y los **Web Services Backend en Azure**.
-
 
 ### Despliegue de la Landing Page en GitHub Pages
 
@@ -676,12 +668,57 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
 
    - Una vez completado el despliegue, podrás acceder a tu Web Service a través de la URL proporcionada por Azure (por ejemplo, `https://mi-aplicacion.azurewebsites.net`).
 
-
 ### 5.2. Landing Page, Services & Applications Implementation.
 
 #### 5.2.1. Sprint 1
 
 ##### 5.2.1.1. Sprint Planning 1
+
+
+<table >
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Planning Background</b></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2025-04-25</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>18:24 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td> Reunión virtual en Discord </td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>José Antonio Alejo Cárdenas y Omar Luquillas Asto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>José Antonio Alejo Cárdenas, Omar Luquillas Asto, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio y Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Goal & User Stories</b></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Nuestro enfoque está en crear una landing page que muestre claramente el propósito del producto con diseño responsive y contenido atractivo. Creemos que esto generará mayor interés por parte de los usuarios. Esto se confirmará cuando recibamos registros a través del formulario en la página.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>26 puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>26 puntos</td>
+  </tr>
+</table>
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
