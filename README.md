@@ -397,7 +397,7 @@ Cuando veo la vista gráfica de mi rendimiento,
 Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de los diferentes colores o indicadores de las gráficas.</td>
 <td>EP-004</td>
 </tr>
-    <tr><td>US-013</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>US-013</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
     <tr><td>US-014</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-015</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-016</td><td></td><td></td><td></td><td></td></tr>
