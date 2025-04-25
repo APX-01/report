@@ -147,6 +147,46 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
+
+<table>
+  <tr>
+    <th colspan="2"> Jose Antonio Alejo Cardenas </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/jose-pfp.jpg" alt="Jose Alejo" style="width: 500px; height: auto;"> </td>
+    <td> Soy José Alejo Cárdenas, estudiante de la carrera de Ingeniería de Software del sexto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software en el ambito de ciberseguridad. He estudiado lenguajes de programacion (javascript, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo. </td>
+  </tr>
+  <tr>
+    <th colspan="2"> b </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/b.jpg" alt="b" style="width: 500px; height: auto;"> </td>
+    <td> b </td>
+  </tr>
+  <tr>
+    <th colspan="2"> c </th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/c.jpg" alt="c" style="width: 500px; height: auto;"> </td>
+    <td> c. </td>
+  </tr>
+  <tr>
+    <th colspan="2">d</th>
+  </tr>
+  <tr>
+    <td> d </td>
+    <td> d </td>
+  </tr>
+  <tr>
+    <th colspan="2">e</th>
+  </tr>
+  <tr>
+    <td> <img src="images/chapter-1/e.png" alt="e" style="width: 500px; height: auto;"> </td>
+    <td> e </td>
+  </tr>
+</table>
+
+
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
@@ -342,9 +382,7 @@ Hypothesis Statement 20:
 
 ##### 1.2.2.4. Lean UX Canvas
 
-
 <img src="./images/chapter-1/LeanUXCanvas.png" alt="Lean UX Canvas">
-
 
 ### 1.3. Segmentos Objetivo
 
