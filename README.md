@@ -398,7 +398,7 @@ Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de lo
 <td>EP-004</td>
 </tr>
     <tr><td>US-013</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
-    <tr><td>US-014</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>US-014</td><td>Enviar respuesta a reto</td><td>Como estudiante, quiero poder realizar envíos a los retos, añadiendo imágenes o documentos adjuntos de acorde a la necesidad.</td><td>Escenario 1: Envío exitoso<br>Dado que el estudiante está en un reto activo<br>Cuando selecciona "Nuevo envío", adjunta un documento PDF y escribe un comentario<br>Y hace clic en "Enviar"<br>Entonces el sistema guarda el envío<br>Y muestra el mensaje "Envío realizado correctamente"<br><br>Escenario 2: Envío sin archivos<br>Dado que el estudiante está en un reto activo<br>Cuando intenta enviar sin adjuntar archivos ni texto<br>Entonces el sistema muestra "Debe agregar al menos un archivo o texto"<br>Y no permite completar el envío</td><td></td><td>EP-003</tr>
     <tr><td>US-015</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-016</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-017</td><td></td><td></td><td></td><td></td></tr>
