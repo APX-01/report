@@ -157,11 +157,11 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
     <td> Soy José Alejo Cárdenas, estudiante de la carrera de Ingeniería de Software del sexto ciclo. Desde pequeño he sentido facinacion por la tecnologia en general sobretodo por el funcionamiento, desarrollo y proteccion del software en el ambito de ciberseguridad. He estudiado lenguajes de programacion (javascript, python y C++), bases de datos (Microsoft SQL Server y Mongo DB) y Sistemas Operativos (Kali Linux y Windows). Asi mismo, tengo experiencia con hardware a nivel de esamblamiento de equipos y funcionamiento del mismo con sus especificaciones tecnicas. Además, mi constante comunicacion y organizacion durante cualquier trabajo grupal aportara mucho dinamismo al proyecto. Mis principales hobbies son entrenar en el gimnasio, jugar videojuegos con mis amigos y salir a conversar con estos ultimos durante algun almuerzo o cena. Para el proyecto aportare organizacion, comunicacion e inspiracion durante todo el transcurso del mismo. </td>
   </tr>
   <tr>
-    <th colspan="2"> b </th>
+    <th colspan="2"> Sebastián Omar Real Calderón </th>
   </tr>
   <tr>
-    <td> <img src="images/chapter-1/b.jpg" alt="b" style="width: 500px; height: auto;"> </td>
-    <td> b </td>
+    <td> <img src="images/chapter-1/sebastian-pfp.jpeg.jpg" alt="b" style="width: 500px; height: auto;"> </td>
+    <td> Soy Sebastián Real Calderón, estudainte de Ingeniería de Software. Tengo conocimiento de diferentes lenguajes de programación, como C#, C++ y Java. Mi mayor objetivo al desarrollar software es crear una experiencia de usuario con la que los consumidores puedan sentirse satisfechos al trabajar con nuestras aplicaciones. Asimismo, aspiro a ser un buen participante al mantener una comunicación constante con mis compañeros, resolviendo problemas y apoyándo a quién lo necesite para crear un ambiente cómodo para todos. </td>
   </tr>
   <tr>
     <th colspan="2"> c </th>
