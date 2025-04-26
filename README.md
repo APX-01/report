@@ -800,6 +800,39 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Dashboard Student**
 
+Este mock-up representa el Dashboard principal de un estudiante en la plataforma EduHive. El diseño refleja una estructura organizada y amigable, siguiendo los principios de arquitectura de información clara, diseño inclusivo y la correcta aplicación del design system establecido.
+
+**Elementos destacados:**
+
+<ul>
+<li>Menú lateral izquierdo: contiene botones visibles para acceder al Perfil y al Dashboard, con un ícono de ayuda en la parte inferior. El fondo amarillo resalta y genera un contraste adecuado que facilita la navegación.
+<li>Área principal: muestra la sección “Join a Group” donde el usuario puede ingresar un código para unirse a un grupo de estudio.
+<li>Sección "Your Groups": organiza visualmente los cursos o grupos en tarjetas individuales, aplicando correctamente principios de modularidad y jerarquía visual.
+<ul>
+<li>Cada tarjeta contiene:
+<ul>
+<li>Imagen temática relacionada con el curso.
+<li>Nombre del instructor.
+<li>Nombre del curso.
+<li>Nivel de dificultad (Beginner, Intermediate, Expert).
+<li>Duración del curso.
+<li>Fecha de inicio.
+<li>Un botón de acción claro para ingresar.
+</ul>
+</ul>
+<li>Sistema de etiquetas (como "Diseño UI/UX" o "Web") que ayuda en la clasificación visual rápida.
+<li>Design System: uso consistente de colores corporativos (amarillo, negro, blanco) y componentes reutilizables como botones, tarjetas e íconos sociales.
+</ul>
+
+**Principios aplicados:**
+
+<ul>
+<li>Accesibilidad: Buen contraste de colores y tipografía legible.
+<li>Coherencia visual: Uso consistente de estilos y espaciado.
+<li>Arquitectura de la información: Organización lógica que permite una navegación fluida.
+<li>Diseño inclusivo: Diseño sencillo e intuitivo que puede ser usado por usuarios con diferentes niveles de habilidad tecnológica.
+</ul>
+
 <img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/><br>
 
 
