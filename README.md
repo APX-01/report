@@ -673,11 +673,11 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 **Segmento 1: Estudiantes Universitarios**
 
-<img src="./images/chapter-2/Empathy map_Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+<img src="./images/chapter-2/Empathy_map_Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
 **Segmento 2: Profesores Universitarios**
 
-<img src="./images/chapter-2/Empathy map_Teacher.png" alt="As-Is Estudiantes Universitarios" width="800"/>
+<img src="./images/chapter-2/Empathy_map_Teacher.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
 #### 2.3.5. As-is Scenario Mapping
 
