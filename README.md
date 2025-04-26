@@ -838,6 +838,9 @@ Este mock-up representa el Dashboard principal de un estudiante en la plataforma
 
 * **Group View**
 
+Este mock-up presenta la vista de grupo en EduHive, organizada en tarjetas de contenido que incluyen imagen, título, descripción breve y un botón "View More" en amarillo para cada tema. A la izquierda, un menú vertical ofrece botones para "Profile" y "Dashboard".
+A la derecha, una tarjeta muestra información del profesor, su email, sección y una lista de miembros. Se usa una estructura clara, jerarquía visual, accesibilidad, y un badge de nivel como detalle decorativo en la esquina superior derecha.
+
 <img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/><br>
 
 * **Challenge View**
