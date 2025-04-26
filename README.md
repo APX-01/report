@@ -231,8 +231,8 @@ Abril 2025
     </tr>
     <tr>
       <td>EP-005</td>
-      <td></td>
-      <td></td>
+      <td>Interacción y Navegación en la Landing page</td>
+      <td>Esta épica se centra en ofrecer una experiencia de navegación intuitiva y atractiva en la página de inicio de la plataforma, garantizando que los usuarios puedan acceder fácilmente a todas las secciones clave y funcionalidades principales como login y registro. La landing page actúa como puerta de entrada al sistema, por lo que su diseño interactivo y fluidez son esenciales para captar el interés de nuevos usuarios y guiarlos hacia la información relevante. La navegación sin fricciones y la presentación clara de los contenidos promueven una primera impresión positiva y una adopción más rápida de la plataforma.</td>
     </tr>
     <tr>
       <td>EP-006</td>
@@ -404,14 +404,107 @@ Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de lo
     <tr><td>US-017</td><td>Generación de Código de Invitación</td><td>Como profesor, quiero poder generar un código de invitación que pueda compartir con mis alumnos de forma sencilla para que se unan al grupo creado</td><td>Escenario 1: Generación de código exitosa<br>Dado que el profesor accede a un grupo creado<br>Cuando selecciona la opción "Generar código de invitación"<br>Entonces el sistema crea un código alfanumérico único<br>Y muestra las opciones para copiarlo/compartirlo<br><br>Escenario 2: Código ya generado<br>Dado que el grupo ya tiene un código activo<br>Cuando el profesor intenta generar otro código<br>Entonces el sistema muestra el código existente<br>Y ofrece renovarlo (invalidando el anterior)</td><td>EP-001</td></tr>
     <tr><td>US-018</td><td>Visualización de logros gamificados</td><td>Como estudiante, quiero ver mis insignias y puntos acumulados en un tablero personal, para mantenerme motivado con mi progreso académico.</td><td>Escenario 1: Visualización de logros<br>Dado que el estudiante ha completado retos<br>Cuando accede a su perfil<br>Entonces ve un tablero con insignias obtenidas y puntaje total<br><br>Escenario 2: Nuevo logro desbloqueado<br>Dado que el estudiante cumple condiciones para una nueva insignia<br>Cuando completa un reto especial<br>Entonces recibe notificación automática con el nuevo logro</td><td>EP-003</td></tr><tr><td>US-019</td><td>Configuración de notificaciones</td><td>Como usuario, quiero personalizar qué notificaciones recibo (recordatorios de retos, mensajes grupales, etc.), para optimizar mi experiencia en la plataforma.</td><td>Escenario 1: Personalización exitosa<br>Dado que el usuario accede a configuración<br>Cuando selecciona/deselecciona tipos de notificación<br>Y guarda los cambios<br>Entonces el sistema aplica las preferencias<br><br>Escenario 2: Notificación no deseada<br>Dado que el usuario desactivó notificaciones de logros<br>Cuando desbloquea una insignia<br>Entonces no recibe alerta en su bandeja</td><td>EP-001</td></tr><tr>
     <tr><td>US-020</td><td>Validación de códigos de grupo</td><td>Como estudiante, quiero poder validar códigos de invitación a grupos, para unirme rápidamente a las actividades académicas correctas.</td><td>Escenario 1: Unión exitosa a grupo<br>Dado que el estudiante ingresa un código válido<br>Cuando el sistema verifica que coincide con un grupo activo<br>Entonces se une automáticamente al grupo<br>Y recibe confirmación visual<br><br>Escenario 2: Código inválido<br>Dado que el estudiante ingresa un código expirado/erróneo<br>Cuando el sistema intenta validarlo<br>Entonces muestra mensaje claro "Código inválido o expirado"<br>Y sugiere solicitar uno nuevo al profesor</td><td>EP-001</td></tr>
-    <tr><td>US-021</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-022</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-023</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-024</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-025</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-026</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-027</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-028</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>US-021</td>
+<td>Interacción con la barra de navegación</td>
+<td>Como usuario, quiero usar la barra de navegación para acceder rápidamente a cualquier sección.</td>
+<td>Escenario 1: Navegación a secciones internas<br>
+Dado que el usuario está en la página principal<br>
+Cuando hace clic en un enlace del menú
+Entonces la página lo lleva a esa sección<br><br>
+Escenario 2: Acceso a secciones externas<br>
+Dado que el usuario quiere registrarse o ingresar<br>
+Cuando selecciona "Login" o "Register" en el menú<br>
+Entonces el sistema abre el formulario de inicio de sesión o registro.</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-022</td>
+<td>Sección de características principales</td>
+<td>Como usuario, quiero navegar a la sección de características principales para conocer las funcionalidades clave del sistema.</td>
+<td>Escenario 1: Ingreso a la sección Main Features<br>
+Dado que el usuario se encuentra en el landing page<br>
+Cuando hace clic en "Main Features" en el navbar<br>
+Entonces el sistema lo dirige a esa sección<br><br>
+Escenario 2: Visualización de características<br>
+Dado que el usuario está en la sección Main Features<br>
+Cuando scrollea hacia abajo<br>
+Entonces puede ver algunos iconos con descripciones de las funcionalidades</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-023</td>
+<td>Sección cursos populares</td>
+<td>Como usuario, quiero llegar a la sección de cursos populares para explorar las opciones mejor valoradas.</td>
+<td>Escenario 1: Navegación a la sección<br>
+Dado que el usuario está en la página principal<br>
+Cuando selecciona "Cursos Populares" en el navbar<br>
+Entonces la página hace scroll hasta la sección de cursos populares<br><br>
+Escenario 2: Exploración de cursos<br>
+Dado que el usuario se encuentra en la sección<br>
+Cuando interactúa con los cursos populares<br>
+Entonces puede ver tarjetas con imágenes, ratings y opción de ver más acerca del curso
+</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-024</td>
+<td>Sección Explore Course</td>
+<td>Como usuario, quiero acceder a la sección de blog para leer artículos educativos y ver recursos multimedia relacionados.</td>
+<td>Escenario 1: Redirección a la sección<br>
+Dado que el usuario hace clic en "Explore Course" en el navbar<br>
+Cuando la página completa la acción<br>
+Entonces llega a la sección con el listado completo de cursos</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-025</td>
+<td>Sección Blog</td>
+<td>Como usuario, quiero leer artículos educativos para aprender sobre temas relevantes.</td>
+<td>Escenario 1: Navegación al Blog<br>
+Dado que el usuario hace clic en "Blog" en la barra de navegación<br>
+Cuando la página lo dirige a la sección<br>
+Entonces el sistema muestra la página principal del blog con los artículos más recientes y contenido multimedia destacado<br><br>
+Escenario 2: Carga de contenido adicional<br>
+Dado que el usuario ha visto todos los artículos iniciales<br>
+Cuando decide ver más contenido<br>
+Entonces encuentra la opción para cargar publicaciones anteriores de manera sencilla</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-026</td>
+<td>Contacto</td>
+<td>Como usuario, quiero contactarme con el equipo para resolver dudas o problemas.</td>
+<td>Escenario 1: Apertura del formulario<br>
+Dado que el usuario hace clic en "Contacto"<br>
+Cuando el sistema lo dirija a la sección<br>
+Entonces se le mostrará el formulario para contactarse<br>
+Escenario 2: Validación de campos<br><br>
+Dado que el usuario dejó el email vacío<br>
+Cuando intenta enviar<br>
+Entonces ve el mensaje "Campo obligatorio"</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-027</td>
+<td>Acceso a Login</td>
+<td>Como usuario registrado, quiero iniciar sesión para acceder a mi cuenta.</td>
+<td>Escenario 1: Redirección al login<br>
+Dado que el usuario selecciona "Login"<br>
+Cuando la página carga<br>
+Entonces ve los campos para email y contraseña<br><br>
+Escenario 2: Error de credenciales<br>
+Dado que ingresó datos incorrectos<br>
+Cuando presiona "Acceder"<br>
+Entonces el sistema muestra "Credenciales inválidas"</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-028</td>
+<td>Acceso a Registro</td>
+<td>Como nuevo usuario, quiero crear una cuenta para usar la plataforma.</td>
+<td>Escenario 1: Apertura del formulario<br>
+Dado que el usuario hace clic en "Registro"<br>
+Cuando la página de registro carga<br>
+Entonces ve los campos obligatorios (nombre, email, etc.)<br><br>
+Escenario 2: Registro exitoso<br>
+Dado que completó todos los campos<br>
+Cuando envía el formulario<br>
+Entonces recibe un correo de confirmación</td>
+<td>EP-005</td>
+</tr>
     <tr><td>US-029</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-030</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-031</td><td></td><td></td><td></td><td></td></tr>
