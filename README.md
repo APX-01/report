@@ -798,6 +798,11 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.4.2. Web Applications Mock-ups
 
+* **Dashboard Student**
+
+<img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/>
+
+
 #### 4.4.3. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
