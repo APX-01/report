@@ -160,7 +160,7 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
     <th colspan="2"> Sebastián Omar Real Calderón </th>
   </tr>
   <tr>
-    <td> <img src="images/chapter-1/sebastian-pfp.jpeg.jpg" alt="b" style="width: 500px; height: auto;"> </td>
+    <td> <img src="images/chapter-1/sebastian-pfp.jpeg" alt="b" style="width: 500px; height: auto;"> </td>
     <td> Soy Sebastián Real Calderón, estudainte de Ingeniería de Software. Tengo conocimiento de diferentes lenguajes de programación, como C#, C++ y Java. Mi mayor objetivo al desarrollar software es crear una experiencia de usuario con la que los consumidores puedan sentirse satisfechos al trabajar con nuestras aplicaciones. Asimismo, aspiro a ser un buen participante al mantener una comunicación constante con mis compañeros, resolviendo problemas y apoyándo a quién lo necesite para crear un ambiente cómodo para todos. </td>
   </tr>
   <tr>
