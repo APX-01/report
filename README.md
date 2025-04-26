@@ -790,6 +790,54 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.3.2. Landing Page Mock-up
 
+* **Lading page**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Landing.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Contact**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Contact.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Login**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Safety**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Safety.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Error Page**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Error-Page.png" alt="light-mode" 
+  </td>
+</div><br>
+
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
