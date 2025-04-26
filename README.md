@@ -533,17 +533,16 @@ URL: https://youtu.be/QTE_TH3pnVc
 
 **Análisis Segmento 1**: Estudiantes Universitarios
 
-La entrevista con estudiantes universitarios destaca una diversa cantidad de problemas con los que lidian en su vida académica, tales como la falta de organización, la desmotivación y la falta de comunicación.
+La entrevista con estudiantes universitarios destacó muchos puntos en común. En primer lugar, una diversa cantidad de problemas con los que lidian en su vida académica, tales como la falta de organización, la desmotivación y la falta de comunicación. En segundo lugar, concordaron en que la implementación de un sistema gamificado con medallas y premios sería una gran idea para mantener la motivación de los proyectos y hacer las clases más interesantes. La mayoría de ellos resalta que una buena aplicación educativa debería contar con un sistema de notificaciones y una correcta organización para ayudar a los estudiantes menos hábiles. 
+Los estudiantes están enfocados en mejorar su situación académica con herramientas útiles e innovadores que busquen sacar la mayor productividad de cada uno de ellos. Algunos de ellos resaltaron el uso de diversas herramientas para agendar tarea o realizar proyectos en grupo como Google calendar o Trello, además del uso de redes sociales para coordinarse rápidamente y el uso de laptops que da mayor versatilidad en el avance de sus proyectos. 
 
-La mayoría de ellos resalta que una buena aplicación educativa debería contar con un sistema de notificaciones y una correcta organización para ayudar a los estudiantes menos hábiles. Además, todos acordaron que un sistema de gamificación con medallas y premios sería una gran idea que haría las clases más interesantes y motivarían más a los alumnos
-
-Los estudiantes están enfocados en mejorar su situación académica con herramientas útiles e innovadores que busquen sacar la mayor productividad de cada uno de ellos.
 
 **Análisis Segmento 2**: Profesores Universitarios
 
-La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, falta de materiales y dificultad en el seguimiento del progreso del alumno.
+La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, falta de materiales y dificultad en el seguimiento del progreso del alumno. Muchos de ellos concordaron en el uso de correo electrónico y Whatsapp para comunicarse con sus alumnos, además de implementar sus propias herramientas para captar la atención del alumno, entre ellas “pupiletras”, exposiciones y concursos online con quizzes. Lo que más se les complica fuera de clases era la búsqueda de materiales y una comunicación activa con sus alumnos.
+Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas gamificadas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
 
-Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas lúdicas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
+
 
 ### 2.3. Needfinding
 
