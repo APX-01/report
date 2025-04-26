@@ -529,10 +529,15 @@ Entonces recibe un correo de confirmación</td>
     <tr><td>US-036</td><td>Reporte de errores</td><td>Como usuario, quiero reportar fácilmente fallos técnicos en la plataforma, para ayudar a mejorar el sistema.</td><td>Escenario 1: Dado que el usuario detecta un error, Cuando hace clic en "Reportar un problema", Entonces puede enviar una descripción y captura de pantalla.<br><br>
     Escenario 2: Dado que el reporte es enviado, Cuando se registra exitosamente, Entonces el usuario recibe confirmación y un número de seguimiento.
 </td><td>EP-005</td></tr>
-    <tr><td>US-037</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-038</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-039</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-040</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>US-037</td><td>Seguridad de la cuenta con correo</td><td>Como usuario quiero que haya una fuerte seguridad de mi cuenta por correo electrónico para evitar vulneraciones</td><td>Escenario 1: Dado que creó una cuenta en la página Cuando escribo mi correo Entonces se me notifica que se ha enviado un mensaje de verificación.<br><br>
+    Escenario 2: Dado que recibo un mensaje de verificación Cuando escribo el mensaje Entonces mi cuenta es más difícil de vulnerar
+</td><td>EP-005</td></tr>
+    <tr><td>US-038</td><td>Olvido de contraseñas</td><td>Como usuario quiero poder cambiar contraseñas si me olvido de ella para tener buen registro de mi cuenta</td><td>Escenario 1: Dado que olvidé mi contraseña Cuando presióno el botón de “Olvidé mi contraseña” Entoncesme sale un menú para cambiarla<br><br>Escenario 2: Dado que lleno los datos que se me piden Cuando verificó que somos el mismo usuario Entonces cambió mi contraseña
+</td><td>EP-005</td></tr>
+    <tr><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>Como estudiante quiero tener estadísticas sobre mis insignias para tener una data de mis logros</td><td>Escenario 1: Dado que deseo tener la estadísticas de mis insignias Cuando ingresó a mi perfil Entonces me voy al apartado de estadísticas<br><br>Escenario 2: Dado que  entró al menú de estadísticas Cuando seleccione la información que deseo Entonces podré visualizar mis insignias
+</td><td>EP-003</td></tr>
+    <tr><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
+</td><td>EP-001</td></tr>
   </tbody>
 </table>
 
