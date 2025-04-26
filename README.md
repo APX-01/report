@@ -861,6 +861,10 @@ El fondo utiliza motivos de panal, reforzando la identidad visual de EduHive.
 
 * **Dashboard Teacher**
 
+Este mock-up presenta el panel de control para profesores, destacando la opción "Create a new group" con un botón de suma (+) en amarillo.
+Se visualiza un apartado de "Your Groups" con una tarjeta que muestra el curso, nivel, duración y fecha de inicio.
+A la izquierda, se encuentran los botones de navegación "Profile", "Dashboard" y "Help" sobre un fondo amarillo, siguiendo la identidad visual de la plataforma.
+
 <img src="./images/chapter-4/Dashboard-Teacher.png" alt="Context Diagram" width="800"/><br>
 
 * **Group Creation**
