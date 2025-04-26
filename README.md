@@ -179,11 +179,11 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
  </td>
   </tr>
   <tr>
-    <th colspan="2">e</th>
+    <th colspan="2">Josue Flores Apaico</th>
   </tr>
   <tr>
-    <td> <img src="images/chapter-1/e.png" alt="e" style="width: 500px; height: auto;"> </td>
-    <td> e </td>
+    <td> <img src="images/chapter-1/JosueFlores.png" alt="Josue Flores Apaico" style="width: 500px; height: auto;"> </td>
+    <td> Soy Josue Flores es una persona creativa, perseverante y empática, con interés en áreas como la Inteligencia Artificial, ciberseguridad y ciencia de datos. Busca aplicar sus conocimientos en C++, Python, C# y Java dentro de una startup tecnológica, impulsando la innovación y la mejora continua. Cuenta con experiencia práctica en proyectos y participación en conferencias de ciberseguridad. </td>
   </tr>
 </table>
 
