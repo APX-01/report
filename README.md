@@ -170,11 +170,13 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
     <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente. </td>
   </tr>
   <tr>
-    <th colspan="2">d</th>
+    <th colspan="2">Alejandro Mendoza</th>
   </tr>
   <tr>
-    <td> d </td>
-    <td> d </td>
+    <td> <img src="images/chapter-1/Alejandro-pfp.jpg" alt="Alejandro Mendoza" style="width: 500px; height: auto;"> </td>
+    <td> Mi nombre es Alejandro Mendoza y soy estudiante de la carrera de Ingeniería de Software.Actualmente tengo experiencia en C++ y Python. Estoy interesado en seguir aprendiendo sobre diferentes lenguajes de programación y en la creación de distintas aplicaciones web y móviles, por lo que intento dar todo de mí para tener buenos resultados.
+    
+ </td>
   </tr>
   <tr>
     <th colspan="2">e</th>
