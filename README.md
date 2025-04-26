@@ -798,7 +798,7 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.4.2. Web Applications Mock-ups
 
-* **Dashboard Student**
+**Dashboard Student**
 
 Este mock-up representa el Dashboard principal de un estudiante en la plataforma EduHive. El diseño refleja una estructura organizada y amigable, siguiendo los principios de arquitectura de información clara, diseño inclusivo y la correcta aplicación del design system establecido.
 
@@ -836,14 +836,14 @@ Este mock-up representa el Dashboard principal de un estudiante en la plataforma
 <img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/><br>
 
 
-* **Group View**
+**Group View**
 
 Este mock-up presenta la vista de grupo en EduHive, organizada en tarjetas de contenido que incluyen imagen, título, descripción breve y un botón "View More" en amarillo para cada tema. A la izquierda, un menú vertical ofrece botones para "Profile" y "Dashboard".
 A la derecha, una tarjeta muestra información del profesor, su email, sección y una lista de miembros. Se usa una estructura clara, jerarquía visual, accesibilidad, y un badge de nivel como detalle decorativo en la esquina superior derecha.
 
 <img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/><br>
 
-* **Challenge View**
+**Challenge View**
 
 Este mock-up muestra una vista de reto donde se asigna una tarea de diseño basada en jerarquía tipográfica.
 Incluye una sección de instrucciones con íconos, una gran área de texto para cargar la entrega ("Enter your submission"), y un panel de herramientas con botones: "Tools", "Insert Image" y "Insert Document".
@@ -851,7 +851,7 @@ A la derecha, se destaca una tarjeta informativa que explica el objetivo del ret
 
 <img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/><br>
 
-* **Profile Student**
+**Profile Student**
 
 Este mock-up muestra la sección de perfil del estudiante, con una tarjeta central que presenta la foto, nombre, número telefónico, correo electrónico y estadísticas de participación.
 Se destaca un botón "Edit" naranja para modificar la información. A la izquierda, se mantiene el menú con botones de navegación: "Profile", "Dashboard" y "Help".
@@ -859,7 +859,7 @@ El fondo utiliza motivos de panal, reforzando la identidad visual de EduHive.
 
 <img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/><br>
 
-* **Dashboard Teacher**
+**Dashboard Teacher**
 
 Este mock-up presenta el panel de control para profesores, destacando la opción "Create a new group" con un botón de suma (+) en amarillo.
 Se visualiza un apartado de "Your Groups" con una tarjeta que muestra el curso, nivel, duración y fecha de inicio.
@@ -867,41 +867,107 @@ A la izquierda, se encuentran los botones de navegación "Profile", "Dashboard" 
 
 <img src="./images/chapter-4/Dashboard-Teacher.png" alt="Context Diagram" width="800"/><br>
 
-* **Group Creation**
+**Group Creation**
+
+Este mock-up muestra la pantalla para crear un grupo en la plataforma. Incluye campos para ingresar nombre, email, sección y participantes, así como un área para subir una imagen representativa.
+En la parte inferior, destaca un botón grande en color naranja con la palabra "REGISTER" para confirmar la creación del grupo.
+El panel lateral izquierdo conserva los accesos rápidos a "Profile", "Dashboard" y "Help" sobre fondo amarillo.
 
 <img src="./images/chapter-4/Group-Creation.png" alt="Context Diagram" width="800"/><br>
 
-* **Group View Teacher**
+**Group View Teacher**
+
+Esta vista permite a un profesor administrar un grupo.
+En la parte superior central, aparece un botón grande "Create new Challenge" con ícono de suma para añadir nuevos retos.
+Debajo, en la sección Current Challenges, se muestran tarjetas de desafíos actuales con título, dificultad, tiempo estimado y fecha.
+A la derecha, un cuadro amarillo titulado "Information" muestra los datos del profesor (nombre, correo, sección) y lista los miembros del grupo. Abajo, hay un campo para el Group Join Code y un botón naranja "GENERATE" para crear un código de acceso.
+El menú lateral izquierdo mantiene accesos a Profile, Dashboard y Help.
 
 <img src="./images/chapter-4/Group-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
 <img src="./images/chapter-4/Group-View-Teacher2.png" alt="Context Diagram" width="800"/><br>
 
-* **Challenge View Teacher**
+**Challenge View Teacher**
+
+Esta pantalla permite al profesor ver el detalle de un desafío dentro de un grupo.
+En el centro se muestra una tarjeta grande con el título del reto ("Organiza con Tipografía: Domina la Jerarquía Visual") junto a una imagen de portada.
+Debajo, en Submissions, se listan las entregas de los estudiantes, incluyendo nombre, resumen del trabajo y estatus de revisión (íconos de colores para indicar progreso).
+A la derecha, sobre un fondo de hexágonos, aparece la descripción del desafío con instrucciones claras y específicas sobre la actividad a realizar.
+La barra lateral izquierda mantiene el menú de navegación a Profile, Dashboard y Help.
 
 <img src="./images/chapter-4/Challenge-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
-* **Submission View**
+**Submission View**
+
+En esta pantalla se muestra el detalle de una entrega realizada por un estudiante dentro de un desafío.
+En la parte superior, bajo el título Submission, se despliega el nombre del proyecto y una descripción detallada del trabajo del estudiante.
+Más abajo, en Content, se presentan comentarios de retroalimentación de otros participantes o del profesor, organizados de manera clara en bloques grises.
+A la derecha, hay un área de herramientas (Tab) donde se pueden insertar imágenes, documentos o agregar comentarios, lo que permite enriquecer la revisión del proyecto.
+El menú lateral izquierdo y el estilo visual se mantienen consistentes con el resto de la plataforma, destacando el logo de la abeja y los accesos rápidos a Profile, Dashboard y Help.
 
 <img src="./images/chapter-4/Submission-View.png" alt="Context Diagram" width="800"/><br>
 
-* **Submission View Teacher**
+**Submission View Teacher**
+
+Esta pantalla muestra el detalle de una entrega de estudiante, pero con funcionalidades adicionales para el profesor.
+
+- En la sección Submission, además de ver el título del proyecto y la descripción del trabajo, el profesor tiene un campo de texto "Enter Grade" para asignar una calificación y un botón "Submit" para registrar la nota.
+
+- En Content, se siguen mostrando los comentarios de retroalimentación, igual que en la vista del estudiante.
+
+- A la derecha, en el área de herramientas (Tab), el profesor puede insertar imágenes, documentos o agregar comentarios para enriquecer el feedback.
+
+- El diseño general mantiene la coherencia con el resto del sistema: navegación a la izquierda, branding de EduHive y accesos rápidos a Profile, Dashboard y Help.
 
 <img src="./images/chapter-4/Submission-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
-* **Member List Student**
+**Member List Student**
+
+Esta vista permite a los estudiantes ver a los miembros de su grupo.
+
+<ul>
+<li>En el centro aparece una tabla titulada "Members", que muestra:
+<ul>
+<li>ID del estudiante
+<li>Nombre completo del estudiante
+<li>Badge o insignia (en este caso, todos tienen una "A" en un círculo verde)
+</ul>
+<li>El diseño mantiene la barra lateral de navegación (Profile, Dashboard y Help) a la izquierda, siguiendo el esquema de colores amarillo, negro y blanco de EduHive.
+<li>El fondo tiene ilustraciones hexagonales suaves que refuerzan la temática de colmena (hive).
+</ul>
 
 <img src="./images/chapter-4/Member-List-Student.png" alt="Context Diagram" width="800"/><br>
 
-* **Member List Teacher**
+**Member List Teacher**
+
+Esta vista está diseñada para que el profesor gestione a los miembros del grupo.
+
+<ul>
+<li>Muestra una tabla titulada "Members" que contiene:
+<ul>
+<li>ID del estudiante
+<li>Nombre completo del estudiante
+<li>Badge o insignia (en este caso, todos tienen una "A" en un círculo verde)
+<li>Kick: Opción para expulsar temporalmente al estudiante del grupo.
+<li>Ban: Opción para prohibir el acceso del estudiante permanentemente.
+</ul>
+<li>Cada acción (Badge, Kick, Ban) está representada con radio buttons para que el profesor pueda seleccionar.
+<li>Se mantiene el menú lateral clásico de EduHive (amarillo con íconos y botones de navegación).
+<li>El fondo tiene los mismos patrones hexagonales para mantener coherencia visual con otras vistas.
+</ul>
+
 
 <img src="./images/chapter-4/Member-List-Student.png" alt="Context Diagram" width="800"/><br>
 
 * **Authentication**
 
+La pantalla de autenticación de EduHive permite a los usuarios iniciar sesión a través de opciones rápidas como Facebook, Twitter y Apple, presentadas en botones destacados. También ofrece la posibilidad de ingresar manualmente un correo electrónico y contraseña, con un enlace para recuperar la contraseña en caso de olvido. El diseño incluye un separador visual ("OR") que divide las opciones sociales de las manuales, y un botón negro de "Continue" para acceder a la plataforma. Todo esto se presenta sobre un fondo claro con el logotipo de abeja y patrones de hexágonos, manteniendo la identidad visual de EduHive.
+
 <img src="./images/chapter-4/Authentication.png" alt="Context Diagram" width="800"/><br>
 
 * **Account Creation**
+
+En el proceso de creación de cuenta para la plataforma EduHive, el usuario primero debe llenar un formulario de registro donde se solicita su nombre, apellido, correo electrónico y contraseña. Después de completar estos campos y hacer clic en "Continue", se le dirige a una segunda pantalla titulada "Final Steps", donde se le pregunta "What are you?" y debe seleccionar entre dos opciones: "Student" o "Teacher", para definir su rol dentro de la plataforma.
 
 <img src="./images/chapter-4/Account-Creation.png" alt="Context Diagram" width="800"/><br>
 
