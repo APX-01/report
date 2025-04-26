@@ -802,6 +802,11 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 <img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/>
 
+* **Group View**
+
+<img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/>
+
+
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
