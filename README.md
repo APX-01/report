@@ -810,6 +810,9 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 <img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/>
 
+* **Profile Student**
+
+<img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/>
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
