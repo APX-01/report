@@ -722,6 +722,91 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+En el presente Sprint, el equipo trabajará en la construcción de una **Landing Page** que contempla diversas funcionalidades y secciones clave para la experiencia del usuario. Los principales aspectos considerados en este Sprint incluyen **features**, **funcionalidades** y **secciones** específicas.
+Cada aspecto contará con un **líder** responsable de su desarrollo y **colaboradores** que apoyarán en tareas específicas relacionadas, con el objetivo de lograr una comunicación efectiva y una distribución clara de responsabilidades en el equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Funcionalidad Login</th>
+      <th>Funcionalidad Register</th>
+      <th>Sección Contacto</th>
+      <th>Feature Barra de navegación</th>
+      <th>Sección de características principales</th>
+      <th>Sección Cursos Populares</th>
+      <th>Sección Explore Course</th>
+      <th>Sección Blog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>LLAOmar</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mendoza Vergara Franklin Alejandro</td>
+      <td>AlexBoo1</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 5.2.1.3. Sprint Backlog 1
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
