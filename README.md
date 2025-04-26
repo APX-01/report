@@ -674,7 +674,6 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
 
 ##### 5.2.1.1. Sprint Planning 1
 
-
 <table >
   <tr>
     <th>Sprint #</th>
@@ -726,7 +725,6 @@ En el presente Sprint, el equipo trabajará en la construcción de una **Landing
 Cada aspecto contará con un **líder** responsable de su desarrollo y **colaboradores** que apoyarán en tareas específicas relacionadas, con el objetivo de lograr una comunicación efectiva y una distribución clara de responsabilidades en el equipo.
 
 A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
-
 
 <table  cellpadding="8" cellspacing="0">
   <thead>
@@ -809,11 +807,160 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+Para el primer sprint backlog, seleccionamos las historias de usuario que estaban relacionadas con el desarrollo de la landing page. Para organizarnos mejor, usamos Trello, una herramienta que nos permitió dividir cada historia en tareas más pequeñas y repartirlas entre los integrantes del equipo de forma ordenada.
+Durante este sprint, nos centramos en terminar esas historias con la meta de construir una landing page completa, visualmente atractiva y fácil de usar. Trello nos ayudó bastante para hacer seguimiento al avance de cada tarea y mantener una buena coordinación entre todos, lo que facilitó que resolviéramos casi todas las historias de usuario planificadas.
 
+Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1)
 
+<table>
+  <tr>
+    <th colspan="8">Sprint #1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="2">US-21</td>
+    <td rowspan="2">Interacción con la barra de navegación</td>
+    <td>T01</td>
+    <td>Diseño de navbar</td>
+    <td>Diseñar la barra de navegación con enlaces principales.</td>
+    <td>1</td>
+    <td>JosueFloresAp</td>
+    <td>Done/td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar redirecciones</td>
+    <td>Configurar enlaces internos y externos desde el navbar.</td>
+    <td>1</td>
+    <td>JosueFloresAp</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-22</td>
+    <td>Sección de características principales</td>
+    <td>T03</td>
+    <td>Diseñar sección</td>
+    <td>Crear contenedor con íconos y descripciones de funciones clave.</td>
+    <td>2</td>
+    <td>AlexBoo1</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-23</td>
+    <td rowspan="2">Sección cursos populares</td>
+    <td>T04</td>
+    <td>Diseñar tarjetas</td>
+    <td>Crear cards con imagen, nombre, rating y botón de ver más.</td>
+    <td>2</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T05</td>
+    <td>Programar navegación</td>
+    <td>Hacer que al hacer clic en "Cursos populares" se redirija a la sección.</td>
+    <td>1</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-24</td>
+    <td>Sección Explore Course</td>
+    <td>T06</td>
+    <td>Redirigir a listado de cursos</td>
+    <td>Configurar enlace desde navbar hacia la sección "Explore Course".</td>
+    <td>2</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-25</td>
+    <td rowspan="2">Sección Blog</td>
+    <td>T07</td>
+    <td>Diseñar vista de blog</td>
+    <td>Crear página para mostrar artículos recientes y destacados.</td>
+    <td>2</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T08</td>
+    <td>Agregar botón "ver más"</td>
+    <td>Habilitar carga de publicaciones anteriores al hacer clic.</td>
+    <td>1</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-26</td>
+    <td rowspan="2">Contacto</td>
+    <td>T09</td>
+    <td>Diseñar formulario de contacto</td>
+    <td>Crear página con campos básicos para enviar consulta.</td>
+    <td>2</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T10</td>
+    <td>Validar campos</td>
+    <td>Verificar que email no esté vacío y mostrar mensaje si lo está.</td>
+    <td>1</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-27</td>
+    <td rowspan="2">Login</td>
+    <td>T11</td>
+    <td>Diseñar formulario de login</td>
+    <td>Crear campos para email y contraseña con diseño funcional.</td>
+    <td>3</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T12</td>
+    <td>Validar credenciales</td>
+    <td>Mostrar error si email o contraseña son incorrectos.</td>
+    <td>2</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-28</td>
+    <td rowspan="2">Registro</td>
+    <td>T13</td>
+    <td>Diseñar formulario de registro</td>
+    <td>Crear formulario con campos: nombre, email, contraseña, etc.</td>
+    <td>3</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T14</td>
+    <td>Confirmación por correo</td>
+    <td>Enviar correo de verificación tras registro exitoso.</td>
+    <td>2</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
-
 
 <table border="1">
   <thead>
@@ -893,7 +1040,6 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
     </tr>
   </tbody>
 </table>
-
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
