@@ -758,7 +758,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
     </tr>
     <tr>
       <td>Luquillas Asto Omar</td>
-      <td>LLAOmar</td>
+      <td>OmarLLA</td>
       <td>C</td>
       <td>L</td>
       <td>C</td>
@@ -810,6 +810,8 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
 ##### 5.2.1.3. Sprint Backlog 1
 
 
+
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 
@@ -834,7 +836,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>25/04/2025</td>
     </tr>
     <tr>
-      <td>LLAOmar/Landing-Page</td>
+      <td>OmarLLA/Landing-Page</td>
       <td>feature/register</td>
       <td>X</td>
       <td>feat(register): Added register</td>
@@ -874,7 +876,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>25/04/2025</td>
     </tr>
 <tr>
-      <td>LLAOmar/Landing-Page</td>
+      <td>OmarLLA/Landing-Page</td>
       <td>feature/explore-course-section</td>
       <td>X</td>
       <td>feat(explore-course-section): Added explore course section</td>
