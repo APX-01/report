@@ -823,6 +823,13 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 <img src="./images/chapter-4/Group-Creation.png" alt="Context Diagram" width="800"/><br>
 
+* **Group View Teacher**
+
+<img src="./images/chapter-4/Group-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+
+<img src="./images/chapter-4/Group-View-Teacher2.png" alt="Context Diagram" width="800"/><br>
+
+
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
