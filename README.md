@@ -853,6 +853,10 @@ A la derecha, se destaca una tarjeta informativa que explica el objetivo del ret
 
 * **Profile Student**
 
+Este mock-up muestra la sección de perfil del estudiante, con una tarjeta central que presenta la foto, nombre, número telefónico, correo electrónico y estadísticas de participación.
+Se destaca un botón "Edit" naranja para modificar la información. A la izquierda, se mantiene el menú con botones de navegación: "Profile", "Dashboard" y "Help".
+El fondo utiliza motivos de panal, reforzando la identidad visual de EduHive.
+
 <img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/><br>
 
 * **Dashboard Teacher**
