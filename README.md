@@ -794,6 +794,51 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.4.1. Web Applications Wireframes
 
+- Autenticación
+![](/images/chapter-4/EduHiveWireFrames/Authentication.png)
+![](/images/chapter-4/EduHiveWireFrames/Account%20Creation.png)
+![](/images/chapter-4/EduHiveWireFrames/Account%20Creation-1.png)
+
+- Dashboard
+  - Estudiantes
+![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Student.png)
+  - Profesores
+![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Teacher.png)
+
+- Perfil Estudiante
+![](/images/chapter-4/EduHiveWireFrames/Profile%20Student.png)
+
+- Grupos
+  - Estudiantes
+![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+  - Profesores
+    - Creación
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20Creation.png)
+    - Vista
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+    
+
+- Retos
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Student.png)
+  - Profesores
+    - Creación
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher-1.png)
+    - Vista
+    ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Teacher.png)
+
+- Envíos
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View.png)
+  - Profesores
+  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View%20Teacher.png)
+
+- Lista
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Student.png)
+  - Profesores
+  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Teacher.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### 4.4.2. Web Applications Mock-ups
