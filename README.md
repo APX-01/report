@@ -845,6 +845,10 @@ A la derecha, una tarjeta muestra información del profesor, su email, sección 
 
 * **Challenge View**
 
+Este mock-up muestra una vista de reto donde se asigna una tarea de diseño basada en jerarquía tipográfica.
+Incluye una sección de instrucciones con íconos, una gran área de texto para cargar la entrega ("Enter your submission"), y un panel de herramientas con botones: "Tools", "Insert Image" y "Insert Document".
+A la derecha, se destaca una tarjeta informativa que explica el objetivo del reto, reforzando la estructura visual con color y tipografía jerarquizada. El menú lateral izquierdo mantiene los botones de "Profile", "Dashboard" y "Help".
+
 <img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/><br>
 
 * **Profile Student**
