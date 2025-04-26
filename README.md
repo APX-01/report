@@ -147,7 +147,6 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-
 <table>
   <tr>
     <th colspan="2"> Jose Antonio Alejo Cardenas </th>
@@ -164,11 +163,11 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
     <td> Soy Sebastián Real Calderón, estudainte de Ingeniería de Software. Tengo conocimiento de diferentes lenguajes de programación, como C#, C++ y Java. Mi mayor objetivo al desarrollar software es crear una experiencia de usuario con la que los consumidores puedan sentirse satisfechos al trabajar con nuestras aplicaciones. Asimismo, aspiro a ser un buen participante al mantener una comunicación constante con mis compañeros, resolviendo problemas y apoyándo a quién lo necesite para crear un ambiente cómodo para todos. </td>
   </tr>
   <tr>
-    <th colspan="2"> c </th>
+    <th colspan="2"> Omar Luquillas Asto </th>
   </tr>
   <tr>
-    <td> <img src="images/chapter-1/c.jpg" alt="c" style="width: 500px; height: auto;"> </td>
-    <td> c. </td>
+    <td> <img src="images/chapter-1/omar-pfp.jpg" alt="Omar Luquillas" style="width: 500px; height: auto;"> </td>
+    <td> Soy Omar Luquillas Asto, estudiante de la carrera de Ingeniería de Software. Elegí esta carrera porque me apasiona la tecnología, el desarrollo de software y la programación. Tengo conocimientos en lenguajes de programación como C++, Python y Java. Me considero una persona investigadora, ya que me gusta aprender cosas nuevas y siempre estoy en busca de soluciones creativas e innovadoras que generen un impacto positivo en la vida de las personas. Además, valoro el trabajo en equipo, soy responsable y me comprometo a cumplir con mis tareas de manera eficiente. </td>
   </tr>
   <tr>
     <th colspan="2">d</th>
@@ -185,7 +184,6 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
     <td> e </td>
   </tr>
 </table>
-
 
 ### 1.2. Solution Profile
 
