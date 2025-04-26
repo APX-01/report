@@ -853,6 +853,13 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 <img src="./images/chapter-4/Authentication.png" alt="Context Diagram" width="800"/><br>
 
+* **Account Creation**
+
+<img src="./images/chapter-4/Account-Creation.png" alt="Context Diagram" width="800"/><br>
+
+<img src="./images/chapter-4/Account-Creation2.png" alt="Context Diagram" width="800"/><br>
+
+
 #### 4.4.3. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
