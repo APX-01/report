@@ -505,14 +505,30 @@ Cuando envía el formulario<br>
 Entonces recibe un correo de confirmación</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-029</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-030</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-031</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-032</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-033</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-034</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-035</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>US-036</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>US-029</td><td>Edición de perfil</td><td>Como usuario, quiero editar mi perfil personal, para mantener actualizada mi información de contacto y habilidades.</td><td>Escenario 1: Dado que el usuario accede a su perfil, Cuando selecciona "Editar perfil", Entonces puede modificar su nombre, foto, bio y habilidades.<br><br>
+	  Escenario 2: Dado que el usuario guarda cambios, Cuando completa la edición, Entonces el sistema actualiza su información en todos los módulos donde aparece.
+</td><td>EP-005</td></tr>
+    <tr><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>Como estudiante, quiero recibir recordatorios automáticos de las fechas límite de retos, para no olvidar entregar a tiempo.</td><td>Escenario 1: Dado que hay un reto próximo a vencer, Cuando faltan 48 horas, Entonces el sistema envía una notificación automática.<br><br>
+    Escenario 2: Dado que el reto vence hoy, Cuando quedan 6 horas, Entonces se envía un último recordatorio.
+</td><td>EP-003</td></tr>
+    <tr><td>US-031</td><td>Historial de retos completados</td><td>Como estudiante, quiero ver un historial de los retos que he completado, para hacer seguimiento de mi progreso a lo largo del curso.</td><td>Escenario 1: Dado que el estudiante accede a su perfil, Cuando ingresa a la sección "Historial de retos", Entonces puede ver una lista con fecha, nombre del reto y su resultado.<br><br>
+    Escenario 2: Dado que el estudiante revisa un reto específico, Cuando hace clic en el reto, Entonces puede ver detalles como su calificación y feedback recibido.
+</td><td>EP-004</td></tr>
+    <tr><td>US-032</td><td>Foro de equipos</td><td>Como estudiante, quiero participar en un foro de discusión de mi grupo, para colaborar y resolver dudas de los retos en equipo.</td><td>Escenario 1: Dado que el estudiante pertenece a un grupo, Cuando accede al foro, Entonces puede publicar mensajes y responder a sus compañeros.<br><br>
+    Escenario 2: Dado que un estudiante responde en el foro, Cuando se publica un comentario, Entonces todos los integrantes reciben una notificación.
+</td><td>EP-001</td></tr>
+    <tr><td>US-033</td><td>Métricas de participación</td><td>Como profesor, quiero visualizar métricas de participación de los estudiantes en sus grupos, para evaluar su colaboración.</td><td>Escenario 1: Dado que el profesor accede a un grupo, Cuando visualiza las métricas, Entonces puede ver estadísticas de publicaciones en foros, entregas de retos y reuniones realizadas.<br><br>
+    Escenario 2: Dado que un estudiante no participa, Cuando su participación es baja, Entonces el sistema lo marca con un indicador de alerta.
+</td><td>EP-002</td></tr>
+    <tr><td>US-034</td><td>Clasificación de equipos</td><td>Como estudiante, quiero ver un ranking de equipos basado en los puntos de retos completados, para motivarme a mejorar junto a mi grupo.</td><td>Escenario 1: Dado que los equipos completan retos, Cuando acceden a la sección de rankings, Entonces ven la posición de su equipo respecto a otros.<br><br>
+    Escenario 2: Dado que se actualizan los puntajes, Cuando un equipo sube de posición, Entonces el sistema muestra una notificación de felicitación.
+</td><td>EP-003</td></tr>
+    <tr><td>US-035</td><td>Reporte semanal</td><td>Como estudiante, quiero recibir un resumen semanal de mis actividades y avances, para reflexionar sobre mi progreso.</td><td>Escenario 1: Dado que es fin de semana, Cuando el sistema genera reportes, Entonces el estudiante recibe por correo un resumen de retos completados, puntos acumulados y nuevas habilidades.<br><br>
+    Escenario 2: Dado que el estudiante abrió el correo, Cuando revisa el reporte, Entonces puede ver sugerencias de próximas actividades a realizar.
+</td><td>EP-004</td></tr>
+    <tr><td>US-036</td><td>Reporte de errores</td><td>Como usuario, quiero reportar fácilmente fallos técnicos en la plataforma, para ayudar a mejorar el sistema.</td><td>Escenario 1: Dado que el usuario detecta un error, Cuando hace clic en "Reportar un problema", Entonces puede enviar una descripción y captura de pantalla.<br><br>
+    Escenario 2: Dado que el reporte es enviado, Cuando se registra exitosamente, Entonces el usuario recibe confirmación y un número de seguimiento.
+</td><td>EP-005</td></tr>
     <tr><td>US-037</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-038</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>US-039</td><td></td><td></td><td></td><td></td></tr>
