@@ -800,19 +800,24 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 * **Dashboard Student**
 
-<img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/>
+<img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/><br>
+
 
 * **Group View**
 
-<img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/>
+<img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/><br>
 
 * **Challenge View**
 
-<img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/>
+<img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/><br>
 
 * **Profile Student**
 
-<img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/>
+<img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/><br>
+
+* **Dashboard Teacher**
+
+<img src="./images/chapter-4/Dashboard-Teacher.png" alt="Context Diagram" width="800"/><br>
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
