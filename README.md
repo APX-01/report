@@ -897,6 +897,13 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Durante este Sprint, el foco principal fue el desarrollo de la **landing page estática**, la cual no requiere consumo de APIs o Web Services. Dado que el alcance del proyecto actual no incluye backend ni interacciones con endpoints, no se generó documentación OpenAPI. Es decir, la landing page es un producto frontend estático (sin lógica de servidor). Ademas, en esta no se implementaron acciones CRUD (GET/POST/PUT/DELETE) ni interacciones con APIs externas.
+
+* Aunque no se documentaron endpoints (por no ser aplicables), se cumplió con:
+  * Documentación del proyecto estático.
+  * Registro de cambios en commits.
+  * Evidencia de despliegue funcional.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
