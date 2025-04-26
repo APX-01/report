@@ -752,7 +752,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
       <td>C</td>
     </tr>
@@ -765,7 +765,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
       <td>C</td>
     </tr>
     <tr>
@@ -778,7 +778,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
+      <td>L</td>
     </tr>
     <tr>
       <td>Flores Apaico Josue Antonio</td>
@@ -799,17 +799,99 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
       <td>C</td>
       <td>C</td>
       <td>C</td>
-      <td>C</td>
-      <td>C</td>
-      <td>C</td>
       <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
     </tr>
   </tbody>
 </table>
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Firtness/repositoryname</td>
+      <td>feature/login</td>
+      <td>X</td>
+      <td>feat(login): Added login</td>
+      <td>Login functionality was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td>LLAOmar/Landing-Page</td>
+      <td>feature/register</td>
+      <td>X</td>
+      <td>feat(register): Added register</td>
+      <td>Register functionality was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td>sebastianrealcalderon/Landing-Page</td>
+      <td>feature/contact-section</td>
+      <td>X</td>
+      <td>feat(contact-section): Added contact section</td>
+      <td>Contact section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td>JosueFloresAp/Landing-Page</td>
+      <td>feature/bar-nav</td>
+      <td>X</td>
+      <td>feat(bar-nav): Added bar nav</td>
+      <td>Barnav was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+    <tr>
+      <td>AlexBoo1/Landing-Page</td>
+      <td>feature/main-characteristics-section</td>
+      <td>X</td>
+      <td>feat(main-characteristics-section): Added main characteristics section</td>
+      <td>Main characteristics section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+<tr>
+      <td>Firtness/Landing-Page</td>
+      <td>feature/popular-courses-section</td>
+      <td>X</td>
+      <td>feat(popular-courses-section): Added main popular courses section</td>
+      <td>Popular courses section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+<tr>
+      <td>LLAOmar/Landing-Page</td>
+      <td>feature/explore-course-section</td>
+      <td>X</td>
+      <td>feat(explore-course-section): Added explore course section</td>
+      <td>Explore course section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+<tr>
+      <td>sebastianrealcalderon/Landing-Page</td>
+      <td>feature/blog-section</td>
+      <td>X</td>
+      <td>feat(blog-section): Added blog section</td>
+      <td>Blog section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
