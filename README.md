@@ -833,6 +833,11 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 <img src="./images/chapter-4/Challenge-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
+* **Submission View**
+
+<img src="./images/chapter-4/Submission-View.png" alt="Context Diagram" width="800"/><br>
+
+
 #### 4.4.3. Web Applications User Flow Diagrams
 
 ### 4.5. Web Applications Prototyping
