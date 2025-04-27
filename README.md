@@ -754,13 +754,13 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAR
   - Nombre: Jose Alejandro
   - Apellidos: Marchena Chauca
   - Edad: 23 Años
-  - Distrito: -
-  - Inicio de la entrevista: -
-  - Duración: -
+  - Distrito: San Juan de Lurigancho
+  - Inicio de la entrevista: 0:05
+  - Duración: 9:03
 
 
-![Imagen de la entrevista 1 del Segmento Objetivo 2](/images/chapter-2/Entrevista-Jose.png)
 
+<img src="./images/chapter-2/Entrevista-Jose.png" alt="Entrevista-Jose" width="400"/><br>
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link)
 
 - Resumen de la entrevista:
@@ -772,12 +772,12 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-m
   - Nombre: Melina Micaela
   - Apellidos: Orderique Castro
   - Edad: 22 Años
-  - Distrito: -
-  - Inicio de la entrevista: -
-  - Duración: -
+  - Distrito: San Miguel
+  - Inicio de la entrevista: 0:02
+  - Duración: 4:56
 
 
-![Imagen de la entrevista 1 del Segmento Objetivo 2](/images/chapter-2/Interviews-Melina.png)
+<img src="./images/chapter-2/Interviews-Melina.png" alt="Interviews-Melina" width="400"/><br>
 
 URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link)
 
@@ -2570,7 +2570,7 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 #### 4.8.1. Database Diagram
 
-![ERD EduHive](/images/chapter-4/erdEduHive.png)
+![ERD EduHive](./images/chapter-4/erdEduHive.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
