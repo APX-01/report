@@ -397,7 +397,6 @@ Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colabor
 - Organización eficiente de estudios grupales
 - Acceso centralizado a materiales, horarios y tareas
 - Motivación mediante gamificación y reconocimiento académico
--
 
 **Beneficios clave:**
 
