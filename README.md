@@ -376,7 +376,7 @@ En esta sección, nuestro equipo establece los medios y el esquema de  organizac
 
     Aplicamos semantic versioning para nombrar nuestras releases siguiendo  el esquema MAJOR.MINOR.PATCH
 
-    <table border="1" cellspacing="0" cellpadding="8">
+    <table cellspacing="0" cellpadding="8">
       <thead>
         <tr>
           <th>Parte</th>
@@ -731,14 +731,14 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
     <tr>
       <th>Team Member (Last Name, First Name)</th>
       <th>GitHub Username</th>
-      <th>Funcionalidad Login</th>
-      <th>Funcionalidad Register</th>
-      <th>Sección Contacto</th>
-      <th>Feature Barra de navegación</th>
-      <th>Sección de características principales</th>
-      <th>Sección Cursos Populares</th>
-      <th>Sección Explore Course</th>
-      <th>Sección Blog</th>
+      <th>Hero Section</th>
+      <th>Main features section</th>
+      <th>Explore Course section</th>
+      <th>Knowledge section</th>
+      <th>Contact section</th>
+      <th>Testimonials section</th>
+      <th>Latest Updates section</th>
+      <th>Subscribe section</th>
     </tr>
   </thead>
   <tbody>
@@ -1067,6 +1067,7 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 ### 5.4. Video About-the-Product
 
 ## Conclusiones
+
 **1.**	La planificación inicial mediante wireframes y user stories fue clave para establecer una visión clara del producto, definir funcionalidades prioritarias y asegurar que la experiencia de usuario fuera intuitiva y enfocada a las necesidades reales de los estudiantes.
 
 **2.**	El diseño de la aplicación como un sitio web con elementos de gamificación, como retos e insignias, fomentó una mayor motivación en estudiantes en comparación con plataformas tradicionales, ofreciendo un entorno de aprendizaje más dinámico y participativo.
@@ -1084,7 +1085,6 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 **8.**	 Lucidchart ayudó a crear la estructura del proyecto, facilitando la creación de diagramas de clase que sirvieron como guías claras para el desarrollo de próximas actividades del proyecto.
 
 **9.**	Pivoltracker nos permitió realizar con mayor facilidad el product backlog, usando un sistema de trabajo basado en sus metodologías ágiles.
-
 
 ## Bibliografía
 
@@ -1109,7 +1109,6 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 •	Structurizr. (s. f.). Embedding diagrams. https://docs.structurizr.com/cloud/embed
 
 •	Structurizr. (s. f.). Structurizr. https://structurizr.com/
-
 
 ## Anexos
 
