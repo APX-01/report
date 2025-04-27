@@ -87,6 +87,36 @@
 
 ## Project Report Collaboration Insights
 
+|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
+| :-----------------------------------: | :-----------------------------------------------: |
+| https://github.com/APX-01 | https://github.com/APX-01/report.git |
+
+TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio de Github de nuestro equipo: https://github.com/APX-01. Para el informe, cada integrante revisó y mejoró aspectos de la entrega anterior en: https://github.com/APX-01/report.git. Asimismo, el desarrollo de la landing page se trabajó en: https://github.com/APX-01/Landing-Page.git. Cabe mencionar que, con la incorporación de un nuevo miembro en el equipo, surgieron modificaciones en la landing page, por lo que se incluyen capturas de los commits de los últimos dos meses.
+
+<br>**Vista de commits: Report:**  
+![alt text](./images/chapter-1/Commit1.png)
+
+![alt text](./images/chapter-1/Commit2.png)
+
+![alt text](./images/chapter-1/Commit3.png)
+
+![alt text](./images/chapter-1/Commit4.png)
+
+![alt text](./images/chapter-1/Commit5.png)
+
+![alt text](./images/chapter-1/Commit6.png)
+
+![alt text](./images/chapter-1/Commit7.png)
+
+![alt text](./images/chapter-1/Commit8.png)
+
+![alt text](./images/chapter-1/Commit9.png)
+
+![alt text](./images/chapter-1/Commit10.png)
+
+
+* **Issues**
+
 ## Contenido
 
 - [Student Outcome](#student-outcome)
