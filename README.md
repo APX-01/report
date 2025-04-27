@@ -1140,6 +1140,19 @@ En este sprint, implementamos con éxito la landing page de EduHive en un entorn
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
+En esta sección, documentamos cómo el equipo trabajó de manera coordinada para implementar las funcionalidades de la landing page. A través de métricas de GitHub (commits, contribuciones por miembro y frecuencia de trabajo), mostramos evidencia de lo mencionado.
+
+
+<img src="./images/chapter-5/team-collaboration-1.png" alt="Team Collaboration 1" width="700"/>
+
+
+<img src="./images/chapter-5/team-collaboration-2.png" alt="Team Collaboration 2" width="700"/>
+
+
+
+<img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
+
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de entrevistas
