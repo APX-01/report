@@ -1120,6 +1120,56 @@ En el proceso de creación de cuenta para la plataforma EduHive, el usuario prim
 
 #### 4.4.3. Web Applications User Flow Diagrams
 
+* **User Goal:** Inicio de sesión
+
+<img src="./images/chapter-4/UserGoal1_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de cuenta
+
+<img src="./images/chapter-4/UserGoal2_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso al perfil del estudiante
+
+<img src="./images/chapter-4/UserGoal3_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso a grupo del estudiante
+
+<img src="./images/chapter-4/UserGoal4_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Responder un challenge
+
+<img src="./images/chapter-4/UserGoal5_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de grupo por profesor
+
+<img src="./images/chapter-4/UserGoal6_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de challenges en el grupo por el profesor
+
+<img src="./images/chapter-4/UserGoal7_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar envío por el estudiante
+
+<img src="./images/chapter-4/UserGoal8_mu.png" alt="Moodle" width="800" height="130"/>
+
+* **User Goal:** Calificar los envíos
+
+<img src="./images/chapter-4/UserGoal9_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar los grupos por estudiante
+
+<img src="./images/chapter-4/UserGoal10_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal11_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Retirar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal12_mu.png" alt="Moodle" width="800" height="130"/>
+
+
+
 ### 4.5. Web Applications Prototyping
 
 ### 4.6. Domain-Driven Software Architecture
