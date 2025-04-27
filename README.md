@@ -796,6 +796,57 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+* **User Goal:** Inicio de sesión
+
+<img src="./images/chapter-4/UserGoal1_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de cuenta
+
+<img src="./images/chapter-4/UserGoal2_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso al perfil del estudiante
+
+<img src="./images/chapter-4/UserGoal3_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso a grupo del estudiante
+
+<img src="./images/chapter-4/UserGoal4_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Responder un challenge
+
+<img src="./images/chapter-4/UserGoal5_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de grupo por profesor
+
+<img src="./images/chapter-4/UserGoal6_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de challenges en el grupo por el profesor
+
+<img src="./images/chapter-4/UserGoal7_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar envío por el estudiante
+
+<img src="./images/chapter-4/UserGoal8_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Calificar los envíos
+
+<img src="./images/chapter-4/UserGoal9_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar los grupos por estudiante
+
+<img src="./images/chapter-4/UserGoal10_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal11_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Retirar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal12_wf.png" alt="Moodle" width="800" height="190"/>
+
+
+
+
 #### 4.4.2. Web Applications Mock-ups
 
 * **Dashboard Student**
