@@ -2578,11 +2578,417 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 #### 5.1.1. Software Development Environment Configuration
 
+Antes de comenzar, es importante definir claramente los requisitos de  la página web. Esto incluye las funcionalidades que se desean ofrecer  en nuestra plataforma.
+
+* Project Management:
+
+  * Trello
+    Propósito de Uso: Gestión de tareas del equipo, seguimiento de actividades y organización del flujo de trabajo del proyecto.
+    Ruta de Referencia/Descarga: [Trello](https://trello.com) (SaaS)
+
+  <img src="./images/chapter-5/trello.png" alt="Trello" width="400"/>
+* Requirements Management:
+
+  * Google Docs
+
+    Propósito de Uso: Redactar y compartir la documentación de requisitos funcionales y no funcionales del proyecto, permitiendo colaboración en tiempo real entre los miembros del equipo.
+    Ruta de Referencia/Descarga: [Google Docs](https://docs.google.com) (SaaS)
+
+    <img src="./images/chapter-5/googleDocs.png" alt="Google Docs" width="400"/>
+* Product UX/UI Design:
+
+  * Figma
+
+    Propósito de Uso: Diseño de wireframes, prototipos navegables y diagramas de flujo de pantallas (wireflows).
+    Ruta de Referencia/Descarga: [Figma](https://www.figma.com) (SaaS)
+
+    <img src="./images/chapter-5/figma.png" alt="Figma" width="400"/>
+* Software Development:
+
+  * GitHub (con GitFlow)
+
+    Propósito de Uso: Control de versiones, colaboración entre desarrolladores, organización mediante ramas y almacenamiento del código y documentación.
+    Ruta de Referencia/Descarga: [GitHub](https://github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHub.png" alt="Git Hub" width="400"/>
+  * WebStorm IDE
+
+    Propósito de Uso: Edición del código fuente del proyecto.
+    Ruta de Referencia/Descarga: [WebStorm IDE](https://www.jetbrains.com/webstorm/) (SaaS)
+
+    <img src="./images/chapter-5/webStorm.png" alt="Web Storm" width="400"/>
+  * Postman:
+
+    Propósito de Uso: Pruebas de APIs para verificar peticiones, respuestas y funcionamiento de los endpoints.
+    Ruta de Referencia/Descarga: [Postman](https://www.postman.com/downloads/) (SaaS)
+
+    <img src="./images/chapter-5/postman.png" alt="Postman" width="400"/>
+* Software Deployment:
+
+  * Firebase
+
+    Propósito de Uso: Plataforma utilizada para el despliegue y alojamiento del producto digital, así como servicios backend como base de datos, autenticación y funciones en la nube.
+    Ruta de Referencia/Descarga: [Fire Base](https://firebase.google.com) (SaaS)
+
+    <img src="./images/chapter-5/fireBase.png" alt="Firebase" width="400"/>
+  * GitHub Page
+
+    Propósito de Uso: Despliegue de la landing page del proyecto, permitiendo su visualización pública desde el repositorio.
+    Ruta de Referencia/Descarga: [GitHub Actions](https://pages.github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHubPages.png" alt="Github Pages" width="300"/>
+  * Microsoft Azure
+
+    Propósito de Uso: Plataforma para el despliegue del backend del sistema, incluyendo servicios como API hosting, bases de datos y autenticación.
+    Ruta de Referencia/Descarga: [Microsoft Azure](https://azure.microsoft.com) (SaaS)
+
+    <img src="./images/chapter-5/microsoftAzure.png" alt="Microsoft Azure" width="400"/>
+* Software Documentation:
+
+  * Git Hub
+    Propósito de Uso: Almacenamiento, versionado y colaboración en la documentación del proyecto, así como la gestión del repositorio que contiene la documentación.
+    Ruta de Referencia/Descarga: [Git Hub](https://github.com) (SaaS)
+
+    <img src="./images/chapter-5/gitHub.png" alt="Git Hub" width="400"/>
+  * Web Storm IDE
+    Propósito de Uso: Edición de archivos Markdown y documentación técnica relacionada al proyecto. Se utiliza para estructurar y organizar la documentación de forma eficiente.
+    Ruta de Referencia/Descarga: [Web Storm IDE](https://www.jetbrains.com/webstorm/) (SaaS)
+
+  <img src="./images/chapter-5/webStorm.png" alt="Web Storm IDE" width="400"/>
+
+  Con esta configuración, nuestro equipo puede colaborar de manera  eficiente y gestionar el ciclo de vida completo del desarrollo del  producto digital, desde la planificación hasta el despliegue y  mantenimiento.
+
 #### 5.1.2. Source Code Management
+
+En esta sección, nuestro equipo establece los medios y el esquema de  organización que aplicará para el seguimiento de modificaciones  utilizando GitHub como plataforma y sistema de control de versiones.  De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.
+
+* Plataforma de control de versiones:
+  De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.  Los URLs de los repositorios son los siguientes:
+
+  * Landing Page : [Landing Page](https://github.com/APX-01/Landing-Page)
+  * Frontend Web Applications : [Frontend Web Applications](https://github.com/APX-01/Frontend-Web-Applications)
+  * Backend Web Services : [Backend Web Services](https://github.com/APX-01/Backend-Web-Services)
+* Implementación de GitFlow:
+  Organizamos el repositorio en ramas para diferentes entornos.
+
+  * Ramas base:
+
+    - Main branch (rama principal): Contiene la versión de producción.
+    - Develop branch: Contiene el código en desarrollo, que eventualmente  será fusionado en la rama principal.
+  * Feature branches:
+
+    * Feature branch:
+
+      Para cada funcionalidad nueva se crea una rama desde develop.Convención para el nombre: `feature/nombre-corto-descriptivo`
+  * Release branches:
+
+    - Release branch:
+
+      Se crean cuando el proyecto está listo para pasar a producción, desde develop.
+      Convención: `release/x.y.z` (usando versionado semántico)
+  * Hotfix branches:
+
+    * Hotfix branch:
+
+      Se crean desde `main` para corregir errores críticos en producción.
+      Convención: `hotfix/x.y.z`
+* Versionado semántico (Semantic Versioning)
+
+  - Semantic Versioning Format:
+
+    Aplicamos semantic versioning para nombrar nuestras releases siguiendo  el esquema MAJOR.MINOR.PATCH
+
+    <table cellspacing="0" cellpadding="8">
+      <thead>
+        <tr>
+          <th>Parte</th>
+          <th>Significado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>MAJOR</strong></td>
+          <td>Cambios importantes que rompen la compatibilidad con versiones anteriores (por ejemplo, eliminas funciones o cambias APIs que otros ya usaban).</td>
+        </tr>
+        <tr>
+          <td><strong>MINOR</strong></td>
+          <td>Añades nuevas funcionalidades de forma compatible (sin romper lo que ya funciona).</td>
+        </tr>
+        <tr>
+          <td><strong>PATCH</strong></td>
+          <td>Solucionas errores o bugs, sin agregar nuevas funciones ni romper nada.</td>
+        </tr>
+      </tbody>
+    </table>
+* Mensajes de commit con Conventional Commits
+
+  Utilizamos Conventional Commits para los mensajes en nuestros commits. Usando el siguiente template:
+
+  `<tipo>(<opcional-alcance>): <mensaje>`
+
+  - Tipos:
+
+  `feat`: nueva funcionalidad
+
+  `fix`: corrección de errores
+
+  `docs`: cambios en la documentación
+
+  `style`: cambios de estilo/formato (sin afectar funcionalidad)
+
+  `refactor`: reestructuración del código (sin cambios funcionales)
+
+  `test`: añadir o modificar pruebas
+
+  `chore`: tareas de mantenimiento
+
+  * Ejemplos:
+
+    feat(auth): Added auth
+
+    fix(landing): fix landing header
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
+El equipo ha definido las siguientes convenciones de nombres y estilos de codificación, aplicadas en los lenguajes **HTML, CSS, JavaScript, TypeScript y Java**. Todas las nomenclaturas están en **inglés**, buscando claridad, estandarización y buenas prácticas de desarrollo. Se han adoptado guías de estilo reconocidas y actualizadas para cada tecnología.
+
+### HTML
+
+- **Guía adoptada**: [W3C HTML Style Guide](https://www.w3.org/TR/html5/)
+- **Nomenclatura y convenciones**:
+  - Minúsculas para etiquetas y atributos: `<div class="container">`
+  - Indentación: 2 espacios.
+  - Atributos entre comillas dobles: `<img src="logo.png" alt="Company Logo">`
+  - Uso semántico de etiquetas: `<header>`, `<section>`, `<footer>`
+  - Comentarios HTML: `<!-- This is a comment -->`
+
+### CSS
+
+- **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- **Nomenclatura y convenciones**:
+  - `kebab-case` para clases e IDs:
+    Ejemplo: `.main-header`, `#footer-section`
+  - Agrupación de estilos por componente.
+  - Evitar `!important` a menos que sea necesario.
+  - Indentación: 2 espacios.
+
+### JavaScript
+
+- **Guía adoptada**: [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- **Nomenclatura y convenciones**:
+  - `camelCase` para variables y funciones:
+    Ejemplo: `let userName = 'José';`, `function calculateTotal() {}`
+  - `PascalCase` para clases:
+    Ejemplo: `class ShoppingCart { }`
+  - Evitar `snake_case`.
+  - Usar `const` y `let` en lugar de `var`.
+  - Comentarios:
+    - Línea: `// Get user info`
+    - Bloque:
+      ```js
+      /**
+       * Calculates total price with tax.
+       */
+      function calculateTotal() {}
+      ```
+
+### TypeScript
+
+- **Guía adoptada**: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+- **Nomenclatura y convenciones**:
+  - `camelCase` para variables, funciones y propiedades:
+    Ejemplo: `let isActive: boolean = true;`, `function getUserData() {}`
+  - `PascalCase` para clases, interfaces, enums y tipos:
+    Ejemplo: `class ProductItem {}`, `interface UserDTO {}`, `enum Status { Active, Inactive }`
+  - Tipado estricto (`strict: true`) habilitado.
+  - Interfaces nombradas con sufijo `DTO` o `Props`.
+  - Uso de modificadores `readonly`, `private`, `public`.
+
+### Java
+
+- **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- **Nomenclatura y convenciones**:
+  - `PascalCase` para clases:
+    Ejemplo: `public class OrderService {}`
+  - `camelCase` para variables, métodos y atributos:
+    Ejemplo: `int totalAmount;`, `calculateTotalPrice();`
+  - Constantes en MAYÚSCULAS con `snake_case`:
+    Ejemplo: `public static final int MAX_USERS = 100;`
+  - Comentarios tipo Javadoc:
+    ```java
+    /**
+     * Gets the total price of all items.
+     * @return total price
+     */
+    public double getTotalPrice() {}
+    ```
+  - Paquetes en minúsculas separados por punto:
+    Ejemplo: `com.project.backend.controller`
+
+Adicionalmente hemos considerado tener convenciones para los siguientes apartados:
+
+### Gherkin Conventions for Readable Specifications
+
+- **Guía adoptada**: [Gherkin Syntax and Conventions](https://cucumber.io/docs/gherkin/reference/)
+- **Nomenclatura y convenciones**:
+  - **Estructura**:
+    - **Given**: Define el contexto o el estado inicial.
+    - **When**: Define la acción o evento que ocurre.
+    - **Then**: Define el resultado o la expectativa después de la acción.
+  - Ejemplo:
+    ```gherkin
+    Feature: User login
+      Scenario: Successful login with valid credentials
+        Given the user is on the login page
+        When the user enters valid credentials
+        Then the user should be redirected to the dashboard
+    ```
+  - **Uso de tablas** para datos:
+    Ejemplo:
+    ```gherkin
+    Given the following users exist:
+      | username | password |
+      | user1    | pass123  |
+      | user2    | pass456  |
+    ```
+
+### Angular Coding Style Guide
+
+- **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
+- **Nomenclatura y convenciones**:
+  - **Estructura de carpetas**:
+    - `app/` para componentes, servicios y módulos.
+    - `assets/` para imágenes, fuentes y otros recursos.
+  - **Nombres de clases**: `PascalCase` para componentes, servicios y directivas.
+    Ejemplo: `export class UserProfileComponent { }`
+  - **Componentes Standalone**: Usar `standalone: true` en la declaración de `@Component`.
+  - **Indentación**: 2 espacios.
+  - **Uso de `trackBy` en `*ngFor`**: Para mejorar el rendimiento al iterar sobre listas grandes.
+  - **Servicios**: `camelCase` para nombres de funciones y métodos.
+
+### Spring Boot Features
+
+- **Guía adoptada**: [Spring Boot Features](https://spring.io/projects/spring-boot)
+- **Nomenclatura y convenciones**:
+  - **Paquetes**: El paquete raíz debe ser el nombre del proyecto, seguido de subpaquetes para organización.
+    Ejemplo: `com.projectname.backend`
+  - **Clases y métodos**: Usar `PascalCase` para clases y `camelCase` para métodos y variables.
+  - **Configuración**: Usar `@Value` para inyectar propiedades desde archivos `application.properties`.
+  - **Controladores**:
+    Ejemplo:
+    ```java
+    @RestController
+    @RequestMapping("/api/users")
+    public class UserController {
+      @GetMapping("/{id}")
+      public ResponseEntity<User> getUser(@PathVariable Long id) {
+        // Logic
+      }
+    }
+    ```
+  - **Logging**: Usar `@Slf4j` para la integración de `SLF4J` en clases de servicios y controladores.
+
 #### 5.1.4. Software Deployment Configuration
+
+Esta sección describe la configuración y los pasos necesarios para realizar el despliegue exitoso de los diferentes productos digitales en la solución. A continuación se especifican los pasos para desplegar la **Landing Page en GitHub Pages**, el **Frontend Web Application en Firebase** y los **Web Services Backend en Azure**.
+
+### Despliegue de la Landing Page en GitHub Pages
+
+#### Pasos de despliegue:
+
+1. **Preparar el repositorio**:
+
+   - Asegúrate de que tu código de la Landing Page esté en el repositorio correcto de GitHub.
+   - El repositorio debe contener todos los archivos estáticos necesarios (HTML, CSS, JavaScript, imágenes, etc.).
+2. **Configurar GitHub Pages**:
+
+   - En el repositorio de GitHub, ve a la pestaña **Settings**.
+   - En la sección **Pages**, selecciona la rama que deseas usar para desplegar el sitio. Generalmente, se usa la rama `main` o `gh-pages` (si se tiene una rama específica para ello).
+   - En la opción **Source**, selecciona la carpeta del proyecto (usualmente `root` o `docs` si es necesario) y confirma la configuración.
+3. **Desplegar**:
+
+   - Una vez configurado, GitHub generará una URL en la sección **GitHub Pages** (por ejemplo, `https://tu-usuario.github.io/tu-repositorio`).
+   - El despliegue se realizará automáticamente con cada cambio realizado en la rama seleccionada, siempre y cuando se realicen **commits** que actualicen el repositorio.
+4. **Verificación**:
+
+   - Accede a la URL proporcionada por GitHub Pages y verifica que el sitio esté funcionando correctamente.
+
+### Despliegue de la Frontend Web Application en Firebase
+
+#### Pasos de despliegue:
+
+1. **Instalar Firebase CLI**:
+
+   - Si no lo has hecho, instala Firebase CLI en tu máquina local:
+     ```bash
+     npm install -g firebase-tools
+     ```
+2. **Iniciar sesión en Firebase**:
+
+   - Inicia sesión en Firebase desde la terminal:
+     ```bash
+     firebase login
+     ```
+3. **Inicializar el proyecto en Firebase**:
+
+   - Navega a la raíz de tu proyecto y ejecuta el siguiente comando para inicializar Firebase:
+     ```bash
+     firebase init
+     ```
+   - Selecciona las opciones de Firebase Hosting durante la configuración.
+   - Asegúrate de elegir la carpeta correcta donde se encuentran los archivos de tu Frontend (generalmente `build/` o `dist/` si usas frameworks como React, Angular o Vue).
+4. **Construir la aplicación (si es necesario)**:
+
+   - Si usas un framework de JavaScript, ejecuta el comando para construir la aplicación:
+     - **React**:
+       ```bash
+       npm run build
+       ```
+     - **Angular**:
+       ```bash
+       ng build --prod
+       ```
+     - **Vue**:
+       ```bash
+       npm run build
+       ```
+   - Esto generará los archivos estáticos listos para el despliegue en una carpeta como `build/`, `dist/`, etc.
+5. **Desplegar a Firebase Hosting**:
+
+   - Una vez que el proyecto esté configurado y la aplicación esté construida, ejecuta el siguiente comando para desplegar:
+     ```bash
+     firebase deploy
+     ```
+6. **Verificación**:
+
+   - Accede a la URL proporcionada por Firebase para ver tu aplicación en vivo (por ejemplo, `https://tu-proyecto.web.app`).
+
+### Despliegue de los Web Services (Backend) en Azure
+
+#### Pasos de despliegue:
+
+1. **Preparar el proyecto**:
+
+   - Asegúrate de que tu backend esté listo para el despliegue. Esto incluye tener una aplicación Java, Node.js, Python o cualquier otro framework adecuado para los Web Services.
+2. **Crear un recurso en Azure**:
+
+   - En el portal de **Azure**, ve a la sección de **App Services** y selecciona **Create a Resource**.
+   - Elige la opción **App Service** y sigue los pasos para crear un nuevo recurso, configurando el nombre, la región y el sistema operativo (Linux o Windows).
+3. **Configurar el entorno de ejecución**:
+
+   - Selecciona el tipo de tecnología que utilizarás (por ejemplo, **Java**, **Node.js**, etc.).
+   - Asegúrate de que el servicio tenga acceso a los recursos necesarios, como bases de datos o almacenamiento en la nube, si es requerido.
+4. **Conectar el proyecto con el repositorio GitHub**:
+
+   - En la sección de **Deployment Center** de tu nuevo **App Service** en Azure, selecciona la opción **GitHub** como origen para el despliegue automático.
+   - Conecta tu cuenta de GitHub y selecciona el repositorio y la rama que contiene el código del backend.
+5. **Desplegar la aplicación**:
+
+   - Una vez conectado el repositorio de GitHub, configura los detalles del despliegue (si es necesario) y habilita el despliegue automático.
+   - Azure detectará automáticamente cualquier cambio en la rama seleccionada y desplegará los cambios cuando se realicen nuevos **commits**.
+6. **Verificación**:
+
+   - Una vez completado el despliegue, podrás acceder a tu Web Service a través de la URL proporcionada por Azure (por ejemplo, `https://mi-aplicacion.azurewebsites.net`).
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
@@ -2590,32 +2996,542 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<table >
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Planning Background</b></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2025-04-25</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>18:24 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td> Reunión virtual en Discord </td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>José Antonio Alejo Cárdenas y Omar Luquillas Asto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>José Antonio Alejo Cárdenas, Omar Luquillas Asto, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio y Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Goal & User Stories</b></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Nuestro enfoque está en crear una landing page que muestre claramente el propósito del producto con diseño responsive y contenido atractivo. Creemos que esto generará mayor interés por parte de los usuarios. Esto se confirmará cuando recibamos registros a través del formulario en la página.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>33 puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>33 puntos</td>
+  </tr>
+</table>
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+En el presente Sprint, el equipo trabajará en la construcción de una **Landing Page** que contempla diversas funcionalidades y secciones clave para la experiencia del usuario. Los principales aspectos considerados en este Sprint incluyen **features**, **funcionalidades** y **secciones** específicas.
+Cada aspecto contará con un **líder** responsable de su desarrollo y **colaboradores** que apoyarán en tareas específicas relacionadas, con el objetivo de lograr una comunicación efectiva y una distribución clara de responsabilidades en el equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Hero Section</th>
+      <th>Main features section</th>
+      <th>Explore Course section</th>
+      <th>Knowledge section</th>
+      <th>Contact section</th>
+      <th>Testimonials section</th>
+      <th>Latest Updates section</th>
+      <th>Subscribe section</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>OmarLLA</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mendoza Vergara Franklin Alejandro</td>
+      <td>AlexBoo1</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+Para el primer sprint backlog, seleccionamos las historias de usuario que estaban relacionadas con el desarrollo de la landing page. Para organizarnos mejor, usamos Trello, una herramienta que nos permitió dividir cada historia en tareas más pequeñas y repartirlas entre los integrantes del equipo de forma ordenada.
+Durante este sprint, nos centramos en terminar esas historias con la meta de construir una landing page completa, visualmente atractiva y fácil de usar. Trello nos ayudó bastante para hacer seguimiento al avance de cada tarea y mantener una buena coordinación entre todos, lo que facilitó que resolviéramos casi todas las historias de usuario planificadas.
+
+Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1)
+
+<table>
+  <tr>
+    <th colspan="8">Sprint #1</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="2">US-21</td>
+    <td rowspan="2">Hero Section</td>
+    <td>T01</td>
+    <td>Diseñar sección Hero</td>
+    <td>Crear layout con imagen destacada y texto principal</td>
+    <td>2</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar barra de busqueda</td>
+    <td>Agregar una barra de búsqueda a la sección.</td>
+    <td>1</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-22</td>
+    <td>Main Features Section</td>
+    <td>T03</td>
+    <td>Diseñar tarjetas de características</td>
+    <td>Crear 4 tarjetas con iconos y descripción breve.</td>
+    <td>3</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-23</td>
+    <td rowspan="2">Explore Course Section</td>
+    <td>T04</td>
+    <td>Diseñar cards de cursos</td>
+    <td>Crear tarjetas con imagen, título y efecto hover.</td>
+    <td>3</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T05</td>
+    <td>Implementar grid responsive</td>
+    <td>Configurar disposición adaptable de las tarjetas.</td>
+    <td>2</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-24</td>
+    <td>Knowledge Section</td>
+    <td>T06</td>
+    <td>Diseñar layout informativo</td>
+    <td>Estructurar contenido sobre metodología educativa.</td>
+    <td>2</td>
+    <td>JosueFloresAp</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-25</td>
+    <td rowspan="3">Contact Section</td>
+    <td>T07</td>
+    <td>Diseñar formulario</td>
+    <td>Crear campos para nombre, email, teléfono, compañía y mensaje.</td>
+    <td>3</td>
+    <td>AlexBoo1</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T08</td>
+    <td>Implementar validaciones</td>
+    <td>Validar campos obligatorios y formatos.</td>
+    <td>2</td>
+    <td>AlexBoo1</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T09</td>
+    <td>Configurar envío</td>
+    <td>Programar lógica para enviar datos y mostrar confirmación.</td>
+    <td>2</td>
+    <td>AlexBoo1</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-26</td>
+    <td rowspan="2">Testimonials Section</td>
+    <td>T10</td>
+    <td>Diseñar carrusel</td>
+    <td>Crear componente deslizable con testimonios (texto, nombre, carrera).</td>
+    <td>3</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T11</td>
+    <td>Implementar navegación</td>
+    <td>Agregar flechas para cambiar entre testimonios.</td>
+    <td>2</td>
+    <td>Firtness</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-27</td>
+    <td rowspan="2">Latest Updates Section</td>
+    <td>T12</td>
+    <td>Diseñar lista de actualizaciones</td>
+    <td>Crear vista con cursos, fechas y video informativo.</td>
+    <td>3</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T13</td>
+    <td>Implementar reproductor</td>
+    <td>Configurar funcionalidad del video embedido.</td>
+    <td>2</td>
+    <td>OmarLLA</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-28</td>
+    <td rowspan="2">Subscribe Section</td>
+    <td>T14</td>
+    <td>Diseñar formulario</td>
+    <td>Crear campo de email y botón de suscripción.</td>
+    <td>1</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T15</td>
+    <td>Implementar validación</td>
+    <td>Verificar formato de email y mostrar estados (éxito/error).</td>
+    <td>2</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Firtness/Landing-Page</td>
+      <td>feature/hero-section</td>
+      <td>ae31dfe50a0f63c8e218fd56a639a94ab6e1e233</td>
+      <td>feat(hero-section): Added hero section</td>
+      <td>Hero section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>OmarLLA/Landing-Page</td>
+      <td>feature/main-features-section</td>
+      <td>716d999c8851c2a2aa83872b59f02e98595a9b60</td>
+      <td>feat(main-features-section): Added main features section</td>
+      <td>Main features section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>sebastianrealcalderon/Landing-Page</td>
+      <td>feature/explore-course-section</td>
+      <td>9582d1ef67013654bcbe69c6a0081a7926319ed6</td>
+      <td>feat(explore-course-section): Added explore course section</td>
+      <td>Explore Course section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>JosueFloresAp/Landing-Page</td>
+      <td>feature/knowledge-section</td>
+      <td>b7ec52a37eba0975aadb73a0da6a7986d83ff350</td>
+      <td>feat(knowledge-section): Added knowledge section</td>
+      <td>Knowledge section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>AlexBoo1/Landing-Page</td>
+      <td>feature/contact-section</td>
+      <td>df6f3a30e613c9ee750ca86bcbdc05737d576085</td>
+      <td>feat(contact-section): Added contact section</td>
+      <td>Contact section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+<tr>
+      <td>Firtness/Landing-Page</td>
+      <td>feature/testimonials-section</td>
+      <td>9cffc0856e9b4f2ab64d3c6c2993f223587dfbcf</td>
+      <td>feat(testimonials-section): Added testimonials section</td>
+      <td>Testimonials section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+<tr>
+      <td>OmarLLA/Landing-Page</td>
+      <td>feature/latest-updates-section</td>
+      <td>d1eddc95f8fa0299a4283d7b703eba4555768e60</td>
+      <td>feat(latest-updates-section): Added latest Updates section</td>
+      <td>Latest Updates section was added to landing page</td>
+      <td>25/04/2025</td>
+    </tr>
+<tr>
+      <td>sebastianrealcalderon/Landing-Page</td>
+      <td>feature/subscribe-section</td>
+      <td>0e27ddf2f7d49992c676d69401998ffd9653f0f4</td>
+      <td>feat(subscribe-section): Added subscribe section</td>
+      <td>Subscribe section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
+Durante este sprint, nuestro equipo terminó y lanzó la landing page de EduHive. Aquí les mostramos capturas de cada sección, donde podrán ver cómo organizamos la información de forma clara y atractiva para los usuarios.
+
+<img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
+
+Nuestro hero section combina una imagen impactante con un mensaje directo que explica qué es EduHive y por qué deberían usarlo.
+
+<img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
+
+Aquí destacamos las 4 razones clave para elegirnos, con iconos visuales y descripciones cortas que resumen nuestros beneficios principales.
+
+<img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
+
+En esta sección, los cursos se muestran como tarjetas interactivas. Al pasar el cursor, se resaltan para invitar al usuario a explorarlos.
+
+<img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
+
+Explicamos nuestra metodología educativa con textos sencillos y diseño limpio, para que los usuarios entiendan rápido cómo aprenden.
+
+<img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
+
+El formulario de contacto tiene validaciones en tiempo real. Si algo se llena mal, avisa al usuario antes de enviar.
+
+<img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
+
+Los comentarios de estudiantes reales aparecen en un carrusel. Las flechas permiten navegar entre ellos fácilmente.
+
+<img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
+
+Actualizamos esta sección con novedades de cursos y un video explicativo. Ideal para usuarios que buscan información fresca.
+
+<img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/>
+
+Un simple campo de email con botón de suscripción para que los usuarios se registren al newsletter.
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, el foco principal fue el desarrollo de la **landing page estática**, la cual no requiere consumo de APIs o Web Services. Dado que el alcance del proyecto actual no incluye backend ni interacciones con endpoints, no se generó documentación OpenAPI. Es decir, la landing page es un producto frontend estático (sin lógica de servidor). Ademas, en esta no se implementaron acciones CRUD (GET/POST/PUT/DELETE) ni interacciones con APIs externas.
+
+* Aunque no se documentaron endpoints (por no ser aplicables), se cumplió con:
+  * Documentación del proyecto estático.
+  * Registro de cambios en commits.
+  * Evidencia de despliegue funcional.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En este sprint, implementamos con éxito la landing page de EduHive en un entorno funcional. El equipo trabajó en la preparación de la infraestructura, automatización de procesos y publicación del sitio, asegurando su correcto funcionamiento. A continuación, detallamos las actividades clave realizadas:
+
+- Configuración del Repositorio
+  - Habilitamos GitHub Pages en el repositorio del proyecto (Settings > Pages).
+  - Configuramos la rama main como fuente de despliegue automático.
+- Preparación para el Despliegue
+  - Aseguramos que la estructura de archivos siguiera los requisitos de GitHub Pages
+- Despliegue Automático
+  - GitHub Actions ejecutó el flujo predeterminado de Pages al hacer push a main.
+  - Verificamos que el sitio se publicara correctamente.
+
+    Link Landing Page: https://apx-01.github.io/Landing-Page/
+
+<img src="./images/chapter-5/deploy-evidence-1.png" alt="Deploy Evidence 1" width="700"/>
+
+<img src="./images/chapter-5/deploy-evidence-2.png" alt="Deploy Evidence 2" width="700"/>
+
+<img src="./images/chapter-5/deploy-evidence-3.png" alt="Deploy Evidence 3" width="700"/>
+
+<img src="./images/chapter-5/deploy-evidence-4.png" alt="Deploy Evidence 4" width="700"/>
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-### 5.3. Validation Interviews
+En esta sección, documentamos cómo el equipo trabajó de manera coordinada para implementar las funcionalidades de la landing page. A través de métricas de GitHub (commits, contribuciones por miembro y frecuencia de trabajo), mostramos evidencia de lo mencionado.
 
-#### 5.3.1. Diseño de entrevistas
+<img src="./images/chapter-5/team-collaboration-1.png" alt="Team Collaboration 1" width="700"/>
 
-#### 5.3.2. Registro de entrevistas
+<img src="./images/chapter-5/team-collaboration-2.png" alt="Team Collaboration 2" width="700"/>
 
-#### 5.3.3. Evaluaciones según heurísticas
+<img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
 
-### 5.4. Video About-the-Product
 
 ## Conclusiones
 
+**1.**	La planificación inicial mediante wireframes y user stories fue clave para establecer una visión clara del producto, definir funcionalidades prioritarias y asegurar que la experiencia de usuario fuera intuitiva y enfocada a las necesidades reales de los estudiantes.
+
+**2.**	El diseño de la aplicación como un sitio web con elementos de gamificación, como retos e insignias, fomentó una mayor motivación en estudiantes en comparación con plataformas tradicionales, ofreciendo un entorno de aprendizaje más dinámico y participativo.
+
+**3.**	El desarrollo del proyecto reforzó la importancia de la comunicación constante en el equipo, ya que integrar diferentes herramientas y perspectivas (diseño, programación) fue esencial para cumplir los plazos y asegurar la calidad final de este.
+
+**4.**	La distribución de roles y tareas según las fortalezas de cada integrante permitió optimizar tiempos de entrega y mejorar cada detalle de la aplicación.
+
+**5.**	El uso de un repositorio abierto facilitó la colaboración en tiempo real del grupo, permitiendo que varios integrantes trabajaran en diferentes partes del proyecto de manera simultánea y sin problemas mayores.
+
+**6.**	El uso de Trello permitió una gestión eficaz de las tareas, organizando el trabajo en tableros y listas que facilitaron la asignación de responsabilidades y el seguimiento del progreso de cada integrante del equipo.
+
+**7.**	Figma fue fundamental para diseñar los wireframes y prototipos, gracias a sus herramientas sencillas e intuitivas se pudo diseñar y acelerar el proceso creativo de estos.
+
+**8.**	 Lucidchart ayudó a crear la estructura del proyecto, facilitando la creación de diagramas de clase que sirvieron como guías claras para el desarrollo de próximas actividades del proyecto.
+
+**9.**	Pivoltracker nos permitió realizar con mayor facilidad el product backlog, usando un sistema de trabajo basado en sus metodologías ágiles.
+
 ## Bibliografía
 
+•	LucidChart. (2010). LucidChart. Lucid Software Inc. https://www.lucidchart.com
+
+•	Trello(2011). Trello. Atlassian. https://trello.com/
+
+•	Pivotal Tracker (2008). Pivotal Tracker. VMware, Inc. https://www.pivotaltracker.com/
+
+•	Figma (2016). Figma. Figma, Inc.  https://www.figma.com/
+
+•	Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The definitive guide to Scrum: The rules of the game. Scrum.org. https://scrumguides.org/
+
+•	ProgressaLean. (2014). 5W+2H: Técnica de análisis de problemas. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+•	IBM. (2022). As-is Scenario Map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+•	IBM. (s. f.). Empathy Map. https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+
+•	Browne, C. (2022). What are user flows in UX design? .CareerFoundry. https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+•	Structurizr. (s. f.). Embedding diagrams. https://docs.structurizr.com/cloud/embed
+
+•	Structurizr. (s. f.). Structurizr. https://structurizr.com/
+
 ## Anexos
+
+**Anexo A:**
+https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing
+
+**Anexo B:**
+https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing
+
+**Anexo C:**
+https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link
+
+**Anexo D:**
+https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link
+
+**Anexo E:**
+
+https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link
+
+**Anexo F:**
+
+https://youtu.be/QTE_TH3pnVc
+
+**Anexo G:**
+
+https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1
+
+**Anexo H:**
+
+https://www.figma.com/design/kgM3yQP7rTFErupKASTWFq/EduHive?node-id=1-3&t=q1juqOFhPBfXgsgs-1
+
+**Anexo I:**
+
+https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88
+
+**Anexo J:**
+
+https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
+
+**Anexo K:**
+
+https://apx-01.github.io/Landing-Page/
