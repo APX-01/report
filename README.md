@@ -4,17 +4,21 @@
 
 ### **CURSO:** Desarrollo de Aplicaciones Open Source
 
+
 ### **NRC**: 4334
 
 ### **Profesor:** Hugo Allan Mori Paiva
+
 
 ### **Ingeniería de software**
 
 ## Informe de Trabajo Final
 
+
 ### **Nombre del startup:** APX-01
 
 ### **Nombre del producto:** EduHive
+
 
 ## **Integrantes**
 
