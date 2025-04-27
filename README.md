@@ -1029,7 +1029,7 @@ El menú lateral izquierdo mantiene accesos a Profile, Dashboard y Help.
 
 <img src="./images/chapter-4/Group-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
-<img src="./images/chapter-4/Group-View-Teacher2.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Group-View-Teacher1.png" alt="Context Diagram" width="800"/><br>
 
 **Challenge View Teacher**
 
@@ -1039,7 +1039,7 @@ Debajo, en Submissions, se listan las entregas de los estudiantes, incluyendo no
 A la derecha, sobre un fondo de hexágonos, aparece la descripción del desafío con instrucciones claras y específicas sobre la actividad a realizar.
 La barra lateral izquierda mantiene el menú de navegación a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Challenge-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Challenge-View-teacher.png" alt="Context Diagram" width="800"/><br>
 
 **Submission View**
 
@@ -1049,7 +1049,7 @@ Más abajo, en Content, se presentan comentarios de retroalimentación de otros 
 A la derecha, hay un área de herramientas (Tab) donde se pueden insertar imágenes, documentos o agregar comentarios, lo que permite enriquecer la revisión del proyecto.
 El menú lateral izquierdo y el estilo visual se mantienen consistentes con el resto de la plataforma, destacando el logo de la abeja y los accesos rápidos a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Submission-View.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Submission-view.png" alt="Context Diagram" width="800"/><br>
 
 **Submission View Teacher**
 
@@ -1063,7 +1063,7 @@ Esta pantalla muestra el detalle de una entrega de estudiante, pero con funciona
 
 - El diseño general mantiene la coherencia con el resto del sistema: navegación a la izquierda, branding de EduHive y accesos rápidos a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Submission-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Submission-View-teacher.png" alt="Context Diagram" width="800"/><br>
 
 **Member List Student**
 
