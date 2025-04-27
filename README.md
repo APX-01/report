@@ -1168,9 +1168,13 @@ En el proceso de creación de cuenta para la plataforma EduHive, el usuario prim
 
 <img src="./images/chapter-4/UserGoal12_mu.png" alt="Moodle" width="800" height="130"/>
 
-
-
 ### 4.5. Web Applications Prototyping
+
+En esta sección se muestra el video de un prototipo interactivo de la aplicación web de EduHive, los botones e objetos interactivos se han posicionado siguiendo los principios de la arquitectura de la información, para que el usuario pueda navegar de forma fácil e intuitiva a través de esta. Con colores distintivos y una distribución planeada estratégicamente para que el usuario pueda identificar los elementos de forma rápida.
+
+![](/images/chapter-4/PrototypeEduHiveVideoImage.png)
+
+URL del Video: [Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d964_upc_edu_pe/EQe-KWdwUtlOvgRtJsG5i94BMiSwEtBO3-aLU2dPm6HR6w?e=K7niRD)
 
 ### 4.6. Domain-Driven Software Architecture
 
