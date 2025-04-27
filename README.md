@@ -837,7 +837,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar sección Hero</td>
     <td>Crear layout con imagen destacada y texto principal</td>
     <td>2</td>
-    <td>JosueFloresAp</td>
+    <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -845,7 +845,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Implementar barra de busqueda</td>
     <td>Agregar una barra de búsqueda a la sección.</td>
     <td>1</td>
-    <td>JosueFloresAp</td>
+    <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -855,7 +855,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar tarjetas de características</td>
     <td>Crear 4 tarjetas con iconos y descripción breve.</td>
     <td>3</td>
-    <td>AlexBoo1</td>
+    <td>OmarLLA</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -865,7 +865,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar cards de cursos</td>
     <td>Crear tarjetas con imagen, título y efecto hover.</td>
     <td>3</td>
-    <td>Firtness</td>
+    <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -873,7 +873,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Implementar grid responsive</td>
     <td>Configurar disposición adaptable de las tarjetas.</td>
     <td>2</td>
-    <td>Firtness</td>
+    <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -883,7 +883,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar layout informativo</td>
     <td>Estructurar contenido sobre metodología educativa.</td>
     <td>2</td>
-    <td>OmarLLA</td>
+    <td>JosueFloresAp</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -893,7 +893,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar formulario</td>
     <td>Crear campos para nombre, email, teléfono, compañía y mensaje.</td>
     <td>3</td>
-    <td>sebastianrealcalderon</td>
+    <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -901,7 +901,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Implementar validaciones</td>
     <td>Validar campos obligatorios y formatos.</td>
     <td>2</td>
-    <td>sebastianrealcalderon</td>
+    <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -909,7 +909,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Configurar envío</td>
     <td>Programar lógica para enviar datos y mostrar confirmación.</td>
     <td>2</td>
-    <td>sebastianrealcalderon</td>
+    <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -919,7 +919,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar carrusel</td>
     <td>Crear componente deslizable con testimonios (texto, nombre, carrera).</td>
     <td>3</td>
-    <td>AlexBoo1</td>
+    <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -927,7 +927,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Implementar navegación</td>
     <td>Agregar flechas para cambiar entre testimonios.</td>
     <td>2</td>
-    <td>AlexBoo1</td>
+    <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -955,7 +955,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Diseñar formulario</td>
     <td>Crear campo de email y botón de suscripción.</td>
     <td>1</td>
-    <td>JosueFloresAp</td>
+    <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
   <tr>
@@ -963,7 +963,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Implementar validación</td>
     <td>Verificar formato de email y mostrar estados (éxito/error).</td>
     <td>2</td>
-    <td>JosueFloresAp</td>
+    <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
 </table>
