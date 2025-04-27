@@ -1112,6 +1112,32 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+En este sprint, implementamos con éxito la landing page de EduHive en un entorno funcional. El equipo trabajó en la preparación de la infraestructura, automatización de procesos y publicación del sitio, asegurando su correcto funcionamiento. A continuación, detallamos las actividades clave realizadas:
+
+- Configuración del Repositorio
+  - Habilitamos GitHub Pages en el repositorio del proyecto (Settings > Pages).
+  - Configuramos la rama main como fuente de despliegue automático.
+- Preparación para el Despliegue
+  - Aseguramos que la estructura de archivos siguiera los requisitos de GitHub Pages
+- Despliegue Automático
+  - GitHub Actions ejecutó el flujo predeterminado de Pages al hacer push a main.
+  - Verificamos que el sitio se publicara correctamente.
+
+<img src="./images/chapter-5/deploy-evidence-1.png" alt="Deploy Evidence 1" width="700"/>
+
+
+<img src="./images/chapter-5/deploy-evidence-2.png" alt="Deploy Evidence 2" width="700"/>
+
+
+
+<img src="./images/chapter-5/deploy-evidence-3.png" alt="Deploy Evidence 3" width="700"/>
+
+
+
+<img src="./images/chapter-5/deploy-evidence-4.png" alt="Deploy Evidence 4" width="700"/>
+
+
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews
