@@ -711,11 +711,11 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
   </tr>
   <tr>
     <th>Sprint 1 Velocity</th>
-    <td>26 puntos</td>
+    <td>33 puntos</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>26 puntos</td>
+    <td>33 puntos</td>
   </tr>
 </table>
 
