@@ -1067,6 +1067,24 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 ### 5.4. Video About-the-Product
 
 ## Conclusiones
+**1.**	La planificación inicial mediante wireframes y user stories fue clave para establecer una visión clara del producto, definir funcionalidades prioritarias y asegurar que la experiencia de usuario fuera intuitiva y enfocada a las necesidades reales de los estudiantes.
+
+**2.**	El diseño de la aplicación como un sitio web con elementos de gamificación, como retos e insignias, fomentó una mayor motivación en estudiantes en comparación con plataformas tradicionales, ofreciendo un entorno de aprendizaje más dinámico y participativo.
+
+**3.**	El desarrollo del proyecto reforzó la importancia de la comunicación constante en el equipo, ya que integrar diferentes herramientas y perspectivas (diseño, programación) fue esencial para cumplir los plazos y asegurar la calidad final de este.
+
+**4.**	La distribución de roles y tareas según las fortalezas de cada integrante permitió optimizar tiempos de entrega y mejorar cada detalle de la aplicación.
+
+**5.**	El uso de un repositorio abierto facilitó la colaboración en tiempo real del grupo, permitiendo que varios integrantes trabajaran en diferentes partes del proyecto de manera simultánea y sin problemas mayores.
+
+**6.**	El uso de Trello permitió una gestión eficaz de las tareas, organizando el trabajo en tableros y listas que facilitaron la asignación de responsabilidades y el seguimiento del progreso de cada integrante del equipo.
+
+**7.**	Figma fue fundamental para diseñar los wireframes y prototipos, gracias a sus herramientas sencillas e intuitivas se pudo diseñar y acelerar el proceso creativo de estos.
+
+**8.**	 Lucidchart ayudó a crear la estructura del proyecto, facilitando la creación de diagramas de clase que sirvieron como guías claras para el desarrollo de próximas actividades del proyecto.
+
+**9.**	Pivoltracker nos permitió realizar con mayor facilidad el product backlog, usando un sistema de trabajo basado en sus metodologías ágiles.
+
 
 ## Bibliografía
 
