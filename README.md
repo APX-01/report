@@ -234,21 +234,6 @@ Abril 2025
       <td>Interacción y Navegación en la Landing page</td>
       <td>Esta épica engloba el diseño y funcionalidad de las secciones clave del landing page (Hero, Main Features, Explore Courses, Knowledge, Contact, Testimonials, Latest Updates y Subscribe), con el objetivo de presentar de manera atractiva e interactiva la propuesta de valor de EduHive. Cada sección está optimizada para guiar al usuario a través de un recorrido visual intuitivo, destacando beneficios, oferta académica y testimonios, mientras facilita la conversión mediante formularios validados (contacto y suscripción) y contenido multimedia actualizado, todo integrado en una experiencia cohesiva y orientada.</td>
     </tr>
-    <tr>
-      <td>EP-006</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP-007</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>EP-008</td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
