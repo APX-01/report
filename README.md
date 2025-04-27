@@ -547,6 +547,59 @@ Entonces recibe un correo de confirmación</td>
 
 ### 3.4. Product Backlog
 
+<table>
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>Código US</th>
+      <th>Título</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>US-005</td><td>Acceder al panel de progreso del curso</td><td>13</td></tr>
+    <tr><td>2</td><td>US-011</td><td>Seguir el rendimiento de los equipos</td><td>13</td></tr>
+    <tr><td>3</td><td>US-033</td><td>Métricas de participación</td><td>13</td></tr>
+    <tr><td>4</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
+    <tr><td>5</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
+    <tr><td>6</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
+    <tr><td>7</td><td>US-016</td><td>Distribución programada de retos</td><td>8</td></tr>
+    <tr><td>8</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
+    <tr><td>9</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
+    <tr><td>10</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
+    <tr><td>11</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
+    <tr><td>12</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
+    <tr><td>13</td><td>US-010</td><td>Visualizacion de horarios</td><td>5</td></tr>
+    <tr><td>14</td><td>US-012</td><td>Revisar general de rendimiento</td><td>5</td></tr>
+    <tr><td>15</td><td>US-013</td><td>Asignación de feeback</td><td>5</td></tr>
+    <tr><td>16</td><td>US-014</td><td>Enviar respuesta a reto</td><td>5</td></tr>
+    <tr><td>17</td><td>US-015</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
+    <tr><td>18</td><td>US-017</td><td>Generación de Código de Invitación</td><td>5</td></tr>
+    <tr><td>19</td><td>US-018</td><td>Visualización de logros gamificados</td><td>5</td></tr>
+    <tr><td>20</td><td>US-019</td><td>Configuración de notificaciones</td><td>5</td></tr>
+    <tr><td>21</td><td>US-020</td><td>Validación de códigos de grupo</td><td>5</td></tr>
+    <tr><td>22</td><td>US-021</td><td>Interacción con la barra de navegación</td><td>5</td></tr>
+    <tr><td>23</td><td>US-022</td><td>Sección de características principales</td><td>5</td></tr>
+    <tr><td>24</td><td>US-023</td><td>Sección cursos populares</td><td>5</td></tr>
+    <tr><td>25</td><td>US-024</td><td>Sección Explore Course</td><td>5</td></tr>
+    <tr><td>26</td><td>US-025</td><td>Sección Blog</td><td>5</td></tr>
+    <tr><td>27</td><td>US-026</td><td>Contacto</td><td>5</td></tr>
+    <tr><td>28</td><td>US-027</td><td>Acceso a Login</td><td>5</td></tr>
+    <tr><td>29</td><td>US-028</td><td>Acceso a Registro</td><td>5</td></tr>
+    <tr><td>30</td><td>US-029</td><td>Edición de perfil</td><td>5</td></tr>
+    <tr><td>31</td><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
+    <tr><td>32</td><td>US-031</td><td>Historial de retos completados</td><td>5</td></tr>
+    <tr><td>33</td><td>US-032</td><td>Foro de equipos</td><td>5</td></tr>
+    <tr><td>34</td><td>US-034</td><td>Clasificación de equipos</td><td>5</td></tr>
+    <tr><td>35</td><td>US-035</td><td>Reporte semanal</td><td>5</td></tr>
+    <tr><td>36</td><td>US-036</td><td>Reporte de errores</td><td>5</td></tr>
+    <tr><td>37</td><td>US-037</td><td>Seguridad de la cuenta con correo</td><td>3</td></tr>
+    <tr><td>38</td><td>US-038</td><td>Olvido de contraseñas</td><td>3</td></tr>
+    <tr><td>39</td><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>3</td></tr>
+    <tr><td>40</td><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
+  </tbody>
+</table>
+
 ## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines
