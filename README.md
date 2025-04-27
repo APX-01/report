@@ -985,7 +985,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <tr>
       <td>Firtness/Landing-Page</td>
       <td>feature/hero-section</td>
-      <td>X</td>
+      <td>ae31dfe50a0f63c8e218fd56a639a94ab6e1e233</td>
       <td>feat(hero-section): Added hero section</td>
       <td>Hero section was added to landing page</td>
       <td>26/04/2025</td>
@@ -993,7 +993,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <tr>
       <td>OmarLLA/Landing-Page</td>
       <td>feature/main-features-section</td>
-      <td>X</td>
+      <td>716d999c8851c2a2aa83872b59f02e98595a9b60</td>
       <td>feat(main-features-section): Added main features section</td>
       <td>Main features section was added to landing page</td>
       <td>26/04/2025</td>
@@ -1001,7 +1001,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <tr>
       <td>sebastianrealcalderon/Landing-Page</td>
       <td>feature/explore-course-section</td>
-      <td>X</td>
+      <td>9582d1ef67013654bcbe69c6a0081a7926319ed6</td>
       <td>feat(explore-course-section): Added explore course section</td>
       <td>Explore Course section was added to landing page</td>
       <td>26/04/2025</td>
@@ -1009,7 +1009,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <tr>
       <td>JosueFloresAp/Landing-Page</td>
       <td>feature/knowledge-section</td>
-      <td>X</td>
+      <td>b7ec52a37eba0975aadb73a0da6a7986d83ff350</td>
       <td>feat(knowledge-section): Added knowledge section</td>
       <td>Knowledge section was added to landing page</td>
       <td>26/04/2025</td>
@@ -1017,7 +1017,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <tr>
       <td>AlexBoo1/Landing-Page</td>
       <td>feature/contact-section</td>
-      <td>X</td>
+      <td>df6f3a30e613c9ee750ca86bcbdc05737d576085</td>
       <td>feat(contact-section): Added contact section</td>
       <td>Contact section was added to landing page</td>
       <td>26/04/2025</td>
@@ -1025,7 +1025,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
 <tr>
       <td>Firtness/Landing-Page</td>
       <td>feature/testimonials-section</td>
-      <td>X</td>
+      <td>9cffc0856e9b4f2ab64d3c6c2993f223587dfbcf</td>
       <td>feat(testimonials-section): Added testimonials section</td>
       <td>Testimonials section was added to landing page</td>
       <td>26/04/2025</td>
@@ -1033,7 +1033,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
 <tr>
       <td>OmarLLA/Landing-Page</td>
       <td>feature/latest-updates-section</td>
-      <td>X</td>
+      <td>d1eddc95f8fa0299a4283d7b703eba4555768e60</td>
       <td>feat(latest-updates-section): Added latest Updates section</td>
       <td>Latest Updates section was added to landing page</td>
       <td>25/04/2025</td>
@@ -1041,7 +1041,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
 <tr>
       <td>sebastianrealcalderon/Landing-Page</td>
       <td>feature/subscribe-section</td>
-      <td>X</td>
+      <td>0e27ddf2f7d49992c676d69401998ffd9653f0f4</td>
       <td>feat(subscribe-section): Added subscribe section</td>
       <td>Subscribe section was added to landing page</td>
       <td>26/04/2025</td>
