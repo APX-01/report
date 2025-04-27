@@ -405,104 +405,107 @@ Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de lo
     <tr><td>US-018</td><td>Visualización de logros gamificados</td><td>Como estudiante, quiero ver mis insignias y puntos acumulados en un tablero personal, para mantenerme motivado con mi progreso académico.</td><td>Escenario 1: Visualización de logros<br>Dado que el estudiante ha completado retos<br>Cuando accede a su perfil<br>Entonces ve un tablero con insignias obtenidas y puntaje total<br><br>Escenario 2: Nuevo logro desbloqueado<br>Dado que el estudiante cumple condiciones para una nueva insignia<br>Cuando completa un reto especial<br>Entonces recibe notificación automática con el nuevo logro</td><td>EP-003</td></tr><tr><td>US-019</td><td>Configuración de notificaciones</td><td>Como usuario, quiero personalizar qué notificaciones recibo (recordatorios de retos, mensajes grupales, etc.), para optimizar mi experiencia en la plataforma.</td><td>Escenario 1: Personalización exitosa<br>Dado que el usuario accede a configuración<br>Cuando selecciona/deselecciona tipos de notificación<br>Y guarda los cambios<br>Entonces el sistema aplica las preferencias<br><br>Escenario 2: Notificación no deseada<br>Dado que el usuario desactivó notificaciones de logros<br>Cuando desbloquea una insignia<br>Entonces no recibe alerta en su bandeja</td><td>EP-001</td></tr><tr>
     <tr><td>US-020</td><td>Validación de códigos de grupo</td><td>Como estudiante, quiero poder validar códigos de invitación a grupos, para unirme rápidamente a las actividades académicas correctas.</td><td>Escenario 1: Unión exitosa a grupo<br>Dado que el estudiante ingresa un código válido<br>Cuando el sistema verifica que coincide con un grupo activo<br>Entonces se une automáticamente al grupo<br>Y recibe confirmación visual<br><br>Escenario 2: Código inválido<br>Dado que el estudiante ingresa un código expirado/erróneo<br>Cuando el sistema intenta validarlo<br>Entonces muestra mensaje claro "Código inválido o expirado"<br>Y sugiere solicitar uno nuevo al profesor</td><td>EP-001</td></tr>
     <tr><td>US-021</td>
-<td>Interacción con la barra de navegación</td>
-<td>Como usuario, quiero usar la barra de navegación para acceder rápidamente a cualquier sección.</td>
-<td>Escenario 1: Navegación a secciones internas<br>
-Dado que el usuario está en la página principal<br>
-Cuando hace clic en un enlace del menú
-Entonces la página lo lleva a esa sección<br><br>
-Escenario 2: Acceso a secciones externas<br>
-Dado que el usuario quiere registrarse o ingresar<br>
-Cuando selecciona "Login" o "Register" en el menú<br>
-Entonces el sistema abre el formulario de inicio de sesión o registro.</td>
+<td>Hero Section</td>
+<td>Como usuario, quiero ver una introducción atractiva de la página con una imagen representativa.</td>
+<td>Escenario 1: Visualización de la sección Hero<br>
+Dado que el usuario ingresa al sitio web<br>
+Cuando la página carga completamente<br>
+Entonces puede ver una imagen destacada con texto introductorio</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-022</td>
-<td>Sección de características principales</td>
-<td>Como usuario, quiero navegar a la sección de características principales para conocer las funcionalidades clave del sistema.</td>
-<td>Escenario 1: Ingreso a la sección Main Features<br>
-Dado que el usuario se encuentra en el landing page<br>
-Cuando hace clic en "Main Features" en el navbar<br>
-Entonces el sistema lo dirige a esa sección<br><br>
-Escenario 2: Visualización de características<br>
-Dado que el usuario está en la sección Main Features<br>
-Cuando scrollea hacia abajo<br>
-Entonces puede ver algunos iconos con descripciones de las funcionalidades</td>
+<td>Main Features Section</td>
+<td>Como usuario, quiero conocer las razones para elegir EduHive a través de sus características principales.</td>
+<td>Escenario 1: Visualización de características<br>
+Dado que el usuario navega hasta Main Features<br>
+Cuando scrollea la sección<br>
+Entonces ve 4 iconos y descripciones de beneficios clave<br><br>
+Escenario 2: Interacción con características<br>
+Dado que el usuario está en Main Features<br>
+Cuando pasa el cursor sobre una tarjeta<br>
+Entonces esta muestra un efecto visual destacado</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-023</td>
-<td>Sección cursos populares</td>
-<td>Como usuario, quiero llegar a la sección de cursos populares para explorar las opciones mejor valoradas.</td>
-<td>Escenario 1: Navegación a la sección<br>
-Dado que el usuario está en la página principal<br>
-Cuando selecciona "Cursos Populares" en el navbar<br>
-Entonces la página hace scroll hasta la sección de cursos populares<br><br>
-Escenario 2: Exploración de cursos<br>
-Dado que el usuario se encuentra en la sección<br>
-Cuando interactúa con los cursos populares<br>
-Entonces puede ver tarjetas con imágenes, ratings y opción de ver más acerca del curso
-</td>
+<td>Explore Course Section</td>
+<td>Como usuario, quiero explorar los cursos disponibles para encontrar opciones que se ajusten a mis necesidades.</td>
+<td>Escenario 1: Visualización de cursos<br>
+Dado que el usuario llega a la sección<br>
+Cuando navega por la página<br>
+Entonces ve tarjetas de cursos con imágenes y título<br><br>
+Escenario 2: Interacción con cursos<br>
+Dado que el usuario está en Explore Course<br>
+Cuando pasa el cursor sobre una tarjeta<br>
+Entonces esta muestra un efecto visual destacado</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-024</td>
-<td>Sección Explore Course</td>
-<td>Como usuario, quiero acceder a la sección de blog para leer artículos educativos y ver recursos multimedia relacionados.</td>
-<td>Escenario 1: Redirección a la sección<br>
-Dado que el usuario hace clic en "Explore Course" en el navbar<br>
-Cuando la página completa la acción<br>
-Entonces llega a la sección con el listado completo de cursos</td>
+<td>Knowledge Section</td>
+<td>Como usuario, quiero obtener información adicional sobre la plataforma y su enfoque educativo.</td>
+<td>Escenario 1: Acceso a información<br>
+Dado que el usuario navega a Knowledge<br>
+Cuando lee el contenido<br>
+Entonces encuentra datos relevantes sobre la metodología educativa</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-025</td>
-<td>Sección Blog</td>
-<td>Como usuario, quiero leer artículos educativos para aprender sobre temas relevantes.</td>
-<td>Escenario 1: Navegación al Blog<br>
-Dado que el usuario hace clic en "Blog" en la barra de navegación<br>
-Cuando la página lo dirige a la sección<br>
-Entonces el sistema muestra la página principal del blog con los artículos más recientes y contenido multimedia destacado<br><br>
-Escenario 2: Carga de contenido adicional<br>
-Dado que el usuario ha visto todos los artículos iniciales<br>
-Cuando decide ver más contenido<br>
-Entonces encuentra la opción para cargar publicaciones anteriores de manera sencilla</td>
+<td>Contact Section</td>
+<td>Como usuario, quiero contactar al equipo.</td>
+<td>Escenario 1: Visualización del formulario<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección Contact<br>
+Entonces ve campos para nombre, email, número de teléfono, compañia y mensaje<br><br>
+Escenario 2: Validación de campos<br>
+Dado que el usuario no completa un campo requerido<br>
+Cuando intenta enviar<br>
+Entonces el sistema muestra un mensaje de error específico<br><br>
+Escenario 3: Envío exitoso<br>
+Dado que completa todos los campos correctamente<br>
+Cuando envía el formulario<br>
+Entonces recibe un mensaje de confirmación</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-026</td>
-<td>Contacto</td>
-<td>Como usuario, quiero contactarme con el equipo para resolver dudas o problemas.</td>
-<td>Escenario 1: Apertura del formulario<br>
-Dado que el usuario hace clic en "Contacto"<br>
-Cuando el sistema lo dirija a la sección<br>
-Entonces se le mostrará el formulario para contactarse<br>
-Escenario 2: Validación de campos<br><br>
-Dado que el usuario dejó el email vacío<br>
-Cuando intenta enviar<br>
-Entonces ve el mensaje "Campo obligatorio"</td>
+<td>Testimonials Section</td>
+<td>Como usuario, quiero ver testimonios de otros estudiantes para evaluar la calidad del servicio.</td>
+<td>Escenario 1: Visualización de testimonios<br>
+Dado que el usuario llega a la sección<br>
+Cuando la página carga<br>
+Entonces ve al menos un testimonio con comentario, nombre y carrera<br><br>
+Escenario 2: Navegación entre testimonios<br>
+Dado que hay múltiples testimonios<br>
+Cuando hace clic en las flechas de navegación<br>
+Entonces el sistema muestra el testimonio siguiente o anterior</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-027</td>
-<td>Acceso a Login</td>
-<td>Como usuario registrado, quiero iniciar sesión para acceder a mi cuenta.</td>
-<td>Escenario 1: Redirección al login<br>
-Dado que el usuario selecciona "Login"<br>
-Cuando la página carga<br>
-Entonces ve los campos para email y contraseña<br><br>
-Escenario 2: Error de credenciales<br>
-Dado que ingresó datos incorrectos<br>
-Cuando presiona "Acceder"<br>
-Entonces el sistema muestra "Credenciales inválidas"</td>
+<td>Latest Updates Section</td>
+<td>Como usuario, quiero conocer las últimas actualizaciones de cursos con fechas y material informativo.</td>
+<td>Escenario 1: Visualización de actualizaciones<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección de Lastest Updates<br>
+Entonces ve una lista de cursos con fechas de actualización<br><br>
+Escenario 2: Reproducción de video<br>
+Dado que hay un video informativo<br>
+Cuando hace clic en el botón de reproducción<br>
+Entonces el video se inicia en un reproductor</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-028</td>
-<td>Acceso a Registro</td>
-<td>Como nuevo usuario, quiero crear una cuenta para usar la plataforma.</td>
-<td>Escenario 1: Apertura del formulario<br>
-Dado que el usuario hace clic en "Registro"<br>
-Cuando la página de registro carga<br>
-Entonces ve los campos obligatorios (nombre, email, etc.)<br><br>
-Escenario 2: Registro exitoso<br>
-Dado que completó todos los campos<br>
-Cuando envía el formulario<br>
-Entonces recibe un correo de confirmación</td>
+<td>Subscribe Section</td>
+<td>Como usuario, quiero suscribirme al newsletter para recibir actualizaciones por correo.</td>
+<td>Escenario 1: Visualización del formulario<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección Subscribe<br>
+Entonces ve un campo de email y botón "Subscribe"<br><br>
+Escenario 2: Suscripción exitosa<br>
+Dado que ingresa un email válido<br>
+Cuando hace clic en Subscribe<br>
+Entonces recibe un mensaje de confirmación<br><br>
+Escenario 3: Validación de email<br>
+Dado que ingresa un email inválido<br>
+Cuando intenta suscribirse<br>
+Entonces el sistema muestra un error</td>
 <td>EP-005</td>
 </tr>
     <tr><td>US-029</td><td>Edición de perfil</td><td>Como usuario, quiero editar mi perfil personal, para mantener actualizada mi información de contacto y habilidades.</td><td>Escenario 1: Dado que el usuario accede a su perfil, Cuando selecciona "Editar perfil", Entonces puede modificar su nombre, foto, bio y habilidades.<br><br>
