@@ -705,7 +705,7 @@ Tácticas:
   - Edad: 22 Años
   - Distrito: San Miguel
 
-![Imagen de la entrevista 1 del Segmento Objetivo 1](/images/chapter-2/entrevistaS11.png)
+<img src="./images/chapter-2/entrevistaS11.png" alt="Chamilo" width="400"/>
 
 - Inicio: 0:23
 - Duración: 4:46
@@ -795,7 +795,7 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1o
 - Inicio de la entrevista: 0:03
 - Duracion: 06:14
 
-![Imagen de la entrevista 3 del Segmento Objetivo 2](/images/chapter-2/Entrevista_3.png)
+<img src="./images/chapter-2/Entrevista_3.png" alt="Chamilo" width="400"/>
 
 URL: https://youtu.be/QTE_TH3pnVc
 
@@ -2107,49 +2107,59 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 #### 4.4.1. Web Applications Wireframes
 
 - Autenticación
-![](/images/chapter-4/EduHiveWireFrames/Authentication.png)
-![](/images/chapter-4/EduHiveWireFrames/Account%20Creation.png)
-![](/images/chapter-4/EduHiveWireFrames/Account%20Creation-1.png)
+
+<img src="./images/chapter-4/EduHiveWireFrames/Authentication.png" alt="Chamilo" width="400"/>
+<img src="./images/chapter-4/EduHiveWireFrames/Account%20Creation.png" alt="Chamilo" width="400"/>
+<img src="./images/chapter-4/EduHiveWireFrames/Account%20Creation-1.png" alt="Chamilo" width="400"/>
 
 - Dashboard
   - Estudiantes
-![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Student.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Dashboard%20Student.png" alt="Chamilo" width="400"/>
+
   - Profesores
-![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Teacher.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Dashboard%20Teacher.png" alt="Chamilo" width="400"/>
 
 - Perfil Estudiante
-![](/images/chapter-4/EduHiveWireFrames/Profile%20Student.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Profile%20Student.png" alt="Chamilo" width="400"/>
 
 - Grupos
   - Estudiantes
-![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png" alt="Chamilo" width="400"/>
   - Profesores
     - Creación
-    ![](/images/chapter-4/EduHiveWireFrames/Group%20Creation.png)
+    <img src="./images/chapter-4/EduHiveWireFrames/Group%20Creation.png" alt="Chamilo" width="400"/>
+   
     - Vista
-    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+    <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png" alt="Chamilo" width="400"/>
+    
     
 
 - Retos
   - Estudiantes
-  ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Student.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Challenge%20View%20Student.png" alt="Chamilo" width="400"/>
+  
   - Profesores
     - Creación
-    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher-1.png)
+    <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher-1.png" alt="Chamilo" width="400"/>
+    
     - Vista
-    ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Teacher.png)
+    <img src="./images/chapter-4/EduHiveWireFrames/Challenge%20View%20Teacher.png" alt="Chamilo" width="400"/>
+    
 
 - Envíos
   - Estudiantes
-  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Submission%20View.png" alt="Chamilo" width="400"/>
+  
   - Profesores
-  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View%20Teacher.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Submission%20View%20Teacher.png" alt="Chamilo" width="400"/>
 
 - Lista
   - Estudiantes
-  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Student.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Member%20List%20Student.png" alt="Chamilo" width="400"/>
+
   - Profesores
-  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Teacher.png)
+  <img src="./images/chapter-4/EduHiveWireFrames/Member%20List%20Teacher.png" alt="Chamilo" width="400"/>
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -2436,7 +2446,7 @@ En el proceso de creación de cuenta para la plataforma EduHive, el usuario prim
 
 En esta sección se muestra el video de un prototipo interactivo de la aplicación web de EduHive, los botones e objetos interactivos se han posicionado siguiendo los principios de la arquitectura de la información, para que el usuario pueda navegar de forma fácil e intuitiva a través de esta. Con colores distintivos y una distribución planeada estratégicamente para que el usuario pueda identificar los elementos de forma rápida.
 
-![](/images/chapter-4/PrototypeEduHiveVideoImage.png)
+<img src="./images/chapter-4/PrototypeEduHiveVideoImage.png" alt="Chamilo" width="400"/>
 
 URL del Video: [Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d964_upc_edu_pe/EQe-KWdwUtlOvgRtJsG5i94BMiSwEtBO3-aLU2dPm6HR6w?e=K7niRD)
 
@@ -2487,7 +2497,7 @@ Los Component Diagrams detallan la estructura interna de cada Bounded Context, m
 
 #### 4.7.1. Class Diagrams
 
-![](/images/chapter-4/eduhive-class-diagram.jpeg)
+<img src="./images/chapter-4/eduhive-class-Diagram.jpeg" alt="eduhive-class-diagram" width="400"/>
 
 Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88)
 
@@ -2570,7 +2580,7 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 #### 4.8.1. Database Diagram
 
-![ERD EduHive](./images/chapter-4/erdEduHive.png)
+<img src="./images/chapter-4/erdEduHive.png" alt="erdEduHive" width="400"/>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
