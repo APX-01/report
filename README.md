@@ -975,68 +975,68 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
   </thead>
   <tbody>
     <tr>
-      <td>Firtness/repositoryname</td>
-      <td>feature/login</td>
+      <td>Firtness/Landing-Page</td>
+      <td>feature/hero-section</td>
       <td>X</td>
-      <td>feat(login): Added login</td>
-      <td>Login functionality was added to landing page</td>
-      <td>25/04/2025</td>
+      <td>feat(hero-section): Added hero section</td>
+      <td>Hero section was added to landing page</td>
+      <td>26/04/2025</td>
     </tr>
     <tr>
       <td>OmarLLA/Landing-Page</td>
-      <td>feature/register</td>
+      <td>feature/main-features-section</td>
       <td>X</td>
-      <td>feat(register): Added register</td>
-      <td>Register functionality was added to landing page</td>
-      <td>25/04/2025</td>
+      <td>feat(main-features-section): Added main features section</td>
+      <td>Main features section was added to landing page</td>
+      <td>26/04/2025</td>
     </tr>
     <tr>
       <td>sebastianrealcalderon/Landing-Page</td>
+      <td>feature/explore-course-section</td>
+      <td>X</td>
+      <td>feat(explore-course-section): Added explore course section</td>
+      <td>Explore Course section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>JosueFloresAp/Landing-Page</td>
+      <td>feature/knowledge-section</td>
+      <td>X</td>
+      <td>feat(knowledge-section): Added knowledge section</td>
+      <td>Knowledge section was added to landing page</td>
+      <td>26/04/2025</td>
+    </tr>
+    <tr>
+      <td>AlexBoo1/Landing-Page</td>
       <td>feature/contact-section</td>
       <td>X</td>
       <td>feat(contact-section): Added contact section</td>
       <td>Contact section was added to landing page</td>
-      <td>25/04/2025</td>
-    </tr>
-    <tr>
-      <td>JosueFloresAp/Landing-Page</td>
-      <td>feature/bar-nav</td>
-      <td>X</td>
-      <td>feat(bar-nav): Added bar nav</td>
-      <td>Barnav was added to landing page</td>
-      <td>25/04/2025</td>
-    </tr>
-    <tr>
-      <td>AlexBoo1/Landing-Page</td>
-      <td>feature/main-characteristics-section</td>
-      <td>X</td>
-      <td>feat(main-characteristics-section): Added main characteristics section</td>
-      <td>Main characteristics section was added to landing page</td>
-      <td>25/04/2025</td>
+      <td>26/04/2025</td>
     </tr>
 <tr>
       <td>Firtness/Landing-Page</td>
-      <td>feature/popular-courses-section</td>
+      <td>feature/testimonials-section</td>
       <td>X</td>
-      <td>feat(popular-courses-section): Added main popular courses section</td>
-      <td>Popular courses section was added to landing page</td>
-      <td>25/04/2025</td>
+      <td>feat(testimonials-section): Added testimonials section</td>
+      <td>Testimonials section was added to landing page</td>
+      <td>26/04/2025</td>
     </tr>
 <tr>
       <td>OmarLLA/Landing-Page</td>
-      <td>feature/explore-course-section</td>
+      <td>feature/latest-updates-section</td>
       <td>X</td>
-      <td>feat(explore-course-section): Added explore course section</td>
-      <td>Explore course section was added to landing page</td>
+      <td>feat(latest-updates-section): Added latest Updates section</td>
+      <td>Latest Updates section was added to landing page</td>
       <td>25/04/2025</td>
     </tr>
 <tr>
       <td>sebastianrealcalderon/Landing-Page</td>
-      <td>feature/blog-section</td>
+      <td>feature/subscribe-section</td>
       <td>X</td>
-      <td>feat(blog-section): Added blog section</td>
-      <td>Blog section was added to landing page</td>
-      <td>25/04/2025</td>
+      <td>feat(subscribe-section): Added subscribe section</td>
+      <td>Subscribe section was added to landing page</td>
+      <td>26/04/2025</td>
     </tr>
   </tbody>
 </table>
@@ -1147,7 +1147,3 @@ https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_
 **Anexo J:**
 
 https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
-
-
-
-
