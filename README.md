@@ -1049,7 +1049,7 @@ Más abajo, en Content, se presentan comentarios de retroalimentación de otros 
 A la derecha, hay un área de herramientas (Tab) donde se pueden insertar imágenes, documentos o agregar comentarios, lo que permite enriquecer la revisión del proyecto.
 El menú lateral izquierdo y el estilo visual se mantienen consistentes con el resto de la plataforma, destacando el logo de la abeja y los accesos rápidos a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Submission-view.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Submission-View.png" alt="Context Diagram" width="800"/><br>
 
 **Submission View Teacher**
 
