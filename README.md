@@ -581,14 +581,14 @@ Entonces el sistema muestra un error</td>
     <tr><td>19</td><td>US-018</td><td>Visualización de logros gamificados</td><td>5</td></tr>
     <tr><td>20</td><td>US-019</td><td>Configuración de notificaciones</td><td>5</td></tr>
     <tr><td>21</td><td>US-020</td><td>Validación de códigos de grupo</td><td>5</td></tr>
-    <tr><td>22</td><td>US-021</td><td>Interacción con la barra de navegación</td><td>5</td></tr>
-    <tr><td>23</td><td>US-022</td><td>Sección de características principales</td><td>5</td></tr>
-    <tr><td>24</td><td>US-023</td><td>Sección cursos populares</td><td>5</td></tr>
-    <tr><td>25</td><td>US-024</td><td>Sección Explore Course</td><td>5</td></tr>
-    <tr><td>26</td><td>US-025</td><td>Sección Blog</td><td>5</td></tr>
-    <tr><td>27</td><td>US-026</td><td>Contacto</td><td>5</td></tr>
-    <tr><td>28</td><td>US-027</td><td>Acceso a Login</td><td>5</td></tr>
-    <tr><td>29</td><td>US-028</td><td>Acceso a Registro</td><td>5</td></tr>
+    <tr><td>22</td><td>US-021</td><td>Hero Section</td><td>5</td></tr>
+    <tr><td>23</td><td>US-022</td><td>Main Features Section</td><td>5</td></tr>
+    <tr><td>24</td><td>US-023</td><td>Explore Course Section</td><td>5</td></tr>
+    <tr><td>25</td><td>US-024</td><td>Knowledge Section</td><td>5</td></tr>
+    <tr><td>26</td><td>US-025</td><td>Contact Section</td><td>5</td></tr>
+    <tr><td>27</td><td>US-026</td><td>Testimonials Section</td><td>5</td></tr>
+    <tr><td>28</td><td>US-027</td><td>Latest Updates Section</td><td>5</td></tr>
+    <tr><td>29</td><td>US-028</td><td>Subscribe Section</td><td>5</td></tr>
     <tr><td>30</td><td>US-029</td><td>Edición de perfil</td><td>5</td></tr>
     <tr><td>31</td><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
     <tr><td>32</td><td>US-031</td><td>Historial de retos completados</td><td>5</td></tr>
