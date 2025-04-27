@@ -1063,7 +1063,7 @@ Esta pantalla muestra el detalle de una entrega de estudiante, pero con funciona
 
 - El diseño general mantiene la coherencia con el resto del sistema: navegación a la izquierda, branding de EduHive y accesos rápidos a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Submission-View-teacher.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Submission-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
 **Member List Student**
 
