@@ -105,7 +105,9 @@ Abril 2025
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)
+
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -1056,11 +1058,405 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 ### 3.1. To-Be Scenario Mapping
 
+**1. Segmento 1: Estudiantes Universitarios**
+
+<img src="./images/chapter-3/tobeestudiantes.png" alt="To-Be Estudiantes Universitarios" width="800"/>
+
+**2. Segmento 2: Profesores Universitarios**
+
+<img src="./images/chapter-3/tobeprofesores.png" alt="To-Be Profesores Universitarios" width="800"/>
+
 ### 3.2. User Stories
+
+**Epics:**
+
+<table >
+  <thead>
+    <tr>
+      <th>Epic ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EP-001</td>
+      <td>Gestión de Equipos</td>
+      <td>Esta épica se centra en la creación y gestión eficiente de equipos de estudiantes dentro de la plataforma EduHive. Los equipos pueden organizarse según diferentes criterios, y los miembros podrán ver y coordinar sus horarios, facilitando la colaboración efectiva y la programación de reuniones. La gestión de equipos es esencial para promover el trabajo conjunto y la dinámica de aprendizaje dentro de los retos y actividades.</td>
+    </tr>
+    <tr>
+      <td>EP-002</td>
+      <td>Seguimiento de Progreso</td>
+      <td>Esta épica se enfoca en la visualización y el seguimiento del progreso de los equipos y los estudiantes dentro de EduHive. Los profesores podrán monitorear el rendimiento de los estudiantes a lo largo de los retos y actividades, proporcionando retroalimentación constructiva y ajustando el nivel de dificultad según sea necesario. Además, los estudiantes podrán seguir su propio progreso y entender cómo van en el curso.</td>
+    </tr>
+    <tr>
+      <td>EP-003</td>
+      <td>Sistema de Retos</td>
+      <td>Esta épica tiene como objetivo desarrollar un sistema que permita la creación, distribución y seguimiento de retos gamificados semanales. Los profesores podrán diseñar retos personalizados con niveles de dificultad adaptados al ritmo del curso, mientras que los estudiantes recibirán estos retos de manera continua para mantener su motivación y mejorar sus habilidades. Este sistema es clave para la experiencia de aprendizaje dentro de EduHive, ya que fomenta el desarrollo continuo y la competencia sana.</td>
+    </tr>
+    <tr>
+      <td>EP-004</td>
+      <td>Sistema de Evaluación</td>
+      <td>Esta épica se centra en el desarrollo de un sistema de evaluación dentro de EduHive que proporcione retroalimentación automática y permita tanto a estudiantes como a profesores evaluar el rendimiento y progreso en los retos. Los estudiantes recibirán retroalimentación inmediata al finalizar los retos, lo que les permitirá identificar sus áreas de mejora, mientras que los profesores tendrán acceso a herramientas para monitorear el rendimiento y ajustar la dificultad según sea necesario.</td>
+    </tr>
+    <tr>
+      <td>EP-005</td>
+      <td>Interacción y Navegación en la Landing page</td>
+      <td>Esta épica engloba el diseño y funcionalidad de las secciones clave del landing page (Hero, Main Features, Explore Courses, Knowledge, Contact, Testimonials, Latest Updates y Subscribe), con el objetivo de presentar de manera atractiva e interactiva la propuesta de valor de EduHive. Cada sección está optimizada para guiar al usuario a través de un recorrido visual intuitivo, destacando beneficios, oferta académica y testimonios, mientras facilita la conversión mediante formularios validados (contacto y suscripción) y contenido multimedia actualizado, todo integrado en una experiencia cohesiva y orientada.</td>
+    </tr>
+  </tbody>
+</table>
+
+**User Stories:**
+
+<table >
+  <thead>
+    <tr>
+      <th>User Storie ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>US-001</td>
+<td>Asignación de grupos</td>
+<td>Como estudiante, quiero ser asignado o unirme a un grupo de trabajo, para empezar a colaborar desde el inicio del curso.</td>
+<td>Escenario 1:Dado que el estudiante se ha registrado en el curso,
+Cuando accede por primera vez a la plataforma,
+Entonces el sistema le asigna automáticamente a un grupo disponible.
+Escenario 2:Dado que el estudiante no ha sido asignado aún,
+Cuando elige un grupo desde el listado de equipos abiertos,
+Entonces el sistema confirma su integración al grupo.</td>
+<td>EP-001</td>
+</tr>
+    <tr><td>US-002</td>
+<td>Visualización del equipo</td>
+<td>Como estudiante, quiero visualizar los distintos perfiles de integrantes de mi grupo, para conocer sus habilidades y roles asignados.</td>
+<td>Escenario 1:Dado que el estudiante pertenece a un grupo,
+Cuando accede a la sección "Mi equipo",
+Entonces puede ver los perfiles con habilidades y roles asignados de sus compañeros.
+Escenario 2:Dado que un nuevo integrante ha sido añadido,
+Cuando se actualiza la composición del grupo,
+Entonces la vista del equipo se actualiza automáticamente para todos los miembros.</td>
+<td>EP-001</td>
+</tr>
+    <tr><td>US-003</td>
+<td>Creación de grupos</td>
+<td>Como profesor, quiero crear grupos de estudiantes, para optimizar tiempo al inicio del curso.</td>
+<td>Escenario 1:Dado que el curso ha iniciado,
+Cuando el profesor accede a la herramienta de gestión de grupos,
+Entonces puede crear nuevos grupos y asignar estudiantes manualmente o de forma aleatoria.
+Escenario 2:Dado que los grupos han sido creados,
+Cuando el profesor confirma la creación,
+Entonces los estudiantes reciben una notificación con la asignación correspondiente.</td>
+<td>EP-001</td>
+</tr>
+    <tr><td>US-004</td>
+<td>Comparación de rendimiento</td>
+<td>Como estudiante, quiero comparar mi progreso con el de mis compañeros, para saber cómo estoy avanzando respecto al grupo.</td>
+<td>Escenario 1:Dado que el estudiante ha completado al menos un reto,
+Cuando accede a la sección de progreso del grupo,
+Entonces puede visualizar cómo se compara su rendimiento con el promedio de su equipo.
+Escenario 2:Dado que se han actualizado las notas,
+Cuando el estudiante revisa su panel de comparación,
+Entonces los datos reflejan la información más reciente.</td>
+<td>EP-002</td>
+</tr>
+    <tr><td>US-005</td>
+<td>Acceder al panel de progreso del curso</td>
+<td>Como profesor, quiero acceder a un panel de progreso general del curso, para hacer seguimiento del avance sin necesidad de herramientas externas.</td>
+<td>Escenario 1:Dado que hay múltiples grupos en el curso,
+Cuando el profesor entra al panel de progreso,
+Entonces ve un resumen visual con el avance por equipo y por reto.
+Escenario 2:Dado que el sistema recopila datos de entrega,
+Cuando el profesor filtra por fecha o reto,
+Entonces obtiene métricas detalladas del desempeño de los estudiantes.</td>
+<td>EP-002</td>
+</tr>
+    <tr><td>US-006</td>
+<td>Recepcion de retos semanales gamificados</td>
+<td>Como estudiante, quiero recibir retos gamificados semanales, para desarrollar mis habilidades mientras me mantengo motivado.</td>
+<td>Escenario 1: Dado que soy un estudiante registrado en la plataforma,
+Cuando inicio sesión en mi cuenta,
+Entonces recibiré un reto gamificado semanalmente para desarrollar mis habilidades.
+Escenario 2: Dado que soy un estudiante que ha completado el reto anterior,
+Cuando llegue una nueva semana,
+Entonces recibiré un nuevo reto gamificado semanalmente para mantenerme motivado.</td>
+<td>EP-003</td>
+</tr>
+    <tr><td>US-007</td>
+<td>Diseñar de retos personalizados</td>
+<td>Como profesor, quiero diseñar retos personalizados con niveles de dificultad, para adaptarlos al ritmo del curso.</td>
+<td>Escenario 1: Dado que soy un profesor con acceso a la plataforma,
+Cuando entro a la sección de diseño de retos,
+Entonces podré crear un reto personalizado con niveles de dificultad que se adapten al ritmo de mi curso.
+Escenario 2: Dado que soy un profesor,
+Cuando configuro los niveles de dificultad de un reto,
+Entonces los estudiantes verán el reto con la dificultad adecuada a su nivel de conocimiento.</td>
+<td>EP-003</td>
+</tr>
+    <tr><td>US-008</td>
+<td>Obtencion de feedback automático</td>
+<td>Como estudiante, quiero obtener retroalimentación automática tras resolver un reto, para identificar en qué puedo mejorar.</td>
+<td>Escenario 1: Dado que soy un estudiante que ha completado un reto,
+Cuando finalizo la resolución de un reto,
+Entonces recibiré retroalimentación automática que me ayudará a identificar mis áreas de mejora.
+Escenario 2: Dado que soy un estudiante,
+Cuando resuelvo un reto correctamente,
+Entonces recibiré un feedback positivo y constructivo que me motive a seguir aprendiendo.</td>
+<td>EP-004</td>
+</tr>
+    <tr><td>US-009</td>
+<td>Definición de fechas límite de retos</td>
+<td>Como profesor, quiero establecer fechas límite para cada reto, para asegurar que los estudiantes cumplan con los entregables en el tiempo establecido.</td>
+<td>Escenario 1: Dado que soy un profesor,
+Cuando creo un reto en la plataforma,
+Entonces puedo establecer una fecha límite para asegurarme de que los estudiantes cumplan con los entregables a tiempo.
+Escenario 2: Dado que soy un profesor,
+Cuando un estudiante ve un reto asignado,
+Entonces podrá ver claramente la fecha límite para entregarlo.</td>
+<td>EP-003</td>
+</tr>
+    <tr><td>US-010</td>
+<td>Visualizacion de horarios</td>
+<td>Como estudiante, quiero poder ingresar y visualizar los horarios disponibles de los miembros de mi equipo, para coordinar reuniones y sesiones de trabajo efectivas.</td>
+<td>Escenario 1: Dado que soy un estudiante que pertenece a un equipo,
+Cuando accedo a la sección de horarios,
+Entonces puedo ver los horarios disponibles de los miembros de mi equipo para coordinar reuniones y sesiones de trabajo.
+Escenario 2: Dado que soy un estudiante,
+Cuando visualizo los horarios de mi equipo,
+Entonces puedo seleccionar y proponer un horario que se ajuste a la disponibilidad de todos.</td>
+<td>EP-001</td>
+</tr>
+    <tr><td>US-011</td>
+<td>Seguir el rendimiento de los equipos</td>
+<td>Como profesor, quiero visualizar el progreso de los distintos grupos, para modificar el nivel de dificultad</td>
+<td>Escenario 1: Dado que soy un profesor,
+Cuando accedo a la sección de seguimiento de rendimiento,
+Entonces puedo visualizar el progreso de cada equipo para tomar decisiones sobre los niveles de dificultad de los retos.
+Escenario 2: Dado que soy un profesor,
+Cuando visualizo el progreso de los equipos,
+Entonces puedo ajustar el nivel de dificultad de los retos para cada equipo de acuerdo a su rendimiento.</td>
+<td>EP-002</td>
+</tr>
+    <tr><td>US-012</td>
+<td>Revisar general de rendimiento</td>
+<td>Como estudiante, quiero ver una vista gráfica de mis notas acumuladas, para entender fácilmente cómo voy en el curso.</td>
+<td>Escenario 1: Dado que soy un estudiante,
+Cuando accedo a la sección de rendimiento,
+Entonces puedo ver una vista gráfica de mis notas acumuladas para comprender fácilmente mi desempeño en el curso.
+Escenario 2: Dado que soy un estudiante,
+Cuando veo la vista gráfica de mi rendimiento,
+Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de los diferentes colores o indicadores de las gráficas.</td>
+<td>EP-004</td>
+</tr>
+    <tr><td>US-013</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
+    <tr><td>US-014</td><td>Enviar respuesta a reto</td><td>Como estudiante, quiero poder realizar envíos a los retos, añadiendo imágenes o documentos adjuntos de acorde a la necesidad.</td><td>Escenario 1: Envío exitoso<br>Dado que el estudiante está en un reto activo<br>Cuando selecciona "Nuevo envío", adjunta un documento PDF y escribe un comentario<br>Y hace clic en "Enviar"<br>Entonces el sistema guarda el envío<br>Y muestra el mensaje "Envío realizado correctamente"<br><br>Escenario 2: Envío sin archivos<br>Dado que el estudiante está en un reto activo<br>Cuando intenta enviar sin adjuntar archivos ni texto<br>Entonces el sistema muestra "Debe agregar al menos un archivo o texto"<br>Y no permite completar el envío</td><td>EP-003</tr>
+    <tr><td>US-015</td><td>Gestionar integrantes del grupo</td><td>Como profesor, quiero poder ver la lista de estudiantes de cada grupo que manejo, y opciones tanto para ver sus perfiles como para eliminarlos</td><td>Escenario 1: Ver lista de estudiantes<br>Dado que el profesor accede a un grupo<br>Cuando selecciona la opción "Integrantes"<br>Entonces el sistema muestra la lista completa de estudiantes matriculados<br><br>Escenario 2: Eliminar estudiante<br>Dado que el profesor está viendo la lista de integrantes<br>Cuando selecciona "Eliminar" junto a un estudiante<br>Y confirma la acción<br>Entonces el sistema remueve al estudiante del grupo<br>Y actualiza la lista mostrada</td><td>EP-001</td></tr>
+    <tr><td>US-016</td><td>Distribución programada de retos</td><td>Como profesor, quiero programar la publicación automática de retos en fechas específicas, para garantizar que se liberen según el cronograma académico.</td><td>Escenario 1: Programación exitosa<br>Dado que el profesor ha creado un reto<br>Cuando selecciona "Programar publicación" y fija fecha/hora<br>Entonces el sistema guarda la configuración<br>Y muestra "El reto se publicará el [fecha] a las [hora]"<br><br>Escenario 2: Intento de fecha pasada<br>Dado que el profesor ingresa una fecha anterior al día actual<br>Cuando intenta programar<br>Entonces el sistema muestra "La fecha debe ser futura"<br>Y bloquea la confirmación</td><td>EP-003</td></tr>
+    <tr><td>US-017</td><td>Generación de Código de Invitación</td><td>Como profesor, quiero poder generar un código de invitación que pueda compartir con mis alumnos de forma sencilla para que se unan al grupo creado</td><td>Escenario 1: Generación de código exitosa<br>Dado que el profesor accede a un grupo creado<br>Cuando selecciona la opción "Generar código de invitación"<br>Entonces el sistema crea un código alfanumérico único<br>Y muestra las opciones para copiarlo/compartirlo<br><br>Escenario 2: Código ya generado<br>Dado que el grupo ya tiene un código activo<br>Cuando el profesor intenta generar otro código<br>Entonces el sistema muestra el código existente<br>Y ofrece renovarlo (invalidando el anterior)</td><td>EP-001</td></tr>
+    <tr><td>US-018</td><td>Visualización de logros gamificados</td><td>Como estudiante, quiero ver mis insignias y puntos acumulados en un tablero personal, para mantenerme motivado con mi progreso académico.</td><td>Escenario 1: Visualización de logros<br>Dado que el estudiante ha completado retos<br>Cuando accede a su perfil<br>Entonces ve un tablero con insignias obtenidas y puntaje total<br><br>Escenario 2: Nuevo logro desbloqueado<br>Dado que el estudiante cumple condiciones para una nueva insignia<br>Cuando completa un reto especial<br>Entonces recibe notificación automática con el nuevo logro</td><td>EP-003</td></tr><tr><td>US-019</td><td>Configuración de notificaciones</td><td>Como usuario, quiero personalizar qué notificaciones recibo (recordatorios de retos, mensajes grupales, etc.), para optimizar mi experiencia en la plataforma.</td><td>Escenario 1: Personalización exitosa<br>Dado que el usuario accede a configuración<br>Cuando selecciona/deselecciona tipos de notificación<br>Y guarda los cambios<br>Entonces el sistema aplica las preferencias<br><br>Escenario 2: Notificación no deseada<br>Dado que el usuario desactivó notificaciones de logros<br>Cuando desbloquea una insignia<br>Entonces no recibe alerta en su bandeja</td><td>EP-001</td></tr><tr>
+    <tr><td>US-020</td><td>Validación de códigos de grupo</td><td>Como estudiante, quiero poder validar códigos de invitación a grupos, para unirme rápidamente a las actividades académicas correctas.</td><td>Escenario 1: Unión exitosa a grupo<br>Dado que el estudiante ingresa un código válido<br>Cuando el sistema verifica que coincide con un grupo activo<br>Entonces se une automáticamente al grupo<br>Y recibe confirmación visual<br><br>Escenario 2: Código inválido<br>Dado que el estudiante ingresa un código expirado/erróneo<br>Cuando el sistema intenta validarlo<br>Entonces muestra mensaje claro "Código inválido o expirado"<br>Y sugiere solicitar uno nuevo al profesor</td><td>EP-001</td></tr>
+    <tr><td>US-021</td>
+<td>Hero Section</td>
+<td>Como usuario, quiero ver una introducción atractiva de la página con una imagen representativa.</td>
+<td>Escenario 1: Visualización de la sección Hero<br>
+Dado que el usuario ingresa al sitio web<br>
+Cuando la página carga completamente<br>
+Entonces puede ver una imagen destacada con texto introductorio</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-022</td>
+<td>Main Features Section</td>
+<td>Como usuario, quiero conocer las razones para elegir EduHive a través de sus características principales.</td>
+<td>Escenario 1: Visualización de características<br>
+Dado que el usuario navega hasta Main Features<br>
+Cuando scrollea la sección<br>
+Entonces ve 4 iconos y descripciones de beneficios clave<br><br>
+Escenario 2: Interacción con características<br>
+Dado que el usuario está en Main Features<br>
+Cuando pasa el cursor sobre una tarjeta<br>
+Entonces esta muestra un efecto visual destacado</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-023</td>
+<td>Explore Course Section</td>
+<td>Como usuario, quiero explorar los cursos disponibles para encontrar opciones que se ajusten a mis necesidades.</td>
+<td>Escenario 1: Visualización de cursos<br>
+Dado que el usuario llega a la sección<br>
+Cuando navega por la página<br>
+Entonces ve tarjetas de cursos con imágenes y título<br><br>
+Escenario 2: Interacción con cursos<br>
+Dado que el usuario está en Explore Course<br>
+Cuando pasa el cursor sobre una tarjeta<br>
+Entonces esta muestra un efecto visual destacado</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-024</td>
+<td>Knowledge Section</td>
+<td>Como usuario, quiero obtener información adicional sobre la plataforma y su enfoque educativo.</td>
+<td>Escenario 1: Acceso a información<br>
+Dado que el usuario navega a Knowledge<br>
+Cuando lee el contenido<br>
+Entonces encuentra datos relevantes sobre la metodología educativa</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-025</td>
+<td>Contact Section</td>
+<td>Como usuario, quiero contactar al equipo.</td>
+<td>Escenario 1: Visualización del formulario<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección Contact<br>
+Entonces ve campos para nombre, email, número de teléfono, compañia y mensaje<br><br>
+Escenario 2: Validación de campos<br>
+Dado que el usuario no completa un campo requerido<br>
+Cuando intenta enviar<br>
+Entonces el sistema muestra un mensaje de error específico<br><br>
+Escenario 3: Envío exitoso<br>
+Dado que completa todos los campos correctamente<br>
+Cuando envía el formulario<br>
+Entonces recibe un mensaje de confirmación</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-026</td>
+<td>Testimonials Section</td>
+<td>Como usuario, quiero ver testimonios de otros estudiantes para evaluar la calidad del servicio.</td>
+<td>Escenario 1: Visualización de testimonios<br>
+Dado que el usuario llega a la sección<br>
+Cuando la página carga<br>
+Entonces ve al menos un testimonio con comentario, nombre y carrera<br><br>
+Escenario 2: Navegación entre testimonios<br>
+Dado que hay múltiples testimonios<br>
+Cuando hace clic en las flechas de navegación<br>
+Entonces el sistema muestra el testimonio siguiente o anterior</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-027</td>
+<td>Latest Updates Section</td>
+<td>Como usuario, quiero conocer las últimas actualizaciones de cursos con fechas y material informativo.</td>
+<td>Escenario 1: Visualización de actualizaciones<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección de Lastest Updates<br>
+Entonces ve una lista de cursos con fechas de actualización<br><br>
+Escenario 2: Reproducción de video<br>
+Dado que hay un video informativo<br>
+Cuando hace clic en el botón de reproducción<br>
+Entonces el video se inicia en un reproductor</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-028</td>
+<td>Subscribe Section</td>
+<td>Como usuario, quiero suscribirme al newsletter para recibir actualizaciones por correo.</td>
+<td>Escenario 1: Visualización del formulario<br>
+Dado que el usuario scrollea en la landing page<br>
+Cuando llega a la sección Subscribe<br>
+Entonces ve un campo de email y botón "Subscribe"<br><br>
+Escenario 2: Suscripción exitosa<br>
+Dado que ingresa un email válido<br>
+Cuando hace clic en Subscribe<br>
+Entonces recibe un mensaje de confirmación<br><br>
+Escenario 3: Validación de email<br>
+Dado que ingresa un email inválido<br>
+Cuando intenta suscribirse<br>
+Entonces el sistema muestra un error</td>
+<td>EP-005</td>
+</tr>
+    <tr><td>US-029</td><td>Edición de perfil</td><td>Como usuario, quiero editar mi perfil personal, para mantener actualizada mi información de contacto y habilidades.</td><td>Escenario 1: Dado que el usuario accede a su perfil, Cuando selecciona "Editar perfil", Entonces puede modificar su nombre, foto, bio y habilidades.<br><br>
+	  Escenario 2: Dado que el usuario guarda cambios, Cuando completa la edición, Entonces el sistema actualiza su información en todos los módulos donde aparece.
+</td><td>EP-005</td></tr>
+    <tr><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>Como estudiante, quiero recibir recordatorios automáticos de las fechas límite de retos, para no olvidar entregar a tiempo.</td><td>Escenario 1: Dado que hay un reto próximo a vencer, Cuando faltan 48 horas, Entonces el sistema envía una notificación automática.<br><br>
+    Escenario 2: Dado que el reto vence hoy, Cuando quedan 6 horas, Entonces se envía un último recordatorio.
+</td><td>EP-003</td></tr>
+    <tr><td>US-031</td><td>Historial de retos completados</td><td>Como estudiante, quiero ver un historial de los retos que he completado, para hacer seguimiento de mi progreso a lo largo del curso.</td><td>Escenario 1: Dado que el estudiante accede a su perfil, Cuando ingresa a la sección "Historial de retos", Entonces puede ver una lista con fecha, nombre del reto y su resultado.<br><br>
+    Escenario 2: Dado que el estudiante revisa un reto específico, Cuando hace clic en el reto, Entonces puede ver detalles como su calificación y feedback recibido.
+</td><td>EP-004</td></tr>
+    <tr><td>US-032</td><td>Foro de equipos</td><td>Como estudiante, quiero participar en un foro de discusión de mi grupo, para colaborar y resolver dudas de los retos en equipo.</td><td>Escenario 1: Dado que el estudiante pertenece a un grupo, Cuando accede al foro, Entonces puede publicar mensajes y responder a sus compañeros.<br><br>
+    Escenario 2: Dado que un estudiante responde en el foro, Cuando se publica un comentario, Entonces todos los integrantes reciben una notificación.
+</td><td>EP-001</td></tr>
+    <tr><td>US-033</td><td>Métricas de participación</td><td>Como profesor, quiero visualizar métricas de participación de los estudiantes en sus grupos, para evaluar su colaboración.</td><td>Escenario 1: Dado que el profesor accede a un grupo, Cuando visualiza las métricas, Entonces puede ver estadísticas de publicaciones en foros, entregas de retos y reuniones realizadas.<br><br>
+    Escenario 2: Dado que un estudiante no participa, Cuando su participación es baja, Entonces el sistema lo marca con un indicador de alerta.
+</td><td>EP-002</td></tr>
+    <tr><td>US-034</td><td>Clasificación de equipos</td><td>Como estudiante, quiero ver un ranking de equipos basado en los puntos de retos completados, para motivarme a mejorar junto a mi grupo.</td><td>Escenario 1: Dado que los equipos completan retos, Cuando acceden a la sección de rankings, Entonces ven la posición de su equipo respecto a otros.<br><br>
+    Escenario 2: Dado que se actualizan los puntajes, Cuando un equipo sube de posición, Entonces el sistema muestra una notificación de felicitación.
+</td><td>EP-003</td></tr>
+    <tr><td>US-035</td><td>Reporte semanal</td><td>Como estudiante, quiero recibir un resumen semanal de mis actividades y avances, para reflexionar sobre mi progreso.</td><td>Escenario 1: Dado que es fin de semana, Cuando el sistema genera reportes, Entonces el estudiante recibe por correo un resumen de retos completados, puntos acumulados y nuevas habilidades.<br><br>
+    Escenario 2: Dado que el estudiante abrió el correo, Cuando revisa el reporte, Entonces puede ver sugerencias de próximas actividades a realizar.
+</td><td>EP-004</td></tr>
+    <tr><td>US-036</td><td>Reporte de errores</td><td>Como usuario, quiero reportar fácilmente fallos técnicos en la plataforma, para ayudar a mejorar el sistema.</td><td>Escenario 1: Dado que el usuario detecta un error, Cuando hace clic en "Reportar un problema", Entonces puede enviar una descripción y captura de pantalla.<br><br>
+    Escenario 2: Dado que el reporte es enviado, Cuando se registra exitosamente, Entonces el usuario recibe confirmación y un número de seguimiento.
+</td><td>EP-005</td></tr>
+    <tr><td>US-037</td><td>Seguridad de la cuenta con correo</td><td>Como usuario quiero que haya una fuerte seguridad de mi cuenta por correo electrónico para evitar vulneraciones</td><td>Escenario 1: Dado que creó una cuenta en la página Cuando escribo mi correo Entonces se me notifica que se ha enviado un mensaje de verificación.<br><br>
+    Escenario 2: Dado que recibo un mensaje de verificación Cuando escribo el mensaje Entonces mi cuenta es más difícil de vulnerar
+</td><td>EP-005</td></tr>
+    <tr><td>US-038</td><td>Olvido de contraseñas</td><td>Como usuario quiero poder cambiar contraseñas si me olvido de ella para tener buen registro de mi cuenta</td><td>Escenario 1: Dado que olvidé mi contraseña Cuando presióno el botón de “Olvidé mi contraseña” Entoncesme sale un menú para cambiarla<br><br>Escenario 2: Dado que lleno los datos que se me piden Cuando verificó que somos el mismo usuario Entonces cambió mi contraseña
+</td><td>EP-005</td></tr>
+    <tr><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>Como estudiante quiero tener estadísticas sobre mis insignias para tener una data de mis logros</td><td>Escenario 1: Dado que deseo tener la estadísticas de mis insignias Cuando ingresó a mi perfil Entonces me voy al apartado de estadísticas<br><br>Escenario 2: Dado que  entró al menú de estadísticas Cuando seleccione la información que deseo Entonces podré visualizar mis insignias
+</td><td>EP-003</td></tr>
+    <tr><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
+</td><td>EP-001</td></tr>
+  </tbody>
+</table>
 
 ### 3.3. Impact Mapping
 
+<img src="./images/chapter-3/impactmapping.png" alt="Impact Mapping" width="1000"/>
+
 ### 3.4. Product Backlog
+
+<table>
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>Código US</th>
+      <th>Título</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>US-005</td><td>Acceder al panel de progreso del curso</td><td>13</td></tr>
+    <tr><td>2</td><td>US-011</td><td>Seguir el rendimiento de los equipos</td><td>13</td></tr>
+    <tr><td>3</td><td>US-033</td><td>Métricas de participación</td><td>13</td></tr>
+    <tr><td>4</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
+    <tr><td>5</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
+    <tr><td>6</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
+    <tr><td>7</td><td>US-016</td><td>Distribución programada de retos</td><td>8</td></tr>
+    <tr><td>8</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
+    <tr><td>9</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
+    <tr><td>10</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
+    <tr><td>11</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
+    <tr><td>12</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
+    <tr><td>13</td><td>US-010</td><td>Visualizacion de horarios</td><td>5</td></tr>
+    <tr><td>14</td><td>US-012</td><td>Revisar general de rendimiento</td><td>5</td></tr>
+    <tr><td>15</td><td>US-013</td><td>Asignación de feeback</td><td>5</td></tr>
+    <tr><td>16</td><td>US-014</td><td>Enviar respuesta a reto</td><td>5</td></tr>
+    <tr><td>17</td><td>US-015</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
+    <tr><td>18</td><td>US-017</td><td>Generación de Código de Invitación</td><td>5</td></tr>
+    <tr><td>19</td><td>US-018</td><td>Visualización de logros gamificados</td><td>5</td></tr>
+    <tr><td>20</td><td>US-019</td><td>Configuración de notificaciones</td><td>5</td></tr>
+    <tr><td>21</td><td>US-020</td><td>Validación de códigos de grupo</td><td>5</td></tr>
+    <tr><td>22</td><td>US-021</td><td>Hero Section</td><td>5</td></tr>
+    <tr><td>23</td><td>US-022</td><td>Main Features Section</td><td>5</td></tr>
+    <tr><td>24</td><td>US-023</td><td>Explore Course Section</td><td>5</td></tr>
+    <tr><td>25</td><td>US-024</td><td>Knowledge Section</td><td>5</td></tr>
+    <tr><td>26</td><td>US-025</td><td>Contact Section</td><td>5</td></tr>
+    <tr><td>27</td><td>US-026</td><td>Testimonials Section</td><td>5</td></tr>
+    <tr><td>28</td><td>US-027</td><td>Latest Updates Section</td><td>5</td></tr>
+    <tr><td>29</td><td>US-028</td><td>Subscribe Section</td><td>5</td></tr>
+    <tr><td>30</td><td>US-029</td><td>Edición de perfil</td><td>5</td></tr>
+    <tr><td>31</td><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
+    <tr><td>32</td><td>US-031</td><td>Historial de retos completados</td><td>5</td></tr>
+    <tr><td>33</td><td>US-032</td><td>Foro de equipos</td><td>5</td></tr>
+    <tr><td>34</td><td>US-034</td><td>Clasificación de equipos</td><td>5</td></tr>
+    <tr><td>35</td><td>US-035</td><td>Reporte semanal</td><td>5</td></tr>
+    <tr><td>36</td><td>US-036</td><td>Reporte de errores</td><td>5</td></tr>
+    <tr><td>37</td><td>US-037</td><td>Seguridad de la cuenta con correo</td><td>3</td></tr>
+    <tr><td>38</td><td>US-038</td><td>Olvido de contraseñas</td><td>3</td></tr>
+    <tr><td>39</td><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>3</td></tr>
+    <tr><td>40</td><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
+  </tbody>
+</table>
 
 ## Capítulo IV: Product Design
 
