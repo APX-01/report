@@ -1039,7 +1039,7 @@ Debajo, en Submissions, se listan las entregas de los estudiantes, incluyendo no
 A la derecha, sobre un fondo de hexágonos, aparece la descripción del desafío con instrucciones claras y específicas sobre la actividad a realizar.
 La barra lateral izquierda mantiene el menú de navegación a Profile, Dashboard y Help.
 
-<img src="./images/chapter-4/Challenge-View-teacher.png" alt="Context Diagram" width="800"/><br>
+<img src="./images/chapter-4/Challenge-View-Teacher.png" alt="Context Diagram" width="800"/><br>
 
 **Submission View**
 
