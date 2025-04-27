@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150" alt="UPC Logo">
+span
 
 # Universidad Peruana de Ciencias Aplicadas
 
@@ -1462,57 +1462,1115 @@ Entonces el sistema muestra un error</td>
 
 ### 4.1. Style Guidelines
 
+En esta parte, daremos a conocer nuestra propuesta para el diseño, estilo y aspecto visual tanto de la página web como de las secciones de nuestra aplicación. Buscamos ofrecer a los usuarios una experiencia cómoda y sencilla mediante una interfaz clara e intuitiva. Para ello, seleccionamos cuidadosamente elementos visuales que resulten atractivos y agradables, además de definir límites que nos permitan evitar el uso de gráficos que puedan afectar negativamente la estética.
+
 #### 4.1.1. General Style Guidelines
 
+**Branding:** Creamos un logotipo distintivo y memorable que encapsula la esencia de nuestra plataforma educativa colaborativa. Incorporamos elementos visuales que representan tanto el mundo académico como el sentido de comunidad y organización, usando una colmena estilizada y una abeja con birrete como símbolos centrales de aprendizaje colectivo, constancia y crecimiento.
+
+<img src="./images/chapter-4/Logo-EduHive.png" alt="Moodle" width="400"/>
+
+**Tipografía**<br>
+Open Sans ha sido seleccionada como la fuente principal para todos los textos de la aplicación. Esta tipografía se distingue por su excelente legibilidad y su estilo moderno, lo que garantiza una experiencia de lectura clara y agradable en cualquier dispositivo.
+
+El tamaño de la fuente se ajusta de manera automática según la pantalla, asegurando una visualización óptima tanto en móviles como en computadoras.
+
+<img src="./images/chapter-4/Letra.png" alt="Moodle" width="400"/>
+
+**Colores**<br>
+La paleta de colores está compuesta por cinco tonos principales, cuidadosamente seleccionados para transmitir una apariencia limpia, moderna y profesional en cada sección de la aplicación.
+
+<img src="./images/chapter-4/Colors.png" alt="Moodle" width="400"/><br>
+
+<p align="justify">
+<strong>Color Primario:</strong><br>
+Amarillo Dorado (#F4BE1D): Este color es el más predominante en el diseño, utilizado en botones principales, resaltados visuales y líneas de separación. Aporta energía y visibilidad, creando una experiencia amigable y dinámica para el usuario.
+</p>
+
+<p align="justify">
+<strong>Colores Secundarios:</strong><br>
+
+<ul>
+<li>Morado Oscuro (#362A5E): Utilizado en títulos o textos destacados. Añade contraste y profundidad al diseño.
+<li>Beige Claro (#FEF8EB): Funciona como fondo o zonas de descanso visual, aportando claridad sin perder calidez.
+<li>Gris Oscuro (#2B2B2B): Utilizado para tipografía y elementos de interfaz. Este color garantiza buena legibilidad.
+<li>Beige Suave (#F4E0A5): Aparece en elementos secundarios o de soporte, equilibrando la paleta general.
+</ul>
+
+</p>
+
+<p align="justify">
+<strong>Texto</strong><br>
+Todos los textos utilizan el color #2B2B2B (Gris Oscuro) para asegurar un alto contraste y una lectura fluida sobre fondos claros.
+La tipografía empleada en toda la aplicación es Open Sans, una fuente legible, moderna y profesional.
+</p>
+
+<p align="justify">
+<strong>Botones</strong><br>
+Los botones siguen un sistema de color funcional:
+
+<ul>
+
+<li>Botones de Acción Principal:
+
+<ul>
+<li>Fondo: #F4BE1D (Amarillo Dorado)
+<li>Texto: Blanco
+<li>Hover: El fondo se oscurece ligeramente para reforzar la retroalimentación visual.
+</ul>
+
+<li>Botones de Acción Secundaria:
+
+<ul>
+<li>Fondo: Blanco con borde y texto en #F4BE1D
+<li>Hover: Puede invertirse el color de fondo y texto o intensificar el borde para marcar interacción.
+</ul>
+
+</ul>
+</p>
+
+<p align="justify">
+<strong>Formularios</strong><br>
+
+<ul>
+<li>Los campos de texto siguen un diseño simple con líneas delimitadoras delgadas.
+<li>Indicadores como el tiempo, la señal y los íconos del sistema están incluidos para crear una maqueta realista.
+</ul>
+
+</p>
+
+<p align="justify">
+<strong>Íconos y Sistema Visual</strong><br>
+
+<ul>
+<li>Los íconos siguen un estilo de línea simple, usando colores oscuros (#2B2B2B) y están inspirados en la librería Vuesax.
+<li>Están diseñados para facilitar la comprensión sin sobrecargar la interfaz.
+</ul>
+
+</p>
+
+<p align="justify">
+<strong>Estados de Hover</strong><br>
+Cuando el usuario interactúa con botones o íconos, los colores de fondo se intensifican levemente, mejorando la experiencia visual y confirmando la acción.
+</p>
+
+<p align="justify">
+<strong>Espaciado y Distribución</strong><br>
+El diseño se basa en un sistema modular de 8px, asegurando alineación precisa y consistencia visual entre todos los elementos.
+</p>
+
 #### 4.1.2. Web Style Guidelines
+
+<p align="justify">
+1. <strong>Diseño:</strong> 
+El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visualización y funcionalidad en cualquier tipo de dispositivo.
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/diseño.png" alt="design" width="300" height="220">
+  </td>
+</div>
+
+<p align="justify">
+
+2. <strong>Botones:</strong>
+   Los botones, tanto principales como secundarios, deben resaltar de forma clara utilizando una paleta de colores uniforme y coherente.
+
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/button.png" alt="Buttons" width="350" height="200">
+  </td>
+</div>
+
+<p align="justify">
+
+3. <strong>Tema:</strong>
+   La apariencia visual debe alinearse con la identidad de la aplicación, haciendo uso de los colores previamente definidos.
+
+</p>
+
+* **mode-light**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/tema-light.png" alt="light-mode" width="250" height="250">
+  </td>
+</div><br>
+
+* **mode-black**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/tema-dark.png" alt="light-mode" width="250" height="250">
+  </td>
+</div><br>
+
+<p align="justify">
+
+4. <strong>Logo:</strong>
+   El logotipo debe ser claro y fácilmente visible en todo el sitio, conservando siempre sus proporciones originales.
+
+</p>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Logo-EduHive.png" alt="logo" width="250" height="220">
+  </td>
+</div>
 
 ### 4.2. Information Architecture
 
 #### 4.2.1. Organization Systems
 
-#### 4.2.2 Labeling Systems
+Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos.
+Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
 
-#### 4.2.3 SEO Tags and Meta Tags
+<img src="./images/chapter-4/Organization_system_2.png" alt="Moodle" width="400"/>
+
+**Estudiante**: Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
+
+**• Challenges**: En este apartado, el estudiante es capaz de visualizar y realizar las diferentes tareas y retos académicos, además de realizar las entregas correspondientes.
+
+**•	Teams**: El estudiante puede gestionar distintos equipos de trabajo de las clases y comunicarse con ellos mediante mensajes o chats.
+
+**•	Analytics**: El estudiante puede observar su progreso a lo largo de sus clases y hacer cálculos de posibles resultados que obtendría según hiciera distintos desafíos.
+
+**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del usuario, así como este mismo modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases
+
+**•	Badges**: Se pueden observar las distintas medallas e insignias que ha conseguido el estudiante a lo largo del curso, acentuando el valor de las herramientas de gamificación de la aplicación
+
+**Profesor**: Para los profesores, se buscará una organización jerárquica y secuencial, ya que se busca ordenar sus propias subfunciones referentes al del docente y luego seguir pasos para corrección y comunicación con los alumnos.
+
+**•	Challenges**: En este apartado, el profesor es capaz de proponer y realizar las distintas tareas y retos académicos que van a visualizar los alumnos, además de fijar fechas de entrega
+
+**•	Teams**: El profesor puede gestionar los distintos equipos de trabajo entre los estudiantes, para conseguir una comunicación activa entre ellos
+
+**•	Analytics**: Se puede analizar el progreso del alumno al presentar las calificaciones del estudiante para encontrar a los que necesiten un apoyo mayor
+
+**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del profesor como las clases, así como este puede modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases.
+
+**•	Badges**: Se puede hacer entrega de insignias a los estudiantes que cumplan diversas actividades, además de gestionar el aprendizaje y la motivación de estos mediante estas herramientas
+
+Cada segmento está dividido y organizado para guiar al usuario en entender las funcionalidades y poder usarlas sin problema alguno.
+
+#### 4.2.2. Labeling Systems
+
+Las etiquetas en la landing page son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
+
+**•	Challenges**: La sección challenges es el núcleo de la aplicación. Es la que permite crear, visualizar y resolver las diferentes tareas académicas.
+
+**•	Teams**: La sección Teams es la que se encarga de la gestión total de la comunicación entre usuarios, además permite la creación de grupos propios con sus propias funciones como mensajes y chat.
+
+**•	Analytics**: La sección Analyitcs muestra el progreso de los alumnos y los cambios que se tendrían al realizar las tareas
+
+**•	Schedule**: La sección Schedula se encarga de mostrar y editar el horario de las clases.
+
+**•	Badges**: La sección Badges es la encargada de dar y mostrar las diferentes insignias referentes a los desafíos completados
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los motores de búsqueda:
+
+**Landing Page**:
+
+**•	Title**:
+EduHive: Plataforma para la gestión educativa de cursos
+
+**•	Meta Description**:
+EduHive es una Plataforma diseñada para la gestión educativa entre alumnos y profesor que busca conectar ambos sectores en un ecosistema dinámico con distintas herramientas como grupos de estudio o retos académicos
+
+**•	Keywords**:
+Plataforma educative, gestion de cursos, administración de tareas, productividad de usuarios
+
+**•	Author**: Eduhive Team
+
+**Challenges**:
+
+**•	Title**: Desafíos académicos
+
+**•	Meta Description**: Gestiona y permite visualizar las tareas y los retos académicos
+
+**•	Keywords**: Tareas, retos académicos, gestión de actividades
+
+**•	Author**: Eduhive Team
+
+**Teams**:
+
+**•	Title**: Gestión de comunicación
+
+**•	Meta Description**: Acceso a mensajes con alumnos y profesores, así como creación de equipos de trabajo
+
+**•	Keywords**: correo, gestión de equipos, reuniones, planificación de trabajo
+
+**•	Author**: Eduhive Team
+
+**Analytics**:
+
+**•	Title**: Gestión de progreso
+
+**•	Meta Description**: Muestra el progreso del alumno a lo largo del curso y calcular notas al resolver desafíos
+
+**•	Keywords**: seguimiento, progreso del alumno, gestión de desempeño
+
+**•	Author**: Eduhive Team
+
+**Schedule**:
+
+**•	Title**: Horario académico
+
+**•	Meta Description**: Acceso a un horario académico que se puede editar al agregar distintos eventos
+
+**•	Keywords**: gestión de tiempo, eventos, organización de clases
+
+**•	Author**: Eduhive Team
+
+**Badges**:
+
+**•	Title**: Gestión de insignias
+
+**•	Meta Description**: Se hace una visualización y entregas de insignias referentes a actividades gamificadas.
+
+**•	Keywords**: herramientas de gamificación, insignias, calificaciones
+
+**•	Author**: Eduhive Team
 
 #### 4.2.4. Searching Systems
 
+La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
+Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados. Mediante un side bar se podrán observar las diferentes funciones que se encuentran en el header de la aplicación.
+
 #### 4.2.5. Navigation Systems
 
-### 4.3.  Landing Page UI Design.
+El sistema principal de navegación es intuitivo y claro. Este se muestra principalmente en una barra de búsqueda que cuenta con todas las funciones de la aplicación, con las que podremos interactuar y nos dirigirá a cada actividad buscada.
 
-#### 4.3.1. Landing Page Wireframe.
+**1.	Landing Page**
 
-#### 4.3.2. Landing Page Mock-up.
+**•	Estructura**:
 
-### 4.4.  Web Applications UX/UI Design.
+* Muestra todas las diferentes opciones del sitio web.
+* Botones de acción para gestionar y manipular las funciones que se ofrecen.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Visualiza, se comunica y puede resolver distintas tareas.
+* Profesor: Gestiona las actividades de los alumnos y realiza un seguimiento a este.
+
+**2.	Sección de Challenges**
+
+**•	Estructura**:
+
+* Visualización de todos los tipos de actividades que se pueden crear o resolver.
+* Submenú para los distintos tipos de desafíos.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Puede interactuar y resolver los desafíos impuestos.
+* Profesor: Puede crear y calificar desafíos para los alumnos.
+
+**3.	Sección de Teams**
+
+**•	Estructura**:
+
+* Visualización de alumnos y profesores para interactuar.
+* Submenú para crear grupos y usar el sistema de mensajes.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Puede interactuar con compañeros de clase y profesores, además de crear sus propios grupos.
+* Profesor: Puede interactuar con los alumnos y profesores, además de crear grupos de estudio seleccionando alumnos.
+
+**4.	Sección de Analytics**
+
+**•	Estructura**:
+
+* Visualización de estadísticas sobre el progreso de los estudiantes
+* Acceso a una función para calcular notas futuras.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Visualizar sus estadísticas y calcular futuras notas
+* Profesor: Puede analizar el progreso académico de sus alumnos
+
+**5.	Sección de Schedule**
+
+**•	Estructura**:
+
+* Visualización del horario académico de los estudiantes
+* Acceso a una función para agregar y editar distintos eventos en el horario.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Visualizar su horario y editarlo como desee
+* Profesor: Puede observar su propio horario y gestionar eventos y actividades referentes a sus alumnos
+
+**6.	Sección de Badges**
+
+**•	Estructura**:
+
+* Visualización y entrega de insignias conseguidas por las herramientas de gamificación
+* Submenú para filtrar los tipos de insignias conseguidas
+
+**•	Acción del Usuario**:
+
+* Estudiante: Puede visualizar sus insignias conseguidas, así como analizar que desafíos realizar para conseguir más.
+* Profesor: Puede entregar las insignias y crearlas en base a las actividades a realizar de los estudiantes.
+
+### 4.3. Landing Page UI Design
+
+#### 4.3.1. Landing Page Wireframe
+
+El wireframe presenta la estructura esencial y el flujo de la landing page, adaptado para versiones tanto en **Desktop** como en **Mobile**. Se organiza en diferentes secciones clave:
+
+**Desktop**
+
+* **Home Landing Page**
+
+<strong>Encabezado:</strong><br>
+Incluye el logotipo en la esquina superior izquierda y un menú de navegación con las secciones: “Why DriveNow”, “Testimonies”, “Safety”, “Contact”, “Register” y “Login”. Además, se destacan los botones de acceso a cuenta (“Login” y “Register”) dentro de una franja de diseño distintivo que facilita su visibilidad.
+
+<strong>Sección Hero:</strong><br>
+Contiene un título llamativo: “Upgrade Yourself”, que comunica el propósito de la página. Está acompañado de un breve texto introductorio (placeholder de lorem ipsum) que da contexto al visitante.
+También incluye un campo de búsqueda visible con un ícono de lupa, lo que sugiere que el sitio está orientado a encontrar cursos o contenidos personalizados.
+Visualmente se apoya en dos imágenes: una junto al título y otra en el lado derecho, ayudando a equilibrar el diseño y hacerlo más atractivo.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Backend.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Why DriveNow**
+
+**Encabezado Visual:**<br> Utiliza formas geométricas como fondo decorativo para crear un entorno visual dinámico y moderno.
+
+**Mensaje Principal (CTA):**<br> Incluye un título llamativo "You’re Dream To Know More?" que busca captar la atención del usuario e incentivar el interés por saber más sobre el producto o servicio.
+
+**Texto de Apoyo:**<br> Proporciona una breve descripción que refuerza el valor de unirse o conocer más sobre la oferta.
+
+**Botón de Acción (CTA):**<br> Presenta un botón destacado con el texto "Join Now" que invita a la conversión inmediata.
+
+**Diseño Visual:**<br> Contraste marcado entre fondo oscuro y elementos en tonos claros, ideal para mantener la legibilidad y dirigir la atención al contenido relevante.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Why-DriveNow.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Testimonies**
+
+**Título Principal:**<br> Se destaca la palabra “Testimonials” en el centro, indicando claramente el propósito de la sección.
+
+**Subtítulo Descriptivo:**<br> Una breve línea de texto complementa el título, brindando contexto sobre la importancia de las opiniones compartidas.
+
+**Citas de Clientes:**<br> Se presentan dos tarjetas con testimonios de usuarios, incluyendo una cita textual, nombre y cargo del autor (John Doe, CEO).
+
+**Elementos Visuales:**<br> Se utilizan íconos de comillas como parte del diseño de cada tarjeta para reforzar visualmente la idea de testimonio.
+
+**Navegación Lateral:**<br> Se incluyen flechas a los lados izquierdo y derecho para explorar más opiniones, funcional tanto en Desktop como adaptado para Mobile con navegación táctil.
+
+**Diseño Limpio y Centrado:**<br> La estructura mantiene un equilibrio visual con espacio suficiente entre los elementos, priorizando la legibilidad.<br>
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Testimonies.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Safety**
+
+**Sección de Seguridad y Confianza**
+
+**Iconografía Central:**<br> Se destacan dos íconos principales con temática de seguridad y protección, reforzando visualmente los beneficios del servicio.
+
+**Mensajes de Valor:**<br> Dos bloques de texto acompañan a los íconos, comunicando confianza en el proceso de arrendamiento y respaldo con seguros aprobados.
+
+**Botones CTA (Call to Action):**<br> Cada mensaje incluye un botón “Learn More” que invita al usuario a explorar más detalles, manteniendo accesibilidad y visibilidad clara en Desktop y adaptabilidad en Mobile.
+
+**Diseño Equilibrado:**<br> Distribución en columnas que en Desktop se presenta en línea horizontal, y en Mobile se espera una reorganización vertical para facilitar la navegación táctil.
+
+<br>**Pie de Página (Footer)**
+
+**Información Institucional:** Se incluyen columnas con enlaces organizados por categorías: Company, Services y Resources.
+
+**Redes Sociales y Selector de Idioma:** Íconos sociales (LinkedIn, Twitter, etc.) y un selector de idioma están disponibles, adaptables a la visualización móvil.
+
+**Derechos y Marca:** Texto con derechos reservados y una imagen de marca ubicada estratégicamente.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Safety.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Contact**
+
+**Sección de Formulario de Contacto**
+
+**Encabezado Amigable:**<br> El título principal "Say Hello to Us" establece un tono cálido y acogedor para fomentar la interacción del usuario.
+
+**Formulario de Entrada:**<br> Dispuesto en un layout de dos columnas en Desktop que se reorganiza verticalmente para Mobile, incluye los siguientes campos:
+
+<ul>
+
+<li>Nombre completo
+<li>Correo electrónico
+<li>Número de teléfono
+<li>Empresa
+<li>Área de mensaje personalizado
+
+</ul>
+
+**Política de Privacidad:**<br> Se incorpora una casilla de aceptación de Términos de Servicio y Política de Privacidad, obligatoria antes del envío.
+
+**Botón CTA ("Send Message"):**<br> De gran visibilidad, invita a completar la acción con un solo clic o toque, dependiendo del dispositivo.
+
+**Diseño Estilizado:**<br> Con bordes redondeados y elementos visuales como el ícono de avión de papel, se refuerza una sensación moderna y accesible, adaptable para pantallas de Desktop y Mobile.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Contact.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Register**
+
+**Sección de Registro**
+
+**Mensaje de Bienvenida:**<br> En Desktop, se muestra una tarjeta lateral con un saludo amigable (“Nice to meet you :)”), que se ubica en la parte superior o se elimina en Mobile para dar prioridad al formulario.
+
+**Formulario de Registro:**<br>
+
+<ul>
+
+<li>Opción para registrarse mediante redes sociales (Facebook, Twitter, Google), con botones claramente diferenciados.
+<li>Alternativa para registrarse con correo electrónico ingresando:
+<ul>
+<li>Nombre
+<li>Correo electrónico
+<li>Contraseña y confirmación
+</ul>
+<li>Casilla para aceptar los Términos de Servicio y Política de Privacidad antes de habilitar el botón de registro.
+
+</ul>
+
+**Diseño Dividido:**<br> En Desktop, se divide en dos paneles visuales bien contrastados. En Mobile, se reordena en una sola columna para facilitar la navegación táctil.
+
+**Estética Moderna:**<br> Tipografía clara, esquinas redondeadas y elementos gráficos sutiles (como los rombos decorativos) aportan dinamismo visual manteniendo una estructura funcional.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+* **Login**
+
+**Mensaje de Bienvenida:**<br> En Desktop, se visualiza un panel lateral con un mensaje de saludo (“Welcome back”), que se ajusta o elimina en Mobile para centrarse en la funcionalidad.
+
+**Opciones de Autenticación:**
+
+<ul>
+<li>Login a través de redes sociales (Facebook, Twitter, Google), con botones visualmente diferenciados y accesibles.
+<li>Alternativa con correo electrónico, solicitando:
+<ul>
+<li>Nombre de usuario o correo
+<li>Contraseña
+<li>Opción para recordar la sesión
+<li>Enlace para recuperación de contraseña
+</ul>
+</ul>
+
+**Diseño Dividido:**<br> Panel izquierdo con imagen y bienvenida; panel derecho con el formulario. En Mobile, el diseño se reorganiza en formato vertical para una mejor experiencia de usuario.
+
+**Estilo Visual:**<br> Uso de bloques suaves, esquinas redondeadas, y decoración con rombos sutiles que mantienen coherencia con la sección de registro.
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login.png" alt="light-mode" width="800" height="500">
+  </td>
+</div><br>
+
+**Mobile**
+
+* **Mobile Landing Page**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Landing-Page.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Why DriveNow**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Why-DriveNow.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Testimonies**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Testimonies.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Safety**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Safety.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Footer**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Mobile-Footer.png" alt="light-mode" width="300" height="540">
+  </td>
+</div><br>
+
+* **Mobile Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register-mobil.png" alt="light-mode" width="260" height="600">
+  </td>
+</div><br>
+
+* **Mobile Login**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login-mobil.png" alt="light-mode" width="260" height="600">
+  </td>
+</div><br>
+
+#### 4.3.2. Landing Page Mock-up
+
+* **Lading page**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Landing.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Contact**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Contact.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Login**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Login.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Register**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Register.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Safety**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Safety.jpg" alt="light-mode" 
+  </td>
+</div><br>
+
+* **Error Page**
+
+<div align="center">
+  <td colspan="1" rowspan="6">
+    <img src="./images/chapter-4/Error-Page.png" alt="light-mode" 
+  </td>
+</div><br>
+
+### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
+- Autenticación
+![](/images/chapter-4/EduHiveWireFrames/Authentication.png)
+![](/images/chapter-4/EduHiveWireFrames/Account%20Creation.png)
+![](/images/chapter-4/EduHiveWireFrames/Account%20Creation-1.png)
+
+- Dashboard
+  - Estudiantes
+![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Student.png)
+  - Profesores
+![](/images/chapter-4/EduHiveWireFrames/Dashboard%20Teacher.png)
+
+- Perfil Estudiante
+![](/images/chapter-4/EduHiveWireFrames/Profile%20Student.png)
+
+- Grupos
+  - Estudiantes
+![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+  - Profesores
+    - Creación
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20Creation.png)
+    - Vista
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png)
+    
+
+- Retos
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Student.png)
+  - Profesores
+    - Creación
+    ![](/images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher-1.png)
+    - Vista
+    ![](/images/chapter-4/EduHiveWireFrames/Challenge%20View%20Teacher.png)
+
+- Envíos
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View.png)
+  - Profesores
+  ![](/images/chapter-4/EduHiveWireFrames/Submission%20View%20Teacher.png)
+
+- Lista
+  - Estudiantes
+  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Student.png)
+  - Profesores
+  ![](/images/chapter-4/EduHiveWireFrames/Member%20List%20Teacher.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+* **User Goal:** Inicio de sesión
+
+<img src="./images/chapter-4/UserGoal1_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de cuenta
+
+<img src="./images/chapter-4/UserGoal2_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso al perfil del estudiante
+
+<img src="./images/chapter-4/UserGoal3_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso a grupo del estudiante
+
+<img src="./images/chapter-4/UserGoal4_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Responder un challenge
+
+<img src="./images/chapter-4/UserGoal5_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de grupo por profesor
+
+<img src="./images/chapter-4/UserGoal6_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de challenges en el grupo por el profesor
+
+<img src="./images/chapter-4/UserGoal7_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar envío por el estudiante
+
+<img src="./images/chapter-4/UserGoal8_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Calificar los envíos
+
+<img src="./images/chapter-4/UserGoal9_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar los grupos por estudiante
+
+<img src="./images/chapter-4/UserGoal10_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal11_wf.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Retirar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal12_wf.png" alt="Moodle" width="800" height="190"/>
+
+
+
 
 #### 4.4.2. Web Applications Mock-ups
 
+**Dashboard Student**
+
+Este mock-up representa el Dashboard principal de un estudiante en la plataforma EduHive. El diseño refleja una estructura organizada y amigable, siguiendo los principios de arquitectura de información clara, diseño inclusivo y la correcta aplicación del design system establecido.
+
+**Elementos destacados:**
+
+<ul>
+<li>Menú lateral izquierdo: contiene botones visibles para acceder al Perfil y al Dashboard, con un ícono de ayuda en la parte inferior. El fondo amarillo resalta y genera un contraste adecuado que facilita la navegación.
+<li>Área principal: muestra la sección “Join a Group” donde el usuario puede ingresar un código para unirse a un grupo de estudio.
+<li>Sección "Your Groups": organiza visualmente los cursos o grupos en tarjetas individuales, aplicando correctamente principios de modularidad y jerarquía visual.
+<ul>
+<li>Cada tarjeta contiene:
+<ul>
+<li>Imagen temática relacionada con el curso.
+<li>Nombre del instructor.
+<li>Nombre del curso.
+<li>Nivel de dificultad (Beginner, Intermediate, Expert).
+<li>Duración del curso.
+<li>Fecha de inicio.
+<li>Un botón de acción claro para ingresar.
+</ul>
+</ul>
+<li>Sistema de etiquetas (como "Diseño UI/UX" o "Web") que ayuda en la clasificación visual rápida.
+<li>Design System: uso consistente de colores corporativos (amarillo, negro, blanco) y componentes reutilizables como botones, tarjetas e íconos sociales.
+</ul>
+
+**Principios aplicados:**
+
+<ul>
+<li>Accesibilidad: Buen contraste de colores y tipografía legible.
+<li>Coherencia visual: Uso consistente de estilos y espaciado.
+<li>Arquitectura de la información: Organización lógica que permite una navegación fluida.
+<li>Diseño inclusivo: Diseño sencillo e intuitivo que puede ser usado por usuarios con diferentes niveles de habilidad tecnológica.
+</ul>
+
+<img src="./images/chapter-4/Dashboard-Student.png" alt="Context Diagram" width="800"/><br>
+
+
+**Group View**
+
+Este mock-up presenta la vista de grupo en EduHive, organizada en tarjetas de contenido que incluyen imagen, título, descripción breve y un botón "View More" en amarillo para cada tema. A la izquierda, un menú vertical ofrece botones para "Profile" y "Dashboard".
+A la derecha, una tarjeta muestra información del profesor, su email, sección y una lista de miembros. Se usa una estructura clara, jerarquía visual, accesibilidad, y un badge de nivel como detalle decorativo en la esquina superior derecha.
+
+<img src="./images/chapter-4/Group-View.png" alt="Context Diagram" width="800"/><br>
+
+**Challenge View**
+
+Este mock-up muestra una vista de reto donde se asigna una tarea de diseño basada en jerarquía tipográfica.
+Incluye una sección de instrucciones con íconos, una gran área de texto para cargar la entrega ("Enter your submission"), y un panel de herramientas con botones: "Tools", "Insert Image" y "Insert Document".
+A la derecha, se destaca una tarjeta informativa que explica el objetivo del reto, reforzando la estructura visual con color y tipografía jerarquizada. El menú lateral izquierdo mantiene los botones de "Profile", "Dashboard" y "Help".
+
+<img src="./images/chapter-4/Challenge-View.png" alt="Context Diagram" width="800"/><br>
+
+**Profile Student**
+
+Este mock-up muestra la sección de perfil del estudiante, con una tarjeta central que presenta la foto, nombre, número telefónico, correo electrónico y estadísticas de participación.
+Se destaca un botón "Edit" naranja para modificar la información. A la izquierda, se mantiene el menú con botones de navegación: "Profile", "Dashboard" y "Help".
+El fondo utiliza motivos de panal, reforzando la identidad visual de EduHive.
+
+<img src="./images/chapter-4/Profile-Student.png" alt="Context Diagram" width="800"/><br>
+
+**Dashboard Teacher**
+
+Este mock-up presenta el panel de control para profesores, destacando la opción "Create a new group" con un botón de suma (+) en amarillo.
+Se visualiza un apartado de "Your Groups" con una tarjeta que muestra el curso, nivel, duración y fecha de inicio.
+A la izquierda, se encuentran los botones de navegación "Profile", "Dashboard" y "Help" sobre un fondo amarillo, siguiendo la identidad visual de la plataforma.
+
+<img src="./images/chapter-4/Dashboard-Teacher.png" alt="Context Diagram" width="800"/><br>
+
+**Group Creation**
+
+Este mock-up muestra la pantalla para crear un grupo en la plataforma. Incluye campos para ingresar nombre, email, sección y participantes, así como un área para subir una imagen representativa.
+En la parte inferior, destaca un botón grande en color naranja con la palabra "REGISTER" para confirmar la creación del grupo.
+El panel lateral izquierdo conserva los accesos rápidos a "Profile", "Dashboard" y "Help" sobre fondo amarillo.
+
+<img src="./images/chapter-4/Group-Creation.png" alt="Context Diagram" width="800"/><br>
+
+**Group View Teacher**
+
+Esta vista permite a un profesor administrar un grupo.
+En la parte superior central, aparece un botón grande "Create new Challenge" con ícono de suma para añadir nuevos retos.
+Debajo, en la sección Current Challenges, se muestran tarjetas de desafíos actuales con título, dificultad, tiempo estimado y fecha.
+A la derecha, un cuadro amarillo titulado "Information" muestra los datos del profesor (nombre, correo, sección) y lista los miembros del grupo. Abajo, hay un campo para el Group Join Code y un botón naranja "GENERATE" para crear un código de acceso.
+El menú lateral izquierdo mantiene accesos a Profile, Dashboard y Help.
+
+<img src="./images/chapter-4/Group-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+
+<img src="./images/chapter-4/Group-View-Teacher1.png" alt="Context Diagram" width="800"/><br>
+
+**Challenge View Teacher**
+
+Esta pantalla permite al profesor ver el detalle de un desafío dentro de un grupo.
+En el centro se muestra una tarjeta grande con el título del reto ("Organiza con Tipografía: Domina la Jerarquía Visual") junto a una imagen de portada.
+Debajo, en Submissions, se listan las entregas de los estudiantes, incluyendo nombre, resumen del trabajo y estatus de revisión (íconos de colores para indicar progreso).
+A la derecha, sobre un fondo de hexágonos, aparece la descripción del desafío con instrucciones claras y específicas sobre la actividad a realizar.
+La barra lateral izquierda mantiene el menú de navegación a Profile, Dashboard y Help.
+
+<img src="./images/chapter-4/Challenge-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+
+**Submission View**
+
+En esta pantalla se muestra el detalle de una entrega realizada por un estudiante dentro de un desafío.
+En la parte superior, bajo el título Submission, se despliega el nombre del proyecto y una descripción detallada del trabajo del estudiante.
+Más abajo, en Content, se presentan comentarios de retroalimentación de otros participantes o del profesor, organizados de manera clara en bloques grises.
+A la derecha, hay un área de herramientas (Tab) donde se pueden insertar imágenes, documentos o agregar comentarios, lo que permite enriquecer la revisión del proyecto.
+El menú lateral izquierdo y el estilo visual se mantienen consistentes con el resto de la plataforma, destacando el logo de la abeja y los accesos rápidos a Profile, Dashboard y Help.
+
+<img src="./images/chapter-4/Submission-View.png" alt="Context Diagram" width="800"/><br>
+
+**Submission View Teacher**
+
+Esta pantalla muestra el detalle de una entrega de estudiante, pero con funcionalidades adicionales para el profesor.
+
+- En la sección Submission, además de ver el título del proyecto y la descripción del trabajo, el profesor tiene un campo de texto "Enter Grade" para asignar una calificación y un botón "Submit" para registrar la nota.
+
+- En Content, se siguen mostrando los comentarios de retroalimentación, igual que en la vista del estudiante.
+
+- A la derecha, en el área de herramientas (Tab), el profesor puede insertar imágenes, documentos o agregar comentarios para enriquecer el feedback.
+
+- El diseño general mantiene la coherencia con el resto del sistema: navegación a la izquierda, branding de EduHive y accesos rápidos a Profile, Dashboard y Help.
+
+<img src="./images/chapter-4/Submission-View-Teacher.png" alt="Context Diagram" width="800"/><br>
+
+**Member List Student**
+
+Esta vista permite a los estudiantes ver a los miembros de su grupo.
+
+<ul>
+<li>En el centro aparece una tabla titulada "Members", que muestra:
+<ul>
+<li>ID del estudiante
+<li>Nombre completo del estudiante
+<li>Badge o insignia (en este caso, todos tienen una "A" en un círculo verde)
+</ul>
+<li>El diseño mantiene la barra lateral de navegación (Profile, Dashboard y Help) a la izquierda, siguiendo el esquema de colores amarillo, negro y blanco de EduHive.
+<li>El fondo tiene ilustraciones hexagonales suaves que refuerzan la temática de colmena (hive).
+</ul>
+
+<img src="./images/chapter-4/Member-List-Student.png" alt="Context Diagram" width="800"/><br>
+
+**Member List Teacher**
+
+Esta vista está diseñada para que el profesor gestione a los miembros del grupo.
+
+<ul>
+<li>Muestra una tabla titulada "Members" que contiene:
+<ul>
+<li>ID del estudiante
+<li>Nombre completo del estudiante
+<li>Badge o insignia (en este caso, todos tienen una "A" en un círculo verde)
+<li>Kick: Opción para expulsar temporalmente al estudiante del grupo.
+<li>Ban: Opción para prohibir el acceso del estudiante permanentemente.
+</ul>
+<li>Cada acción (Badge, Kick, Ban) está representada con radio buttons para que el profesor pueda seleccionar.
+<li>Se mantiene el menú lateral clásico de EduHive (amarillo con íconos y botones de navegación).
+<li>El fondo tiene los mismos patrones hexagonales para mantener coherencia visual con otras vistas.
+</ul>
+
+
+<img src="./images/chapter-4/Member-List-Student.png" alt="Context Diagram" width="800"/><br>
+
+* **Authentication**
+
+La pantalla de autenticación de EduHive permite a los usuarios iniciar sesión a través de opciones rápidas como Facebook, Twitter y Apple, presentadas en botones destacados. También ofrece la posibilidad de ingresar manualmente un correo electrónico y contraseña, con un enlace para recuperar la contraseña en caso de olvido. El diseño incluye un separador visual ("OR") que divide las opciones sociales de las manuales, y un botón negro de "Continue" para acceder a la plataforma. Todo esto se presenta sobre un fondo claro con el logotipo de abeja y patrones de hexágonos, manteniendo la identidad visual de EduHive.
+
+<img src="./images/chapter-4/Authentication.png" alt="Context Diagram" width="800"/><br>
+
+* **Account Creation**
+
+En el proceso de creación de cuenta para la plataforma EduHive, el usuario primero debe llenar un formulario de registro donde se solicita su nombre, apellido, correo electrónico y contraseña. Después de completar estos campos y hacer clic en "Continue", se le dirige a una segunda pantalla titulada "Final Steps", donde se le pregunta "What are you?" y debe seleccionar entre dos opciones: "Student" o "Teacher", para definir su rol dentro de la plataforma.
+
+<img src="./images/chapter-4/Account-Creation.png" alt="Context Diagram" width="800"/><br>
+
+<img src="./images/chapter-4/Account-Creation2.png" alt="Context Diagram" width="800"/><br>
+
+
 #### 4.4.3. Web Applications User Flow Diagrams
 
-### 4.5.  Web Applications Prototyping
+* **User Goal:** Inicio de sesión
 
-### 4.6.  Domain-Driven Software Architecture
+<img src="./images/chapter-4/UserGoal1_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de cuenta
+
+<img src="./images/chapter-4/UserGoal2_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso al perfil del estudiante
+
+<img src="./images/chapter-4/UserGoal3_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Ingreso a grupo del estudiante
+
+<img src="./images/chapter-4/UserGoal4_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Responder un challenge
+
+<img src="./images/chapter-4/UserGoal5_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de grupo por profesor
+
+<img src="./images/chapter-4/UserGoal6_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Creación de challenges en el grupo por el profesor
+
+<img src="./images/chapter-4/UserGoal7_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar envío por el estudiante
+
+<img src="./images/chapter-4/UserGoal8_mu.png" alt="Moodle" width="800" height="130"/>
+
+* **User Goal:** Calificar los envíos
+
+<img src="./images/chapter-4/UserGoal9_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar los grupos por estudiante
+
+<img src="./images/chapter-4/UserGoal10_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Observar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal11_mu.png" alt="Moodle" width="800" height="190"/>
+
+* **User Goal:** Retirar miembros de grupo como profesor
+
+<img src="./images/chapter-4/UserGoal12_mu.png" alt="Moodle" width="800" height="130"/>
+
+### 4.5. Web Applications Prototyping
+
+En esta sección se muestra el video de un prototipo interactivo de la aplicación web de EduHive, los botones e objetos interactivos se han posicionado siguiendo los principios de la arquitectura de la información, para que el usuario pueda navegar de forma fácil e intuitiva a través de esta. Con colores distintivos y una distribución planeada estratégicamente para que el usuario pueda identificar los elementos de forma rápida.
+
+![](/images/chapter-4/PrototypeEduHiveVideoImage.png)
+
+URL del Video: [Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d964_upc_edu_pe/EQe-KWdwUtlOvgRtJsG5i94BMiSwEtBO3-aLU2dPm6HR6w?e=K7niRD)
+
+### 4.6. Domain-Driven Software Architecture
+
+Para el desarrollo del sistema EduHive, se ha adoptado un enfoque de Domain-Driven Design (DDD), que permite organizar la arquitectura del software en torno a los dominios clave del negocio académico. Esta metodología facilita la modularidad, escalabilidad y mantenibilidad del sistema, al dividir la lógica en Bounded Contexts especializados, cada uno con sus propias capas. A continuación, se detallan los diagramas que representan esta arquitectura.
 
 #### 4.6.1. Software Architecture Context Diagram
 
+El Context Diagram de EduHive presenta una visión de alto nivel del sistema, centrándose en su interacción con los usuarios principales (estudiantes y profesores) y el sistema externo Open Badges. En este diagrama, EduHive representa el sistema completo, recibiendo interacciones directas de los usuarios y comunicándose con Open Badges para la gestión de insignias digitales. No se detallan componentes internos, sino que se enfoca en delimitar el alcance del sistema y sus relaciones externas, destacando quiénes lo utilizan y con qué servicios externos se integra.
+
+<img src="./images/chapter-4/contextDiagram.png" alt="Context Diagram" width="600"/>
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cinco Bounded Contexts especializados: Challenges BC, Teams BC, Analytics BC, Schedule BC y Badges BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Badges BC adicionalmente interactúa con el sistema externo Open Badges para las insignias digitales.
+
+<img src="./images/chapter-4/containerDiagram.png" alt="Container Diagram" width="600"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-### 4.7.  Software Object-Oriented Design
+Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Open Badges en el caso de BadgesBC).
+
+- Analytics BC
+
+<img src="./images/chapter-4/componentDiagram1.png" alt="Component Diagram 1" width="600"/>
+
+- Badges BC
+
+<img src="./images/chapter-4/componentDiagram2.png" alt="Component Diagram 2" width="600"/>
+
+- Challenges BC
+
+<img src="./images/chapter-4/componentDiagram3.png" alt="Component Diagram 3" width="600"/>
+
+
+- Schedule BC
+
+<img src="./images/chapter-4/componentDiagram4.png" alt="Component Diagram 4" width="600"/>
+
+- Teams BC
+
+<img src="./images/chapter-4/componentDiagram5.png" alt="Component Diagram 5" width="600"/>
+
+
+
+### 4.7. Software Object-Oriented Design
 
 #### 4.7.1. Class Diagrams
 
+![](/images/chapter-4/eduhive-class-diagram.jpeg)
+
+Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88)
+
 #### 4.7.2. Class Dictionary
 
-### 4.8.  Database Design
+**User:**
+
+
+| Atributos | Tipo   | Descripción                                   |
+| --------- | ------ | ---------------------------------------------- |
+| userId    | int    | Identificador único del usuario en el sistema |
+| firstName | string | Nombre(s) del usuario                          |
+| lastName  | string | Apellido(s) del usuario                        |
+| email     | string | Correo electrónico del usuario (único)       |
+| password  | string | Contraseña encriptada del usuario             |
+
+**Teacher:**
+
+
+| Atributos   | Tipo              | Descripción                               |
+| ----------- | ----------------- | ------------------------------------------ |
+| teacherId   | int               | Identificador único del profesor          |
+| ownedGroups | List&lt;Group&gt; | Lista de grupos que administra el profesor |
+
+**Student:**
+
+
+| Atributos | Tipo | Descripción                        |
+| --------- | ---- | ----------------------------------- |
+| studentId | int  | Identificador único del estudiante |
+
+**Group:**
+
+
+| Atributos   | Tipo                  | Descripción                                 |
+| ----------- | --------------------- | -------------------------------------------- |
+| groupId     | int                   | Identificador único del grupo               |
+| groupName   | string                | Nombre descriptivo del grupo                 |
+| studentList | List&lt;Student&gt;   | Lista de estudiantes pertenecientes al grupo |
+| challenges  | List&lt;Challenge&gt; | Retos o actividades asignadas al grupo       |
+
+**Content:**
+
+
+| Atributos | Tipo                 | Descripción                                 |
+| --------- | -------------------- | -------------------------------------------- |
+| contentId | int                  | Identificador único del contenido           |
+| images    | List&lt;Image&gt;    | Lista de imágenes incluidas en el contenido |
+| documents | List&lt;Document&gt; | Lista de documentos adjuntos                 |
+| text      | string               | Texto principal del contenido                |
+
+**Challenge:**
+
+
+| Atributos   | Tipo                   | Descripción                            |
+| ----------- | ---------------------- | --------------------------------------- |
+| challengeId | int                    | Identificador único del reto           |
+| title       | string                 | Título descriptivo del reto            |
+| content     | Content                | Contenido detallado del reto            |
+| submissions | List&lt;Submission&gt; | Entregas realizadas por los estudiantes |
+
+**Submission:**
+
+
+| Atributos    | Tipo                | Descripción                           |
+| ------------ | ------------------- | -------------------------------------- |
+| submissionId | int                 | Identificador único de la entrega     |
+| content      | Content             | Contenido de la entrega del estudiante |
+| comments     | List&lt;Comment&gt; | Comentarios asociados a la entrega     |
+
+**Comment:**
+
+
+| Atributos | Tipo    | Descripción                        |
+| --------- | ------- | ----------------------------------- |
+| commentId | int     | Identificador único del comentario |
+| content   | Content | Contenido textual del comentario    |
+
+### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
+
+![ERD EduHive](/images/chapter-4/erdEduHive.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
