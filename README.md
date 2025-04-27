@@ -1112,3 +1112,43 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 
 
 ## Anexos
+
+**Anexo A:**
+https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing
+
+**Anexo B:**
+https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing
+
+**Anexo C:**
+https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link
+
+**Anexo D:**
+https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link
+
+**Anexo E:**
+
+https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link
+
+**Anexo F:**
+
+https://youtu.be/QTE_TH3pnVc
+
+**Anexo G:**
+
+https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1
+
+**Anexo H:**
+
+https://www.figma.com/design/kgM3yQP7rTFErupKASTWFq/EduHive?node-id=1-3&t=q1juqOFhPBfXgsgs-1
+
+**Anexo I:**
+
+https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88
+
+**Anexo J:**
+
+https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
+
+
+
+
