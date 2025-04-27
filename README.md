@@ -1088,4 +1088,27 @@ Durante este Sprint, el foco principal fue el desarrollo de la **landing page es
 
 ## Bibliografía
 
+•	LucidChart. (2010). LucidChart. Lucid Software Inc. https://www.lucidchart.com
+
+•	Trello(2011). Trello. Atlassian. https://trello.com/
+
+•	Pivotal Tracker (2008). Pivotal Tracker. VMware, Inc. https://www.pivotaltracker.com/
+
+•	Figma (2016). Figma. Figma, Inc.  https://www.figma.com/
+
+•	Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The definitive guide to Scrum: The rules of the game. Scrum.org. https://scrumguides.org/
+
+•	ProgressaLean. (2014). 5W+2H: Técnica de análisis de problemas. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+•	IBM. (2022). As-is Scenario Map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+•	IBM. (s. f.). Empathy Map. https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+
+•	Browne, C. (2022). What are user flows in UX design? .CareerFoundry. https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+•	Structurizr. (s. f.). Embedding diagrams. https://docs.structurizr.com/cloud/embed
+
+•	Structurizr. (s. f.). Structurizr. https://structurizr.com/
+
+
 ## Anexos
