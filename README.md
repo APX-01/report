@@ -1053,53 +1053,37 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
 
 Durante este sprint, nuestro equipo terminó y lanzó la landing page de EduHive. Aquí les mostramos capturas de cada sección, donde podrán ver cómo organizamos la información de forma clara y atractiva para los usuarios.
 
-
 <img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
 
 Nuestro hero section combina una imagen impactante con un mensaje directo que explica qué es EduHive y por qué deberían usarlo.
-
-
 
 <img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
 
 Aquí destacamos las 4 razones clave para elegirnos, con iconos visuales y descripciones cortas que resumen nuestros beneficios principales.
 
-
-
 <img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
 
 En esta sección, los cursos se muestran como tarjetas interactivas. Al pasar el cursor, se resaltan para invitar al usuario a explorarlos.
-
-
 
 <img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
 
 Explicamos nuestra metodología educativa con textos sencillos y diseño limpio, para que los usuarios entiendan rápido cómo aprenden.
 
-
-
 <img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
 
 El formulario de contacto tiene validaciones en tiempo real. Si algo se llena mal, avisa al usuario antes de enviar.
-
-
 
 <img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
 
 Los comentarios de estudiantes reales aparecen en un carrusel. Las flechas permiten navegar entre ellos fácilmente.
 
-
-
 <img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
 
 Actualizamos esta sección con novedades de cursos y un video explicativo. Ideal para usuarios que buscan información fresca.
 
-
-
 <img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/>
 
 Un simple campo de email con botón de suscripción para que los usuarios se registren al newsletter.
-
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1123,35 +1107,25 @@ En este sprint, implementamos con éxito la landing page de EduHive en un entorn
   - GitHub Actions ejecutó el flujo predeterminado de Pages al hacer push a main.
   - Verificamos que el sitio se publicara correctamente.
 
-<img src="./images/chapter-5/deploy-evidence-1.png" alt="Deploy Evidence 1" width="700"/>
+    Link Landing Page: https://apx-01.github.io/Landing-Page/
 
+<img src="./images/chapter-5/deploy-evidence-1.png" alt="Deploy Evidence 1" width="700"/>
 
 <img src="./images/chapter-5/deploy-evidence-2.png" alt="Deploy Evidence 2" width="700"/>
 
-
-
 <img src="./images/chapter-5/deploy-evidence-3.png" alt="Deploy Evidence 3" width="700"/>
 
-
-
 <img src="./images/chapter-5/deploy-evidence-4.png" alt="Deploy Evidence 4" width="700"/>
-
-
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección, documentamos cómo el equipo trabajó de manera coordinada para implementar las funcionalidades de la landing page. A través de métricas de GitHub (commits, contribuciones por miembro y frecuencia de trabajo), mostramos evidencia de lo mencionado.
 
-
 <img src="./images/chapter-5/team-collaboration-1.png" alt="Team Collaboration 1" width="700"/>
-
 
 <img src="./images/chapter-5/team-collaboration-2.png" alt="Team Collaboration 2" width="700"/>
 
-
-
 <img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
-
 
 ### 5.3. Validation Interviews
 
@@ -1244,3 +1218,7 @@ https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_
 **Anexo J:**
 
 https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
+
+**Anexo K:**
+
+https://apx-01.github.io/Landing-Page/
