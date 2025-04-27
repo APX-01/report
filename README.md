@@ -119,8 +119,6 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
 ![alt text](./images/chapter-1/Commit10.png)
 
 
-* **Issues**
-
 ## Contenido
 
 - [Student Outcome](#student-outcome)
