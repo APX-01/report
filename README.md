@@ -832,130 +832,138 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
   </tr>
   <tr>
     <td rowspan="2">US-21</td>
-    <td rowspan="2">Interacción con la barra de navegación</td>
+    <td rowspan="2">Hero Section</td>
     <td>T01</td>
-    <td>Diseño de navbar</td>
-    <td>Diseñar la barra de navegación con enlaces principales.</td>
-    <td>1</td>
+    <td>Diseñar sección Hero</td>
+    <td>Crear layout con imagen destacada y texto principal</td>
+    <td>2</td>
     <td>JosueFloresAp</td>
-    <td>Done/td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
-    <td>Implementar redirecciones</td>
-    <td>Configurar enlaces internos y externos desde el navbar.</td>
+    <td>Implementar barra de busqueda</td>
+    <td>Agregar una barra de búsqueda a la sección.</td>
     <td>1</td>
     <td>JosueFloresAp</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US-22</td>
-    <td>Sección de características principales</td>
+    <td>Main Features Section</td>
     <td>T03</td>
-    <td>Diseñar sección</td>
-    <td>Crear contenedor con íconos y descripciones de funciones clave.</td>
-    <td>2</td>
+    <td>Diseñar tarjetas de características</td>
+    <td>Crear 4 tarjetas con iconos y descripción breve.</td>
+    <td>3</td>
     <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-23</td>
-    <td rowspan="2">Sección cursos populares</td>
+    <td rowspan="2">Explore Course Section</td>
     <td>T04</td>
-    <td>Diseñar tarjetas</td>
-    <td>Crear cards con imagen, nombre, rating y botón de ver más.</td>
-    <td>2</td>
+    <td>Diseñar cards de cursos</td>
+    <td>Crear tarjetas con imagen, título y efecto hover.</td>
+    <td>3</td>
     <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>T05</td>
-    <td>Programar navegación</td>
-    <td>Hacer que al hacer clic en "Cursos populares" se redirija a la sección.</td>
-    <td>1</td>
+    <td>Implementar grid responsive</td>
+    <td>Configurar disposición adaptable de las tarjetas.</td>
+    <td>2</td>
     <td>Firtness</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US-24</td>
-    <td>Sección Explore Course</td>
+    <td>Knowledge Section</td>
     <td>T06</td>
-    <td>Redirigir a listado de cursos</td>
-    <td>Configurar enlace desde navbar hacia la sección "Explore Course".</td>
+    <td>Diseñar layout informativo</td>
+    <td>Estructurar contenido sobre metodología educativa.</td>
     <td>2</td>
     <td>OmarLLA</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US-25</td>
-    <td rowspan="2">Sección Blog</td>
+    <td rowspan="3">US-25</td>
+    <td rowspan="3">Contact Section</td>
     <td>T07</td>
-    <td>Diseñar vista de blog</td>
-    <td>Crear página para mostrar artículos recientes y destacados.</td>
-    <td>2</td>
+    <td>Diseñar formulario</td>
+    <td>Crear campos para nombre, email, teléfono, compañía y mensaje.</td>
+    <td>3</td>
     <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>T08</td>
-    <td>Agregar botón "ver más"</td>
-    <td>Habilitar carga de publicaciones anteriores al hacer clic.</td>
-    <td>1</td>
+    <td>Implementar validaciones</td>
+    <td>Validar campos obligatorios y formatos.</td>
+    <td>2</td>
+    <td>sebastianrealcalderon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T09</td>
+    <td>Configurar envío</td>
+    <td>Programar lógica para enviar datos y mostrar confirmación.</td>
+    <td>2</td>
     <td>sebastianrealcalderon</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-26</td>
-    <td rowspan="2">Contacto</td>
-    <td>T09</td>
-    <td>Diseñar formulario de contacto</td>
-    <td>Crear página con campos básicos para enviar consulta.</td>
-    <td>2</td>
-    <td>sebastianrealcalderon</td>
+    <td rowspan="2">Testimonials Section</td>
+    <td>T10</td>
+    <td>Diseñar carrusel</td>
+    <td>Crear componente deslizable con testimonios (texto, nombre, carrera).</td>
+    <td>3</td>
+    <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T10</td>
-    <td>Validar campos</td>
-    <td>Verificar que email no esté vacío y mostrar mensaje si lo está.</td>
-    <td>1</td>
-    <td>sebastianrealcalderon</td>
+    <td>T11</td>
+    <td>Implementar navegación</td>
+    <td>Agregar flechas para cambiar entre testimonios.</td>
+    <td>2</td>
+    <td>AlexBoo1</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-27</td>
-    <td rowspan="2">Login</td>
-    <td>T11</td>
-    <td>Diseñar formulario de login</td>
-    <td>Crear campos para email y contraseña con diseño funcional.</td>
+    <td rowspan="2">Latest Updates Section</td>
+    <td>T12</td>
+    <td>Diseñar lista de actualizaciones</td>
+    <td>Crear vista con cursos, fechas y video informativo.</td>
     <td>3</td>
-    <td>Firtness</td>
+    <td>OmarLLA</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T12</td>
-    <td>Validar credenciales</td>
-    <td>Mostrar error si email o contraseña son incorrectos.</td>
+    <td>T13</td>
+    <td>Implementar reproductor</td>
+    <td>Configurar funcionalidad del video embedido.</td>
     <td>2</td>
-    <td>Firtness</td>
+    <td>OmarLLA</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">US-28</td>
-    <td rowspan="2">Registro</td>
-    <td>T13</td>
-    <td>Diseñar formulario de registro</td>
-    <td>Crear formulario con campos: nombre, email, contraseña, etc.</td>
-    <td>3</td>
-    <td>OmarLLA</td>
+    <td rowspan="2">Subscribe Section</td>
+    <td>T14</td>
+    <td>Diseñar formulario</td>
+    <td>Crear campo de email y botón de suscripción.</td>
+    <td>1</td>
+    <td>JosueFloresAp</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T14</td>
-    <td>Confirmación por correo</td>
-    <td>Enviar correo de verificación tras registro exitoso.</td>
+    <td>T15</td>
+    <td>Implementar validación</td>
+    <td>Verificar formato de email y mostrar estados (éxito/error).</td>
     <td>2</td>
-    <td>OmarLLA</td>
+    <td>JosueFloresAp</td>
     <td>Done</td>
   </tr>
 </table>
