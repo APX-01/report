@@ -2598,34 +2598,29 @@ El Context Diagram de EduHive presenta una visión de alto nivel del sistema, ce
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cinco Bounded Contexts especializados: Challenges BC, Teams BC, Analytics BC, Schedule BC y Badges BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Badges BC adicionalmente interactúa con el sistema externo Open Badges para las insignias digitales.
+El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cuatro Bounded Contexts especializados: IAM BC, Challenges BC, Group Management BC y Analytics BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Badges BC adicionalmente interactúa con el sistema externo Open Badges para las insignias digitales.
 
 <img src="./images/chapter-4/containerDiagram.png" alt="Container Diagram" width="600"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Open Badges en el caso de BadgesBC).
+Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Open Badges en el caso de ChallengesBC).
 
-- Analytics BC
+- IAM BC
 
 <img src="./images/chapter-4/componentDiagram1.png" alt="Component Diagram 1" width="600"/>
 
-- Badges BC
+- Challenges BC
 
 <img src="./images/chapter-4/componentDiagram2.png" alt="Component Diagram 2" width="600"/>
 
-- Challenges BC
+- Group Management BC
 
 <img src="./images/chapter-4/componentDiagram3.png" alt="Component Diagram 3" width="600"/>
 
-
-- Schedule BC
+- Analytics BC
 
 <img src="./images/chapter-4/componentDiagram4.png" alt="Component Diagram 4" width="600"/>
-
-- Teams BC
-
-<img src="./images/chapter-4/componentDiagram5.png" alt="Component Diagram 5" width="600"/>
 
 
 
