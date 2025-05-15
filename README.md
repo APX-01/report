@@ -962,13 +962,13 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 Por un lado, se presenta el User Persona del segmento de estudiantes universitarios, el cual ilustra sus objetivos, motivaciones y frustraciones en relación con la gestión de su vida académica y la búsqueda de herramientas que faciliten su aprendizaje y organización.
 
-<img src="./images/chapter-2/UserPerson_Student.png" alt="Canvas" width="400"/>
+<img src="./images/chapter-2/UserPerson-Camila Rojas.png" alt="Canvas" width="400"/>
 
 **Segmento 2: Profesores Universitarios**
 
 Por otro lado, se presenta el User Persona del segmento de profesores universitarios, el cual detalla sus metas, motivaciones y desafíos en el ejercicio de la enseñanza y la búsqueda de recursos que optimicen su labor pedagógica y la interacción con sus estudiantes.
 
-<img src="./images/chapter-2/UserPerson_Teacher.png" alt="Canvas" width="400"/>
+<img src="./images/chapter-2/UserPerson-Francisco Lescano.png" alt="Canvas" width="400"/>
 
 #### 2.3.2. User Task Matrix
 
