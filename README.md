@@ -2722,6 +2722,8 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 ### 5.1. Software Configuration Management
 
+Esta sección presenta las herramientas utilizadas en el entorno de desarrollo del proyecto, así como las convenciones y estrategias de control de versiones adoptadas para asegurar la calidad y consistencia del código.
+
 #### 5.1.1. Software Development Environment Configuration
 
 Antes de comenzar, es importante definir claramente los requisitos de  la página web. Esto incluye las funcionalidades que se desean ofrecer  en nuestra plataforma.
@@ -3039,6 +3041,17 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 Esta sección describe la configuración y los pasos necesarios para realizar el despliegue exitoso de los diferentes productos digitales en la solución. A continuación se especifican los pasos para desplegar la **Landing Page en GitHub Pages**, el **Frontend Web Application en Firebase** y los **Web Services Backend en Azure**.
 
 ### Despliegue de la Landing Page en GitHub Pages
+
+#### Consideraciones previas al despliegue:
+
+- Asegurarse de que todos los archivos de la Landing Page estén implementados correctamente en HTML, CSS y JavaScript.
+
+- Se permite el uso de distintos formatos de imagen como .jpg, .png, .webp, entre otros.
+
+- Contar con un repositorio público en GitHub con los permisos adecuados para la edición y despliegue del sitio.
+
+- El repositorio debe pertenecer a una organización compartida entre los miembros del equipo para permitir la colaboración y control de versiones.
+
 
 #### Pasos de despliegue:
 
