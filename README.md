@@ -3661,7 +3661,7 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
 ### Introducción
 Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
 
-<img src="./images/chapter-5/Sprint-Backlog-2.png" alt="Moodle" width="800"/>
+<img src="images/chapter-5/Sprint-Backlog-2.png" alt="Moodle" width="800"/>
 
 | Sprint #|||| Sprint 2||||
 |--|--|--|--|-- |--|--|--|
@@ -3681,6 +3681,68 @@ Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *
 | **US29**| Integración con herramientas de videollamadas | **TA013** | Habilitar videollamadas desde la plataforma | Incorporar acceso directo a videollamadas a través de servicios como Zoom o Google Meet desde la interfaz de usuario. | 2 horas | Flores Apaico Josue Antonio	 | |
 | **US18**|Integración de gráfico radial de habilidades|**TA014**|Agrupar miembros por habilidades|Desarrollar una función que permita asignar miembros a equipos basados en sus competencias específicas|2 horas|Mendoza Vergara Franklin Alejandro	 | |
 | **US34**|Sistema de evaluación automática de productividad|**TA015**|Representar avance con gráfico visual|Crear un gráfico dentro de la sección de miembros que muestre el porcentaje de progreso con respecto a las tareas asignadas| 2 horas |Mendoza Vergara Franklin Alejandro	| |
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/Horizon-ManageWise/Horizon/pull/60 |feature/Sprint2-sprintBacklog-services_Documentation_Evidence|75c0c75| Se realizo la agregacion de los videos y paginas| Created the README file.|25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/59 | development | 6548432   | feat:Testing Suite Evidence for Sprint Review  | feat:Testing Suite Evidence for Sprint Review  | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/58 |development|a19b6ac |feature:Sprint Backlog 2 update|Se realizo una actualizacion del product backlog | 25/09/2024|
+| https://github.com/Horizon-ManageWise/Horizon/pull/57 | development | 29ca9f3 i   | feature/execution-evidence-from-sprint-review|feature/execution-evidence-from-sprint-review | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/56 | docs/landingpage-deployment-evidence | 7fe8f1f   | feature: added landing page deployment evidence | feature: added landing page deployment evidence | 24/09/2024              |
+| https://github.com/Horizon-ManageWise/Horizon/pull/50 | fix/diagrama-clases | 6e41532 | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
+
+![alt text](assets/images/TP_images/pull_R.png)
+
+link: https://github.com/Horizon-ManageWise/Horizon/pulls?q=is%3Apr+is%3Aclosed
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| APX-01/Testing | feature/TP | 48232594b722a6d3b1948c723cf903655a12bd35 |Initial commit  | Initial commit | 16/05/2025|
+| APX-01/Testing | feature/TP | 98bb0d238d4305c241a5e31f5bd0f658915553be |feature: added US01 gherkin  | feature: added US01 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | 4fe61f01bd7f0d6f19c3df562a72f05ff993746e |feature: added US05 gherkin  | feature: added US05 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US06 gherkin  | feature: added US06 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | b02f2bb10c47d255857145e96eb54f72cb66d383 |feature: added US15 gherkin  | feature: added US15 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | 9db14c0bd4735c9c0495d405d35f9c87f75109fe |feature: added US16 gherkin  | feature: added US16 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | a86f36565e3d66d635b71333d123cca9d9486dc8 |feature: added US30 gherkin  | feature: added US30 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | 903934c1d941c27b8a37108320411a5b322ffaa0 |feature: added US33 gherkin  | feature: added US33 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US35 gherkin  | feature: added US35 gherkin | 16/05/2025|
+| APX-01/Testing | feature/TP | f8db7186ad943db1e5c671242d00aec94ab6eec0 |feature: added US37 gherkin  | feature: added US37 gherkin | 16/05/2025|
+
+<br>
+Link del repositorio Commints: https://github.com/Horizon-ManageWise/Testing/tree/feature/TP
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante este segundo sprint, los miembros del equipo implementaron los distintos *bounded contexts* del dominio de **ManageWise**, utilizando el framework **Angular** junto con los componentes ofrecidos por **Angular Material**.
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
+
+Link Landing Page: https://apx-01.github.io/Landing-Page/
+
+<img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/>
 
 
 ## Conclusiones
