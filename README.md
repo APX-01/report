@@ -3712,19 +3712,19 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 
 | **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
 |-|-|-|-|-|-|
-| APX-01/Testing | feature/TP | 48232594b722a6d3b1948c723cf903655a12bd35 |Initial commit  | Initial commit | 16/05/2025|
-| APX-01/Testing | feature/TP | 98bb0d238d4305c241a5e31f5bd0f658915553be |feature: added US01 gherkin  | feature: added US01 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | 4fe61f01bd7f0d6f19c3df562a72f05ff993746e |feature: added US05 gherkin  | feature: added US05 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US06 gherkin  | feature: added US06 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | b02f2bb10c47d255857145e96eb54f72cb66d383 |feature: added US15 gherkin  | feature: added US15 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | 9db14c0bd4735c9c0495d405d35f9c87f75109fe |feature: added US16 gherkin  | feature: added US16 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | a86f36565e3d66d635b71333d123cca9d9486dc8 |feature: added US30 gherkin  | feature: added US30 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | 903934c1d941c27b8a37108320411a5b322ffaa0 |feature: added US33 gherkin  | feature: added US33 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US35 gherkin  | feature: added US35 gherkin | 16/05/2025|
-| APX-01/Testing | feature/TP | f8db7186ad943db1e5c671242d00aec94ab6eec0 |feature: added US37 gherkin  | feature: added US37 gherkin | 16/05/2025|
+| APX-01/Testing | main | 10ea0de700ef0a84d4867db150513d24c830a773 |Initial commit  | Initial commit | 16/05/2025|
+| APX-01/Testing | main | 82a545c451d97cafb3e4f75ef9c54e85deb31795 |feature: added US01   | feature: added US01  | 16/05/2025|
+| APX-01/Testing | main | 1f3de963a2127fc439c9fccfc912a010bba211e5 |feature: added US05   | feature: added US05  | 16/05/2025|
+| APX-01/Testing | main | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US06   | feature: added US06  | 16/05/2025|
+| APX-01/Testing | main | 9427e4d9ee9456b16b306f809b4fd1326641f8e5 |feature: added US15   | feature: added US15  | 16/05/2025|
+| APX-01/Testing | main | 26c1ae819a47f21e57077205ed0e21ce2969d2df |feature: added US16   | feature: added US16  | 16/05/2025|
+| APX-01/Testing | main | bf1c10995425de4495dcc2371f26629967ed602a |feature: added US30   | feature: added US30  | 16/05/2025|
+| APX-01/Testing | main | a9f300ba75d79985d6eecd48ff44417e555a0ed7 |feature: added US33   | feature: added US33 | 16/05/2025|
+| APX-01/Testing | main | 7bc78d5e15e7fee8da8dd77b142f9883a63c0d55 |feature: added US35   | feature: added US35  | 16/05/2025|
+| APX-01/Testing | main | a436ffc33752eed09dd6821bdb779e059ee25c51 |feature: added US37   | feature: added US37  | 16/05/2025|
 
 <br>
-Link del repositorio Commints: https://github.com/Horizon-ManageWise/Testing/tree/feature/TP
+Link del repositorio Commints: https://github.com/APX-01/Testing 
 
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
