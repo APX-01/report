@@ -3692,19 +3692,17 @@ Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *
 | **US34**|Sistema de evaluación automática de productividad|**TA015**|Representar avance con gráfico visual|Crear un gráfico dentro de la sección de miembros que muestre el porcentaje de progreso con respecto a las tareas asignadas| 2 horas |Mendoza Vergara Franklin Alejandro	| |
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
+Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durante el segundo sprint. A continuación, se detallan los commits realizados en esta etapa, los cuales reflejan el avance en la implementación de las funcionalidades previstas.
 
+**Tabla de commits del Frontend**
 | Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
 | --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/Horizon-ManageWise/Horizon/pull/60 |feature/Sprint2-sprintBacklog-services_Documentation_Evidence|75c0c75| Se realizo la agregacion de los videos y paginas| Created the README file.|25/09/2024|
-| https://github.com/Horizon-ManageWise/Horizon/pull/59 | development | 6548432   | feat:Testing Suite Evidence for Sprint Review  | feat:Testing Suite Evidence for Sprint Review  | 25/09/2024|
-| https://github.com/Horizon-ManageWise/Horizon/pull/58 |development|a19b6ac |feature:Sprint Backlog 2 update|Se realizo una actualizacion del product backlog | 25/09/2024|
-| https://github.com/Horizon-ManageWise/Horizon/pull/57 | development | 29ca9f3 i   | feature/execution-evidence-from-sprint-review|feature/execution-evidence-from-sprint-review | 24/09/2024              |
-| https://github.com/Horizon-ManageWise/Horizon/pull/56 | docs/landingpage-deployment-evidence | 7fe8f1f   | feature: added landing page deployment evidence | feature: added landing page deployment evidence | 24/09/2024              |
-| https://github.com/Horizon-ManageWise/Horizon/pull/50 | fix/diagrama-clases | 6e41532 | feature: Add bounded context Reports images and Information | feature: Add bounded context Reports images and Information | 24/09/2024              |
-
-![alt text](assets/images/TP_images/pull_R.png)
-
-link: https://github.com/Horizon-ManageWise/Horizon/pulls?q=is%3Apr+is%3Aclosed
+| https://github.com/APX-01/report/pull/7 |JourneyMapping|3753f73| Add a student's user journey mapping|feat(User-Journey-Mapping): Add a student's user journey mapping |16/05/2025|
+| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2   | Add the landing page design | feat(Web-Style-Guidelines): Add the landing page design | 16/05/2025|
+| https://github.com/APX-01/report/pull/13 |Product_Design|53bce58  |Add the typography and colors of the landing page| feat(General-Style-Guidelines): Add the typography and colors of the landing page| 16/05/2025|
+| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2    | Add the landing page design|feat(Web-Style-Guidelines): Add the landing page design| 20/04/2025              |
+| https://github.com/APX-01/report/pull/10 | Emp-map | 4845e4b   | Added the teacher user empathy map | feat(Empathy-Mapping): Added the teacher user empathy map. | 19/04/2025              |
+| https://github.com/APX-01/report/pull/33 | fix/chapter-2 | 67f3454 | Fixed the teacher segment of the User-Journey-Student | fix(User-Journey-Mapping): Fixed the teacher segment of the User-Journey-Student | 22/04/2025             |
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
 
