@@ -3722,13 +3722,29 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 | APX-01/Testing | main | a436ffc33752eed09dd6821bdb779e059ee25c51 |feature: added US37   | feature: added US37  | 16/05/2025|
 
 <br>
-Link del repositorio Commints: https://github.com/APX-01/Testing 
+Link del repositorio Commints: https://github.com/APX-01/Testing  
 
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante este segundo sprint, los miembros del equipo implementaron los distintos *bounded contexts* del dominio de **ManageWise**, utilizando el framework **Angular** junto con los componentes ofrecidos por **Angular Material**.
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+**Introducción:**
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
+
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
+
+### Tabla de Endpoints Documentados
+
+| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
+|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
+| Users      | `/api/users/{groupId}/users`                  | Filtra y devuelve los usuarios que pertenecen a un grupo específico (groupId). | GET | `?groupId=3`     | `[{"id": 1,"name": "Ana López", "email": "ana@example.com", "profilesInGroups": [{ "groupId": 3, "role": "estudiante" }]}]` |Herramientas:http://localhost:3000/api/v1/users/{groupId}/users|
+| Groups          | `/api/users/key`        | Devuelve un código de grupo que coincida con una clave dada. | GET       | `{"key": "abc123"}` | `{ "id": 1, "key": "abc123" }` | Groups: http://localhost:3000/api/v1/calendar/activities |
+| groupJoinCodes          | `/api/groupJoinCodes//api/users`                | Trae las entregas de un reto. | GET  | `?challengeId=42`          | `[{"id": 1, "challengeId": 42, "userId": 10,"score": 85}]` | groupJoinCodes: http://localhost:3000/api/v1/groupJoinCodes//api/users |
+| challenges            | `/api/challenges/groupId`             | Obtiene todos los retos (Challenges) asignados a un grupo específico. | GET   | `?groupId=5`               | `{"id": 1, "title": "Reto de lógica", "groupId": 5,"deadline": "2025-05-20T23:59:00Z"}` | challenges: http://localhost:3000/api/v1/challenges/groupId |
+| submissions          | `/api/submissions/challengeId`                | Obtiene todas las entregas (Submissions) realizadas para un reto específico identificado por su challengeId. | GET    | `?challengeId=3`          | `[{"id": 101, "challengeId": 3,"userId": 12, "submissionDate": "2025-05-15T10:00:00Z", "score": 88}]` | Miembros:http://localhost:3000/api/v1/submissions/challengeId |
+
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
