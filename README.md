@@ -200,6 +200,15 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -3608,14 +3617,14 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
 
 <img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
 
-#### 5.2.1. Sprint 1
+#### 5.2.2. Sprint 2
 
-##### 5.2.1.1. Sprint Planning 1
+##### 5.2.2.1. Sprint Planning 2
 
 <table >
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 1</td>
+    <td>Sprint 2</td>
   </tr>
   <tr>
     <th colspan="2"><b>Sprint Planning Background</b></th>
@@ -3644,11 +3653,11 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
     <th colspan="2"><b>Sprint Goal & User Stories</b></th>
   </tr>
   <tr>
-    <th>Sprint 1 Goal</th>
+    <th>Sprint 2 Goal</th>
     <td>Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante</td>
   </tr>
   <tr>
-    <th>Sprint 1 Velocity</th>
+    <th>Sprint 2 Velocity</th>
     <td>33 puntos</td>
   </tr>
   <tr>
