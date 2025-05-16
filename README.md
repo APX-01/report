@@ -3608,6 +3608,80 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
 
 <img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
 
+#### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1
+
+<table >
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Planning Background</b></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2025-05-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>20:24 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td> Reunión virtual en Discord </td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>José Antonio Alejo Cárdenas y Omar Luquillas Asto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>José Antonio Alejo Cárdenas, Omar Luquillas Asto, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio y Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Goal & User Stories</b></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>33 puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>33 puntos</td>
+  </tr>
+</table>
+
+### 5.2.2.2. Sprint Backlog 2
+### Introducción
+Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
+
+![alt text](images/chapter-5/Sprint-Backlog-2.png)
+
+| Sprint #|||| Sprint 2||||
+|--|--|--|--|-- |--|--|--|
+| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                  | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
+| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
+| **US19**| Integración de cronogramas| **TA001**| Crear nuevas entradas en el calendario| Permitir a los usuarios registrar eventos personalizados en el calendario, incluyendo título y descripción.| 2 horas| Alejo Cardenas, Jose | Done|
+| **US19**| Integración de cronogramas|**TA002**| Visualización de eventos programados| Desplegar las actividades registradas en una interfaz organizada y comprensible dentro del calendario.| 4 horas| Alejo Cardenas, Jose|Done|
+| **US14**| Herramienta de seguimiento de tareas en tiempo real|**TA003**|Gestión de estados de tareas|Incorporar la opción de modificar el estado de una tarea (pendiente, en proceso, completada) para facilitar su seguimiento.| 5 horas | Luquillas Asto Omar	 |Done|
+| **US25**| Gestión de dependencias de tareas|**TA005**| Visualizar dependencias entre tareas| Añadir atributos visibles que permitan identificar las tareas que dependen unas de otras dentro del sistema.| 4 horas| Luquillas Asto Omar | Done  |
+| **US37**| Reporte de eficiencia del equipo  | **TA006** | Generar reportes de desempeño| Diseñar una funcionalidad que permita crear reportes sobre el rendimiento del equipo desde el menú principal.  | 3 horas               | Real Calderón Sebastián Omar| Done|
+| **US37**| Reporte de eficiencia del equipo  | **TA007** | Funcionalidad para eliminar reportes existentes | Implementar la opción de borrar reportes previos creados por líderes o desarrolladores del proyecto | 3 horas | Real Calderón Sebastián Omar | Done|
+| **US37**| Reporte de eficiencia del equipo | **TA008**  | Actualizar información en reportes | Permitir la edición de reportes generados previamente por miembros del equipo para reflejar nueva información.| 3 horas| Real Calderón Sebastián Omar     | Done |
+| **US37**| Reporte de eficiencia del equipo  | **TA009** | Añadir comentarios de supervisión en reportes| Habilitar la creación de observaciones por parte de líderes o gerentes dentro del contexto de Reportes/Comentarios.| 2 horas| Real Calderón Sebastián Omar | Done |
+| **US24**| Reporte de tareas atrasadas  | **TA010** | Registrar tareas con retraso| Crear una sección de reportes que identifique y documente las tareas no completadas a tiempo por los desarrolladores.|2 horas  | Real Calderón Sebastián Omar     | Done  |
+| **US10**| Sincronización con herramientas externas | **TA011** | Configurar integración automática | Implementar la conexión automática de tareas y eventos entre la plataforma y herramientas externas como Google Calendar. | 2 horas | Flores Apaico Josue Antonio	 | |
+| **US10**| Sincronización con herramientas externas | **TA012** | Reflejar modificaciones en tiempo real | Asegurar que cualquier cambio realizado tanto en la plataforma como en herramientas conectadas se sincronice al instante. | 3 horas | Flores Apaico Josue Antonio	 | |
+| **US29**| Integración con herramientas de videollamadas | **TA013** | Habilitar videollamadas desde la plataforma | Incorporar acceso directo a videollamadas a través de servicios como Zoom o Google Meet desde la interfaz de usuario. | 2 horas | Flores Apaico Josue Antonio	 | |
+| **US18**|Integración de gráfico radial de habilidades|**TA014**|Agrupar miembros por habilidades|Desarrollar una función que permita asignar miembros a equipos basados en sus competencias específicas|2 horas|Mendoza Vergara Franklin Alejandro	 | |
+| **US34**|Sistema de evaluación automática de productividad|**TA015**|Representar avance con gráfico visual|Crear un gráfico dentro de la sección de miembros que muestre el porcentaje de progreso con respecto a las tareas asignadas| 2 horas |Mendoza Vergara Franklin Alejandro	| |
+
 
 ## Conclusiones
 
