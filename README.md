@@ -3661,7 +3661,7 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
 ### Introducción
 Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
 
-![alt text](images/chapter-5/Sprint-Backlog-2.png)
+<img src="./images/chapter-5/Sprint-Backlog-2.png" alt="Moodle" width="800"/>
 
 | Sprint #|||| Sprint 2||||
 |--|--|--|--|-- |--|--|--|
