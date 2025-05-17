@@ -200,6 +200,15 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -2722,6 +2731,8 @@ Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42
 
 ### 5.1. Software Configuration Management
 
+Esta sección presenta las herramientas utilizadas en el entorno de desarrollo del proyecto, así como las convenciones y estrategias de control de versiones adoptadas para asegurar la calidad y consistencia del código.
+
 #### 5.1.1. Software Development Environment Configuration
 
 Antes de comenzar, es importante definir claramente los requisitos de  la página web. Esto incluye las funcionalidades que se desean ofrecer  en nuestra plataforma.
@@ -3039,6 +3050,17 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 Esta sección describe la configuración y los pasos necesarios para realizar el despliegue exitoso de los diferentes productos digitales en la solución. A continuación se especifican los pasos para desplegar la **Landing Page en GitHub Pages**, el **Frontend Web Application en Firebase** y los **Web Services Backend en Azure**.
 
 ### Despliegue de la Landing Page en GitHub Pages
+
+#### Consideraciones previas al despliegue:
+
+- Asegurarse de que todos los archivos de la Landing Page estén implementados correctamente en HTML, CSS y JavaScript.
+
+- Se permite el uso de distintos formatos de imagen como .jpg, .png, .webp, entre otros.
+
+- Contar con un repositorio público en GitHub con los permisos adecuados para la edición y despliegue del sitio.
+
+- El repositorio debe pertenecer a una organización compartida entre los miembros del equipo para permitir la colaboración y control de versiones.
+
 
 #### Pasos de despliegue:
 
@@ -3594,6 +3616,213 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
 <img src="./images/chapter-5/team-collaboration-2.png" alt="Team Collaboration 2" width="700"/>
 
 <img src="./images/chapter-5/team-collaboration-3.png" alt="Team Collaboration 3" width="700"/>
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+<table >
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Planning Background</b></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2025-05-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>20:24 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td> Reunión virtual en Discord </td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>José Antonio Alejo Cárdenas y Omar Luquillas Asto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>José Antonio Alejo Cárdenas, Omar Luquillas Asto, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio y Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <th colspan="2"><b>Sprint Goal & User Stories</b></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Nuestro enfoque está en separar las tareas para cada integrante respecto al bounded context que elijan y finalizar el informe detallando el trabajo realizado por cada integrante</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>33 puntos</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>33 puntos</td>
+  </tr>
+</table>
+
+### 5.2.2.2. Sprint Backlog 2
+### Introducción
+Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
+
+<img src="images/chapter-5/Sprint-Backlog-2.png" alt="Moodle" width="800"/>
+
+| Sprint #|||| Sprint 2||||
+|--|--|--|--|-- |--|--|--|
+| **User<br>Story** |                                                     | **Work-Item /Task** |                                                 |                                                                                                                  | **Estimation<br>(Hours)** | **Assigned<br>To**            | **Status<br>(To-do <br>/InProcess<br>/ To-Review <br>/Done)** |
+| **ID**        | **Title**                                             | **ID**          | **Title**                                       | **Description**                                                                                                          |                       |                              |                                                            |
+| **US19**| Integración de cronogramas| **TA001**| Crear nuevas entradas en el calendario| Permitir a los usuarios registrar eventos personalizados en el calendario, incluyendo título y descripción.| 2 horas| Alejo Cardenas, Jose | Done|
+| **US19**| Integración de cronogramas|**TA002**| Visualización de eventos programados| Desplegar las actividades registradas en una interfaz organizada y comprensible dentro del calendario.| 4 horas| Alejo Cardenas, Jose|Done|
+| **US14**| Herramienta de seguimiento de tareas en tiempo real|**TA003**|Gestión de estados de tareas|Incorporar la opción de modificar el estado de una tarea (pendiente, en proceso, completada) para facilitar su seguimiento.| 5 horas | Luquillas Asto Omar	 |Done|
+| **US25**| Gestión de dependencias de tareas|**TA005**| Visualizar dependencias entre tareas| Añadir atributos visibles que permitan identificar las tareas que dependen unas de otras dentro del sistema.| 4 horas| Luquillas Asto Omar | Done  |
+| **US37**| Reporte de eficiencia del equipo  | **TA006** | Generar reportes de desempeño| Diseñar una funcionalidad que permita crear reportes sobre el rendimiento del equipo desde el menú principal.  | 3 horas               | Real Calderón Sebastián Omar| Done|
+| **US37**| Reporte de eficiencia del equipo  | **TA007** | Funcionalidad para eliminar reportes existentes | Implementar la opción de borrar reportes previos creados por líderes o desarrolladores del proyecto | 3 horas | Real Calderón Sebastián Omar | Done|
+| **US37**| Reporte de eficiencia del equipo | **TA008**  | Actualizar información en reportes | Permitir la edición de reportes generados previamente por miembros del equipo para reflejar nueva información.| 3 horas| Real Calderón Sebastián Omar     | Done |
+| **US37**| Reporte de eficiencia del equipo  | **TA009** | Añadir comentarios de supervisión en reportes| Habilitar la creación de observaciones por parte de líderes o gerentes dentro del contexto de Reportes/Comentarios.| 2 horas| Real Calderón Sebastián Omar | Done |
+| **US24**| Reporte de tareas atrasadas  | **TA010** | Registrar tareas con retraso| Crear una sección de reportes que identifique y documente las tareas no completadas a tiempo por los desarrolladores.|2 horas  | Real Calderón Sebastián Omar     | Done  |
+| **US10**| Sincronización con herramientas externas | **TA011** | Configurar integración automática | Implementar la conexión automática de tareas y eventos entre la plataforma y herramientas externas como Google Calendar. | 2 horas | Flores Apaico Josue Antonio	 | |
+| **US10**| Sincronización con herramientas externas | **TA012** | Reflejar modificaciones en tiempo real | Asegurar que cualquier cambio realizado tanto en la plataforma como en herramientas conectadas se sincronice al instante. | 3 horas | Flores Apaico Josue Antonio	 | |
+| **US29**| Integración con herramientas de videollamadas | **TA013** | Habilitar videollamadas desde la plataforma | Incorporar acceso directo a videollamadas a través de servicios como Zoom o Google Meet desde la interfaz de usuario. | 2 horas | Flores Apaico Josue Antonio	 | |
+| **US18**|Integración de gráfico radial de habilidades|**TA014**|Agrupar miembros por habilidades|Desarrollar una función que permita asignar miembros a equipos basados en sus competencias específicas|2 horas|Mendoza Vergara Franklin Alejandro	 | |
+| **US34**|Sistema de evaluación automática de productividad|**TA015**|Representar avance con gráfico visual|Crear un gráfico dentro de la sección de miembros que muestre el porcentaje de progreso con respecto a las tareas asignadas| 2 horas |Mendoza Vergara Franklin Alejandro	| |
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durante el segundo sprint. A continuación, se detallan los commits realizados en esta etapa, los cuales reflejan el avance en la implementación de las funcionalidades previstas.
+
+**Tabla de commits del Frontend**
+| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
+| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
+| https://github.com/APX-01/report/pull/7 |JourneyMapping|3753f73| Add a student's user journey mapping|feat(User-Journey-Mapping): Add a student's user journey mapping |16/05/2025|
+| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2   | Add the landing page design | feat(Web-Style-Guidelines): Add the landing page design | 16/05/2025|
+| https://github.com/APX-01/report/pull/13 |Product_Design|53bce58  |Add the typography and colors of the landing page| feat(General-Style-Guidelines): Add the typography and colors of the landing page| 16/05/2025|
+| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2    | Add the landing page design|feat(Web-Style-Guidelines): Add the landing page design| 20/04/2025              |
+| https://github.com/APX-01/report/pull/10 | Emp-map | 4845e4b   | Added the teacher user empathy map | feat(Empathy-Mapping): Added the teacher user empathy map. | 19/04/2025              |
+| https://github.com/APX-01/report/pull/33 | fix/chapter-2 | 67f3454 | Fixed the teacher segment of the User-Journey-Student | fix(User-Journey-Mapping): Fixed the teacher segment of the User-Journey-Student | 22/04/2025             |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
+|-|-|-|-|-|-|
+| APX-01/Testing | main | 10ea0de700ef0a84d4867db150513d24c830a773 |Initial commit  | Initial commit | 16/05/2025|
+| APX-01/Testing | main | 82a545c451d97cafb3e4f75ef9c54e85deb31795 |feature: added US01   | feature: added US01  | 16/05/2025|
+| APX-01/Testing | main | 1f3de963a2127fc439c9fccfc912a010bba211e5 |feature: added US05   | feature: added US05  | 16/05/2025|
+| APX-01/Testing | main | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US06   | feature: added US06  | 16/05/2025|
+| APX-01/Testing | main | 9427e4d9ee9456b16b306f809b4fd1326641f8e5 |feature: added US15   | feature: added US15  | 16/05/2025|
+| APX-01/Testing | main | 26c1ae819a47f21e57077205ed0e21ce2969d2df |feature: added US16   | feature: added US16  | 16/05/2025|
+| APX-01/Testing | main | bf1c10995425de4495dcc2371f26629967ed602a |feature: added US30   | feature: added US30  | 16/05/2025|
+| APX-01/Testing | main | a9f300ba75d79985d6eecd48ff44417e555a0ed7 |feature: added US33   | feature: added US33 | 16/05/2025|
+| APX-01/Testing | main | 7bc78d5e15e7fee8da8dd77b142f9883a63c0d55 |feature: added US35   | feature: added US35  | 16/05/2025|
+| APX-01/Testing | main | a436ffc33752eed09dd6821bdb779e059ee25c51 |feature: added US37   | feature: added US37  | 16/05/2025|
+
+<br>
+Link del repositorio Commints: https://github.com/APX-01/Testing  
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Acontinuación se entrega el enlace a la landing page actualizada https://apx-01.github.io/Landing-Page/
+
+<img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/> 
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+**Introducción:**
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
+
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
+
+### Tabla de Endpoints Documentados
+
+| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
+|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
+| Users      | `/api/users/{groupId}/users`                  | Filtra y devuelve los usuarios que pertenecen a un grupo específico (groupId). | GET | `?groupId=3`     | `[{"id": 1,"name": "Ana López", "email": "ana@example.com", "profilesInGroups": [{ "groupId": 3, "role": "estudiante" }]}]` |Herramientas:http://localhost:3000/api/v1/users/{groupId}/users|
+| Groups          | `/api/users/key`        | Devuelve un código de grupo que coincida con una clave dada. | GET       | `{"key": "abc123"}` | `{ "id": 1, "key": "abc123" }` | Groups: http://localhost:3000/api/v1/calendar/activities |
+| groupJoinCodes          | `/api/groupJoinCodes//api/users`                | Trae las entregas de un reto. | GET  | `?challengeId=42`          | `[{"id": 1, "challengeId": 42, "userId": 10,"score": 85}]` | groupJoinCodes: http://localhost:3000/api/v1/groupJoinCodes//api/users |
+| challenges            | `/api/challenges/groupId`             | Obtiene todos los retos (Challenges) asignados a un grupo específico. | GET   | `?groupId=5`               | `{"id": 1, "title": "Reto de lógica", "groupId": 5,"deadline": "2025-05-20T23:59:00Z"}` | challenges: http://localhost:3000/api/v1/challenges/groupId |
+| submissions          | `/api/submissions/challengeId`                | Obtiene todas las entregas (Submissions) realizadas para un reto específico identificado por su challengeId. | GET    | `?challengeId=3`          | `[{"id": 101, "challengeId": 3,"userId": 12, "submissionDate": "2025-05-15T10:00:00Z", "score": 88}]` | Miembros:http://localhost:3000/api/v1/submissions/challengeId |
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Antes de desplegar la aplicación web, se utilizó My JSON Server para publicar la API simulada y así permitir que la aplicación web pudiera consumir sus servicios correctamente durante el despliegue.
+
+**Login**
+
+<img src="./images/chapter-5/login.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Register**
+
+<img src="./images/chapter-5/register.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Alumnos**
+
+**Join Group**
+
+<img src="./images/chapter-5/join-group.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Challenge**
+
+<img src="./images/chapter-5/Challenge.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Submissions**
+
+<img src="./images/chapter-5/Submissions.jpg" alt="Execution Evidence 8" width="700"/> 
+
+<img src="./images/chapter-5/Submissions2.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**List of members**
+
+<img src="./images/chapter-5/List.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Profesor**
+
+**Create Group**
+
+<img src="./images/chapter-5/Create-Group.jpg" alt="Execution Evidence 8" width="700"/> 
+
+<img src="./images/chapter-5/Create-Group2.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Challenge**
+
+<img src="./images/chapter-5/Challenge-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Submissions**
+
+<img src="./images/chapter-5/Submissions-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Create Submissions**
+
+<img src="./images/chapter-5/Create-Submissions-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**List**
+
+<img src="./images/chapter-5/List-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Analytics**
+
+<img src="./images/chapter-5/Analytics.jpg" alt="Execution Evidence 8" width="700"/> 
+
 
 
 ## Conclusiones
