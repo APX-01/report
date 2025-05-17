@@ -3726,7 +3726,24 @@ Link del repositorio Commints: https://github.com/APX-01/Testing
 
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
-Durante este segundo sprint, los miembros del equipo implementaron los distintos *bounded contexts* del dominio de **ManageWise**, utilizando el framework **Angular** junto con los componentes ofrecidos por **Angular Material**.
+
+Acontinuación se entrega el enlace a la landing page actualizada https://apx-01.github.io/Landing-Page/
+
+<img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
+
+<img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/> 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
@@ -3747,25 +3764,65 @@ Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, pa
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
-Para la entrega del segundo sprint, se desplego la landing page, de manera completamente funcional y mejorada. Cumpliendo los user stories relacionados a la misma. De la misma forma se desplego la web application de manera parcial, pues faltan algunas secciones que se implementarán en el siguiente sprint.
 
-Link Landing Page: https://apx-01.github.io/Landing-Page/
+Antes de desplegar la aplicación web, se utilizó My JSON Server para publicar la API simulada y así permitir que la aplicación web pudiera consumir sus servicios correctamente durante el despliegue.
 
-<img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
+**Login**
 
-<img src="./images/chapter-5/execution-evidence-2.png" alt="Execution Evidence 2" width="700"/>
+<img src="./images/chapter-5/login.jpg" alt="Execution Evidence 8" width="700"/> 
 
-<img src="./images/chapter-5/execution-evidence-3.png" alt="Execution Evidence 3" width="700"/>
+**Register**
 
-<img src="./images/chapter-5/execution-evidence-4.png" alt="Execution Evidence 4" width="700"/>
+<img src="./images/chapter-5/register.jpg" alt="Execution Evidence 8" width="700"/> 
 
-<img src="./images/chapter-5/execution-evidence-5.png" alt="Execution Evidence 5" width="700"/>
+**Alumnos**
 
-<img src="./images/chapter-5/execution-evidence-6.png" alt="Execution Evidence 6" width="700"/>
+**Join Group**
 
-<img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
+<img src="./images/chapter-5/join-group.jpg" alt="Execution Evidence 8" width="700"/> 
 
-<img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/>
+**Challenge**
+
+<img src="./images/chapter-5/Challenge.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Submissions**
+
+<img src="./images/chapter-5/Submissions.jpg" alt="Execution Evidence 8" width="700"/> 
+
+<img src="./images/chapter-5/Submissions2.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**List of members**
+
+<img src="./images/chapter-5/List.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Profesor**
+
+**Create Group**
+
+<img src="./images/chapter-5/Create-Group.jpg" alt="Execution Evidence 8" width="700"/> 
+
+<img src="./images/chapter-5/Create-Group2.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Challenge**
+
+<img src="./images/chapter-5/Challenge-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Submissions**
+
+<img src="./images/chapter-5/Submissions-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Create Submissions**
+
+<img src="./images/chapter-5/Create-Submissions-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**List**
+
+<img src="./images/chapter-5/List-Teacher.jpg" alt="Execution Evidence 8" width="700"/> 
+
+**Analytics**
+
+<img src="./images/chapter-5/Analytics.jpg" alt="Execution Evidence 8" width="700"/> 
+
 
 
 ## Conclusiones
