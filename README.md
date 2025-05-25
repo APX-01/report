@@ -952,14 +952,12 @@ URL: https://youtu.be/QTE_TH3pnVc
 
 **Análisis Segmento 1**: Estudiantes Universitarios
 
-La entrevista con estudiantes universitarios destacó muchos puntos en común. En primer lugar, una diversa cantidad de problemas con los que lidian en su vida académica, tales como la falta de organización, la desmotivación y la falta de comunicación. En segundo lugar, concordaron en que la implementación de un sistema gamificado con medallas y premios sería una gran idea para mantener la motivación de los proyectos y hacer las clases más interesantes. La mayoría de ellos resalta que una buena aplicación educativa debería contar con un sistema de notificaciones y una correcta organización para ayudar a los estudiantes menos hábiles. 
-Los estudiantes están enfocados en mejorar su situación académica con herramientas útiles e innovadores que busquen sacar la mayor productividad de cada uno de ellos. Algunos de ellos resaltaron el uso de diversas herramientas para agendar tarea o realizar proyectos en grupo como Google calendar o Trello, además del uso de redes sociales para coordinarse rápidamente y el uso de laptops que da mayor versatilidad en el avance de sus proyectos. 
+La entrevista con estudiantes universitarios destacó varios puntos en común. En primer lugar, una diversa cantidad de problemas con los que lidian en su vida académica, tales como la falta de organización, mencionado por el 67% de los entrevistados, la desmotivación mencionado por todos los entrevistados y la falta de comunicación, mencionado por el 33% de los entrevistados. En segundo lugar, todos los entrevistados concordaron en que la implementación de un sistema gamificado con medallas y premios sería una gran idea para mantener la motivación de los proyectos y hacer las clases más interesantes. La mayoría de ellos resalta que una buena aplicación educativa debería contar con un sistema de notificaciones y una correcta organización. Los estudiantes están enfocados en mejorar su situación académica con herramientas útiles e innovadores que busquen sacar la mayor productividad de cada uno de ellos. Algunos de ellos resaltaron el uso de diversas herramientas para agendar tarea o realizar proyectos en grupo como Google Calendar o Trello, además del uso de redes sociales para coordinarse rápidamente y el uso de laptops que da mayor versatilidad en el avance de sus proyectos.
 
 
 **Análisis Segmento 2**: Profesores Universitarios
 
-La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, falta de materiales y dificultad en el seguimiento del progreso del alumno. Muchos de ellos concordaron en el uso de correo electrónico y Whatsapp para comunicarse con sus alumnos, además de implementar sus propias herramientas para captar la atención del alumno, entre ellas “pupiletras”, exposiciones y concursos online con quizzes. Lo que más se les complica fuera de clases era la búsqueda de materiales y una comunicación activa con sus alumnos.
-Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas gamificadas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
+La entrevista con profesores revela los distintos desafíos con los que luchan para llevar a cabo sus clases, como una comunicación limitada, mencionado por el 67% de los entrevistados, falta de materiales interactivos, mencionado por el 33%, y dificultad en el seguimiento del progreso del alumno, mencionado por el 33%. Muchos de ellos concordaron en el uso de correo electrónico y Whatsapp para comunicarse con sus alumnos, además de implementar sus propias herramientas para captar la atención del alumno, entre ellas “pupiletras”, exposiciones y concursos online con quizzes. Lo que más se les complica fuera de clases era la búsqueda de materiales interactivos y una comunicación activa y organizada con sus alumnos. Los docentes destacaron el uso de una plataforma capaz de contar con diversas funciones que solucionarían sus problemas, tales como un sistema de notificaciones, un seguimiento del alumno y herramientas gamificadas para captar la atención de este. Concordaron que todas estas funciones mejorarían y facilitaría considerablemente sus trabajos, además de que brindaría un gran apoyo a todo tipo de estudiantes que tuviesen problemas en este ámbito.
 
 
 
@@ -971,15 +969,21 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 **Segmento 1: Estudiantes Universitarios**
 
-<img src="./images/chapter-2/UserPerson_Student.png" alt="Canvas" width="400"/>
+Por un lado, se presenta el User Persona del segmento de estudiantes universitarios, el cual ilustra sus objetivos, motivaciones y frustraciones en relación con la gestión de su vida académica y la búsqueda de herramientas que faciliten su aprendizaje y organización.
+
+<img src="./images/chapter-2/UserPerson-Camila Rojas.png" alt="Canvas" width="400"/>
 
 **Segmento 2: Profesores Universitarios**
 
-<img src="./images/chapter-2/UserPerson_Teacher.png" alt="Canvas" width="400"/>
+Por otro lado, se presenta el User Persona del segmento de profesores universitarios, el cual detalla sus metas, motivaciones y desafíos en el ejercicio de la enseñanza y la búsqueda de recursos que optimicen su labor pedagógica y la interacción con sus estudiantes.
+
+<img src="./images/chapter-2/UserPerson-Francisco Lescano.png" alt="Canvas" width="400"/>
 
 #### 2.3.2. User Task Matrix
 
 **Segmento 1: Estudiantes Universitarios**
+
+La siguiente tabla resume las principales tareas de Camila Rojas dentro de sus grupos de estudio, enfocándose en la organización y seguimiento del trabajo colaborativo, la interacción con los materiales y actividades propuestas, y la gestión de su propio progreso y retroalimentación para optimizar su aprendizaje.
 
 <table  cellspacing="0" border="1">
   <thead>
@@ -1029,6 +1033,8 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 </table>
 
 **Segmento 2: Profesores Universitarios**
+
+La siguiente tabla resume las principales tareas de Francisco Lescano en la gestión de los grupos de estudio, destacando la planificación y provisión de recursos y actividades, el monitoreo del desempeño y la participación de los estudiantes, y la evaluación y entrega de retroalimentación para guiar el proceso de aprendizaje colectivo.
 
 <table  cellpadding="8" cellspacing="0">
   <thead>
@@ -1081,9 +1087,13 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 * **Estudiantes Universitarios**
 
+El siguiente User Journey Map detalla el recorrido típico de un estudiante universitario al participar en grupos de estudio. Desde la fase inicial de unirse o formar un grupo, pasando por la organización del tiempo y el acceso a los recursos, hasta la realización de actividades, la recepción de feedback y la adaptación de sus estrategias de aprendizaje, este mapa visualiza el proceso completo, identificando posibles puntos de fricción y oportunidades de mejora en cada etapa.
+
 <img src="./images/chapter-2/User-Journey-Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
 * **Profesores Universitarios**
+
+El siguiente User Journey Map ilustra el recorrido de un profesor universitario al gestionar grupos de estudio. Desde la formación de equipos efectivos y la organización del contenido y la logística académica, hasta la implementación de retos y tareas, y el esfuerzo por mejorar la dinámica y los resultados del grupo, este mapa describe las etapas clave de su experiencia, señalando áreas donde se pueden optimizar los procesos y enriquecer la interacción con los estudiantes.
 
 <img src="./images/chapter-2/User-Journey-Teacher.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
@@ -1091,9 +1101,13 @@ A continuación, presentamos los User Persona correspondientes a cada segmento o
 
 **Segmento 1: Estudiantes Universitarios**
 
+A continuación, se presenta el Empathy Map para el segmento de estudiantes universitarios. Esta herramienta visual tiene como objetivo profundizar en su mundo, explorando lo que ven, dicen, hacen y escuchan, así como sus pensamientos y sentimientos más profundos. A través de esta inmersión en su perspectiva, se busca identificar sus principales frustraciones y aspiraciones, elementos cruciales para el desarrollo de soluciones que realmente resuenen con sus necesidades.
+
 <img src="./images/chapter-2/Empathy_map_Student.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
 **Segmento 2: Profesores Universitarios**
+
+A continuación, se presenta el Empathy Map para el segmento de profesores universitarios. Este mapa busca comprender integralmente su experiencia en el ámbito educativo, analizando su entorno, sus interacciones, sus acciones y sus comunicaciones. Al ponernos en su lugar, se pretende revelar sus desafíos y motivaciones clave, lo que permitirá fundamentar el diseño de herramientas y estrategias que apoyen de manera efectiva su importante labor.
 
 <img src="./images/chapter-2/Empathy_map_Teacher.png" alt="As-Is Estudiantes Universitarios" width="800"/>
 
