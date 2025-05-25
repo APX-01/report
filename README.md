@@ -1543,14 +1543,26 @@ Entonces el sistema muestra un error</td>
     <tr><td>US-035</td><td>Reporte semanal</td><td>Como estudiante, quiero recibir un resumen semanal de mis actividades y avances, para reflexionar sobre mi progreso.</td><td>Escenario 1: Dado que es fin de semana, Cuando el sistema genera reportes, Entonces el estudiante recibe por correo un resumen de retos completados, puntos acumulados y nuevas habilidades.<br><br>
     Escenario 2: Dado que el estudiante abrió el correo, Cuando revisa el reporte, Entonces puede ver sugerencias de próximas actividades a realizar.
 </td><td>EP-004</td></tr>
-    <tr><td>US-036</td><td>Reporte de errores</td><td>Como usuario, quiero reportar fácilmente fallos técnicos en la plataforma, para ayudar a mejorar el sistema.</td><td>Escenario 1: Dado que el usuario detecta un error, Cuando hace clic en "Reportar un problema", Entonces puede enviar una descripción y captura de pantalla.<br><br>
-    Escenario 2: Dado que el reporte es enviado, Cuando se registra exitosamente, Entonces el usuario recibe confirmación y un número de seguimiento.
-</td><td>EP-005</td></tr>
-    <tr><td>US-037</td><td>Seguridad de la cuenta con correo</td><td>Como usuario quiero que haya una fuerte seguridad de mi cuenta por correo electrónico para evitar vulneraciones</td><td>Escenario 1: Dado que creó una cuenta en la página Cuando escribo mi correo Entonces se me notifica que se ha enviado un mensaje de verificación.<br><br>
-    Escenario 2: Dado que recibo un mensaje de verificación Cuando escribo el mensaje Entonces mi cuenta es más difícil de vulnerar
-</td><td>EP-005</td></tr>
-    <tr><td>US-038</td><td>Olvido de contraseñas</td><td>Como usuario quiero poder cambiar contraseñas si me olvido de ella para tener buen registro de mi cuenta</td><td>Escenario 1: Dado que olvidé mi contraseña Cuando presióno el botón de “Olvidé mi contraseña” Entoncesme sale un menú para cambiarla<br><br>Escenario 2: Dado que lleno los datos que se me piden Cuando verificó que somos el mismo usuario Entonces cambió mi contraseña
-</td><td>EP-005</td></tr>
+    <tr><td>US-036</td><td>Visualización del desempeño individual en el grupo</td><td>Como estudiante,
+    quiero ver gráficos con mi desempeño dentro de un grupo,
+    para entender mi progreso en retos a lo largo del tiempo.</td><td>Escenario 1:
+    Dado que el estudiante ha participado en varios retos,
+    Cuando entra a la sección de análisis dentro del grupo,
+    Entonces ve su promedio, puntaje acumulado y gráfico de evolución temporal.<br><br>
+    Escenario 2:
+    Dado que el estudiante no envió un reto,
+    Cuando revisa su gráfico,
+    Entonces se muestra el impacto (nota 0) reflejado en su progreso total.
+</td><td>EP-002</td></tr>
+    <tr><td>US-037</td><td>Visualización de medalla de desempeño del estudiante</td><td>Como estudiante, quiero ver la medalla que tengo asignada dentro de un grupo, para saber cómo se valora mi rendimiento en los retos.</td><td>Escenario 1: Dado que el estudiante ha completado uno o más retos, Cuando accede a la vista del grupo, Entonces puede visualizar su medalla (Basic, Bronze, Silver, etc.) asignada en base a su puntaje acumulado.<br><br>
+    Escenario 2: Dado que el estudiante ha mejorado su puntaje, Cuando supera el umbral para una nueva medalla,
+Entonces el sistema actualiza y muestra la medalla correspondiente automáticamente.
+</td><td>EP-002</td></tr>
+    <tr><td>US-038</td><td>Gestión de intentos de entrega de retos</td><td>Como profesor, quiero configurar si un reto permite múltiples intentos de entrega, para flexibilizar las oportunidades de los estudiantes en actividades clave.</td><td>Escenario 1: Dado que el profesor crea un reto nuevo, cuando marca la opción “Permitir múltiples entregas”, entonces los estudiantes podrán enviar más de una respuesta hasta la fecha límite.<br><br>Escenario 2:
+    Dado que el profesor no habilita entregas múltiples,
+    Cuando un estudiante ya ha enviado su entrega,
+    Entonces el sistema bloquea nuevas entregas y muestra un mensaje: “Ya has enviado tu respuesta”.
+</td><td>EP-003</td></tr>
     <tr><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>Como estudiante quiero tener estadísticas sobre mis insignias para tener una data de mis logros</td><td>Escenario 1: Dado que deseo tener la estadísticas de mis insignias Cuando ingresó a mi perfil Entonces me voy al apartado de estadísticas<br><br>Escenario 2: Dado que  entró al menú de estadísticas Cuando seleccione la información que deseo Entonces podré visualizar mis insignias
 </td><td>EP-003</td></tr>
     <tr><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
