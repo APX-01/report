@@ -3849,6 +3849,19 @@ Antes de desplegar la aplicación web, se utilizó My JSON Server para publicar 
 
 <img src="./images/chapter-5/Analytics.jpg" alt="Execution Evidence 8" width="700"/> 
 
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En este sprint, las tareas se organizaron en dos áreas: el diseño y la implementación de la primera versión de la aplicación web. La responsabilidad del desarrollo e implementación de dicha aplicación recayó en Jose Alejo Cardenas, Omar Luquillas Asto y Sebatián Real Calderón.
+
+<img src="./images/chapter-5/insights-2sprint-1.png" alt="Execution Evidence 8" width="700"/> 
+
+- Jose Alejo: 16 commits.
+- Omar Luquillas: 2 commits.
+- Sebatián Real: 20 commits.
+
+<img src="./images/chapter-5/insights-2sprint-2.png" alt="Execution Evidence 8" width="700"/> 
+
+
 
 
 ## Conclusiones
