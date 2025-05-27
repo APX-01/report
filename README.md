@@ -341,37 +341,65 @@ EduHive ofrece una experiencia integral para los estudiantes, permitiéndoles ge
 
 #### 1.2.1. Antecedentes y problemática
 
-## Análisis 5W2H
+**1. What / ¿QUÉ?**
+- ¿Cuál es el problema que se está presentando?
 
-### **1. WHAT (Qué)**
+El problema es que las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
 
-- Las plataformas educativas existentes no resuelven eficientemente la gestión colaborativa de grupos de estudio en el Perú.
+**2. When / ¿CUÁNDO?**
+- ¿Cuándo estamos viendo el problema?
 
-### **2. WHY (Por qué)**
+El problema se presenta durante los periodos académicos de proyectos grupales y exámenes parciales.
 
-- Herramientas actuales (ej. Google Classroom) están diseñadas para gestión unilateral (profesor a alumno), no para colaboración horizontal.
+- ¿En qué momento del día o del proceso en cuestión?
 
-### **3. WHO (Quién)**
+Sucede principalmente en las semanas previas a entregas o evaluaciones.
 
-- **Estudiantes universitarios**: Dificultad para organizar grupos de estudio efectivos.
-- **Docentes**: Carga administrativa al coordinar actividades colaborativas.
-- **Instituciones**: No cuentan con métricas de participación estudiantil.
+**3. Where / ¿DÓNDE?**
 
-### **4. WHERE (Dónde)**
+- ¿Dónde estamos viendo los problemas?
 
-- Universidades peruanas (públicas y privadas) con cursos que requieren trabajo en equipo (ej: ingenierías).
+Estamos viendo los problemas dentro de universidades peruanas (públicas y privadas), específicamente en cursos donde las plataformas o medios usados que requieren trabajo en equipo (ej: ingenierías).
 
-### **5. WHEN (Cuándo)**
+- ¿En qué parte del proceso estamos viendo el problema?
 
-- Durante periodos de proyectos grupales y exámenes parciales.
+El problema aparece en la etapa de organización y seguimiento del trabajo colaborativo, ya que las herramientas actuales no facilitan una coordinación efectiva entre los estudiantes.
 
-### **6. HOW (Cómo)**
+**4. Who / ¿QUIÉN?**
 
-- Estudiantes pierden 3-5 horas semanales coordinando logística grupal vía WhatsApp/email.
+- ¿A quién le sucede?
 
-### **7. HOW MUCH (Cuánto)**
+Este problema le sucede principalmente a los estudiantes universitarios con dificultad para organizar grupos de estudio efectivos, en docentes con carga administrativa al coordinar actividades colaborativas y en instituciones que no cuentan con métricas de participación estudiantil.
 
-- Instituciones podrían reducir 30% el tiempo de gestión docente con automatización.
+- ¿El problema está relacionado con las habilidades de las personas?
+
+No está directamente relacionado con sus habilidades, sino con la falta de herramientas adecuadas que apoyen la colaboración horizontal entre los miembros del grupo.
+
+**5. Why / ¿POR QUÉ?**
+
+- ¿Por qué sucede el problema?
+
+Porque las plataformas actuales (ej: Google Classroom) están diseñadas para una gestión unilateral entre docentes y alumnos, pero no ofrecen funciones específicas para la gestión autónoma de grupos por parte de los estudiantes.
+
+**6. How / ¿CÓMO?**
+
+- ¿Cómo se diferencia el problema del estado normal (óptimo)?
+
+En un estado óptimo, los estudiantes deberían poder organizarse, asignar tareas, y comunicarse desde una misma plataforma, pero actualmente tienen que usar diferentes aplicaciones y métodos informales para hacerlo.
+
+- ¿La tendencia en la que aparece el problema es aleatoria o sigue un patrón?
+
+Sigue un patrón claro, ya que siempre aparece cuando se requiere colaboración entre estudiantes, especialmente en cursos que exigen trabajos en grupo o actividades evaluativas conjuntas.
+
+**7. How Much / ¿CUÁNTO?**
+
+- ¿Cuántos problemas se dan en un día, una semana o un mes?
+
+Cada grupo puede enfrentar dificultades de coordinación varias veces por semana, especialmente en etapas críticas del curso.
+
+- ¿Cuánto dinero están implicando?
+
+Aunque no hay un gasto directo, las instituciones podrían ahorrar hasta un 30% del tiempo de gestión docente si existiera una solución automatizada que facilite el seguimiento y organización de los grupos de estudio.
 
 #### 1.2.2. Lean UX Process
 
