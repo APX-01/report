@@ -407,11 +407,8 @@ El Lean UX process es una metodología iterativa de diseño que pone al usuario 
 
 ##### 1.2.2.1. Lean UX Problem Statements
 
-Actualmente, los estudiantes y profesores universitarios se enfrentan a varios desafíos cuando intentan organizar sus actividades académicas y comunicarse de forma eficiente. En la mayoría de los casos, dependen de múltiples herramientas que no están conectadas entre sí, como aplicaciones de mensajería, correos electrónicos y agendas separadas, lo que provoca confusiones, olvidos y dificulta llevar un buen control de tareas y responsabilidades.
-
-Para los estudiantes, esto significa tener que recordar plazos de entrega, participar en grupos y mantenerse al día con algunas tareas de manera dispersa. Por otro lado, los profesores tienen dificultades para crear y gestionar grupos de estudio, monitorear el progreso de sus alumnos y mantener una comunicación clara, directa y constante con ellos.
-
-Esta situación no solo genera desorganización, sino que también puede disminuir la motivación y participación de los estudiantes, afectando su rendimiento académico. Por eso, es necesario contar con una plataforma integrada que centralice todas estas funciones, facilitando la organización de tareas, la realización de retos académicos y la interacción directa entre estudiantes y profesores, promoviendo así un entorno educativo más dinámico, ordenado y participativo.
+Nuestro servicio está diseñado para facilitar la organización académica y la colaboración entre estudiantes y profesores universitarios en un solo entorno digital. Hemos observado que los usuarios aún dependen de múltiples herramientas desconectadas (como WhatsApp, correo electrónico y agendas externas), lo que impide una gestión efectiva de tareas y grupos de estudio. Esto está causando desorganización, pérdida de tiempo y menor participación académica, afectando el rendimiento de los estudiantes y la eficiencia del trabajo docente.
+¿Cómo podríamos mejorar nuestra plataforma para que los usuarios puedan coordinar sus actividades académicas de forma más eficiente, midiendo el éxito a través de una mayor participación en grupos de estudio, cumplimiento de tareas y reducción del tiempo invertido en la coordinación?
 
 ##### 1.2.2.2. Lean UX Assumptions
 
