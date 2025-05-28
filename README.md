@@ -3237,11 +3237,11 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
   </tr>
   <tr>
     <th>Sprint 1 Velocity</th>
-    <td>33 puntos</td>
+    <td>50 puntos</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>33 puntos</td>
+    <td>40 puntos</td>
   </tr>
 </table>
 
@@ -3357,7 +3357,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
   <tr>
-    <td rowspan="2">US-21</td>
+    <td rowspan="2">US-019</td>
     <td rowspan="2">Hero Section</td>
     <td>T01</td>
     <td>Diseñar sección Hero</td>
@@ -3375,7 +3375,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td>US-22</td>
+    <td>US-020</td>
     <td>Main Features Section</td>
     <td>T03</td>
     <td>Diseñar tarjetas de características</td>
@@ -3385,7 +3385,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US-23</td>
+    <td rowspan="2">US-021</td>
     <td rowspan="2">Explore Course Section</td>
     <td>T04</td>
     <td>Diseñar cards de cursos</td>
@@ -3403,7 +3403,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td>US-24</td>
+    <td>US-022</td>
     <td>Knowledge Section</td>
     <td>T06</td>
     <td>Diseñar layout informativo</td>
@@ -3413,7 +3413,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="3">US-25</td>
+    <td rowspan="3">US-023</td>
     <td rowspan="3">Contact Section</td>
     <td>T07</td>
     <td>Diseñar formulario</td>
@@ -3439,7 +3439,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US-26</td>
+    <td rowspan="2">US-024</td>
     <td rowspan="2">Testimonials Section</td>
     <td>T10</td>
     <td>Diseñar carrusel</td>
@@ -3457,7 +3457,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US-27</td>
+    <td rowspan="2">US-025</td>
     <td rowspan="2">Latest Updates Section</td>
     <td>T12</td>
     <td>Diseñar lista de actualizaciones</td>
@@ -3475,7 +3475,7 @@ Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a1
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">US-28</td>
+    <td rowspan="2">US-026</td>
     <td rowspan="2">Subscribe Section</td>
     <td>T14</td>
     <td>Diseñar formulario</td>
