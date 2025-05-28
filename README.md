@@ -3702,7 +3702,7 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
   </tr>
 </table>
 
-### 5.2.2.2. Sprint Backlog 2
+### 5.2.2.3. Sprint Backlog 2
 ### Introducción
 Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
 
@@ -3727,7 +3727,7 @@ Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *
 | **US18**|Integración de gráfico radial de habilidades|**TA014**|Agrupar miembros por habilidades|Desarrollar una función que permita asignar miembros a equipos basados en sus competencias específicas|2 horas|Mendoza Vergara Franklin Alejandro	 | |
 | **US34**|Sistema de evaluación automática de productividad|**TA015**|Representar avance con gráfico visual|Crear un gráfico dentro de la sección de miembros que muestre el porcentaje de progreso con respecto a las tareas asignadas| 2 horas |Mendoza Vergara Franklin Alejandro	| |
 
-### 5.2.2.3. Development Evidence for Sprint Review.
+### 5.2.2.4. Development Evidence for Sprint Review.
 Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durante el segundo sprint. A continuación, se detallan los commits realizados en esta etapa, los cuales reflejan el avance en la implementación de las funcionalidades previstas.
 
 **Tabla de commits del Frontend**
@@ -3738,27 +3738,7 @@ Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durant
 | https://github.com/APX-01/report/pull/13 |Product_Design|53bce58  |Add the typography and colors of the landing page| feat(General-Style-Guidelines): Add the typography and colors of the landing page| 16/05/2025|
 | https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2    | Add the landing page design|feat(Web-Style-Guidelines): Add the landing page design| 20/04/2025              |
 | https://github.com/APX-01/report/pull/10 | Emp-map | 4845e4b   | Added the teacher user empathy map | feat(Empathy-Mapping): Added the teacher user empathy map. | 19/04/2025              |
-| https://github.com/APX-01/report/pull/33 | fix/chapter-2 | 67f3454 | Fixed the teacher segment of the User-Journey-Student | fix(User-Journey-Mapping): Fixed the teacher segment of the User-Journey-Student | 22/04/2025             |
-
-### 5.2.2.4. Testing Suite Evidence for Sprint Review. 
-
-Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
-
-| **Repository**| **Branch**| **Commit Id**| **Commit Message** | **Commit Message Body**| **Committed on (Date)** |
-|-|-|-|-|-|-|
-| APX-01/Testing | main | 10ea0de700ef0a84d4867db150513d24c830a773 |Initial commit  | Initial commit | 16/05/2025|
-| APX-01/Testing | main | 82a545c451d97cafb3e4f75ef9c54e85deb31795 |feature: added US01   | feature: added US01  | 16/05/2025|
-| APX-01/Testing | main | 1f3de963a2127fc439c9fccfc912a010bba211e5 |feature: added US05   | feature: added US05  | 16/05/2025|
-| APX-01/Testing | main | c2252a761dd1a44b745c583c443ba1dd10928c26 |feature: added US06   | feature: added US06  | 16/05/2025|
-| APX-01/Testing | main | 9427e4d9ee9456b16b306f809b4fd1326641f8e5 |feature: added US15   | feature: added US15  | 16/05/2025|
-| APX-01/Testing | main | 26c1ae819a47f21e57077205ed0e21ce2969d2df |feature: added US16   | feature: added US16  | 16/05/2025|
-| APX-01/Testing | main | bf1c10995425de4495dcc2371f26629967ed602a |feature: added US30   | feature: added US30  | 16/05/2025|
-| APX-01/Testing | main | a9f300ba75d79985d6eecd48ff44417e555a0ed7 |feature: added US33   | feature: added US33 | 16/05/2025|
-| APX-01/Testing | main | 7bc78d5e15e7fee8da8dd77b142f9883a63c0d55 |feature: added US35   | feature: added US35  | 16/05/2025|
-| APX-01/Testing | main | a436ffc33752eed09dd6821bdb779e059ee25c51 |feature: added US37   | feature: added US37  | 16/05/2025|
-
-<br>
-Link del repositorio Commints: https://github.com/APX-01/Testing  
+| https://github.com/APX-01/report/pull/33 | fix/chapter-2 | 67f3454 | Fixed the teacher segment of the User-Journey-Student | fix(User-Journey-Mapping): Fixed the teacher segment of the User-Journey-Student | 22/04/2025             | 
 
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
@@ -3780,26 +3760,6 @@ Acontinuación se entrega el enlace a la landing page actualizada https://apx-01
 <img src="./images/chapter-5/execution-evidence-7.png" alt="Execution Evidence 7" width="700"/>
 
 <img src="./images/chapter-5/execution-evidence-8.png" alt="Execution Evidence 8" width="700"/> 
-
-### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
-
-**Introducción:**
-Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
-
-Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
-
-### Tabla de Endpoints Documentados
-
-| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
-|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
-| Users      | `/api/users/{groupId}/users`                  | Filtra y devuelve los usuarios que pertenecen a un grupo específico (groupId). | GET | `?groupId=3`     | `[{"id": 1,"name": "Ana López", "email": "ana@example.com", "profilesInGroups": [{ "groupId": 3, "role": "estudiante" }]}]` |Herramientas:http://localhost:3000/api/v1/users/{groupId}/users|
-| Groups          | `/api/users/key`        | Devuelve un código de grupo que coincida con una clave dada. | GET       | `{"key": "abc123"}` | `{ "id": 1, "key": "abc123" }` | Groups: http://localhost:3000/api/v1/calendar/activities |
-| groupJoinCodes          | `/api/groupJoinCodes//api/users`                | Trae las entregas de un reto. | GET  | `?challengeId=42`          | `[{"id": 1, "challengeId": 42, "userId": 10,"score": 85}]` | groupJoinCodes: http://localhost:3000/api/v1/groupJoinCodes//api/users |
-| challenges            | `/api/challenges/groupId`             | Obtiene todos los retos (Challenges) asignados a un grupo específico. | GET   | `?groupId=5`               | `{"id": 1, "title": "Reto de lógica", "groupId": 5,"deadline": "2025-05-20T23:59:00Z"}` | challenges: http://localhost:3000/api/v1/challenges/groupId |
-| submissions          | `/api/submissions/challengeId`                | Obtiene todas las entregas (Submissions) realizadas para un reto específico identificado por su challengeId. | GET    | `?challengeId=3`          | `[{"id": 101, "challengeId": 3,"userId": 12, "submissionDate": "2025-05-15T10:00:00Z", "score": 88}]` | Miembros:http://localhost:3000/api/v1/submissions/challengeId |
-
-
-### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
 Antes de desplegar la aplicación web, se utilizó My JSON Server para publicar la API simulada y así permitir que la aplicación web pudiera consumir sus servicios correctamente durante el despliegue.
 
@@ -3858,6 +3818,28 @@ Antes de desplegar la aplicación web, se utilizó My JSON Server para publicar 
 **Analytics**
 
 <img src="./images/chapter-5/Analytics.jpg" alt="Execution Evidence 8" width="700"/> 
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+**Introducción:**
+Durante este Sprint, se logró la documentación y despliegue de varios Endpoints correspondientes a los diferentes *bounded contexts* implementados por el equipo. Se utilizó OpenAPI para describir de forma estructurada los servicios Web desarrollados. A continuación, se presenta la relación de los Endpoints, las acciones soportadas y la respectiva documentación disponible.
+
+Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, parámetros, ejemplos de respuesta, así como capturas de la interacción con los Web Services utilizando datos de muestra. También se proporciona el URL del repositorio de los Web Services y los *commit IDs* correspondientes al trabajo realizado en la documentación durante este Sprint.
+
+### Tabla de Endpoints Documentados
+
+| Bounded Context   | Endpoint                     | Acción    | Verbo HTTP | Parámetros               | Ejemplo de Respuesta | Documentación/URL     |
+|-------------------|------------------------------|-----------|------------|--------------------------|----------------------|-----------------------|
+| Users      | `/api/users/{groupId}/users`                  | Filtra y devuelve los usuarios que pertenecen a un grupo específico (groupId). | GET | `?groupId=3`     | `[{"id": 1,"name": "Ana López", "email": "ana@example.com", "profilesInGroups": [{ "groupId": 3, "role": "estudiante" }]}]` |Herramientas:http://localhost:3000/api/v1/users/{groupId}/users|
+| Groups          | `/api/users/key`        | Devuelve un código de grupo que coincida con una clave dada. | GET       | `{"key": "abc123"}` | `{ "id": 1, "key": "abc123" }` | Groups: http://localhost:3000/api/v1/calendar/activities |
+| groupJoinCodes          | `/api/groupJoinCodes//api/users`                | Trae las entregas de un reto. | GET  | `?challengeId=42`          | `[{"id": 1, "challengeId": 42, "userId": 10,"score": 85}]` | groupJoinCodes: http://localhost:3000/api/v1/groupJoinCodes//api/users |
+| challenges            | `/api/challenges/groupId`             | Obtiene todos los retos (Challenges) asignados a un grupo específico. | GET   | `?groupId=5`               | `{"id": 1, "title": "Reto de lógica", "groupId": 5,"deadline": "2025-05-20T23:59:00Z"}` | challenges: http://localhost:3000/api/v1/challenges/groupId |
+| submissions          | `/api/submissions/challengeId`                | Obtiene todas las entregas (Submissions) realizadas para un reto específico identificado por su challengeId. | GET    | `?challengeId=3`          | `[{"id": 101, "challengeId": 3,"userId": 12, "submissionDate": "2025-05-15T10:00:00Z", "score": 88}]` | Miembros:http://localhost:3000/api/v1/submissions/challengeId |
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint.
 
