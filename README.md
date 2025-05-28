@@ -4020,30 +4020,39 @@ Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, pa
 Durante este Sprint, hemos implementado el despliegue automatizado de nuestra aplicación frontend en Vercel, aprovechando su integración nativa con GitHub para garantizar una entrega continua (CI/CD). Este proceso incluyó la configuración del proyecto en la plataforma, la definición de variables de entorno para entornos de desarrollo y producción, y la optimización del build para asegurar un rendimiento óptimo. Vercel nos permitió desplegar rápidamente versiones actualizadas con cada push al repositorio, además de brindar herramientas de monitoreo y escalabilidad global gracias a su red Edge. A continuación, se detallan los pasos clave y evidencias visuales del despliegue exitoso.
 
 1.Al entrar a la pagina de Vercel podemos observar que nos muestra distintas opciones para logearnos. A continuacion, seleccionamos la opcion "Continue with GitHub".
+
 <img src="./images/chapter-5/deploy1.png" alt="Deploy" width="400"/>
 
 2.Al logearnos nos redirige al apartado "Overview".
+
 <img src="./images/chapter-5/deploy2.png" alt="Deploy" width="400"/>
 
 3.Le damos en "Add New" y en "Project".
+
 <img src="./images/chapter-5/deploy3.png" alt="Deploy" width="400"/>
 
 4.Nos lleva a seleccionar nuestra cuenta u organizacion para elegir un repositorio.
+
 <img src="./images/chapter-5/deploy4.png" alt="Deploy" width="400"/>
 
 5.Seleccionamos el repositorio a deployar.
+
 <img src="./images/chapter-5/deploy5.png" alt="Deploy" width="400"/>
 
 6.Verificamos que es el repositorio correcto y nos mostrara todo listo para deployar nuestro repositorio.
+
 <img src="./images/chapter-5/deploy6.png" alt="Deploy" width="400"/>
 
 7.Le damos click de "Deploy" y esperamos a que se deploye completamente.
+
 <img src="./images/chapter-5/deploy7.png" alt="Deploy" width="400"/>
 
 8.Al finalizar el deploy tendremos acceso mediante el dominion brindado por Vercel.
+
 <img src="./images/chapter-5/deploy8.png" alt="Deploy" width="400"/>
 
 9.Finalmente, podemos comprobar que nuestro proyecto se deployo correctamente.
+
 <img src="./images/chapter-5/deploy9.png" alt="Deploy" width="400"/>
 
 
