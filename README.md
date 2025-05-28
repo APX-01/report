@@ -587,8 +587,8 @@ Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colabor
 
 **Información Estadística de Sustento:**
 
-- 83% de estudiantes universitarios peruanos reporta haber experimentado estrés académico durante el semestre. [Fuente: ](https://www.scielo.org.pe/scielo.php?pid=S1729-48272021000200005&script=sci_arttext)
-- 42.3% de los alumnos presentaron más de 3 situaciones estresantes, predominando la realización de exámenes, sobrecarga académica y número de tareas interpuestas. [Fuente: ](https://revistas.unica.edu.pe/index.php/vanguardia/article/download/527/810/1770)
+- 83% de estudiantes universitarios peruanos reporta haber experimentado estrés académico durante el semestre. [Fuente: SciELO Perú](https://www.scielo.org.pe/scielo.php?pid=S1729-48272021000200005&script=sci_arttext)
+- 42.3% de los alumnos presentaron más de 3 situaciones estresantes, predominando la realización de exámenes, sobrecarga académica y número de tareas interpuestas. [Fuente: Revista Vanguardia - UNICA](https://revistas.unica.edu.pe/index.php/vanguardia/article/download/527/810/1770)
 
 
 ### **Segmento Objetivo 2: Profesores Universitarios**
@@ -617,10 +617,10 @@ Educadores innovadores que requieren soluciones para dinamizar sus clases y redu
 
 **Información Estadística de Sustento:**
 
-- 61% de los docentes reporta sobrecarga administrativa al gestionar grupos de trabajo. [Fuente: ](https://cdn.www.gob.pe/uploads/document/file/6894408/5957002-rvm_n-_095-2024-minedu.pdf)
-- 74% de los docentes afirma que carece de herramientas digitales adecuadas para monitorear el trabajo colaborativo de los estudiantes. [Fuente: ](https://calidad.pucp.edu.pe/la-transformacion-digital-aplicada-a-las-universidades/)
+- 61% de los docentes reporta sobrecarga administrativa al gestionar grupos de trabajo. [Fuente: Diagnóstico Nacional Docente Universitario, MINEDU, 2022.](https://cdn.www.gob.pe/uploads/document/file/6894408/5957002-rvm_n-_095-2024-minedu.pdf)
+- 74% de los docentes afirma que carece de herramientas digitales adecuadas para monitorear el trabajo colaborativo de los estudiantes. [Fuente: La transformación digital aplicada a las universidades – PUCP.](https://calidad.pucp.edu.pe/la-transformacion-digital-aplicada-a-las-universidades/)
 - 65% estaría dispuesto a adoptar nuevas tecnologías si reducen el tiempo invertido en seguimiento académico.
-[Fuente: ](https://revistas.um.es/red/article/view/481161)
+[Fuente: La Tecnología y la Educación Superior en época de crisis - ESAN.](https://revistas.um.es/red/article/view/481161)
 
 
 ## Capítulo II: Requirements Elicitation & Analysis
