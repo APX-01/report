@@ -1877,7 +1877,7 @@ La información y funcionalidades se organizan según el tipo de usuario. Los al
 
 Las etiquetas son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
 
-- **Challenges** Esta sección representa el núcleo de la aplicación. Permite crear, visualizar y resolver los diferentes desafíos académicos asignados a los grupos.
+- **Challenges**: Esta sección representa el núcleo de la aplicación. Permite crear, visualizar y resolver los diferentes desafíos académicos asignados a los grupos.
 
 - **Group Management**: Encargada de la gestión de grupos, esta sección permite la creación de grupos por parte de los profesores, así como la unión de estudiantes mediante códigos temporales. También incluye funcionalidades para visualizar y administrar a los integrantes.
 
