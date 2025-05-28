@@ -1429,17 +1429,6 @@ Entonces podrá ver claramente la fecha límite para entregarlo.</td>
 <td>EP-003</td>
 </tr>
     <tr><td>US-010</td>
-<td>Visualizacion de horarios</td>
-<td>Como estudiante, quiero poder ingresar y visualizar los horarios disponibles de los miembros de mi equipo, para coordinar reuniones y sesiones de trabajo efectivas.</td>
-<td>Escenario 1: Dado que soy un estudiante que pertenece a un equipo,
-Cuando accedo a la sección de horarios,
-Entonces puedo ver los horarios disponibles de los miembros de mi equipo para coordinar reuniones y sesiones de trabajo.
-Escenario 2: Dado que soy un estudiante,
-Cuando visualizo los horarios de mi equipo,
-Entonces puedo seleccionar y proponer un horario que se ajuste a la disponibilidad de todos.</td>
-<td>EP-001</td>
-</tr>
-    <tr><td>US-011</td>
 <td>Seguir el rendimiento de los equipos</td>
 <td>Como profesor, quiero visualizar el progreso de los distintos grupos, para modificar el nivel de dificultad</td>
 <td>Escenario 1: Dado que soy un profesor,
@@ -1450,7 +1439,7 @@ Cuando visualizo el progreso de los equipos,
 Entonces puedo ajustar el nivel de dificultad de los retos para cada equipo de acuerdo a su rendimiento.</td>
 <td>EP-002</td>
 </tr>
-    <tr><td>US-012</td>
+    <tr><td>US-011</td>
 <td>Revisar general de rendimiento</td>
 <td>Como estudiante, quiero ver una vista gráfica de mis notas acumuladas, para entender fácilmente cómo voy en el curso.</td>
 <td>Escenario 1: Dado que soy un estudiante,
@@ -1461,14 +1450,14 @@ Cuando veo la vista gráfica de mi rendimiento,
 Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de los diferentes colores o indicadores de las gráficas.</td>
 <td>EP-004</td>
 </tr>
-    <tr><td>US-013</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
-    <tr><td>US-014</td><td>Enviar respuesta a reto</td><td>Como estudiante, quiero poder realizar envíos a los retos, añadiendo imágenes o documentos adjuntos de acorde a la necesidad.</td><td>Escenario 1: Envío exitoso<br>Dado que el estudiante está en un reto activo<br>Cuando selecciona "Nuevo envío", adjunta un documento PDF y escribe un comentario<br>Y hace clic en "Enviar"<br>Entonces el sistema guarda el envío<br>Y muestra el mensaje "Envío realizado correctamente"<br><br>Escenario 2: Envío sin archivos<br>Dado que el estudiante está en un reto activo<br>Cuando intenta enviar sin adjuntar archivos ni texto<br>Entonces el sistema muestra "Debe agregar al menos un archivo o texto"<br>Y no permite completar el envío</td><td>EP-003</tr>
-    <tr><td>US-015</td><td>Gestionar integrantes del grupo</td><td>Como profesor, quiero poder ver la lista de estudiantes de cada grupo que manejo, y opciones tanto para ver sus perfiles como para eliminarlos</td><td>Escenario 1: Ver lista de estudiantes<br>Dado que el profesor accede a un grupo<br>Cuando selecciona la opción "Integrantes"<br>Entonces el sistema muestra la lista completa de estudiantes matriculados<br><br>Escenario 2: Eliminar estudiante<br>Dado que el profesor está viendo la lista de integrantes<br>Cuando selecciona "Eliminar" junto a un estudiante<br>Y confirma la acción<br>Entonces el sistema remueve al estudiante del grupo<br>Y actualiza la lista mostrada</td><td>EP-001</td></tr>
-    <tr><td>US-016</td><td>Distribución programada de retos</td><td>Como profesor, quiero programar la publicación automática de retos en fechas específicas, para garantizar que se liberen según el cronograma académico.</td><td>Escenario 1: Programación exitosa<br>Dado que el profesor ha creado un reto<br>Cuando selecciona "Programar publicación" y fija fecha/hora<br>Entonces el sistema guarda la configuración<br>Y muestra "El reto se publicará el [fecha] a las [hora]"<br><br>Escenario 2: Intento de fecha pasada<br>Dado que el profesor ingresa una fecha anterior al día actual<br>Cuando intenta programar<br>Entonces el sistema muestra "La fecha debe ser futura"<br>Y bloquea la confirmación</td><td>EP-003</td></tr>
-    <tr><td>US-017</td><td>Generación de Código de Invitación</td><td>Como profesor, quiero poder generar un código de invitación que pueda compartir con mis alumnos de forma sencilla para que se unan al grupo creado</td><td>Escenario 1: Generación de código exitosa<br>Dado que el profesor accede a un grupo creado<br>Cuando selecciona la opción "Generar código de invitación"<br>Entonces el sistema crea un código alfanumérico único<br>Y muestra las opciones para copiarlo/compartirlo<br><br>Escenario 2: Código ya generado<br>Dado que el grupo ya tiene un código activo<br>Cuando el profesor intenta generar otro código<br>Entonces el sistema muestra el código existente<br>Y ofrece renovarlo (invalidando el anterior)</td><td>EP-001</td></tr>
-    <tr><td>US-018</td><td>Visualización de logros gamificados</td><td>Como estudiante, quiero ver mis insignias y puntos acumulados en un tablero personal, para mantenerme motivado con mi progreso académico.</td><td>Escenario 1: Visualización de logros<br>Dado que el estudiante ha completado retos<br>Cuando accede a su perfil<br>Entonces ve un tablero con insignias obtenidas y puntaje total<br><br>Escenario 2: Nuevo logro desbloqueado<br>Dado que el estudiante cumple condiciones para una nueva insignia<br>Cuando completa un reto especial<br>Entonces recibe notificación automática con el nuevo logro</td><td>EP-003</td></tr><tr><td>US-019</td><td>Configuración de notificaciones</td><td>Como usuario, quiero personalizar qué notificaciones recibo (recordatorios de retos, mensajes grupales, etc.), para optimizar mi experiencia en la plataforma.</td><td>Escenario 1: Personalización exitosa<br>Dado que el usuario accede a configuración<br>Cuando selecciona/deselecciona tipos de notificación<br>Y guarda los cambios<br>Entonces el sistema aplica las preferencias<br><br>Escenario 2: Notificación no deseada<br>Dado que el usuario desactivó notificaciones de logros<br>Cuando desbloquea una insignia<br>Entonces no recibe alerta en su bandeja</td><td>EP-001</td></tr><tr>
-    <tr><td>US-020</td><td>Validación de códigos de grupo</td><td>Como estudiante, quiero poder validar códigos de invitación a grupos, para unirme rápidamente a las actividades académicas correctas.</td><td>Escenario 1: Unión exitosa a grupo<br>Dado que el estudiante ingresa un código válido<br>Cuando el sistema verifica que coincide con un grupo activo<br>Entonces se une automáticamente al grupo<br>Y recibe confirmación visual<br><br>Escenario 2: Código inválido<br>Dado que el estudiante ingresa un código expirado/erróneo<br>Cuando el sistema intenta validarlo<br>Entonces muestra mensaje claro "Código inválido o expirado"<br>Y sugiere solicitar uno nuevo al profesor</td><td>EP-001</td></tr>
-    <tr><td>US-021</td>
+    <tr><td>US-012</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
+    <tr><td>US-013</td><td>Enviar respuesta a reto</td><td>Como estudiante, quiero poder realizar envíos a los retos, añadiendo imágenes o documentos adjuntos de acorde a la necesidad.</td><td>Escenario 1: Envío exitoso<br>Dado que el estudiante está en un reto activo<br>Cuando selecciona "Nuevo envío", adjunta un documento PDF y escribe un comentario<br>Y hace clic en "Enviar"<br>Entonces el sistema guarda el envío<br>Y muestra el mensaje "Envío realizado correctamente"<br><br>Escenario 2: Envío sin archivos<br>Dado que el estudiante está en un reto activo<br>Cuando intenta enviar sin adjuntar archivos ni texto<br>Entonces el sistema muestra "Debe agregar al menos un archivo o texto"<br>Y no permite completar el envío</td><td>EP-003</tr>
+    <tr><td>US-014</td><td>Gestionar integrantes del grupo</td><td>Como profesor, quiero poder ver la lista de estudiantes de cada grupo que manejo, y opciones tanto para ver sus perfiles como para eliminarlos</td><td>Escenario 1: Ver lista de estudiantes<br>Dado que el profesor accede a un grupo<br>Cuando selecciona la opción "Integrantes"<br>Entonces el sistema muestra la lista completa de estudiantes matriculados<br><br>Escenario 2: Eliminar estudiante<br>Dado que el profesor está viendo la lista de integrantes<br>Cuando selecciona "Eliminar" junto a un estudiante<br>Y confirma la acción<br>Entonces el sistema remueve al estudiante del grupo<br>Y actualiza la lista mostrada</td><td>EP-001</td></tr>
+    <tr><td>US-015</td><td>Distribución programada de retos</td><td>Como profesor, quiero programar la publicación automática de retos en fechas específicas, para garantizar que se liberen según el cronograma académico.</td><td>Escenario 1: Programación exitosa<br>Dado que el profesor ha creado un reto<br>Cuando selecciona "Programar publicación" y fija fecha/hora<br>Entonces el sistema guarda la configuración<br>Y muestra "El reto se publicará el [fecha] a las [hora]"<br><br>Escenario 2: Intento de fecha pasada<br>Dado que el profesor ingresa una fecha anterior al día actual<br>Cuando intenta programar<br>Entonces el sistema muestra "La fecha debe ser futura"<br>Y bloquea la confirmación</td><td>EP-003</td></tr>
+    <tr><td>US-016</td><td>Generación de Código de Invitación</td><td>Como profesor, quiero poder generar un código de invitación que pueda compartir con mis alumnos de forma sencilla para que se unan al grupo creado</td><td>Escenario 1: Generación de código exitosa<br>Dado que el profesor accede a un grupo creado<br>Cuando selecciona la opción "Generar código de invitación"<br>Entonces el sistema crea un código alfanumérico único<br>Y muestra las opciones para copiarlo/compartirlo<br><br>Escenario 2: Código ya generado<br>Dado que el grupo ya tiene un código activo<br>Cuando el profesor intenta generar otro código<br>Entonces el sistema muestra el código existente<br>Y ofrece renovarlo (invalidando el anterior)</td><td>EP-001</td></tr>
+    <tr><td>US-017</td><td>Visualización de logros gamificados</td><td>Como estudiante, quiero ver mis insignias y puntos acumulados en un tablero personal, para mantenerme motivado con mi progreso académico.</td><td>Escenario 1: Visualización de logros<br>Dado que el estudiante ha completado retos<br>Cuando accede a su perfil<br>Entonces ve un tablero con insignias obtenidas y puntaje total<br><br>Escenario 2: Nuevo logro desbloqueado<br>Dado que el estudiante cumple condiciones para una nueva insignia<br>Cuando completa un reto especial<br>Entonces recibe notificación automática con el nuevo logro</td><td>EP-003</td></tr>
+    <tr><td>US-018</td><td>Validación de códigos de grupo</td><td>Como estudiante, quiero poder validar códigos de invitación a grupos, para unirme rápidamente a las actividades académicas correctas.</td><td>Escenario 1: Unión exitosa a grupo<br>Dado que el estudiante ingresa un código válido<br>Cuando el sistema verifica que coincide con un grupo activo<br>Entonces se une automáticamente al grupo<br>Y recibe confirmación visual<br><br>Escenario 2: Código inválido<br>Dado que el estudiante ingresa un código expirado/erróneo<br>Cuando el sistema intenta validarlo<br>Entonces muestra mensaje claro "Código inválido o expirado"<br>Y sugiere solicitar uno nuevo al profesor</td><td>EP-001</td></tr>
+    <tr><td>US-019</td>
 <td>Hero Section</td>
 <td>Como usuario, quiero ver una introducción atractiva de la página con una imagen representativa.</td>
 <td>Escenario 1: Visualización de la sección Hero<br>
@@ -1477,7 +1466,7 @@ Cuando la página carga completamente<br>
 Entonces puede ver una imagen destacada con texto introductorio</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-022</td>
+    <tr><td>US-020</td>
 <td>Main Features Section</td>
 <td>Como usuario, quiero conocer las razones para elegir EduHive a través de sus características principales.</td>
 <td>Escenario 1: Visualización de características<br>
@@ -1490,7 +1479,7 @@ Cuando pasa el cursor sobre una tarjeta<br>
 Entonces esta muestra un efecto visual destacado</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-023</td>
+    <tr><td>US-021</td>
 <td>Explore Course Section</td>
 <td>Como usuario, quiero explorar los cursos disponibles para encontrar opciones que se ajusten a mis necesidades.</td>
 <td>Escenario 1: Visualización de cursos<br>
@@ -1503,7 +1492,7 @@ Cuando pasa el cursor sobre una tarjeta<br>
 Entonces esta muestra un efecto visual destacado</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-024</td>
+    <tr><td>US-022</td>
 <td>Knowledge Section</td>
 <td>Como usuario, quiero obtener información adicional sobre la plataforma y su enfoque educativo.</td>
 <td>Escenario 1: Acceso a información<br>
@@ -1512,7 +1501,7 @@ Cuando lee el contenido<br>
 Entonces encuentra datos relevantes sobre la metodología educativa</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-025</td>
+    <tr><td>US-023</td>
 <td>Contact Section</td>
 <td>Como usuario, quiero contactar al equipo.</td>
 <td>Escenario 1: Visualización del formulario<br>
@@ -1529,7 +1518,7 @@ Cuando envía el formulario<br>
 Entonces recibe un mensaje de confirmación</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-026</td>
+    <tr><td>US-024</td>
 <td>Testimonials Section</td>
 <td>Como usuario, quiero ver testimonios de otros estudiantes para evaluar la calidad del servicio.</td>
 <td>Escenario 1: Visualización de testimonios<br>
@@ -1542,7 +1531,7 @@ Cuando hace clic en las flechas de navegación<br>
 Entonces el sistema muestra el testimonio siguiente o anterior</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-027</td>
+    <tr><td>US-025</td>
 <td>Latest Updates Section</td>
 <td>Como usuario, quiero conocer las últimas actualizaciones de cursos con fechas y material informativo.</td>
 <td>Escenario 1: Visualización de actualizaciones<br>
@@ -1555,7 +1544,7 @@ Cuando hace clic en el botón de reproducción<br>
 Entonces el video se inicia en un reproductor</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-028</td>
+    <tr><td>US-026</td>
 <td>Subscribe Section</td>
 <td>Como usuario, quiero suscribirme al newsletter para recibir actualizaciones por correo.</td>
 <td>Escenario 1: Visualización del formulario<br>
@@ -1572,28 +1561,25 @@ Cuando intenta suscribirse<br>
 Entonces el sistema muestra un error</td>
 <td>EP-005</td>
 </tr>
-    <tr><td>US-029</td><td>Edición de perfil</td><td>Como usuario, quiero editar mi perfil personal, para mantener actualizada mi información de contacto y habilidades.</td><td>Escenario 1: Dado que el usuario accede a su perfil, Cuando selecciona "Editar perfil", Entonces puede modificar su nombre, foto, bio y habilidades.<br><br>
+    <tr><td>US-027</td><td>Edición de perfil</td><td>Como usuario, quiero editar mi perfil personal, para mantener actualizada mi información de contacto y habilidades.</td><td>Escenario 1: Dado que el usuario accede a su perfil, Cuando selecciona "Editar perfil", Entonces puede modificar su nombre, foto, bio y habilidades.<br><br>
 	  Escenario 2: Dado que el usuario guarda cambios, Cuando completa la edición, Entonces el sistema actualiza su información en todos los módulos donde aparece.
 </td><td>EP-005</td></tr>
-    <tr><td>US-030</td><td>Recordatorios de Fechas Límite</td><td>Como estudiante, quiero recibir recordatorios automáticos de las fechas límite de retos, para no olvidar entregar a tiempo.</td><td>Escenario 1: Dado que hay un reto próximo a vencer, Cuando faltan 48 horas, Entonces el sistema envía una notificación automática.<br><br>
+    <tr><td>US-028</td><td>Recordatorios de Fechas Límite</td><td>Como estudiante, quiero recibir recordatorios automáticos de las fechas límite de retos, para no olvidar entregar a tiempo.</td><td>Escenario 1: Dado que hay un reto próximo a vencer, Cuando faltan 48 horas, Entonces el sistema envía una notificación automática.<br><br>
     Escenario 2: Dado que el reto vence hoy, Cuando quedan 6 horas, Entonces se envía un último recordatorio.
 </td><td>EP-003</td></tr>
-    <tr><td>US-031</td><td>Historial de retos completados</td><td>Como estudiante, quiero ver un historial de los retos que he completado, para hacer seguimiento de mi progreso a lo largo del curso.</td><td>Escenario 1: Dado que el estudiante accede a su perfil, Cuando ingresa a la sección "Historial de retos", Entonces puede ver una lista con fecha, nombre del reto y su resultado.<br><br>
+    <tr><td>US-029</td><td>Historial de retos completados</td><td>Como estudiante, quiero ver un historial de los retos que he completado, para hacer seguimiento de mi progreso a lo largo del curso.</td><td>Escenario 1: Dado que el estudiante accede a su perfil, Cuando ingresa a la sección "Historial de retos", Entonces puede ver una lista con fecha, nombre del reto y su resultado.<br><br>
     Escenario 2: Dado que el estudiante revisa un reto específico, Cuando hace clic en el reto, Entonces puede ver detalles como su calificación y feedback recibido.
 </td><td>EP-004</td></tr>
-    <tr><td>US-032</td><td>Foro de equipos</td><td>Como estudiante, quiero participar en un foro de discusión de mi grupo, para colaborar y resolver dudas de los retos en equipo.</td><td>Escenario 1: Dado que el estudiante pertenece a un grupo, Cuando accede al foro, Entonces puede publicar mensajes y responder a sus compañeros.<br><br>
-    Escenario 2: Dado que un estudiante responde en el foro, Cuando se publica un comentario, Entonces todos los integrantes reciben una notificación.
-</td><td>EP-001</td></tr>
-    <tr><td>US-033</td><td>Métricas de participación</td><td>Como profesor, quiero visualizar métricas de participación de los estudiantes en sus grupos, para evaluar su colaboración.</td><td>Escenario 1: Dado que el profesor accede a un grupo, Cuando visualiza las métricas, Entonces puede ver estadísticas de publicaciones en foros, entregas de retos y reuniones realizadas.<br><br>
+    <tr><td>US-030</td><td>Métricas de participación</td><td>Como profesor, quiero visualizar métricas de participación de los estudiantes en sus grupos, para evaluar su colaboración.</td><td>Escenario 1: Dado que el profesor accede a un grupo, Cuando visualiza las métricas, Entonces puede ver estadísticas de publicaciones en foros, entregas de retos y reuniones realizadas.<br><br>
     Escenario 2: Dado que un estudiante no participa, Cuando su participación es baja, Entonces el sistema lo marca con un indicador de alerta.
 </td><td>EP-002</td></tr>
-    <tr><td>US-034</td><td>Clasificación de equipos</td><td>Como estudiante, quiero ver un ranking de equipos basado en los puntos de retos completados, para motivarme a mejorar junto a mi grupo.</td><td>Escenario 1: Dado que los equipos completan retos, Cuando acceden a la sección de rankings, Entonces ven la posición de su equipo respecto a otros.<br><br>
+    <tr><td>US-031</td><td>Clasificación de equipos</td><td>Como estudiante, quiero ver un ranking de equipos basado en los puntos de retos completados, para motivarme a mejorar junto a mi grupo.</td><td>Escenario 1: Dado que los equipos completan retos, Cuando acceden a la sección de rankings, Entonces ven la posición de su equipo respecto a otros.<br><br>
     Escenario 2: Dado que se actualizan los puntajes, Cuando un equipo sube de posición, Entonces el sistema muestra una notificación de felicitación.
 </td><td>EP-003</td></tr>
-    <tr><td>US-035</td><td>Reporte semanal</td><td>Como estudiante, quiero recibir un resumen semanal de mis actividades y avances, para reflexionar sobre mi progreso.</td><td>Escenario 1: Dado que es fin de semana, Cuando el sistema genera reportes, Entonces el estudiante recibe por correo un resumen de retos completados, puntos acumulados y nuevas habilidades.<br><br>
+    <tr><td>US-032</td><td>Reporte semanal</td><td>Como estudiante, quiero recibir un resumen semanal de mis actividades y avances, para reflexionar sobre mi progreso.</td><td>Escenario 1: Dado que es fin de semana, Cuando el sistema genera reportes, Entonces el estudiante recibe por correo un resumen de retos completados, puntos acumulados y nuevas habilidades.<br><br>
     Escenario 2: Dado que el estudiante abrió el correo, Cuando revisa el reporte, Entonces puede ver sugerencias de próximas actividades a realizar.
 </td><td>EP-004</td></tr>
-    <tr><td>US-036</td><td>Visualización del desempeño individual en el grupo</td><td>Como estudiante,
+    <tr><td>US-033</td><td>Visualización del desempeño individual en el grupo</td><td>Como estudiante,
     quiero ver gráficos con mi desempeño dentro de un grupo,
     para entender mi progreso en retos a lo largo del tiempo.</td><td>Escenario 1:
     Dado que el estudiante ha participado en varios retos,
@@ -1604,18 +1590,16 @@ Entonces el sistema muestra un error</td>
     Cuando revisa su gráfico,
     Entonces se muestra el impacto (nota 0) reflejado en su progreso total.
 </td><td>EP-002</td></tr>
-    <tr><td>US-037</td><td>Visualización de medalla de desempeño del estudiante</td><td>Como estudiante, quiero ver la medalla que tengo asignada dentro de un grupo, para saber cómo se valora mi rendimiento en los retos.</td><td>Escenario 1: Dado que el estudiante ha completado uno o más retos, Cuando accede a la vista del grupo, Entonces puede visualizar su medalla (Basic, Bronze, Silver, etc.) asignada en base a su puntaje acumulado.<br><br>
+    <tr><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>Como estudiante, quiero ver la medalla que tengo asignada dentro de un grupo, para saber cómo se valora mi rendimiento en los retos.</td><td>Escenario 1: Dado que el estudiante ha completado uno o más retos, Cuando accede a la vista del grupo, Entonces puede visualizar su medalla (Basic, Bronze, Silver, etc.) asignada en base a su puntaje acumulado.<br><br>
     Escenario 2: Dado que el estudiante ha mejorado su puntaje, Cuando supera el umbral para una nueva medalla,
 Entonces el sistema actualiza y muestra la medalla correspondiente automáticamente.
 </td><td>EP-002</td></tr>
-    <tr><td>US-038</td><td>Gestión de intentos de entrega de retos</td><td>Como profesor, quiero configurar si un reto permite múltiples intentos de entrega, para flexibilizar las oportunidades de los estudiantes en actividades clave.</td><td>Escenario 1: Dado que el profesor crea un reto nuevo, cuando marca la opción “Permitir múltiples entregas”, entonces los estudiantes podrán enviar más de una respuesta hasta la fecha límite.<br><br>Escenario 2:
+    <tr><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>Como profesor, quiero configurar si un reto permite múltiples intentos de entrega, para flexibilizar las oportunidades de los estudiantes en actividades clave.</td><td>Escenario 1: Dado que el profesor crea un reto nuevo, cuando marca la opción “Permitir múltiples entregas”, entonces los estudiantes podrán enviar más de una respuesta hasta la fecha límite.<br><br>Escenario 2:
     Dado que el profesor no habilita entregas múltiples,
     Cuando un estudiante ya ha enviado su entrega,
     Entonces el sistema bloquea nuevas entregas y muestra un mensaje: “Ya has enviado tu respuesta”.
 </td><td>EP-003</td></tr>
-    <tr><td>US-039</td><td>Estadísticas de insignias del estudiante</td><td>Como estudiante quiero tener estadísticas sobre mis insignias para tener una data de mis logros</td><td>Escenario 1: Dado que deseo tener la estadísticas de mis insignias Cuando ingresó a mi perfil Entonces me voy al apartado de estadísticas<br><br>Escenario 2: Dado que  entró al menú de estadísticas Cuando seleccione la información que deseo Entonces podré visualizar mis insignias
-</td><td>EP-003</td></tr>
-    <tr><td>US-040</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
+    <tr><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
 </td><td>EP-001</td></tr>
   </tbody>
 </table>
