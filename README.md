@@ -2867,12 +2867,13 @@ Antes de comenzar, es importante definir claramente los requisitos de  la págin
     <img src="./images/chapter-5/postman.png" alt="Postman" width="400"/>
 * Software Deployment:
 
-  * Firebase
+  * Vercel
 
-    Propósito de Uso: Plataforma utilizada para el despliegue y alojamiento del producto digital, así como servicios backend como base de datos, autenticación y funciones en la nube.
-    Ruta de Referencia/Descarga: [Fire Base](https://firebase.google.com) (SaaS)
+    Propósito de Uso: Plataforma de despliegue y hosting frontend moderno para aplicaciones web estáticas y dinámicas (JAMstack). Ofrece integración nativa con frameworks como Next.js, React, Vue, Angular y Svelte, junto con funciones serverless, edge functions y CDN 
+    global para alto rendimiento.
+    Ruta de Referencia/Descarga: [Fire Base](https://vercel.com)(PaaS - Plataforma como Servicio)
 
-    <img src="./images/chapter-5/fireBase.png" alt="Firebase" width="400"/>
+    <img src="./images/chapter-5/vercelLogo.png" alt="Vercel Logo" width="300"/>
   * GitHub Page
 
     Propósito de Uso: Despliegue de la landing page del proyecto, permitiendo su visualización pública desde el repositorio.
