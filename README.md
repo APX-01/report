@@ -3166,55 +3166,31 @@ Esta sección describe la configuración y los pasos necesarios para realizar el
 
    - Accede a la URL proporcionada por GitHub Pages y verifica que el sitio esté funcionando correctamente.
 
-### Despliegue de la Frontend Web Application en Firebase
+### Despliegue de la Frontend Web Application en Vercel
 
 #### Pasos de despliegue:
 
-1. **Instalar Firebase CLI**:
+1. **Crearnos una cuenta en Vercel al vincularla con nuestro GitHub**:
 
-   - Si no lo has hecho, instala Firebase CLI en tu máquina local:
-     ```bash
-     npm install -g firebase-tools
-     ```
-2. **Iniciar sesión en Firebase**:
+   - Al entrar a la pagina de Vercel podemos observar que nos muestra distintas opciones para logearnos.
+   - Seleccionar la opcion "Continue with GitHub".
+2. **Crear un nuevo proyecto**:
 
-   - Inicia sesión en Firebase desde la terminal:
-     ```bash
-     firebase login
-     ```
-3. **Inicializar el proyecto en Firebase**:
+   - Al redireccionarnos a "Overview" le daremos click en la opcion "Add New".
+   - En el desplegable seleccionamos "Project".
+3. **Importar un repositorio de git**:
 
-   - Navega a la raíz de tu proyecto y ejecuta el siguiente comando para inicializar Firebase:
-     ```bash
-     firebase init
-     ```
-   - Selecciona las opciones de Firebase Hosting durante la configuración.
-   - Asegúrate de elegir la carpeta correcta donde se encuentran los archivos de tu Frontend (generalmente `build/` o `dist/` si usas frameworks como React, Angular o Vue).
-4. **Construir la aplicación (si es necesario)**:
+   - En este momento para importar nuestros repositorios seleccionamos "Continue with GitHub" (previamente tener un fork con la rama /release que genere un repositorio).
+   - Seleccionamos el repositorio que queremos deployar.
+4. **Deployar el repositorio**:
 
-   - Si usas un framework de JavaScript, ejecuta el comando para construir la aplicación:
-     - **React**:
-       ```bash
-       npm run build
-       ```
-     - **Angular**:
-       ```bash
-       ng build --prod
-       ```
-     - **Vue**:
-       ```bash
-       npm run build
-       ```
-   - Esto generará los archivos estáticos listos para el despliegue en una carpeta como `build/`, `dist/`, etc.
-5. **Desplegar a Firebase Hosting**:
+   - Al momento de seleccionar el repositorio a deployar nos saldran distintas opciones en pantalla.
+   - Verificaremos que estamos en la rama correcta con el estado "forked".
+   - Si deseamos le damos un nombre y hacemos click en el boton inferior "Deploy".
+5. **Verificación**:
 
-   - Una vez que el proyecto esté configurado y la aplicación esté construida, ejecuta el siguiente comando para desplegar:
-     ```bash
-     firebase deploy
-     ```
-6. **Verificación**:
-
-   - Accede a la URL proporcionada por Firebase para ver tu aplicación en vivo (por ejemplo, `https://tu-proyecto.web.app`).
+   - Si te da un error como un desborde respecto a "maximumError" modificalo desde bugdet en el angular.json.
+   - Volver a deployar el proyecto.
 
 ### Despliegue de los Web Services (Backend) en Azure
 
