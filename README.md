@@ -1967,73 +1967,86 @@ El sistema principal de navegación es intuitivo y claro. Este se muestra princi
 
 **•	Estructura**:
 
-* Muestra todas las diferentes opciones del sitio web.
-* Botones de acción para gestionar y manipular las funciones que se ofrecen.
+* Muestra el resumen de las funciones principales disponibles en la plataforma.
+* Botones de acción para navegar por la página e ingresar a la aplicación web.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Visualiza, se comunica y puede resolver distintas tareas.
-* Profesor: Gestiona las actividades de los alumnos y realiza un seguimiento a este.
+* Estudiante: Visualiza las funcionalidades disponibles, accede a la aplicación web.
+* Profesor: Visualiza las funcionalidades disponibles, accede directamente a la aplicación web.
 
-**2.	Sección de Challenges**
+**2.	Sección de Sign-up (Registro)**
 
 **•	Estructura**:
 
-* Visualización de todos los tipos de actividades que se pueden crear o resolver.
-* Submenú para los distintos tipos de desafíos.
+* Formulario con campos como nombre, correo institucional, contraseña y rol (profesor o estudiante).
+* Botón de confirmación para crear la cuenta.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Puede interactuar y resolver los desafíos impuestos.
-* Profesor: Puede crear y calificar desafíos para los alumnos.
+* Estudiante: Registra su cuenta con credenciales personales para comenzar a interactuar con la plataforma como usuario.
+* Profesor: Se registra para poder crear contenido, gestionar alumnos y hacer seguimiento académico.
 
-**3.	Sección de Teams**
+**3.	Sección de Log in (Inicio de sesión)**
 
 **•	Estructura**:
 
-* Visualización de alumnos y profesores para interactuar.
-* Submenú para crear grupos y usar el sistema de mensajes.
+* Formulario de autenticación con campos de correo electrónico y contraseña.
+* Enlace para recuperar contraseña en caso de olvido.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Puede interactuar con compañeros de clase y profesores, además de crear sus propios grupos.
-* Profesor: Puede interactuar con los alumnos y profesores, además de crear grupos de estudio seleccionando alumnos.
+* Estudiante: Ingresa a su cuenta personal para acceder a desafíos, grupos, estadísticas y perfil.
+* Profesor: Inicia sesión en su cuenta para gestionar desafíos, visualizar estadísticas y administrar estudiantes.
 
-**4.	Sección de Analytics**
+**4.	Sección de Challenges**
 
 **•	Estructura**:
 
-* Visualización de estadísticas sobre el progreso de los estudiantes
-* Acceso a una función para calcular notas futuras.
+* Visualización de todos los desafíos disponibles.
+* Filtros por día o mes para organizar los desafíos por fecha.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Visualizar sus estadísticas y calcular futuras notas
-* Profesor: Puede analizar el progreso académico de sus alumnos
+* Estudiante: Explora y resuelve desafíos, sube sus respuestas y verifica su progreso.
+* Profesor: Crea, asigna y califica desafíos; además de editar o eliminar actividades según el avance del curso.
 
-**5.	Sección de Schedule**
+**5.	Sección de Group Management**
 
 **•	Estructura**:
 
-* Visualización del horario académico de los estudiantes
-* Acceso a una función para agregar y editar distintos eventos en el horario.
+* Listado de grupos existentes y usuarios asignados.
+* Opciones para crear nuevos grupos y unirse a uno.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Visualizar su horario y editarlo como desee
-* Profesor: Puede observar su propio horario y gestionar eventos y actividades referentes a sus alumnos
+* Estudiante: Puede crear o unirse a grupos, colaborar con compañeros, y comunicarse mediante mensajería interna.
+* Profesor: Forma equipos de alumnos, asigna tareas colaborativas y monitorea la participación dentro de los grupos.
 
-**6.	Sección de Badges**
+**6.	Sección de Analytics**
 
 **•	Estructura**:
 
-* Visualización y entrega de insignias conseguidas por las herramientas de gamificación
-* Submenú para filtrar los tipos de insignias conseguidas
+* Panel con gráficas sobre el progreso académico durante un tiempo.
+* Visualización de estadísticas generales.
 
 **•	Acción del Usuario**:
 
-* Estudiante: Puede visualizar sus insignias conseguidas, así como analizar que desafíos realizar para conseguir más.
-* Profesor: Puede entregar las insignias y crearlas en base a las actividades a realizar de los estudiantes.
+* Estudiante: Visualiza su rendimiento en actividades e interpreta gráficas.
+* Profesor: Revisa estadísticas individuales y grupales, identifica patrones de desempeño y ajusta su estrategia educativa.
+
+**7.	Sección de Profile**
+
+**•	Estructura**:
+
+* Página personal con información del usuario.
+* Visualización de insignias, historial de desafíos y progreso individual.
+
+**•	Acción del Usuario**:
+
+* Estudiante: Consulta sus datos personales, logros obtenidos y progreso general en la plataforma.
+* Profesor: Accede a sus datos personales y revisa sus desafíos creados.
+
 
 ### 4.3. Landing Page UI Design
 
