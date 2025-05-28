@@ -3795,14 +3795,126 @@ Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *
 Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durante el segundo sprint. A continuación, se detallan los commits realizados en esta etapa, los cuales reflejan el avance en la implementación de las funcionalidades previstas.
 
 **Tabla de commits del Frontend**
-| Repository                                    | Branch            | Commit Id | Commit Message           | Commit Message Body      | Committed on (Date)     |
-| --------------------------------------------- | ----------------- | --------- | ------------------------ | ------------------------ | ----------------------- |
-| https://github.com/APX-01/report/pull/7 |JourneyMapping|3753f73| Add a student's user journey mapping|feat(User-Journey-Mapping): Add a student's user journey mapping |16/05/2025|
-| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2   | Add the landing page design | feat(Web-Style-Guidelines): Add the landing page design | 16/05/2025|
-| https://github.com/APX-01/report/pull/13 |Product_Design|53bce58  |Add the typography and colors of the landing page| feat(General-Style-Guidelines): Add the typography and colors of the landing page| 16/05/2025|
-| https://github.com/APX-01/report/pull/15 | Product_Design | b87a7f2    | Add the landing page design|feat(Web-Style-Guidelines): Add the landing page design| 20/04/2025              |
-| https://github.com/APX-01/report/pull/10 | Emp-map | 4845e4b   | Added the teacher user empathy map | feat(Empathy-Mapping): Added the teacher user empathy map. | 19/04/2025              |
-| https://github.com/APX-01/report/pull/33 | fix/chapter-2 | 67f3454 | Fixed the teacher segment of the User-Journey-Student | fix(User-Journey-Mapping): Fixed the teacher segment of the User-Journey-Student | 22/04/2025             | 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+      <th>User</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="13">https://github.com/APX-01/Frontend-Web-Applications</td>
+      <td>feature/aestheticv3</td>
+      <td>714cc3334ba6159919c3effe512a143897a47f35</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>First implementation of aesthetic version 3</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>570a0aa96008bb8c9bde7f7b7640aae0de69feab</td>
+      <td>Merge remote-tracking branch 'origin/develop' into develop</td>
+      <td>Regular development branch sync</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>419bd6f95e4d0d7e9a95032cc5fb66aa00fb7033</td>
+      <td>feat: modified environments to use deployed fake api</td>
+      <td>Updated environment configurations</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>feature/aestheticv3</td>
+      <td>5785c1727ab291902cc53b2d040c07d60f1d618f</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>Final adjustments to aesthetic version 3</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>0e9c4f7b80bb218af9173eac66624166c9444366</td>
+      <td>fix: fixed sidebar</td>
+      <td>Corrected sidebar behavior issues</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>feature/page-validation</td>
+      <td>31281a2d93a547b20d678a4d89ebfda6c29c8c4d</td>
+      <td>Merge pull request #23 from APX-01/feature/page-validation</td>
+      <td>Page validation feature merge</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>feature/page-validation</td>
+      <td>41a99b5193987218819731d9a6b57a9865bc9ff9</td>
+      <td>Merge branch 'develop' into feature/page-validation</td>
+      <td>Development branch merge</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>c5d102d7061be67e4061559919885fe794522332</td>
+      <td>feat: added access protection</td>
+      <td>Implemented route protection</td>
+      <td>May 16, 2025</td>
+      <td>sebastianrealcalderon</td>
+    </tr>
+    <tr>
+      <td>analytics</td>
+      <td>058a7d89b6604d45467adb59620aa30a1169bd57</td>
+      <td>Merge pull request #22 from APX-01/analytics</td>
+      <td>Analytics feature merge</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>analytics</td>
+      <td>4079aac0f1e4f9bc53381b977c221ea9ac10e841</td>
+      <td>Merge branch 'develop' into analytics</td>
+      <td>Development branch merge</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>feature/styles</td>
+      <td>97484ea4667c05f25afa9742911428abe2295f81</td>
+      <td>Merge pull request #21 from APX-01/feature/styles</td>
+      <td>Styles feature merge</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td>c47402e880208b8989bcecd3dff1d31036a534b7</td>
+      <td>feat(aestheticv2): Added aestheticv2</td>
+      <td>Initial aesthetic version 2 implementation</td>
+      <td>May 16, 2025</td>
+      <td>Firtness</td>
+    </tr>
+    <tr>
+      <td>analytics</td>
+      <td>163592373a817d6aee5ae40156c35f74898ccd34</td>
+      <td>feat(analytics): added analytics</td>
+      <td>First analytics implementation</td>
+      <td>May 16, 2025</td>
+      <td>OmarLLA</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
