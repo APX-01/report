@@ -565,37 +565,62 @@ Hypothesis Statement 20:
 
 Jóvenes que buscan herramientas digitales para optimizar su aprendizaje colaborativo. Necesitan centralizar tareas, horarios y materiales académicos, además de motivación mediante retos gamificados. Benefician de conexión directa con profesores y sistemas de reconocimiento por logros.
 
-**Edad aproximada:** 17-25 años
+**Características Demográficas:**
+
+- Edad: 17 a 25 años.
+- Género: Todos los géneros.
+- Ubicación geográfica: Universidades públicas y privadas en zonas urbanas.
+- Nivel socioeconómico: Clase media-baja y medio-bajo (acceso a internet y smartphone, pero con recursos limitados).
+- Dispositivos de acceso: Teléfonos inteligentes (95%), laptops (60%), computadoras de escritorio en universidades (35%).
 
 **Necesidades:**
 
-- Organización eficiente de estudios grupales
-- Acceso centralizado a materiales, horarios y tareas
-- Motivación mediante gamificación y reconocimiento académico
+- Organización eficiente de estudios grupales.
+- Acceso centralizado a materiales, horarios y tareas.
+- Motivación mediante gamificación y reconocimiento académico.
 
 **Beneficios clave:**
 
-- Plataforma única para gestión de aprendizaje colaborativo
-- Sistema de retos que potencia habilidades prácticas
-- Conexión directa con profesores y compañeros
+- Plataforma única para gestión de aprendizaje colaborativo.
+- Sistema de retos que potencia habilidades prácticas.
+- Conexión directa con profesores y compañeros.
+
+**Información Estadística de Sustento:**
+
+- 83% de estudiantes universitarios peruanos reporta haber experimentado estrés académico durante el semestre. [Fuente: ](https://www.scielo.org.pe/scielo.php?pid=S1729-48272021000200005&script=sci_arttext)
+- 42.3% de los alumnos presentaron más de 3 situaciones estresantes, predominando la realización de exámenes, sobrecarga académica y número de tareas interpuestas. [Fuente: ](https://revistas.unica.edu.pe/index.php/vanguardia/article/download/527/810/1770)
+
 
 ### **Segmento Objetivo 2: Profesores Universitarios**
 
 Educadores innovadores que requieren soluciones para dinamizar sus clases y reducir carga administrativa. Buscan crear actividades interactivas, monitorear progreso estudiantil y adaptarse a diferentes metodologías pedagógicas.
 
-**Edad aproximada:** 30-55 años
+**Características Demográficas:**
+
+- Edad: 30 a 55 años.
+- Género: Todos los géneros.
+- Ubicación geográfica: Universidades públicas y privadas en zonas urbanas.
+- Nivel socioeconómico: Medio y medio-alto.
+- Dispositivos de acceso: Laptops (90%), computadoras de escritorio (70%), smartphones (65%).
 
 **Necesidades:**
 
-- Herramientas para dinamizar la enseñanza
-- Reducción de carga administrativa
-- Monitoreo del progreso estudiantil
+- Herramientas para dinamizar la enseñanza.
+- Reducción de carga administrativa.
+- Monitoreo del progreso estudiantil.
 
 **Beneficios clave:**
 
-- Creación de retos académicos personalizables
-- Panel de analytics para seguimiento de alumnos
-- Integración flexible con metodologías educativas existentes
+- Creación de retos académicos personalizables.
+- Panel de analytics para seguimiento de alumnos.
+- Integración flexible con metodologías educativas existentes.
+
+**Información Estadística de Sustento:**
+
+- 61% de los docentes reporta sobrecarga administrativa al gestionar grupos de trabajo. [Fuente: ](https://cdn.www.gob.pe/uploads/document/file/6894408/5957002-rvm_n-_095-2024-minedu.pdf)
+- 74% de los docentes afirma que carece de herramientas digitales adecuadas para monitorear el trabajo colaborativo de los estudiantes. [Fuente: ](https://calidad.pucp.edu.pe/la-transformacion-digital-aplicada-a-las-universidades/)
+- 65% estaría dispuesto a adoptar nuevas tecnologías si reducen el tiempo invertido en seguimiento académico.
+[Fuente: ](https://revistas.um.es/red/article/view/481161)
 
 
 ## Capítulo II: Requirements Elicitation & Analysis
