@@ -1896,10 +1896,10 @@ Se utilizaron diversos meta tags que mejoran la visibilidad del sitio web en los
 EduHive: Plataforma para la gestión educativa de cursos
 
 **•	Meta Description**:
-EduHive es una Plataforma diseñada para la gestión educativa entre alumnos y profesor que busca conectar ambos sectores en un ecosistema dinámico con distintas herramientas como grupos de estudio o retos académicos
+EduHive es una Plataforma diseñada para la gestión educativa entre alumnos y profesor que busca conectar ambos sectores en un ecosistema dinámico con distintas herramientas como grupos de estudio y retos académicos.
 
 **•	Keywords**:
-Plataforma educative, gestion de cursos, administración de tareas, productividad de usuarios
+plataforma educativa, gestion de cursos, administración de tareas, productividad de usuarios
 
 **•	Author**: Eduhive Team
 
@@ -1907,51 +1907,42 @@ Plataforma educative, gestion de cursos, administración de tareas, productivida
 
 **•	Title**: Desafíos académicos
 
-**•	Meta Description**: Gestiona y permite visualizar las tareas y los retos académicos
+**•	Meta Description**: Crea, organiza y resuelve retos académicos personalizados para cada grupo o curso.
 
-**•	Keywords**: Tareas, retos académicos, gestión de actividades
+**•	Keywords**: desafíos educativos, tareas académicas, gestión de actividades, evaluación formativa
 
 **•	Author**: Eduhive Team
 
-**Teams**:
+**Group Management**:
 
-**•	Title**: Gestión de comunicación
+**•	Title**: Gestión de grupos
 
-**•	Meta Description**: Acceso a mensajes con alumnos y profesores, así como creación de equipos de trabajo
+**•	Meta Description**: Herramientas para crear, administrar y unirse a grupos académicos mediante códigos temporales y gestionar sus integrantes.
 
-**•	Keywords**: correo, gestión de equipos, reuniones, planificación de trabajo
+**•	Keywords**: gestión de grupos, colaboración educativa, trabajo en equipo, organización académica
 
 **•	Author**: Eduhive Team
 
 **Analytics**:
 
-**•	Title**: Gestión de progreso
+**•	Title**: Análisis de rendimiento académico
 
-**•	Meta Description**: Muestra el progreso del alumno a lo largo del curso y calcular notas al resolver desafíos
+**•	Meta Description**: Visualiza el progreso del estudiante a través de métricas como puntajes, desempeño por desafío y evolución dentro del curso.
 
-**•	Keywords**: seguimiento, progreso del alumno, gestión de desempeño
-
-**•	Author**: Eduhive Team
-
-**Schedule**:
-
-**•	Title**: Horario académico
-
-**•	Meta Description**: Acceso a un horario académico que se puede editar al agregar distintos eventos
-
-**•	Keywords**: gestión de tiempo, eventos, organización de clases
+**•	Keywords**: seguimiento académico, análisis de progreso, métricas educativas, rendimiento del alumno
 
 **•	Author**: Eduhive Team
 
-**Badges**:
+**Profile**:
 
-**•	Title**: Gestión de insignias
+**•	Title**: Perfil de usuario
 
-**•	Meta Description**: Se hace una visualización y entregas de insignias referentes a actividades gamificadas.
+**•	Meta Description**: Consulta y administra la información personal del usuario, incluyendo estadísticas, insignias y grupos asociados.
 
-**•	Keywords**: herramientas de gamificación, insignias, calificaciones
+**•	Keywords**: perfil académico, estadísticas personales, insignias, usuario educativo
 
 **•	Author**: Eduhive Team
+
 
 #### 4.2.4. Searching Systems
 
