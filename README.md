@@ -1946,8 +1946,18 @@ plataforma educativa, gestion de cursos, administración de tareas, productivida
 
 #### 4.2.4. Searching Systems
 
-La aplicación cuenta con una barra de búsqueda para que los usuarios puedan ingresar a la información y actividades que buscan, como serían las tareas o los retos académicos. Se optó por un sistema de búsqueda sencillo y eficaz, para que el usuario no se pierda entre tantas opciones y encuentre sus búsquedas rápido.
-Permite buscar y filtrar por nombre de la incidencia, descripción de cada etiqueta o profesores encargados. Mediante un side bar se podrán observar las diferentes funciones que se encuentran en el header de la aplicación.
+Con el objetivo de simplificar la interacción del usuario y evitar la sobrecarga de información, se ha priorizado la implementación de un sistema de filtros en lugar de una barra de búsqueda. Esta decisión busca ofrecer una experiencia más controlada y estructurada al momento de explorar los diferentes desafíos o entregas dentro de la plataforma.
+
+Los filtros permiten segmentar la información de manera eficiente, haciendo que los usuarios encuentren lo que necesitan sin perder tiempo navegando por grandes volúmenes de contenido. A continuación, se detallan los filtros que estarán disponibles en las secciones clave de la aplicación:
+
+**Challenges:**
+
+- Por Fecha (día/mes): Filtra los desafíos académicos según la fecha en que fueron publicados, permitiendo revisar aquellos generados en días o meses específicos.
+
+**Submissions:**
+
+- Por Fecha (día/mes): Permite visualizar las entregas de los estudiantes de acuerdo con el día o mes en que fueron realizadas, facilitando el seguimiento del progreso.
+
 
 #### 4.2.5. Navigation Systems
 
