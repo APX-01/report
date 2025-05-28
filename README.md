@@ -1877,13 +1877,13 @@ La información y funcionalidades se organizan según el tipo de usuario. Los al
 
 Las etiquetas son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
 
-**- Challenges** Esta sección representa el núcleo de la aplicación. Permite crear, visualizar y resolver los diferentes desafíos académicos asignados a los grupos.
+- **Challenges** Esta sección representa el núcleo de la aplicación. Permite crear, visualizar y resolver los diferentes desafíos académicos asignados a los grupos.
 
-**- Group Management**: Encargada de la gestión de grupos, esta sección permite la creación de grupos por parte de los profesores, así como la unión de estudiantes mediante códigos temporales. También incluye funcionalidades para visualizar y administrar a los integrantes.
+- **Group Management**: Encargada de la gestión de grupos, esta sección permite la creación de grupos por parte de los profesores, así como la unión de estudiantes mediante códigos temporales. También incluye funcionalidades para visualizar y administrar a los integrantes.
 
-**- Analytics**: Muestra el progreso académico de los estudiantes dentro de cada grupo. Ofrece métricas clave como notas promedio, puntaje total y evolución del desempeño a través del tiempo, en función de los desafíos realizados.
+- **Analytics**: Muestra el progreso académico de los estudiantes dentro de cada grupo. Ofrece métricas clave como notas promedio, puntaje total y evolución del desempeño a través del tiempo, en función de los desafíos realizados.
 
-**- Profile**: En esta sección, los usuarios pueden visualizar información personal relacionada a su cuenta, como su nombre completo, número telefónico y correo. Así como también estadísticas generales como su medalla, challenges completados, grupos unidos y el grupo en el que más ha estado activo.
+- **Profile**: En esta sección, los usuarios pueden visualizar información personal relacionada a su cuenta, como su nombre completo, número telefónico y correo. Así como también estadísticas generales como su medalla, challenges completados, grupos unidos y el grupo en el que más ha estado activo.
 
 
 #### 4.2.3. SEO Tags and Meta Tags
