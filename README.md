@@ -2686,25 +2686,25 @@ Para el desarrollo del sistema EduHive, se ha adoptado un enfoque de Domain-Driv
 
 #### 4.6.1. Software Architecture Context Diagram
 
-El Context Diagram de EduHive presenta una visión de alto nivel del sistema, centrándose en su interacción con los usuarios principales (estudiantes y profesores) y el sistema externo Open Badges. En este diagrama, EduHive representa el sistema completo, recibiendo interacciones directas de los usuarios y comunicándose con Open Badges para la gestión de insignias digitales. No se detallan componentes internos, sino que se enfoca en delimitar el alcance del sistema y sus relaciones externas, destacando quiénes lo utilizan y con qué servicios externos se integra.
+El Context Diagram de EduHive presenta una visión de alto nivel del sistema, centrándose en su interacción con los usuarios principales (estudiantes y profesores) y el sistema externo Badgr. En este diagrama, EduHive representa el sistema completo, recibiendo interacciones directas de los usuarios y comunicándose con Badgr para la gestión de insignias digitales. No se detallan componentes internos, sino que se enfoca en delimitar el alcance del sistema y sus relaciones externas, destacando quiénes lo utilizan y con qué servicios externos se integra.
 
 <img src="./images/chapter-4/contextDiagram.png" alt="Context Diagram" width="600"/>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
-El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cinco Bounded Contexts especializados: Challenges BC, Teams BC, Analytics BC, Schedule BC y Badges BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Badges BC adicionalmente interactúa con el sistema externo Open Badges para las insignias digitales.
+El Container Diagram de EduHive detalla la estructura interna del sistema, mostrando sus principales contenedores, la Landing Page, la Web App como interfaz principal para usuarios, la API REST que centraliza las comunicaciones, y la base de datos PostgreSQL. El sistema se organiza en cinco Bounded Contexts especializados: Analytics BC, IAM BC, Challenges BC y GroupManagement BC. Cada contexto sigue un patrón de capas (interfaz, aplicación, dominio e infraestructura) y se comunica con la base de datos, mientras que el Challenges BC adicionalmente interactúa con el sistema externo Badgr para las insignias digitales.
 
 <img src="./images/chapter-4/containerDiagram.png" alt="Container Diagram" width="600"/>
 
 #### 4.6.3. Software Architecture Components Diagrams
 
-Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Open Badges en el caso de BadgesBC).
+Los Component Diagrams detallan la estructura interna de cada Bounded Context, mostrando sus cuatro capas principales: Interface, Application, Domain e Infrastructure. Estos diagramas reflejan cómo interactúan las capas dentro de un mismo contexto y cómo se conectan a la base de datos o sistemas externos (como Badgr en el caso de Challenges BC).
 
 - Analytics BC
 
 <img src="./images/chapter-4/componentDiagram1.png" alt="Component Diagram 1" width="600"/>
 
-- Badges BC
+- IAM BC
 
 <img src="./images/chapter-4/componentDiagram2.png" alt="Component Diagram 2" width="600"/>
 
@@ -2712,15 +2712,9 @@ Los Component Diagrams detallan la estructura interna de cada Bounded Context, m
 
 <img src="./images/chapter-4/componentDiagram3.png" alt="Component Diagram 3" width="600"/>
 
-
-- Schedule BC
+- GroupManagement BC
 
 <img src="./images/chapter-4/componentDiagram4.png" alt="Component Diagram 4" width="600"/>
-
-- Teams BC
-
-<img src="./images/chapter-4/componentDiagram5.png" alt="Component Diagram 5" width="600"/>
-
 
 
 ### 4.7. Software Object-Oriented Design
