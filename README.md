@@ -1875,17 +1875,16 @@ La información y funcionalidades se organizan según el tipo de usuario. Los al
 
 #### 4.2.2. Labeling Systems
 
-Las etiquetas en la landing page son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
+Las etiquetas son simples y fáciles de entender para no generar confusión en los usuarios, tienen información y títulos claros y descriptivos que sirven para identificar cada funcionalidad sin problema alguno y sin ayuda de terceros. Esto debido a que se omite tecnicismos y muchas palabras para optar por la simpleza.
 
-**•	Challenges**: La sección challenges es el núcleo de la aplicación. Es la que permite crear, visualizar y resolver las diferentes tareas académicas.
+**- Challenges** Esta sección representa el núcleo de la aplicación. Permite crear, visualizar y resolver los diferentes desafíos académicos asignados a los grupos.
 
-**•	Teams**: La sección Teams es la que se encarga de la gestión total de la comunicación entre usuarios, además permite la creación de grupos propios con sus propias funciones como mensajes y chat.
+**- Group Management**: Encargada de la gestión de grupos, esta sección permite la creación de grupos por parte de los profesores, así como la unión de estudiantes mediante códigos temporales. También incluye funcionalidades para visualizar y administrar a los integrantes.
 
-**•	Analytics**: La sección Analyitcs muestra el progreso de los alumnos y los cambios que se tendrían al realizar las tareas
+**- Analytics**: Muestra el progreso académico de los estudiantes dentro de cada grupo. Ofrece métricas clave como notas promedio, puntaje total y evolución del desempeño a través del tiempo, en función de los desafíos realizados.
 
-**•	Schedule**: La sección Schedula se encarga de mostrar y editar el horario de las clases.
+**- Profile**: En esta sección, los usuarios pueden visualizar información personal relacionada a su cuenta, como su nombre completo, número telefónico y correo. Así como también estadísticas generales como su medalla, challenges completados, grupos unidos y el grupo en el que más ha estado activo.
 
-**•	Badges**: La sección Badges es la encargada de dar y mostrar las diferentes insignias referentes a los desafíos completados
 
 #### 4.2.3. SEO Tags and Meta Tags
 
