@@ -3702,8 +3702,8 @@ En esta sección, documentamos cómo el equipo trabajó de manera coordinada par
   </tr>
 </table>
 
-### 5.2.2.3. Sprint Backlog 2
-### Introducción
+##### 5.2.2.3. Sprint Backlog 2
+
 Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *bounded context* relacionado con la lógica de negocio, asegurando que cada sección de la página web realizada por los integrantes contara con una navegación sencilla y permitiera visualizar claramente el trabajo realizado en clase. Para alcanzar este objetivo, se dividieron los *bounded contexts* en las siguientes categorías: Tareas, Calendarios, Miembros, Reportes/Comentarios y Herramientas. Además, se llevó a cabo una actualización de la *landing page*.
 
 <img src="images/chapter-5/Sprint-Backlog-2.png" alt="Moodle" width="800"/>
@@ -3721,8 +3721,10 @@ Durante el Sprint 2, el objetivo principal fue que cada alumno desarrollara un *
 | **US-006**| Recepción de retos semanales gamificados | **T07**  | Mostrar challenges activos/vencidos en vista de grupo | Listar retos con estados "Active" o "Expired" según fecha límite.| 3 horas| Real Calderón Sebastián Omar     | Done |
 | **US-009**| Definición de fechas límite de retos  | **T08** | Campo de fecha límite en creación de retos| El profesor define una fecha de vencimiento al crear un reto.| 2 horas| Real Calderón Sebastián Omar | Done |
 | **US-013**| Enviar respuesta a reto  | **T09** | Formulario de envío de entregas| Permitir a estudiantes subir respuestas a los retos.|2 horas  | Real Calderón Sebastián Omar     | Done  |
-| **US-012**| Asignación de feedback | **T10** | Calificar entregas (escala 1-20) y comentarios | Profesor asigna nota y feedback, que actualiza el puntaje del estudiante. | 2 horas | Flores Apaico Josue Antonio	 | |
-| **US-033**| Visualización del desempeño individual | **T11** | Gráficos de progreso (promedio, puntaje total) | Vista de analytics con gráficos de los estudiantes para un seguimiento de los profesores. | 3 horas | Flores Apaico Josue Antonio	 | |
+| **US-012**| Asignación de feedback | **T10** | Calificar entregas (escala 1-20) y comentarios | Profesor asigna nota y feedback, que actualiza el puntaje del estudiante. | 2 horas | Flores Apaico Josue Antonio	 | Done|
+| **US-033**| Visualización del desempeño individual | **T11** | Gráficos de progreso (promedio, puntaje total) | Vista de analytics con gráficos de los estudiantes para un seguimiento de los profesores. | 3 horas | Flores Apaico Josue Antonio	 | Done|
+| **US-030**| Métricas de participación | **T12** | Panel de métricas de participación grupal | Mostrar estadísticas de participación por estudiante en la vista del profesor. | 2 horas | Luquillas Asto Omar	 | Done|
+| **US-036**| Eliminar estudiantes de los grupos | **T13** | Integrar eliminación de estudiantes de los grupos | Al expulsar un estudiante, la lista del grupo se debe actualizar y el estudiante dejará de estar en el grupo. | 2 horas | Real Calderón Sebastián Omar	 | Done|
 
 
 ### 5.2.2.4. Development Evidence for Sprint Review.
