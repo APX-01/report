@@ -1846,36 +1846,32 @@ El diseño tiene que ser claro, actual y adaptable, asegurando una correcta visu
 
 #### 4.2.1. Organization Systems
 
-Para la landing page de EduHive, se usará una organización de forma jerárquica, en la que se ordenará la información en distintas secciones de una forma clara, ordenada e intuitiva para nuestros dos segmentos objetivos.
-Tanto el estudiante como el profesor tendrán acceso a este, pero cada uno tendrá distintas funciones, dependiendo de su rol en la aplicación.
+En esta sección, hemos aplicado distintos sistemas de organización para facilitar la navegación y comprensión de la aplicación, considerando los diferentes tipos de usuarios (alumnos y profesores) y las funcionalidades ofrecidas.
 
-<img src="./images/chapter-4/Organization_system_2.png" alt="Moodle" width="400"/>
+**Organización visual del contenido:**
 
-**Estudiante**: Para los estudiantes, las principales funciones que buscan son las de usar las herramientas académicas que ofrece la aplicación, por lo que se usará una organización jerárquica, pues esta juntaría todas las subfunciones que conforman el tema de las actividades de estudio.
+- Jerárquica (Visual Hierarchy):
 
-**• Challenges**: En este apartado, el estudiante es capaz de visualizar y realizar las diferentes tareas y retos académicos, además de realizar las entregas correspondientes.
+Se emplea para destacar los elementos más importantes dentro de las vistas principales, como botones de acción (crear grupo, unirse, enviar entregas), datos de rendimiento en la vista de Analytics y encabezados de secciones clave en cada vista de grupo.
 
-**•	Teams**: El estudiante puede gestionar distintos equipos de trabajo de las clases y comunicarse con ellos mediante mensajes o chats.
+- Secuencial (Step-by-step):
 
-**•	Analytics**: El estudiante puede observar su progreso a lo largo de sus clases y hacer cálculos de posibles resultados que obtendría según hiciera distintos desafíos.
+Aplicada en flujos como el registro de usuario (elección de tipo de cuenta y luego formulario), creación de grupos o challenges, y creación de entregas, guiando al usuario paso a paso para completar correctamente cada acción.
 
-**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del usuario, así como este mismo modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases
+- Matricial (Matrix):
 
-**•	Badges**: Se pueden observar las distintas medallas e insignias que ha conseguido el estudiante a lo largo del curso, acentuando el valor de las herramientas de gamificación de la aplicación
+Utilizada en la presentación de datos analíticos, permitiendo comparar métricas individuales (nota promedio, puntaje total, medallas obtenidas), desde la vista del profesor.
 
-**Profesor**: Para los profesores, se buscará una organización jerárquica y secuencial, ya que se busca ordenar sus propias subfunciones referentes al del docente y luego seguir pasos para corrección y comunicación con los alumnos.
+**Esquemas de categorización del contenido:**
 
-**•	Challenges**: En este apartado, el profesor es capaz de proponer y realizar las distintas tareas y retos académicos que van a visualizar los alumnos, además de fijar fechas de entrega
+- Por tópicos:
 
-**•	Teams**: El profesor puede gestionar los distintos equipos de trabajo entre los estudiantes, para conseguir una comunicación activa entre ellos
+El contenido está estructurado por áreas funcionales claras como Log in, Group management, Challenges, Submissions y Analytics, permitiendo una navegación lógica entre funcionalidades.
 
-**•	Analytics**: Se puede analizar el progreso del alumno al presentar las calificaciones del estudiante para encontrar a los que necesiten un apoyo mayor
+- Según audiencia (grupos de usuarios):
 
-**•	Schedule**: Aquí, se podrá visualizar un horario con todas las actividades pertinentes del profesor como las clases, así como este puede modificar y agregar sus propios eventos. De esta manera, se llevará una mejor organización de las clases.
+La información y funcionalidades se organizan según el tipo de usuario. Los alumnos y profesores acceden a vistas y opciones distintas, adaptadas a sus necesidades. Por ejemplo, los profesores pueden crear grupos y challenges, y acceder a las entregas de cada alumno, mientras que los alumnos solo pueden ver sus propios datos de desempeño, grupos y enviar entregas.
 
-**•	Badges**: Se puede hacer entrega de insignias a los estudiantes que cumplan diversas actividades, además de gestionar el aprendizaje y la motivación de estos mediante estas herramientas
-
-Cada segmento está dividido y organizado para guiar al usuario en entender las funcionalidades y poder usarlas sin problema alguno.
 
 #### 4.2.2. Labeling Systems
 
