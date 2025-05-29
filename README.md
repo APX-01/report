@@ -236,22 +236,42 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
       <td>
 Alejo Cardenas Jose Antonio-TB1:<br>
 Durante el desarrollo del proyecto, fortalecí mi comunicación oral al presentar y explicar temas como el análisis de competidores, los resultados de las entrevistas, el proceso de needfinding y el uso del Ubiquitous Language. Me aseguré de adaptar mi discurso según el público, ya fuera técnico o no técnico, para que mis aportes fueran comprendidos con claridad. También participé activamente en exposiciones grupales sobre el Impact Mapping, el Product Backlog y el Software Configuration Management, así como en reuniones donde propuse ideas relacionadas con la Landing Page y la implementación de servicios, buscando siempre que mis ideas sean claras y bien estructuradas.
-<br>  
+<br><br> 
 Luquillas Asto Omar-TB1:<br>
 Me encargué de presentar oralmente entregables como el Solution Profile, los resultados de las entrevistas, el To-Be Scenario Mapping y las User Stories, explicándolos con claridad a mis compañeros y profesores. En cada exposición, procuré utilizar un lenguaje técnico adecuado, pero accesible para todos. Además, durante sesiones de trabajo en equipo, expuse mi visión sobre la arquitectura orientada al dominio, el desarrollo de la Landing Page y la implementación de servicios, buscando generar consenso y asegurar una comprensión compartida de los objetivos del proyecto.
-<br> 
+<br><br> 
 Real Calderón Sebastián Omar-TB1:<br>
 Contribuí con la redacción de diversos documentos como el Startup Profile, el Solution Profile y los entregables sobre los segmentos objetivo, cuidando la estructura y el lenguaje para que fueran claros y coherentes. También elaboré contenido técnico para las User Stories, el diseño de UX/UI, la arquitectura orientada a objetos y el diseño de base de datos, utilizando una redacción precisa y enfocada en que tanto técnicos como no técnicos pudieran comprender la información. Busqué siempre que mis aportes escritos comunicaran bien el propósito y el funcionamiento de cada elemento del proyecto.
-<br>
+<br><br>
 Flores Apaico Josue Antonio-TB1:<br>
 Fortalecí mi comunicación oral al exponer los resultados de las entrevistas, el análisis del needfinding y mi participación en la definición de User Stories, buscando explicar claramente mis ideas al equipo. También compartí mi propuesta para las Style Guidelines y participé activamente en las discusiones sobre la interfaz de la Landing Page, así como en sesiones de diseño de UX/UI, donde me aseguré de justificar mis decisiones y adaptar mi lenguaje según el perfil del interlocutor.
-<br>
+<br><br>
 Mendoza Vergara Franklin Alejandro-TB1:<br>
-Desarrollé mi comunicación oral participando en las exposiciones sobre los hallazgos de las entrevistas y la definición de las User Stories, donde expliqué de forma clara cómo estas se alineaban con los objetivos del proyecto. También presenté propuestas para la arquitectura de la información, utilizando ejemplos visuales y explicaciones técnicas que facilitaron el entendimiento del equipo. Mi participación en sesiones de diseño de UX/UI me permitió argumentar mis ideas de forma estructurada y accesible.
+Desarrollé mi comunicación oral participando en las exposiciones sobre los hallazgos de las entrevistas y la definición de las User Stories, donde expliqué de forma clara cómo estas se alineaban con los objetivos del proyecto. También presenté propuestas para la arquitectura de la información, utilizando ejemplos visuales y explicaciones técnicas que facilitaron el entendimiento del equipo. Mi participación en sesiones de diseño de UX/UI me permitió argumentar mis ideas de forma estructurada y accesible.<br>
+
+<br>
+Alejo Cárdenas José Antonio - TP:<br>
+Durante el transcurso del proyecto, me desempeñé en tareas esenciales como la configuración del software, la creación de la Landing Page y la implementación de los servicios de la aplicación. En los espacios de revisión de sprint, presenté los avances y resultados obtenidos, explicando de manera clara cómo se integraban al cumplimiento de los objetivos del equipo. Ajusté mi forma de comunicarme según el perfil de la audiencia, ya fueran compañeros con conocimientos técnicos o profesores con una perspectiva académica.<br><br>
+
+Flores Apaico Josue Antonio - TP:<br>
+Mi rol se enfocó en diseñar la interfaz de la Landing Page y la experiencia del usuario en la aplicación web. Durante nuestras reuniones y presentaciones, compartí las razones detrás de cada elección de diseño de forma clara y visual. También expuse las evidencias del desarrollo y pruebas realizadas, comunicando los resultados de manera que tanto el equipo como los docentes pudieran comprender fácilmente los avances logrados.<br><br>
+
+Mendoza Vergara Franklin Alejandro - TP:<br>
+Participé activamente en el diseño UX/UI, además de contribuir con la elaboración de las conclusiones, la bibliografía y los anexos del proyecto. En los momentos de presentación, expliqué con claridad las decisiones relacionadas al diseño de experiencia, argumentando cómo respondían a las necesidades del usuario. Me aseguré de que los documentos estuvieran bien organizados y que el contenido fuera accesible para cualquier tipo de lector.<br><br>
+
+Luquillas Asto Omar - TP:<br>
+Fui responsable de presentar conceptos técnicos como la arquitectura orientada al dominio, así como el desarrollo de la Landing Page y los servicios de la aplicación. Durante los Sprint Reviews, compartí pruebas de implementación y ejecución, procurando que mi explicación fuera entendible tanto para miembros del equipo como para evaluadores. Me enfoqué en simplificar ideas complejas y facilitar el diálogo en todo momento.<br><br>
+
+Real Calderón Sebastián Omar - TP:<br>
+Mis aportes se centraron en el diseño de la base de datos, el desarrollo del Product Backlog y el prototipado funcional de la aplicación. En los espacios de revisión, expuse cómo se estructuraba la información y cómo se relacionaban los servicios. Presenté documentación y evidencias del trabajo técnico de forma clara, buscando que tanto los compañeros como los docentes pudieran seguir el hilo de los procesos realizados.
+
 <br>
       </td>
       <td>
-        A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.
+      <strong>TB1</strong><br>
+        A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.<br><br>
+        <strong>TP</strong><br>
+        Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.
       </td>
     </tr>
     <tr>
@@ -259,21 +279,40 @@ Desarrollé mi comunicación oral participando en las exposiciones sobre los hal
       <td>
 Alejo Cardenas Jose Antonio-TB1:<br>
 A lo largo del proyecto, desarrollé mis habilidades de comunicación escrita al redactar documentos como el análisis de competidores, los entregables del Product Backlog, y la documentación del Software Configuration Management. También colaboré en la redacción de secciones para la Landing Page y los reportes de Services & Applications Implementation. Además, me encargué del registro de versiones del informe y participé en la elaboración de los comentarios dentro de Project Report Collaboration Insights, donde busqué mantener una redacción clara, técnica y adaptada a diferentes tipos de lectores dentro del equipo.
-<br>  
+<br><br>  
 Luquillas Asto Omar-TB1:<br>
 Tuve la responsabilidad de redactar varios entregables clave como el Solution Profile, las User Stories y partes del Product Backlog, utilizando un lenguaje preciso y bien estructurado. También escribí documentación técnica sobre la Domain-Driven Software Architecture, colaboré en el diseño de la Landing Page, y desarrollé contenidos para la sección de Services & Applications Implementation. Además, redacté avances de las Conclusiones, la Bibliografía y los Anexos, enfocándome en mantener un estilo claro, coherente y profesional que pudiera ser comprendido por diversos tipos de audiencia.
-<br> 
+<br><br> 
 Real Calderón Sebastián Omar-TB1:<br>
 Durante el proyecto, participé activamente en presentaciones donde expuse el Startup Profile, el Solution Profile y los segmentos objetivo, siempre procurando que mi mensaje fuera comprensible tanto para mis compañeros como para los docentes. También colaboré en la explicación de los resultados de las entrevistas y en la creación de User Stories, lo cual me permitió comunicar con claridad cómo esas necesidades se traducían en funcionalidades. En las sesiones de diseño de UX/UI, pude expresar mis ideas visuales y funcionales, ajustando mi lenguaje a la naturaleza técnica o general del público.
-<br>
+<br><br>
 Flores Apaico Josue Antonio-TB1:<br>
 Aporté a la comunicación escrita del equipo al redactar User Stories que reflejaban de manera clara las necesidades del usuario, además de desarrollar las Style Guidelines y la documentación visual para la Landing Page UI Design. También contribuí a la elaboración del documento de Web Applications UX/UI Design, manteniendo un lenguaje visualmente descriptivo y técnico, pero accesible, con el fin de que cualquier lector pudiera comprender el propósito de los elementos diseñados y cómo se conectaban con las necesidades identificadas.
-<br>
+<br><br>
 Mendoza Vergara Franklin Alejandro-TB1:<br>
-Contribuí a la redacción de las User Stories del proyecto, redactándolas con detalle y claridad para asegurar su correcta interpretación por parte del equipo. También participé en la creación de la Information Architecture, asegurándome de organizar la información de forma lógica y comprensible. En la documentación de Web Applications UX/UI Design, redacté propuestas visuales y funcionales usando un lenguaje técnico pero accesible, garantizando que la documentación fuera útil para desarrolladores, diseñadores y docentes por igual.
+Contribuí a la redacción de las User Stories del proyecto, redactándolas con detalle y claridad para asegurar su correcta interpretación por parte del equipo. También participé en la creación de la Information Architecture, asegurándome de organizar la información de forma lógica y comprensible. En la documentación de Web Applications UX/UI Design, redacté propuestas visuales y funcionales usando un lenguaje técnico pero accesible, garantizando que la documentación fuera útil para desarrolladores, diseñadores y docentes por igual.<br><br>
+
+
+Alejo Cárdenas José Antonio - TP:<br>
+Me encargué de elaborar documentos técnicos como los relacionados con Software Configuration Management, la implementación de la Landing Page y los servicios de la aplicación. En cada uno de estos entregables, cuidé que la redacción fuera clara, estructurada y entendible tanto para lectores con perfil técnico como para docentes y revisores académicos. Además, participé en la redacción de evidencias de sprint, asegurando que los procesos y resultados fueran comunicados de manera precisa y profesional.<br><
+
+Flores Apaico Josue Antonio - TP:<br>
+Contribuí a la redacción de entregables vinculados al diseño de la interfaz de la Landing Page y al diseño UX/UI general de la aplicación. Me enfoqué en que los documentos fueran visuales, coherentes y accesibles para todos los miembros del equipo. Además, redacté la evidencia de desarrollo y de pruebas (Testing Suite), explicando los procedimientos con un lenguaje técnico comprensible y detallado.<br>
+
+Mendoza Vergara Franklin Alejandro - TP:<br>
+Redacté secciones importantes del informe final, como las conclusiones, la bibliografía y los anexos, asegurándome de mantener una redacción formal, clara y alineada con los estándares académicos. También participé en la documentación de decisiones de diseño UX/UI, buscando que los entregables fueran entendidos tanto por perfiles técnicos como no técnicos, y facilitando así el análisis y evaluación del proyecto.<br>
+
+Luquillas Asto Omar - TP:<br>
+Fui responsable de la documentación escrita sobre la arquitectura orientada al dominio y la implementación de la Landing Page junto con los servicios asociados. Además, redacté entregables de despliegue de software y ejecución de sprint, organizando la información de forma clara y completa. Me aseguré de que los textos reflejaran tanto la parte técnica como el impacto funcional de las soluciones propuestas.<br>
+
+Real Calderón Sebastián Omar - TP:<br>
+Elaboré documentación sobre el diseño de base de datos, el Product Backlog y los prototipos funcionales de la aplicación. También desarrollé evidencia escrita sobre la implementación de servicios, cuidando que el contenido fuera detallado, estructurado y entendible por diferentes tipos de lectores. En cada entregable, me aseguré de transmitir con precisión el propósito, funcionamiento y resultado de cada componente técnico.<br><br>
 <br>
       <td>
-        El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.
+      <strong>TB1</strong><br>
+        El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br>
+        <strong>TP</strong><br>
+        El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.
       </td>
     </tr>
   </tbody>
