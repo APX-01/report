@@ -4108,8 +4108,352 @@ En este sprint, las tareas se organizaron en dos áreas: el diseño y la impleme
 
 <img src="./images/chapter-5/insights-2sprint-2.png" alt="Execution Evidence 8" width="700"/> 
 
+#### 5.2.3. Sprint 3
+En esta sección se expone el informe correspondiente al Sprint 3, el cual estuvo centrado en el desarrollo del backend, la incorporación de nuevas funcionalidades y la optimización de la experiencia de usuario en la aplicación web.
+##### 5.2.3.1. Spring Planning 3.
+Durante este tercer sprint, se continuó utilizando Trello como herramienta principal para la gestión del proyecto. Cada tarjeta dentro del tablero representó una tarea específica, mientras que las distintas columnas reflejaron su estado de avance. Esta organización facilitó una visión integral del progreso general y promovió una colaboración más efectiva entre los miembros del equipo.
+
+En este ciclo de trabajo se propuso construir la versión inicial del backend de la plataforma, así como implementar nuevas características y realizar mejoras orientadas a la experiencia del usuario.
+
+Sprint board en trello:
+<img src="resources/sprint-3/trello-ss.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3">https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3</a>
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2025-06-15</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:50 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Jose Alejo </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Alejo Cardenas Jose Antonio, Luquillas Asto Omar, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio, Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Review Summary</strong></td>
+      <td colspan="1">Se llevó a cabo el primer despliegue de la aplicación web, incorporando funcionalidades esenciales como la creación de servicios y la visualización de información.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td colspan="1">Se evidenció un notable aumento en la productividad y el compromiso del equipo. Además, se establecieron las bases para una organización del trabajo más eficiente.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Goal</strong></td>
+      <td colspan="1">Este sprint tiene como meta principal mejorar la experiencia tanto de los clientes como de los propietarios, optimizando la gestión de servicios y reservas. Se busca proporcionar herramientas que permitan tomar decisiones informadas y realizar un seguimiento efectivo de las citas. Para los clientes, esto se traducirá en una manera más simple de elegir y gestionar sus servicios, con mayor claridad sobre sus citas y opiniones. Para los dueños, implicará una gestión más eficiente de la información de su negocio y servicios, lo cual repercutirá en una mejora de la calidad del servicio ofrecido. También se contempla el desarrollo de una API para que el equipo de desarrollo pueda manejar servicios y citas desde el backend. Este objetivo se considerará alcanzado cuando los clientes puedan reservar y cancelar citas de forma sencilla y según sus necesidades, los propietarios tengan la capacidad de crear, modificar o eliminar servicios, y los desarrolladores puedan añadir nuevos elementos mediante la API.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta  story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de  story point.</td>
+  </tr>
+</table>
 
 
+
+##### 5.2.3.2. Sprint Backlog 3.
+
+En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 3. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US006</td>
+    <td rowspan="2">Búsqueda de servicios</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de búsqueda.</td>
+    <td>Implementar un componente que permita ingresar parámetros para una búsqueda de servicios personalizada.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear Métodos para filtrar los servicios mostrados según los datos del componente de búsqueda</td>
+    <td>Crear el método de filtración que obtenga los parámetros ingresados al componente para un filtrado de los servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US009</td>
+    <td>Visualización del cronograma de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con una empresa.</td>
+    <td>Diseñar e implementar la muestra de información de servicio mediante el uso de cards.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US010</td>
+    <td rowspan="2">Pantalla de inicio</td>
+    <td>T01</td>
+    <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
+    <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
+    <td>4</td>
+      <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación de filtro por popularidad en compañías y servicios.</td>
+    <td>Programar una función que permita ordenar los servicios según su popularidad.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US011</td>
+    <td rowspan="2">Perfil de compañía.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de perfil de empresa.</td>
+    <td>Diseñar e implementar un component que muestre la información de la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementación perfil de empresa, incluyendo rating, reseñas y servicios.</td>
+    <td>Implementar una función que muestre los rating reseñas y servicios relacionados con la empresa.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US012</td>
+    <td rowspan="2">Reservar una cita.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente para la creación de una reserva.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de servicios.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para manejar la información ingresada al formulario de reserva.</td>
+    <td>Crear un método para obtener la información presente en el formulario y construir un nuevo servicio a partir de esta.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Díaz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US013</td>
+    <td rowspan="2">Dejar valoración y reseña después de la cita.</td>
+    <td>T01</td>
+    <td>Diseñar e Implementar el componente de valoración y reseña.</td>
+    <td>Diseñar e implementar un botón que redirija al formulario de creación de una reseña.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método y validaciones para el formulario de creación y edición de reseña.</td>
+    <td>Crear un método que permita la construcción de una reseña a partir de la información ingresada en el formulario.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+      <td rowspan="2">US015</td>
+      <td rowspan="2">Eliminación de servicio</td>
+      <td>T01</td>
+      <td>Diseñar e implementar el componente de eliminación de servicios.</td>
+      <td>Se debe implementar un botón dentro del componente del servicio de la empresa.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar la funcionalidad para eliminar un servicio.</td>
+      <td>Al accionar el botón de eliminación se debe eliminar el servicio sobre el cual esta presente el botón.</td>
+      <td>4</td>
+      <td>Gabriel Alexander Casas Sanchez</td>
+      <td>Done</td>
+    </tr>
+  <tr>
+    <td rowspan="2">US016</td>
+    <td rowspan="2">Actualización de servicios ofrecidos</td>
+    <td>T01</td>
+    <td>Diseñar e implementar el componente de edición de servicios.</td>
+    <td>Se debe diseñar y agregar un formulario para poder actualizar los datos de un servicio</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Crear método para manejar los datos del formulario de edición de los datos de un servicio.</td>
+    <td>Se debe implementar un formulario que sea capaz de mostrar la información actual del servicio, así como ingresar los datos que se desean modificar en el mismo formulario.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US026</td>
+    <td>Cancelación de una cita(compañía)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US027</td>
+    <td>Visualización de citas</td>
+    <td>T01</td>
+    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con un cliente.</td>
+    <td>Diseñar e implementar un componente que muestre las citas pendientes que existen, mostrando la información del servicio y cliente.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US028</td>
+    <td>Cancelación de una cita(cliente)</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
+    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US029</td>
+    <td>Visualización de historial de citas.</td>
+    <td>T01</td>
+    <td>Diseñar e implementar un componente donde se muestren las citas ya completadas.</td>
+    <td>Diseñar e implementar un componente que muestre las citas con estado terminado.</td>
+    <td>4</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS003</td>
+    <td>Endpoint para buscar servicios</td>
+    <td>T01</td>
+    <td>Creación del método getAll y getById.</td>
+    <td>Se debe implementar los queries necesario para la realización del get all y get by Id, se debe retornar un json con toda la infromación.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS005</td>
+    <td>Crear una cita</td>
+    <td>T01</td>
+    <td>Creación del método post para citas.</td>
+    <td>Creación de un método capaz de crear una cita partir de un json.</td>
+    <td>4</td>
+    <td>Gianluca Santino Pasquale Barrenechea</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS006</td>
+    <td rowspan="2">Endpoint para gestión de reseñas</td>
+    <td>T01</td>
+    <td>Creación de métodos delete, put y post.</td>
+    <td>Cración de métodos post, put y delete by id</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Creación de métodos getById. getByUserId, getByCompanyId</td>
+    <td>Implementar los métodos getById, getByuserID y getByCompanyId</td>
+    <td>3</td>
+    <td>Elvia Marcela Rodriguez Villa</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS007</td>
+    <td>Creación de servicio</td>
+    <td>T01</td>
+    <td>Creación del endpoint post para servicios</td>
+    <td>Implementación del método post para la creación de servicios.</td>
+    <td>4</td>
+    <td>Gabriel Alexander Casas Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS010</td>
+    <td>Endpoint para gestión de compañias.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS011</td>
+    <td>Endpoint para gestión de categorías.</td>
+    <td>T01</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>Creación del método post y getAll, getById.</td>
+    <td>4</td>
+    <td>Godofredo Quispe Tipo></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS012</td>
+    <td>Endpoint para gestión de citas.</td>
+    <td>T01</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>4</td>
+    <td>Juan Diego Astonitas Diaz</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 ## Conclusiones
 
