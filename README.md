@@ -4455,6 +4455,843 @@ A continuación, se presenta un desglose detallado de las user stories implement
   </tr>
 </table>
 
+##### 5.2.3.3. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 9321f35 </td>
+    <td colspan="1"> feat(develop): added language switcher </td>
+    <td colspan="1"> feat(develop): added language switcher </td>
+    <td colspan="1"> 15/05/2025 </td>
+
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 790fe57 </td>
+    <td colspan="1"> feat(develop): added group entity and service </td>
+    <td colspan="1"> feat(develop): added group entity and service </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 3e5acd2 </td>
+    <td colspan="1"> feat(develop): added group join code entity and service </td>
+    <td colspan="1"> feat(develop): added group join code entity and service </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 1370615 </td>
+    <td colspan="1"> feat(develop): added group list and join </td>
+    <td colspan="1"> feat(develop): added group list and join </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 93b303a </td>
+    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+    <td colspan="1"> 15/05/2025 </td>
+
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 55e08aa </td>
+    <td colspan="1"> feat(Service): Added services </td>
+    <td colspan="1"> feat(Service): Added services </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 171f700 </td>
+    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
+    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c8d30d2 </td>
+    <td colspan="1"> fix(app-component): Added app component </td>
+    <td colspan="1"> fix(app-component): Added app component </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 71bce45 </td>
+    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
+    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 124ffe2 </td>
+    <td colspan="1"> feat(developer): adjusted and added group view </td>
+    <td colspan="1"> feat(developer): adjusted and added group view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 3f61a3a </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f19d42e </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 71bce45 </td>
+    <td colspan="1"> fix: moved base service to appropiate folder </td>
+    <td colspan="1"> fix: moved base service to appropiate folder </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 124ffe2 </td>
+    <td colspan="1"> feat: adjusted and added group view </td>
+    <td colspan="1"> feat: adjusted and added group view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 3f61a3a </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f19d42e </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> c4f8531 </td>
+    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> dbbab5a </td>
+    <td colspan="1"> fix(font-awesome): fix icons </td>
+    <td colspan="1"> fix(font-awesome): fix icons </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 6e7869f </td>
+    <td colspan="1"> feat: group creation </td>
+    <td colspan="1"> feat: group creation </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> dbbf130 </td>
+    <td colspan="1"> fix: made challenge components standalone </td>
+    <td colspan="1"> fix: made challenge components standalone </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 1c42370 </td>
+    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 529b24c </td>
+    <td colspan="1"> fix(router-error): fix error </td>
+    <td colspan="1"> fix(router-error): fix error </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> b8cfcd9 </td>
+    <td colspan="1"> feat: added group student list view </td>
+    <td colspan="1"> feat: added group student list view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 936123a </td>
+    <td colspan="1"> fix: router param names </td>
+    <td colspan="1"> fix: router param names </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> ae66a9c </td>
+    <td colspan="1"> fix: routes for param names </td>
+    <td colspan="1"> fix: routes for param names </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 9588518 </td>
+    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 738430f </td>
+    <td colspan="1"> fix: fixes update on group list </td>
+    <td colspan="1"> fix: fixes update on group list </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f0f58c7 </td>
+    <td colspan="1"> feat(attempts): Added remaining attempts </td>
+    <td colspan="1"> feat(attempts): Added remaining attempts </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f96d15d </td>
+    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
+    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 1635923 </td>
+    <td colspan="1"> feat(analytics): added analytics </td>
+    <td colspan="1"> feat(analytics): added analytics </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> c47402e </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+</table>
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 30631ed </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> chore: set up project. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 157c294 </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> chore: add dependencies. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 84d2016 </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> chore: add database connection string. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 22f2f20 </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> chore: add efc persistence base contracts. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 6c42dad </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> chore: add efc persistence extensions. </td>
+    <td colspan="1"> 23/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 6145c20 </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> feat(services): add service aggregate and create service command. </td>
+    <td colspan="1"> 25/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 47ddf17 </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> feat(services): added auditable service entity. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9d472db </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> feat(services): added services principal queries. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ce145d4 </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(services): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 98222f9 </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> chore: add missing share context elements. </td>
+    <td colspan="1"> 28/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1ec3a710 </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> feat(services): added category and company entities. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 4e32fae8 </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> feat(orm): add object-relational mapping rules. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 07d37eed </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> feat(services): add service outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7fff2eee </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> feat(categories): add category auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 20993714 </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> feat(companies): add company auditable features. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 1e70d278 </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> feat(companies): add company commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> dc44b049 </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> feat(categories): add category commands. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7b38e30b </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> feat(companies): add company get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e4aabd5b </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> feat(categories): add category get all query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 05d2c581 </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(categories): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> f5255362 </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> feat(companies): add command, query and outbound service contracts. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> efa8501c </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> feat(categories): add category outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e817ec23 </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> feat(company): add company outbound service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 5a60011b </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> feat(services): add service command service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 38ead981 </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> feat(services): add service query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ab32248f </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> feat(app) add main application services configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 68d509f7 </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> feat(categories): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> e9259f24 </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> feat(company): added command constructor. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a0522ce7 </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> feat(categories): add category command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 9e9d4c9f </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> feat(company): add company command and query service implementation. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 752ef955 </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> feat(app): add missing bounded context dependency injection configuration. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> a91db2d2 </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> feat(service-management): add resources. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 7165b7a9 </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> feat(service-management): added assemblers. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 487b3a98 </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> feat(categories): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0684bb31 </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> feat(companies): added and implemented find by id query. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> ee73e542 </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> feat(service-management): add category inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> b5d36054 </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> feat(service-management): add company inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cabd6762 </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> feat(service-management): add service inbound service. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> cc2a5d27 </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> feat(service-management): add inbound services. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 288e18fd </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> fix: added missing swagger run line. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 0a9d9d2 </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> fix: included missing entity when fetching data when searching services by company id. </td>
+    <td colspan="1"> 29/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> 2b04774 </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> fix(service-management): added missing queries implementations. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/services </td>
+    <td colspan="1"> eb9c1f0 </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> fix(service-management): fixed access information trough endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 5c0e121 </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> feat(controller): implemented delete appointment endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/commands </td>
+    <td colspan="1"> 8d14eae9 </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> feat: added delete appointment command </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 29f612d8 </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> feat(repositories): implemented appointment repository. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> babdcc00 </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> feat(rest): implemented get appointments by user id endpoint. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/resources </td>
+    <td colspan="1"> adeba3c7 </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> feat(resources): added user resource. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> 74a28360 </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> feat(queries): add get appointment by id query. </td>
+    <td colspan="1"> 31/10/2024 </td>
+  </tr>
+	  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/query-services </td>
+    <td colspan="1"> 6589f771 </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> feat(query-services): added call to find appointment by id of appointment repository. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7e309ebc </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> feat(user): Review collection interface added. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 4b71beb1 </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> feat: Implement ReviewController with necessary endpoints. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> fd55c5d0 </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> feat: Define ReviewResource and related resources. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/queries </td>
+    <td colspan="1"> ad40fb11 </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> feat(query-services): "Add IReviewQueryService interface and implement query handling for reviews". </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 059f00f7 </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> feat: Add IReviewQueryService interface definition. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 0940ca53 </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> feat: Register ReviewCommandService, ReviewQueryService, and ReviewRepository in Program.cs. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 7de882b2 </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommand for updating review details. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 7404c323 </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> feat: added new resource to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 321a9371 </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> feat: added new command services for update appointments. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/repositories </td>
+    <td colspan="1"> 55888fbf </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> feat(repositories): Add methods to find reviews by user id, appointment id, and company id. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>
+	<tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 0788e19 </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> fix(controller): added await to handle call for delete appointment command service in appointment controller. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> b584982 </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> feat(repositories): implemented find by service id and time , and find by user d and time. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> cec503e </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> feat(repositories): aded find appointment by id contract. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6f38927 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6589f77 </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> feat(repositories): implemented find appointment by id task. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/appointments </td>
+    <td colspan="1"> 6825f04 </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> feat(controller): added new endpoint to update an existing appointment. </td>
+    <td colspan="1"> 01/11/2024 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> dc594d1d </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> feat: Add UpdateReviewResource for updating review data. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/NRG3-appweb/backend </td>
+    <td colspan="1"> feat/reviews </td>
+    <td colspan="1"> 2646361d </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> feat: Add UpdateReviewCommandResourceFromEntityAssembler for converting UpdateReviewResource to UpdateReviewCommand. </td>
+    <td colspan="1"> 02/11/2024 </td>
+  </tr>
+  
+</table>
+
+
 ## Conclusiones
 
 **1.**	La planificación inicial mediante wireframes y user stories fue clave para establecer una visión clara del producto, definir funcionalidades prioritarias y asegurar que la experiencia de usuario fuera intuitiva y enfocada a las necesidades reales de los estudiantes.
