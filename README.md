@@ -4207,7 +4207,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que acepte nombre, correo y contraseña válidos y devuelva 201 Created</td>
     <td>4</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4215,7 +4215,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar validación que devuelva 409 Conflict si el correo ya está registrado</td>
     <td>3</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T03</td>
@@ -4223,7 +4223,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar validaciones que devuelvan 400 Bad Request para datos inválidos</td>
     <td>3</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="3">TS-002</td>
@@ -4233,7 +4233,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que devuelva token de autenticación con credenciales válidas</td>
     <td>4</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4241,7 +4241,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 401 Unauthorized para correo no registrado o contraseña incorrecta</td>
     <td>3</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T03</td>
@@ -4249,7 +4249,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 400 Bad Request cuando falten datos en la solicitud</td>
     <td>2</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-003</td>
@@ -4259,7 +4259,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que devuelva lista de usuarios dado un groupId válido</td>
     <td>3</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4267,7 +4267,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
     <td>2</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-004</td>
@@ -4277,7 +4277,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que registre nuevos grupos con nombre y descripción válidos</td>
     <td>4</td>
     <td>Omar Luquillas Asto</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4285,7 +4285,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 400 Bad Request para datos faltantes o con formato incorrecto</td>
     <td>3</td>
     <td>Omar Luquillas Asto</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-005</td>
@@ -4295,7 +4295,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que registre nuevos retos con todos los campos requeridos</td>
     <td>5</td>
     <td>Josue Antonio Flores Apaico</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4303,7 +4303,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar validaciones que devuelvan 400 Bad Request para datos incorrectos</td>
     <td>3</td>
     <td>Josue Antonio Flores Apaico</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-006</td>
@@ -4313,7 +4313,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que devuelva lista de retos asignados a un grupo</td>
     <td>3</td>
     <td>Alejandro Franklin Mendoza Vergara</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4321,7 +4321,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta con lista vacía cuando el grupo no tenga retos asignados</td>
     <td>2</td>
     <td>Alejandro Franklin Mendoza Vergara</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="3">TS-007</td>
@@ -4331,7 +4331,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que registre respuestas a retos con datos válidos</td>
     <td>4</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4339,7 +4339,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
     <td>2</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T03</td>
@@ -4347,7 +4347,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 400 Bad Request para formatos incorrectos</td>
     <td>3</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="3">TS-008</td>
@@ -4357,7 +4357,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que agregue usuarios a grupos con userId válido</td>
     <td>4</td>
     <td>Omar Luquillas Asto</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4365,7 +4365,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que elimine usuarios de grupos con userId válido</td>
     <td>4</td>
     <td>Omar Luquillas Asto</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T03</td>
@@ -4373,7 +4373,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 404 Not Found cuando el userId no exista</td>
     <td>2</td>
     <td>Omar Luquillas Asto</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-009</td>
@@ -4383,7 +4383,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que genere código único dado un groupId válido</td>
     <td>5</td>
     <td>Josue Antonio Flores Apaico</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4391,7 +4391,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
     <td>2</td>
     <td>Josue Antonio Flores Apaico</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="2">TS-010</td>
@@ -4401,7 +4401,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que devuelva información del grupo si el código es válido</td>
     <td>4</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4409,7 +4409,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 400 Bad Request cuando el código no sea válido</td>
     <td>3</td>
     <td>Jose Antonio Alejo Cardenas</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td rowspan="3">TS-011</td>
@@ -4419,7 +4419,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Crear endpoint que actualice fecha límite de reto con fecha válida</td>
     <td>4</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T02</td>
@@ -4427,7 +4427,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 400 Bad Request para fechas inválidas</td>
     <td>3</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>T03</td>
@@ -4435,7 +4435,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
     <td>2</td>
     <td>Sebastián Omar Real Calderón</td>
-    <td>To Do</td>
+    <td>Done</td>
   </tr>
 </table>
 
