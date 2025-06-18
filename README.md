@@ -4200,258 +4200,242 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td colspan="1"><strong>Status</strong></td>
   </tr>
   <tr>
-    <td rowspan="2">US006</td>
-    <td rowspan="2">Búsqueda de servicios</td>
+    <td rowspan="3">TS-001</td>
+    <td rowspan="3">Endpoint para registro</td>
     <td>T01</td>
-    <td>Diseñar e implementar el componente de búsqueda.</td>
-    <td>Implementar un componente que permita ingresar parámetros para una búsqueda de servicios personalizada.</td>
+    <td>Implementar endpoint POST para registro</td>
+    <td>Crear endpoint que acepte nombre, correo y contraseña válidos y devuelva 201 Created</td>
     <td>4</td>
-    <td>Juan Diego Astonitas Díaz</td>
-    <td>Done</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
   </tr>
   <tr>
     <td>T02</td>
-    <td>Crear Métodos para filtrar los servicios mostrados según los datos del componente de búsqueda</td>
-    <td>Crear el método de filtración que obtenga los parámetros ingresados al componente para un filtrado de los servicios.</td>
-    <td>4</td>
-    <td>Juan Diego Astonitas Díaz</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US009</td>
-    <td>Visualización del cronograma de citas</td>
-    <td>T01</td>
-    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con una empresa.</td>
-    <td>Diseñar e implementar la muestra de información de servicio mediante el uso de cards.</td>
-    <td>4</td>
-    <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">US010</td>
-    <td rowspan="2">Pantalla de inicio</td>
-    <td>T01</td>
-    <td>Diseñar e implementar la vista de home donde muestre los servicios y compañías principales para clientes.</td>
-    <td>Diseñar los estilos e implementar un componente que muestre servicios populares.</td>
-    <td>4</td>
-      <td>Godofredo Quispe Tipo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Implementación de filtro por popularidad en compañías y servicios.</td>
-    <td>Programar una función que permita ordenar los servicios según su popularidad.</td>
-    <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">US011</td>
-    <td rowspan="2">Perfil de compañía.</td>
-    <td>T01</td>
-    <td>Diseñar e implementar el componente de perfil de empresa.</td>
-    <td>Diseñar e implementar un component que muestre la información de la empresa.</td>
-    <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Implementación perfil de empresa, incluyendo rating, reseñas y servicios.</td>
-    <td>Implementar una función que muestre los rating reseñas y servicios relacionados con la empresa.</td>
-    <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">US012</td>
-    <td rowspan="2">Reservar una cita.</td>
-    <td>T01</td>
-    <td>Diseñar e implementar el componente para la creación de una reserva.</td>
-    <td>Diseñar e implementar un botón que redirija al formulario de creación de servicios.</td>
-    <td>4</td>
-    <td>Juan Diego Astonitas Díaz</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Crear método y validaciones para manejar la información ingresada al formulario de reserva.</td>
-    <td>Crear un método para obtener la información presente en el formulario y construir un nuevo servicio a partir de esta.</td>
-    <td>4</td>
-    <td>Juan Diego Astonitas Díaz</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">US013</td>
-    <td rowspan="2">Dejar valoración y reseña después de la cita.</td>
-    <td>T01</td>
-    <td>Diseñar e Implementar el componente de valoración y reseña.</td>
-    <td>Diseñar e implementar un botón que redirija al formulario de creación de una reseña.</td>
-    <td>4</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Crear método y validaciones para el formulario de creación y edición de reseña.</td>
-    <td>Crear un método que permita la construcción de una reseña a partir de la información ingresada en el formulario.</td>
-    <td>4</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-      <td rowspan="2">US015</td>
-      <td rowspan="2">Eliminación de servicio</td>
-      <td>T01</td>
-      <td>Diseñar e implementar el componente de eliminación de servicios.</td>
-      <td>Se debe implementar un botón dentro del componente del servicio de la empresa.</td>
-      <td>4</td>
-      <td>Gabriel Alexander Casas Sanchez</td>
-      <td>Done</td>
-    </tr>
-    <tr>
-      <td>T02</td>
-      <td>Implementar la funcionalidad para eliminar un servicio.</td>
-      <td>Al accionar el botón de eliminación se debe eliminar el servicio sobre el cual esta presente el botón.</td>
-      <td>4</td>
-      <td>Gabriel Alexander Casas Sanchez</td>
-      <td>Done</td>
-    </tr>
-  <tr>
-    <td rowspan="2">US016</td>
-    <td rowspan="2">Actualización de servicios ofrecidos</td>
-    <td>T01</td>
-    <td>Diseñar e implementar el componente de edición de servicios.</td>
-    <td>Se debe diseñar y agregar un formulario para poder actualizar los datos de un servicio</td>
-    <td>4</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Crear método para manejar los datos del formulario de edición de los datos de un servicio.</td>
-    <td>Se debe implementar un formulario que sea capaz de mostrar la información actual del servicio, así como ingresar los datos que se desean modificar en el mismo formulario.</td>
-    <td>4</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US026</td>
-    <td>Cancelación de una cita(compañía)</td>
-    <td>T01</td>
-    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
-    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
-    <td>4</td>
-    <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US027</td>
-    <td>Visualización de citas</td>
-    <td>T01</td>
-    <td>Diseñar e implementar los componentes necesarios para poder visualizar las citas relacionadas con un cliente.</td>
-    <td>Diseñar e implementar un componente que muestre las citas pendientes que existen, mostrando la información del servicio y cliente.</td>
-    <td>4</td>
-    <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US028</td>
-    <td>Cancelación de una cita(cliente)</td>
-    <td>T01</td>
-    <td>Diseñar e implementar un action button para la cancelación de una reserva.</td>
-    <td>Diseñar e implementar un botón que permita cancelar una reserva.</td>
-    <td>4</td>
-    <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US029</td>
-    <td>Visualización de historial de citas.</td>
-    <td>T01</td>
-    <td>Diseñar e implementar un componente donde se muestren las citas ya completadas.</td>
-    <td>Diseñar e implementar un componente que muestre las citas con estado terminado.</td>
-    <td>4</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TS003</td>
-    <td>Endpoint para buscar servicios</td>
-    <td>T01</td>
-    <td>Creación del método getAll y getById.</td>
-    <td>Se debe implementar los queries necesario para la realización del get all y get by Id, se debe retornar un json con toda la infromación.</td>
-    <td>4</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TS005</td>
-    <td>Crear una cita</td>
-    <td>T01</td>
-    <td>Creación del método post para citas.</td>
-    <td>Creación de un método capaz de crear una cita partir de un json.</td>
-    <td>4</td>
-    <td>Gianluca Santino Pasquale Barrenechea</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">TS006</td>
-    <td rowspan="2">Endpoint para gestión de reseñas</td>
-    <td>T01</td>
-    <td>Creación de métodos delete, put y post.</td>
-    <td>Cración de métodos post, put y delete by id</td>
+    <td>Validar unicidad de correo</td>
+    <td>Implementar validación que devuelva 409 Conflict si el correo ya está registrado</td>
     <td>3</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
-    <td>Done</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Validar formato de entrada</td>
+    <td>Implementar validaciones que devuelvan 400 Bad Request para datos inválidos</td>
+    <td>3</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="3">TS-002</td>
+    <td rowspan="3">Endpoint para inicio de sesión</td>
+    <td>T01</td>
+    <td>Implementar endpoint POST para login</td>
+    <td>Crear endpoint que devuelva token de autenticación con credenciales válidas</td>
+    <td>4</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
   </tr>
   <tr>
     <td>T02</td>
-    <td>Creación de métodos getById. getByUserId, getByCompanyId</td>
-    <td>Implementar los métodos getById, getByuserID y getByCompanyId</td>
+    <td>Manejar credenciales incorrectas</td>
+    <td>Implementar respuesta 401 Unauthorized para correo no registrado o contraseña incorrecta</td>
     <td>3</td>
-    <td>Elvia Marcela Rodriguez Villa</td>
-    <td>Done</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
   </tr>
   <tr>
-    <td>TS007</td>
-    <td>Creación de servicio</td>
-    <td>T01</td>
-    <td>Creación del endpoint post para servicios</td>
-    <td>Implementación del método post para la creación de servicios.</td>
-    <td>4</td>
-    <td>Gabriel Alexander Casas Sanchez</td>
-    <td>Done</td>
+    <td>T03</td>
+    <td>Validar datos requeridos</td>
+    <td>Implementar respuesta 400 Bad Request cuando falten datos en la solicitud</td>
+    <td>2</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
   </tr>
   <tr>
-    <td>TS010</td>
-    <td>Endpoint para gestión de compañias.</td>
+    <td rowspan="2">TS-003</td>
+    <td rowspan="2">Endpoint para obtener usuarios de un grupo</td>
     <td>T01</td>
-    <td>Creación del método post y getAll, getById.</td>
-    <td>Creación del método post y getAll, getById.</td>
-    <td>4</td>
-    <td>Godofredo Quispe Tipo</td>
-    <td>Done</td>
+    <td>Implementar endpoint GET por groupId</td>
+    <td>Crear endpoint que devuelva lista de usuarios dado un groupId válido</td>
+    <td>3</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
   </tr>
   <tr>
-    <td>TS011</td>
-    <td>Endpoint para gestión de categorías.</td>
-    <td>T01</td>
-    <td>Creación del método post y getAll, getById.</td>
-    <td>Creación del método post y getAll, getById.</td>
-    <td>4</td>
-    <td>Godofredo Quispe Tipo></td>
-    <td>Done</td>
+    <td>T02</td>
+    <td>Manejar groupId inválido</td>
+    <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
   </tr>
   <tr>
-    <td>TS012</td>
-    <td>Endpoint para gestión de citas.</td>
+    <td rowspan="2">TS-004</td>
+    <td rowspan="2">Endpoint para crear un grupo</td>
     <td>T01</td>
-    <td>Creación del método getById, getByUserId y delete.</td>
-    <td>Creación del método getById, getByUserId y delete.</td>
+    <td>Implementar endpoint POST para grupos</td>
+    <td>Crear endpoint que registre nuevos grupos con nombre y descripción válidos</td>
     <td>4</td>
-    <td>Juan Diego Astonitas Diaz</td>
-    <td>Done</td>
+    <td>Omar Luquillas Asto</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validar datos requeridos</td>
+    <td>Implementar respuesta 400 Bad Request para datos faltantes o con formato incorrecto</td>
+    <td>3</td>
+    <td>Omar Luquillas Asto</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS-005</td>
+    <td rowspan="2">Endpoint para crear un reto</td>
+    <td>T01</td>
+    <td>Implementar endpoint POST para retos</td>
+    <td>Crear endpoint que registre nuevos retos con todos los campos requeridos</td>
+    <td>5</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validar datos de entrada</td>
+    <td>Implementar validaciones que devuelvan 400 Bad Request para datos incorrectos</td>
+    <td>3</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS-006</td>
+    <td rowspan="2">Endpoint para listar retos por grupo</td>
+    <td>T01</td>
+    <td>Implementar endpoint GET por groupId</td>
+    <td>Crear endpoint que devuelva lista de retos asignados a un grupo</td>
+    <td>3</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Manejar grupos sin retos</td>
+    <td>Implementar respuesta con lista vacía cuando el grupo no tenga retos asignados</td>
+    <td>2</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="3">TS-007</td>
+    <td rowspan="3">Endpoint para enviar respuesta a un reto</td>
+    <td>T01</td>
+    <td>Implementar endpoint POST para entregas</td>
+    <td>Crear endpoint que registre respuestas a retos con datos válidos</td>
+    <td>4</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validar existencia del reto</td>
+    <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Validar formato de entrega</td>
+    <td>Implementar respuesta 400 Bad Request para formatos incorrectos</td>
+    <td>3</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="3">TS-008</td>
+    <td rowspan="3">Endpoint para agregar o eliminar integrantes de un grupo</td>
+    <td>T01</td>
+    <td>Implementar endpoint POST para agregar miembros</td>
+    <td>Crear endpoint que agregue usuarios a grupos con userId válido</td>
+    <td>4</td>
+    <td>Omar Luquillas Asto</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Implementar endpoint DELETE para eliminar miembros</td>
+    <td>Crear endpoint que elimine usuarios de grupos con userId válido</td>
+    <td>4</td>
+    <td>Omar Luquillas Asto</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Validar existencia de usuario</td>
+    <td>Implementar respuesta 404 Not Found cuando el userId no exista</td>
+    <td>2</td>
+    <td>Omar Luquillas Asto</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS-009</td>
+    <td rowspan="2">Endpoint para generar código de invitación</td>
+    <td>T01</td>
+    <td>Implementar endpoint POST para códigos de invitación</td>
+    <td>Crear endpoint que genere código único dado un groupId válido</td>
+    <td>5</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validar existencia del grupo</td>
+    <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
+    <td>2</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">TS-010</td>
+    <td rowspan="2">Endpoint para validar código de invitación</td>
+    <td>T01</td>
+    <td>Implementar endpoint GET para validar códigos</td>
+    <td>Crear endpoint que devuelva información del grupo si el código es válido</td>
+    <td>4</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Manejar códigos inválidos</td>
+    <td>Implementar respuesta 400 Bad Request cuando el código no sea válido</td>
+    <td>3</td>
+    <td>Jose Antonio Alejo Cardenas</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td rowspan="3">TS-011</td>
+    <td rowspan="3">Endpoint para actualizar fecha límite de reto</td>
+    <td>T01</td>
+    <td>Implementar endpoint PUT para fechas límite</td>
+    <td>Crear endpoint que actualice fecha límite de reto con fecha válida</td>
+    <td>4</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T02</td>
+    <td>Validar formato de fecha</td>
+    <td>Implementar respuesta 400 Bad Request para fechas inválidas</td>
+    <td>3</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
+  </tr>
+  <tr>
+    <td>T03</td>
+    <td>Validar existencia del reto</td>
+    <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>To Do</td>
   </tr>
 </table>
 
