@@ -6200,63 +6200,79 @@ En esta sección se presentan los detalles de las entrevistas de validación rea
 
 Para el diseño de entrevistas se consideraron los siguientes aspectos:
 
-**Objetivo de la Entrevista**
+##### Objetivo de la Entrevista
 
-Validar la usabilidad y efectividad de la landing page y la aplicación para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos y satisfactorios.
-**Elementos de Validación**
-- **Landing Page**: Los usuarios interactuarán con la landing page para evaluar la claridad del mensaje, las llamadas a la acción (CTA), la navegación y el diseño.
-- **Aplicación**: Se guiará a los usuarios a través de flujos principales, como la reserva de servicios de belleza, la gestión de servicios y el sistema de feedback.
-**User Flows a Validar**
+Validar la usabilidad, claridad del mensaje y efectividad de la landing page y las aplicaciones web de EduHive para los segmentos objetivo: estudiantes universitarios y profesores universitarios. Se busca asegurar que los flujos de usuario sean intuitivos, funcionales y alineados con las necesidades reales de los usuarios finales.
 
-**Para el Segmento Cliente**
-1. **Navegación del Catálogo de Servicios**: Facilidad para encontrar y explorar servicios (manicure, pedicure, tratamientos faciales, etc.).
-2. **Proceso de Reserva**: Facilidad para reservar un servicio, seleccionar una hora y elegir un profesional.
-3. **Recepción de Servicios**: Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
-   
-**Para el Segmento Empresa**
-1. **Visualización del Perfil de la Empresa**: Cómo la empresa visualiza su propio perfil.
-2. **Creación de Servicio**: Facilidad para crear y personalizar nuevos servicios.
-3. **Gestión de Reservas**: Capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
-4. **Recepción de Reviews y Feedback de Clientes**: Cómo las empresas reciben y gestionan reseñas de los clientes.
+##### Elementos de Validación
 
-**Formato de Registro de la Entrevista**
-1. **Datos del Entrevistado**:
-   - Nombre y apellidos
-   - Edad
-   - Distrito de residencia
-   - Dispositivo utilizado (smartphone, tablet, laptop)
+- **Landing Page:** Se evaluará la claridad del mensaje, la organización del contenido, la efectividad de las secciones informativas como características del producto, testimonios, presentación del equipo y formulario de contacto. Se validará la facilidad para entender el propósito del proyecto y la motivación para suscribirse al newsletter.
+- **Aplicación para estudiantes universitarios:** Se evaluarán los principales flujos de interacción de los estudiantes con la aplicación, incluyendo su capacidad para unirse a grupos mediante código, visualizar retos activos, gestionar envíos (submissions), y acceder a la lista de miembros del grupo.
+- **Aplicación para profesores universitarios:** Se validarán las funcionalidades clave de los docentes como la creación de grupos, generación de retos (challenges), visualización y calificación de entregas, gestión de alumnos y el acceso a métricas analíticas del desempeño grupal e individual.
 
-**Preguntas para el Segmento Cliente**
-**Catálogo de Servicios**
-- ¿Fue fácil encontrar lo que buscabas en el catálogo?
-- ¿Cómo describirías la información presentada sobre los servicios?
-- ¿Algún momento te sentiste perdido al explorar el catálogo?
-- ¿Pudiste comparar fácilmente diferentes servicios? ¿Cómo mejorarías este proceso?
-**Creación de Reserva de Cita**
-- ¿Qué tan sencillo fue comenzar a reservar una cita?
-- Describe el flujo para crear una reserva. ¿Algún paso generó dudas?
-- ¿El sistema brindó suficiente retroalimentación al completar la reserva?
-- ¿Hubo obstáculos al elegir la fecha o el servicio adecuado?
-**Visualización de Historial**
-- Describe tu experiencia al buscar el historial de reservas. ¿Fue intuitivo?
-- ¿Pudiste encontrar la información fácilmente?
-- ¿Hay algo en el historial que cambiarías para mejorar la gestión de reservas pasadas?
-**Reviews**
-- Describe el proceso para dejar una review. ¿Fue sencillo?
-- ¿Recibiste suficiente guía para incluir tu review?
-- ¿Te resultó útil valorar tanto el servicio como al proveedor?
-**Preguntas para el Segmento Empresa**
-**Visualización de Servicios**
-- ¿Fue clara la visualización de los servicios de tu empresa en el perfil?
-- ¿Cómo fue la funcionalidad para actualizar o modificar los servicios?
-**Creación de Servicio**
-- Describe el proceso para crear un nuevo servicio. ¿Fue claro desde el principio?
-- ¿Qué tan intuitivo fue definir los detalles del servicio (nombre, precio, disponibilidad)?
-- ¿Recibiste suficiente orientación durante la creación del servicio?
-**Gestión de Servicios y Reservas**
-- ¿En qué medida el sistema te permite gestionar eficientemente los servicios?
-- ¿Qué desafíos enfrentaste al actualizar la información de la empresa y servicios?
-- ¿Qué aspectos del sistema valoras más en comparación con otras plataformas que usas?
+##### User Flows a Validar
+
+- **Landing Page**:
+
+  - Sección de características que EduHive ofrece respecto a la aplicación y testimonios: Se validará si los usuarios comprenden fácilmente las funcionalidades que ofrece EduHive, si los testimonios les generan confianza y si esta sección transmite valor de forma clara y atractiva.
+  - Sección “Meet the team”, “Contact us” y suscripción al newsletter: Se evaluará si la presentación del equipo genera cercanía y credibilidad, si el formulario de contacto es accesible y funcional, y si el usuario entiende para qué sirve suscribirse al newsletter y se siente motivado a hacerlo.
+
+- **Aplicación web para Estudiantes Universitarios:**
+
+  - Unión de grupos mediante código: Se analizará si el proceso es intuitivo, si el código es fácil de ingresar y si la retroalimentación del sistema es clara ante códigos correctos o erróneos.
+  - Visualización de retos: Se evaluará la facilidad para acceder a los retos activos, identificar su contenido, fechas límite y estados de avance.
+  - Visualización y creación de submissions: Se validará si el proceso de entregar una solución (subir un submission) es comprensible y fluido, y si el estudiante puede ver sus entregas pasadas de manera ordenada.
+  - Ver listas de miembros de un grupo: Se medirá qué tan fácil es acceder al listado de compañeros, si la información mostrada es útil y si ayuda a identificar roles o niveles de participación.
+
+- **Aplicación web para Profesores Universitarios**
+
+  - Creación de grupos mediante un código: Se analizará si el flujo para crear un grupo es claro, rápido y si el código generado es comprensible y compartible con los estudiantes.
+  - Creación de challenges: Se evaluará si los docentes pueden crear desafíos fácilmente, configurando correctamente sus parámetros (nombre, descripción, fecha límite, etc.).
+  - Visualización de submissions de alumnos: Se medirá la facilidad para encontrar las entregas, filtrarlas por grupo o reto, y acceder a sus contenidos de forma eficiente.
+  - Calificación de submissions: Se validará si el proceso de calificación es claro, accesible y si permite dejar retroalimentación significativa.
+  - Gestionar alumnos en grupos: Se evaluará la funcionalidad para eliminar alumnos de un grupo, analizando si es fácil de encontrar y si da mensajes de confirmación adecuados para evitar errores.
+  - Visualización de analíticas de alumnos: Se analizará la comprensión de los datos mostrados sobre el desempeño del grupo o estudiante, evaluando si son útiles para tomar decisiones pedagógicas.
+
+##### Formato de Registro de la Entrevista
+
+**Landing Page**
+
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page?
+- ¿Entendiste claramente qué es EduHive y para qué sirve?
+- ¿Qué opinas de la sección de características? ¿Te motivan a usar la plataforma?
+- ¿Qué sensación te generan los testimonios? ¿Aportan confianza o credibilidad?
+- ¿Qué opinas del diseño de la sección “Meet the Team” y "Contact us"? ¿Te pareció profesional o cercano?
+- ¿Qué tan fácil fue encontrar el formulario de contacto?
+- ¿Te animarías a suscribirte al newsletter? ¿Qué te generaría más confianza?
+- ¿Hay algo que cambiarías o eliminarías en esta página?
+- ¿El diseño general (colores, texto, estructura) te parece adecuado y atractivo?
+- ¿Hubo algún momento en el que no supiste qué hacer o adónde ir?
+
+**Segmento Estudiantes Universitarios**
+
+- ¿Cómo fue el proceso para unirte a un grupo? ¿Tuviste algún inconveniente con el código?
+- ¿Te pareció clara la lista de retos disponibles? ¿Qué mejorarías?
+- ¿Te resultó sencillo entregar una solución (submission)? ¿Qué parte te pareció más o menos clara?
+- ¿Pudiste encontrar fácilmente tus entregas pasadas? ¿Cómo calificarías la organización?
+- ¿Pudiste encontrar la lista de miembros del grupo? ¿La información presentada fue útil?
+- ¿En algún punto sentiste que algo estaba mal ubicado o no funcionaba como esperabas?
+- ¿Qué funcionalidades te parecieron más útiles como estudiante?
+- ¿Te sentiste cómodo usando esta aplicación? ¿La recomendarías a tus compañeros?
+- ¿Cómo describirías la organización general de la aplicación? ¿Sentiste que fue fácil entender por dónde empezar y cómo navegar entre las distintas secciones como grupos, retos, entregas o métricas?
+- ¿Consideras que esta plataforma apoya efectivamente tu colaboración con otros y el seguimiento de tu desempeño académico? ¿Qué herramientas o secciones te parecieron más valiosas en ese sentido?
+
+**Segmento Profesores Universitarios**
+
+- ¿Cómo fue tu experiencia al crear un grupo y compartir el código? ¿Algo te resultó confuso?
+- ¿Fue fácil crear un challenge? ¿Hay campos que agregarías o quitarías?
+- ¿Cómo fue la experiencia al revisar submissions de los alumnos? ¿Encontraste todo con facilidad?
+- ¿Pudiste calificar entregas sin problemas? ¿La retroalimentación es clara?
+- ¿El proceso para eliminar alumnos de un grupo te pareció seguro y comprensible?
+- ¿Entendiste fácilmente las métricas que se te presentaron? ¿Te fueron útiles?
+- ¿Qué cambiarías para facilitar tu labor docente en la plataforma?
+- ¿Recomendarías esta herramienta a otros profesores?
+
+
 ##### 5.3.2. Registro de Entrevistas
 
 |                                                           |                                                                                                                                                                                                                                                                                                                                 |
