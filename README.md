@@ -4200,240 +4200,282 @@ A continuación, se presenta un desglose detallado de las user stories implement
     <td colspan="1"><strong>Status</strong></td>
   </tr>
   <tr>
-    <td rowspan="3">TS-001</td>
-    <td rowspan="3">Endpoint para registro</td>
+    <td>TS-001</td>
+    <td>Obtener usuario por ID</td>
     <td>T01</td>
-    <td>Implementar endpoint POST para registro</td>
-    <td>Crear endpoint que acepte nombre, correo y contraseña válidos y devuelva 201 Created</td>
-    <td>4</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Validar unicidad de correo</td>
-    <td>Implementar validación que devuelva 409 Conflict si el correo ya está registrado</td>
-    <td>3</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T03</td>
-    <td>Validar formato de entrada</td>
-    <td>Implementar validaciones que devuelvan 400 Bad Request para datos inválidos</td>
-    <td>3</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="3">TS-002</td>
-    <td rowspan="3">Endpoint para inicio de sesión</td>
-    <td>T01</td>
-    <td>Implementar endpoint POST para login</td>
-    <td>Crear endpoint que devuelva token de autenticación con credenciales válidas</td>
-    <td>4</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Manejar credenciales incorrectas</td>
-    <td>Implementar respuesta 401 Unauthorized para correo no registrado o contraseña incorrecta</td>
-    <td>3</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T03</td>
-    <td>Validar datos requeridos</td>
-    <td>Implementar respuesta 400 Bad Request cuando falten datos en la solicitud</td>
+    <td>Crear getUserById</td>
+    <td>Crear endpoint de Users GET /api/v1/users/{userId}</td>
     <td>2</td>
-    <td>Jose Antonio Alejo Cardenas</td>
+    <td>José Antonio Alejo Cardenas</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">TS-003</td>
-    <td rowspan="2">Endpoint para obtener usuarios de un grupo</td>
+    <td>TS-002</td>
+    <td>Actualizar usuario</td>
     <td>T01</td>
-    <td>Implementar endpoint GET por groupId</td>
-    <td>Crear endpoint que devuelva lista de usuarios dado un groupId válido</td>
-    <td>3</td>
-    <td>Sebastián Omar Real Calderón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Manejar groupId inválido</td>
-    <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
+    <td>Crear updateUser</td>
+    <td>Crear endpoint de Users PUT /api/v1/users/{userId}</td>
     <td>2</td>
-    <td>Sebastián Omar Real Calderón</td>
+    <td>José Antonio Alejo Cardenas</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">TS-004</td>
-    <td rowspan="2">Endpoint para crear un grupo</td>
+    <td>TS-003</td>
+    <td>Eliminar usuario</td>
     <td>T01</td>
-    <td>Implementar endpoint POST para grupos</td>
-    <td>Crear endpoint que registre nuevos grupos con nombre y descripción válidos</td>
-    <td>4</td>
+    <td>Crear deleteUser</td>
+    <td>Crear endpoint de Users DELETE /api/v1/users/{userId}</td>
+    <td>1</td>
     <td>Omar Luquillas Asto</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T02</td>
-    <td>Validar datos requeridos</td>
-    <td>Implementar respuesta 400 Bad Request para datos faltantes o con formato incorrecto</td>
-    <td>3</td>
+    <td>TS-004</td>
+    <td>Obtener todos los usuarios</td>
+    <td>T01</td>
+    <td>Crear getAllUsers</td>
+    <td>Crear endpoint de Users GET /api/v1/users</td>
+    <td>1</td>
     <td>Omar Luquillas Asto</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">TS-005</td>
-    <td rowspan="2">Endpoint para crear un reto</td>
+    <td>TS-005</td>
+    <td>Crear nuevo usuario</td>
     <td>T01</td>
-    <td>Implementar endpoint POST para retos</td>
-    <td>Crear endpoint que registre nuevos retos con todos los campos requeridos</td>
-    <td>5</td>
+    <td>Crear createUser</td>
+    <td>Crear endpoint de Users POST /api/v1/users</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-006</td>
+    <td>Obtener entrega por ID</td>
+    <td>T01</td>
+    <td>Crear getSubmissionById</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/{submissionId}</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-007</td>
+    <td>Actualizar entrega</td>
+    <td>T01</td>
+    <td>Crear updateSubmission</td>
+    <td>Crear endpoint de Submissions PUT /api/v1/submissions/{submissionId}</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-008</td>
+    <td>Eliminar entrega</td>
+    <td>T01</td>
+    <td>Crear deleteSubmission</td>
+    <td>Crear endpoint de Submissions DELETE /api/v1/submissions/{submissionId}</td>
+    <td>1</td>
     <td>Josue Antonio Flores Apaico</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T02</td>
-    <td>Validar datos de entrada</td>
-    <td>Implementar validaciones que devuelvan 400 Bad Request para datos incorrectos</td>
-    <td>3</td>
+    <td>TS-009</td>
+    <td>Obtener todas las entregas</td>
+    <td>T01</td>
+    <td>Crear getAllSubmissions</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions</td>
+    <td>1</td>
     <td>Josue Antonio Flores Apaico</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="2">TS-006</td>
-    <td rowspan="2">Endpoint para listar retos por grupo</td>
+    <td>TS-010</td>
+    <td>Crear nueva entrega</td>
     <td>T01</td>
-    <td>Implementar endpoint GET por groupId</td>
-    <td>Crear endpoint que devuelva lista de retos asignados a un grupo</td>
-    <td>3</td>
+    <td>Crear createSubmission</td>
+    <td>Crear endpoint de Submissions POST /api/v1/submissions</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-011</td>
+    <td>Obtener entregas por estudiante</td>
+    <td>T01</td>
+    <td>Crear getSubmissionsByStudent</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/submissions</td>
+    <td>1</td>
     <td>Alejandro Franklin Mendoza Vergara</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T02</td>
-    <td>Manejar grupos sin retos</td>
-    <td>Implementar respuesta con lista vacía cuando el grupo no tenga retos asignados</td>
+    <td>TS-012</td>
+    <td>Obtener entregas por estudiante y reto</td>
+    <td>T01</td>
+    <td>Crear getSubmissionsByStudentAndChallenge</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-013</td>
+    <td>Obtener entregas por reto</td>
+    <td>T01</td>
+    <td>Crear getSubmissionsByChallenge</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/challenges/{challengeId}/submissions</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-014</td>
+    <td>Obtener grupo por ID</td>
+    <td>T01</td>
+    <td>Crear getGroupById</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups/{id}</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-015</td>
+    <td>Actualizar grupo</td>
+    <td>T01</td>
+    <td>Crear updateGroup</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{id}</td>
+    <td>2</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-016</td>
+    <td>Eliminar grupo</td>
+    <td>T01</td>
+    <td>Crear deleteGroup</td>
+    <td>Crear endpoint de Groups DELETE /api/v1/groups/{id}</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-017</td>
+    <td>Obtener código de unión de grupo</td>
+    <td>T01</td>
+    <td>Crear getGroupJoinCode</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-018</td>
+    <td>Establecer código de unión de grupo</td>
+    <td>T01</td>
+    <td>Crear setGroupJoinCode</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>2</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-019</td>
+    <td>Restablecer código de unión de grupo</td>
+    <td>T01</td>
+    <td>Crear resetGroupJoinCode</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes/reset</td>
+    <td>2</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-020</td>
+    <td>Obtener todos los grupos</td>
+    <td>T01</td>
+    <td>Crear getAllGroups</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-021</td>
+    <td>Crear nuevo grupo</td>
+    <td>T01</td>
+    <td>Crear createGroup</td>
+    <td>Crear endpoint de Groups POST /api/v1/groups</td>
+    <td>2</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-022</td>
+    <td>Unirse a grupo con código</td>
+    <td>T01</td>
+    <td>Crear joinGroupWithCode</td>
+    <td>Crear endpoint de Groups POST /api/v1/groups/join</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-023</td>
+    <td>Obtener reto por ID</td>
+    <td>T01</td>
+    <td>Crear getChallengeById</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges/{challengeId}</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-024</td>
+    <td>Actualizar reto</td>
+    <td>T01</td>
+    <td>Crear updateChallenge</td>
+    <td>Crear endpoint de Challenges PUT /api/v1/challenges/{challengeId}</td>
     <td>2</td>
     <td>Alejandro Franklin Mendoza Vergara</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="3">TS-007</td>
-    <td rowspan="3">Endpoint para enviar respuesta a un reto</td>
+    <td>TS-025</td>
+    <td>Eliminar reto</td>
     <td>T01</td>
-    <td>Implementar endpoint POST para entregas</td>
-    <td>Crear endpoint que registre respuestas a retos con datos válidos</td>
-    <td>4</td>
+    <td>Crear deleteChallenge</td>
+    <td>Crear endpoint de Challenges DELETE /api/v1/challenges/{challengeId}</td>
+    <td>1</td>
     <td>Sebastián Omar Real Calderón</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T02</td>
-    <td>Validar existencia del reto</td>
-    <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
+    <td>TS-026</td>
+    <td>Obtener todos los retos</td>
+    <td>T01</td>
+    <td>Crear getAllChallenges</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-027</td>
+    <td>Crear nuevo reto</td>
+    <td>T01</td>
+    <td>Crear createChallenge</td>
+    <td>Crear endpoint de Challenges POST /api/v1/challenges</td>
     <td>2</td>
-    <td>Sebastián Omar Real Calderón</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>T03</td>
-    <td>Validar formato de entrega</td>
-    <td>Implementar respuesta 400 Bad Request para formatos incorrectos</td>
-    <td>3</td>
-    <td>Sebastián Omar Real Calderón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="3">TS-008</td>
-    <td rowspan="3">Endpoint para agregar o eliminar integrantes de un grupo</td>
+    <td>TS-028</td>
+    <td>Obtener retos por grupo</td>
     <td>T01</td>
-    <td>Implementar endpoint POST para agregar miembros</td>
-    <td>Crear endpoint que agregue usuarios a grupos con userId válido</td>
-    <td>4</td>
-    <td>Omar Luquillas Asto</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Implementar endpoint DELETE para eliminar miembros</td>
-    <td>Crear endpoint que elimine usuarios de grupos con userId válido</td>
-    <td>4</td>
-    <td>Omar Luquillas Asto</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T03</td>
-    <td>Validar existencia de usuario</td>
-    <td>Implementar respuesta 404 Not Found cuando el userId no exista</td>
-    <td>2</td>
-    <td>Omar Luquillas Asto</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">TS-009</td>
-    <td rowspan="2">Endpoint para generar código de invitación</td>
-    <td>T01</td>
-    <td>Implementar endpoint POST para códigos de invitación</td>
-    <td>Crear endpoint que genere código único dado un groupId válido</td>
-    <td>5</td>
-    <td>Josue Antonio Flores Apaico</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Validar existencia del grupo</td>
-    <td>Implementar respuesta 404 Not Found cuando el grupo no exista</td>
-    <td>2</td>
-    <td>Josue Antonio Flores Apaico</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="2">TS-010</td>
-    <td rowspan="2">Endpoint para validar código de invitación</td>
-    <td>T01</td>
-    <td>Implementar endpoint GET para validar códigos</td>
-    <td>Crear endpoint que devuelva información del grupo si el código es válido</td>
-    <td>4</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Manejar códigos inválidos</td>
-    <td>Implementar respuesta 400 Bad Request cuando el código no sea válido</td>
-    <td>3</td>
-    <td>Jose Antonio Alejo Cardenas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td rowspan="3">TS-011</td>
-    <td rowspan="3">Endpoint para actualizar fecha límite de reto</td>
-    <td>T01</td>
-    <td>Implementar endpoint PUT para fechas límite</td>
-    <td>Crear endpoint que actualice fecha límite de reto con fecha válida</td>
-    <td>4</td>
-    <td>Sebastián Omar Real Calderón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T02</td>
-    <td>Validar formato de fecha</td>
-    <td>Implementar respuesta 400 Bad Request para fechas inválidas</td>
-    <td>3</td>
-    <td>Sebastián Omar Real Calderón</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>T03</td>
-    <td>Validar existencia del reto</td>
-    <td>Implementar respuesta 404 Not Found cuando el reto no exista</td>
-    <td>2</td>
+    <td>Crear getChallengesByGroup</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges/groups/{groupId}/challenges</td>
+    <td>1</td>
     <td>Sebastián Omar Real Calderón</td>
     <td>Done</td>
   </tr>
