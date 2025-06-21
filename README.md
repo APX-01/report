@@ -1489,7 +1489,15 @@ Cuando veo la vista gráfica de mi rendimiento,
 Entonces puedo identificar mis puntos fuertes y áreas de mejora a través de los diferentes colores o indicadores de las gráficas.</td>
 <td>EP-004</td>
 </tr>
-    <tr><td>US-012</td><td>Asignación de feeback</td><td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td><td>Escenario 1: Dado un envío de estudiante. Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>Escenario 2: Dado un envío de estudiante. Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
+    <tr><td>US-012</td>
+<td>Asignación de feeback</td>
+<td>Como profesor, quiero poder asignar una calificación, junto con un comentario o feedback a los envíos de los estudiantes.</td>
+<td>Escenario 1: Dado un envío de estudiante. 
+Cuando el profesor ingresa una calificación (ej: 80/100) y un comentario (ej: "Buen trabajo"). 
+Entonces el sistema guarda el feedback y muestra: "Feedback registrado"<br>
+Escenario 2: Dado un envío de estudiante. 
+Cuando el profesor ingresa una calificación mayor a 100 (ej: 110/100). 
+Entonces el sistema muestra: "Error: La calificación debe ser entre 0 y 100"</td><td>EP-004</td></tr>
     <tr><td>US-013</td><td>Enviar respuesta a reto</td><td>Como estudiante, quiero poder realizar envíos a los retos, añadiendo imágenes o documentos adjuntos de acorde a la necesidad.</td><td>Escenario 1: Envío exitoso<br>Dado que el estudiante está en un reto activo<br>Cuando selecciona "Nuevo envío", adjunta un documento PDF y escribe un comentario<br>Y hace clic en "Enviar"<br>Entonces el sistema guarda el envío<br>Y muestra el mensaje "Envío realizado correctamente"<br><br>Escenario 2: Envío sin archivos<br>Dado que el estudiante está en un reto activo<br>Cuando intenta enviar sin adjuntar archivos ni texto<br>Entonces el sistema muestra "Debe agregar al menos un archivo o texto"<br>Y no permite completar el envío</td><td>EP-003</tr>
     <tr><td>US-014</td><td>Gestionar integrantes del grupo</td><td>Como profesor, quiero poder ver la lista de estudiantes de cada grupo que manejo, y opciones tanto para ver sus perfiles como para eliminarlos</td><td>Escenario 1: Ver lista de estudiantes<br>Dado que el profesor accede a un grupo<br>Cuando selecciona la opción "Integrantes"<br>Entonces el sistema muestra la lista completa de estudiantes matriculados<br><br>Escenario 2: Eliminar estudiante<br>Dado que el profesor está viendo la lista de integrantes<br>Cuando selecciona "Eliminar" junto a un estudiante<br>Y confirma la acción<br>Entonces el sistema remueve al estudiante del grupo<br>Y actualiza la lista mostrada</td><td>EP-001</td></tr>
     <tr><td>US-015</td><td>Distribución programada de retos</td><td>Como profesor, quiero programar la publicación automática de retos en fechas específicas, para garantizar que se liberen según el cronograma académico.</td><td>Escenario 1: Programación exitosa<br>Dado que el profesor ha creado un reto<br>Cuando selecciona "Programar publicación" y fija fecha/hora<br>Entonces el sistema guarda la configuración<br>Y muestra "El reto se publicará el [fecha] a las [hora]"<br><br>Escenario 2: Intento de fecha pasada<br>Dado que el profesor ingresa una fecha anterior al día actual<br>Cuando intenta programar<br>Entonces el sistema muestra "La fecha debe ser futura"<br>Y bloquea la confirmación</td><td>EP-003</td></tr>
@@ -1723,6 +1731,34 @@ Entonces el sistema actualiza y muestra la medalla correspondiente automáticame
     <tr><td>34</td><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>3</td></tr>
     <tr><td>35</td><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>3</td></tr>
     <tr><td>36</td><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
+    <tr><td>37</td><td>TS-002</td><td>Actualizar usuario</td><td>3</td></tr>
+    <tr><td>38</td><td>TS-005</td><td>Crear nuevo usuario</td><td>3</td></tr>
+    <tr><td>39</td><td>TS-007</td><td>Actualizar entrega</td><td>3</td></tr>
+    <tr><td>40</td><td>TS-010</td><td>Crear nueva entrega</td><td>3</td></tr>
+    <tr><td>41</td><td>TS-015</td><td>Actualizar grupo</td><td>3</td></tr>
+    <tr><td>42</td><td>TS-018</td><td>Establecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>43</td><td>TS-019</td><td>Restablecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>44</td><td>TS-021</td><td>Crear nuevo grupo</td><td>3</td></tr>
+    <tr><td>45</td><td>TS-022</td><td>Unirse a grupo con código</td><td>3</td></tr>
+    <tr><td>46</td><td>TS-024</td><td>Actualizar reto</td><td>3</td></tr>
+    <tr><td>47</td><td>TS-027</td><td>Crear nuevo reto</td><td>3</td></tr>
+    <tr><td>48</td><td>TS-001</td><td>Obtener usuario por ID</td><td>2</td></tr>
+    <tr><td>49</td><td>TS-003</td><td>Eliminar usuario</td><td>2</td></tr>
+    <tr><td>50</td><td>TS-004</td><td>Obtener todos los usuarios</td><td>2</td></tr>
+    <tr><td>51</td><td>TS-006</td><td>Obtener entrega por ID</td><td>2</td></tr>
+    <tr><td>52</td><td>TS-008</td><td>Eliminar entrega</td><td>2</td></tr>
+    <tr><td>53</td><td>TS-009</td><td>Obtener todas las entregas</td><td>2</td></tr>
+    <tr><td>54</td><td>TS-011</td><td>Obtener entregas por estudiante</td><td>2</td></tr>
+    <tr><td>55</td><td>TS-012</td><td>Obtener entregas por estudiante y reto</td><td>2</td></tr>
+    <tr><td>56</td><td>TS-013</td><td>Obtener entregas por reto</td><td>2</td></tr>
+    <tr><td>57</td><td>TS-014</td><td>Obtener grupo por ID</td><td>2</td></tr>
+    <tr><td>58</td><td>TS-016</td><td>Eliminar grupo</td><td>2</td></tr>
+    <tr><td>59</td><td>TS-017</td><td>Obtener código de unión de grupo</td><td>2</td></tr>
+    <tr><td>60</td><td>TS-020</td><td>Obtener todos los grupos</td><td>2</td></tr>
+    <tr><td>61</td><td>TS-023</td><td>Obtener reto por ID</td><td>2</td></tr>
+    <tr><td>62</td><td>TS-025</td><td>Eliminar reto</td><td>2</td></tr>
+    <tr><td>63</td><td>TS-026</td><td>Obtener todos los retos</td><td>2</td></tr>
+    <tr><td>64</td><td>TS-028</td><td>Obtener retos por grupo</td><td>2</td></tr>
   </tbody>
 </table>
 
