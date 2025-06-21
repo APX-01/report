@@ -202,13 +202,22 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -5774,7 +5783,413 @@ A continuación se presenta un registro detallado de los commits realizados en e
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-##### 5.2.3.7. Services Deployement Evidence for Sprint Review
+La siguiente tabla recoge la documentación de los servicios web desarrollados durante el sprint, organizados por módulos funcionales del sistema. Cada categoría (como Users, Submissions, Groups y Challenges) agrupa los endpoints REST implementados, especificando el método HTTP utilizado, la ruta del recurso y una breve descripción de su propósito. Esta documentación respalda el seguimiento del avance en el backend y sirve como referencia técnica para el equipo.
+
+<table>
+  <tr>
+    <th>Tag</th>
+    <th>Verbo http</th>
+    <th>Endpoint</th>
+    <th>Summary</th>
+    <th>Description</th>
+    <th>OperationId</th>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>GET</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Get</td>
+    <td>Get a user by ID</td>
+    <td>users_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>PUT</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Update</td>
+    <td>Update a user</td>
+    <td>users_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>DELETE</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Delete</td>
+    <td>Delete a user</td>
+    <td>users_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>GET</td>
+    <td>/api/v1/users</td>
+    <td>List</td>
+    <td>Get all users</td>
+    <td>users_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>POST</td>
+    <td>/api/v1/users</td>
+    <td>Create</td>
+    <td>Create a new user</td>
+    <td>users_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Get</td>
+    <td>Get a submission by ID</td>
+    <td>submissions_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>PUT</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Update</td>
+    <td>Update a submission</td>
+    <td>submissions_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>DELETE</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Delete</td>
+    <td>Delete a submission</td>
+    <td>submissions_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions</td>
+    <td>List</td>
+    <td>Get all submissions</td>
+    <td>submissions_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>POST</td>
+    <td>/api/v1/submissions</td>
+    <td>Create</td>
+    <td>Create a new submission</td>
+    <td>submissions_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/students/{studentId}/submissions</td>
+    <td>List</td>
+    <td>Get submissions by studentId</td>
+    <td>submissions_by_student</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{studentId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
+    <td>Get</td>
+    <td>Get submissions by studentId and challengeId</td>
+    <td>submissions_by_student_and_challenge</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{studentId}, {challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/challenges/{challengeId}/submissions</td>
+    <td>List</td>
+    <td>Get submissions by challengeId</td>
+    <td>submissions_by_challenge</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Get</td>
+    <td>Get group by id</td>
+    <td>groups_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Update</td>
+    <td>Update a group</td>
+    <td>groups_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>DELETE</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Delete</td>
+    <td>Delete group</td>
+    <td>groups_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>Get</td>
+    <td>Get group join code</td>
+    <td>groups_get_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>Update</td>
+    <td>Set group join code</td>
+    <td>groups_set_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes/reset</td>
+    <td>Update</td>
+    <td>Reset group join code</td>
+    <td>groups_reset_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups</td>
+    <td>List</td>
+    <td>Get all groups</td>
+    <td>groups_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>POST</td>
+    <td>/api/v1/groups</td>
+    <td>Create</td>
+    <td>Create a Group</td>
+    <td>groups_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>POST</td>
+    <td>/api/v1/groups/join</td>
+    <td>Join</td>
+    <td>Join a group via join code</td>
+    <td>groups_join</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Get</td>
+    <td>Get a challenge by ID</td>
+    <td>challenges_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>PUT</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Update</td>
+    <td>Update an existing challenge</td>
+    <td>challenges_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>DELETE</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Delete</td>
+    <td>Delete a challenge</td>
+    <td>challenges_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges</td>
+    <td>List</td>
+    <td>Get all challenges</td>
+    <td>challenges_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>POST</td>
+    <td>/api/v1/challenges</td>
+    <td>Create</td>
+    <td>Create a new challenge</td>
+    <td>challenges_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges/groups/{groupId}/challenges</td>
+    <td>List</td>
+    <td>Get challenges by group ID</td>
+    <td>challenges_by_group</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
