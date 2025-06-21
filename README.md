@@ -4116,7 +4116,7 @@ Durante este tercer sprint, se continuó utilizando Trello como herramienta prin
 En este ciclo de trabajo se propuso construir la versión inicial del backend de la plataforma, así como implementar nuevas características y realizar mejoras orientadas a la experiencia del usuario.
 
 Sprint board en trello:
-<img src="resources/sprint-3/trello-ss.png">
+<img src="images/chapter-5/sprint-backlog-3.png">
 
 Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3">https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3</a>
 
@@ -4485,7 +4485,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
 
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
-**Commits realizados en el repositorio de la Landing Page durante el sprint 2:**
+**Commits realizados en el repositorio de la Landing Page durante el sprint 3:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
 <table>
