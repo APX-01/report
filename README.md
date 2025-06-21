@@ -4118,7 +4118,7 @@ En este ciclo de trabajo se propuso construir la versión inicial del backend de
 Sprint board en trello:
 <img src="resources/sprint-3/trello-ss.png">
 
-Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3">https://trello.com/invite/b/6712f201c0bfde492775a33d/ATTI490782e2faf288b64e3816a5adcfb6a3C861D89F/sprint-backlog-3</a>
+Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3">https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3</a>
 
 <table>
   <tr>
@@ -4165,11 +4165,11 @@ Enlace al trello: <a href="https://trello.com/invite/b/6712f201c0bfde492775a33d/
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
-    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta  story points</td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 60 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1">La suma de story point atendidos es de  story point.</td>
+    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
   </tr>
 </table>
 
@@ -4212,7 +4212,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-002</td>
     <td>Actualizar usuario</td>
-    <td>T01</td>
+    <td>T02</td>
     <td>Crear updateUser</td>
     <td>Crear endpoint de Users PUT /api/v1/users/{userId}</td>
     <td>2</td>
@@ -4222,7 +4222,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-003</td>
     <td>Eliminar usuario</td>
-    <td>T01</td>
+    <td>T03</td>
     <td>Crear deleteUser</td>
     <td>Crear endpoint de Users DELETE /api/v1/users/{userId}</td>
     <td>1</td>
@@ -4232,7 +4232,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-004</td>
     <td>Obtener todos los usuarios</td>
-    <td>T01</td>
+    <td>T04</td>
     <td>Crear getAllUsers</td>
     <td>Crear endpoint de Users GET /api/v1/users</td>
     <td>1</td>
@@ -4242,7 +4242,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-005</td>
     <td>Crear nuevo usuario</td>
-    <td>T01</td>
+    <td>T05</td>
     <td>Crear createUser</td>
     <td>Crear endpoint de Users POST /api/v1/users</td>
     <td>2</td>
@@ -4252,7 +4252,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-006</td>
     <td>Obtener entrega por ID</td>
-    <td>T01</td>
+    <td>T06</td>
     <td>Crear getSubmissionById</td>
     <td>Crear endpoint de Submissions GET /api/v1/submissions/{submissionId}</td>
     <td>1</td>
@@ -4262,7 +4262,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-007</td>
     <td>Actualizar entrega</td>
-    <td>T01</td>
+    <td>T07</td>
     <td>Crear updateSubmission</td>
     <td>Crear endpoint de Submissions PUT /api/v1/submissions/{submissionId}</td>
     <td>2</td>
@@ -4272,7 +4272,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-008</td>
     <td>Eliminar entrega</td>
-    <td>T01</td>
+    <td>T08</td>
     <td>Crear deleteSubmission</td>
     <td>Crear endpoint de Submissions DELETE /api/v1/submissions/{submissionId}</td>
     <td>1</td>
@@ -4282,7 +4282,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-009</td>
     <td>Obtener todas las entregas</td>
-    <td>T01</td>
+    <td>T09</td>
     <td>Crear getAllSubmissions</td>
     <td>Crear endpoint de Submissions GET /api/v1/submissions</td>
     <td>1</td>
@@ -4292,7 +4292,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-010</td>
     <td>Crear nueva entrega</td>
-    <td>T01</td>
+    <td>T10</td>
     <td>Crear createSubmission</td>
     <td>Crear endpoint de Submissions POST /api/v1/submissions</td>
     <td>2</td>
@@ -4302,7 +4302,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-011</td>
     <td>Obtener entregas por estudiante</td>
-    <td>T01</td>
+    <td>T11</td>
     <td>Crear getSubmissionsByStudent</td>
     <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/submissions</td>
     <td>1</td>
@@ -4312,7 +4312,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-012</td>
     <td>Obtener entregas por estudiante y reto</td>
-    <td>T01</td>
+    <td>T12</td>
     <td>Crear getSubmissionsByStudentAndChallenge</td>
     <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
     <td>1</td>
@@ -4322,7 +4322,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-013</td>
     <td>Obtener entregas por reto</td>
-    <td>T01</td>
+    <td>T13</td>
     <td>Crear getSubmissionsByChallenge</td>
     <td>Crear endpoint de Submissions GET /api/v1/submissions/challenges/{challengeId}/submissions</td>
     <td>1</td>
@@ -4332,7 +4332,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-014</td>
     <td>Obtener grupo por ID</td>
-    <td>T01</td>
+    <td>T14</td>
     <td>Crear getGroupById</td>
     <td>Crear endpoint de Groups GET /api/v1/groups/{id}</td>
     <td>1</td>
@@ -4342,7 +4342,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-015</td>
     <td>Actualizar grupo</td>
-    <td>T01</td>
+    <td>T15</td>
     <td>Crear updateGroup</td>
     <td>Crear endpoint de Groups PUT /api/v1/groups/{id}</td>
     <td>2</td>
@@ -4352,7 +4352,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-016</td>
     <td>Eliminar grupo</td>
-    <td>T01</td>
+    <td>T16</td>
     <td>Crear deleteGroup</td>
     <td>Crear endpoint de Groups DELETE /api/v1/groups/{id}</td>
     <td>1</td>
@@ -4362,7 +4362,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-017</td>
     <td>Obtener código de unión de grupo</td>
-    <td>T01</td>
+    <td>T17</td>
     <td>Crear getGroupJoinCode</td>
     <td>Crear endpoint de Groups GET /api/v1/groups/{groupId}/groupJoinCodes</td>
     <td>1</td>
@@ -4372,7 +4372,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-018</td>
     <td>Establecer código de unión de grupo</td>
-    <td>T01</td>
+    <td>T18</td>
     <td>Crear setGroupJoinCode</td>
     <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes</td>
     <td>2</td>
@@ -4382,7 +4382,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-019</td>
     <td>Restablecer código de unión de grupo</td>
-    <td>T01</td>
+    <td>T19</td>
     <td>Crear resetGroupJoinCode</td>
     <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes/reset</td>
     <td>2</td>
@@ -4392,7 +4392,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-020</td>
     <td>Obtener todos los grupos</td>
-    <td>T01</td>
+    <td>T20</td>
     <td>Crear getAllGroups</td>
     <td>Crear endpoint de Groups GET /api/v1/groups</td>
     <td>1</td>
@@ -4402,7 +4402,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-021</td>
     <td>Crear nuevo grupo</td>
-    <td>T01</td>
+    <td>T21</td>
     <td>Crear createGroup</td>
     <td>Crear endpoint de Groups POST /api/v1/groups</td>
     <td>2</td>
@@ -4412,7 +4412,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-022</td>
     <td>Unirse a grupo con código</td>
-    <td>T01</td>
+    <td>T22</td>
     <td>Crear joinGroupWithCode</td>
     <td>Crear endpoint de Groups POST /api/v1/groups/join</td>
     <td>2</td>
@@ -4422,7 +4422,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-023</td>
     <td>Obtener reto por ID</td>
-    <td>T01</td>
+    <td>T23</td>
     <td>Crear getChallengeById</td>
     <td>Crear endpoint de Challenges GET /api/v1/challenges/{challengeId}</td>
     <td>1</td>
@@ -4432,7 +4432,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-024</td>
     <td>Actualizar reto</td>
-    <td>T01</td>
+    <td>T24</td>
     <td>Crear updateChallenge</td>
     <td>Crear endpoint de Challenges PUT /api/v1/challenges/{challengeId}</td>
     <td>2</td>
@@ -4442,7 +4442,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-025</td>
     <td>Eliminar reto</td>
-    <td>T01</td>
+    <td>T25</td>
     <td>Crear deleteChallenge</td>
     <td>Crear endpoint de Challenges DELETE /api/v1/challenges/{challengeId}</td>
     <td>1</td>
@@ -4452,7 +4452,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-026</td>
     <td>Obtener todos los retos</td>
-    <td>T01</td>
+    <td>T26</td>
     <td>Crear getAllChallenges</td>
     <td>Crear endpoint de Challenges GET /api/v1/challenges</td>
     <td>1</td>
@@ -4462,7 +4462,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-027</td>
     <td>Crear nuevo reto</td>
-    <td>T01</td>
+    <td>T27</td>
     <td>Crear createChallenge</td>
     <td>Crear endpoint de Challenges POST /api/v1/challenges</td>
     <td>2</td>
@@ -4472,7 +4472,7 @@ A continuación, se presenta un desglose detallado de las user stories implement
   <tr>
     <td>TS-028</td>
     <td>Obtener retos por grupo</td>
-    <td>T01</td>
+    <td>T28</td>
     <td>Crear getChallengesByGroup</td>
     <td>Crear endpoint de Challenges GET /api/v1/challenges/groups/{groupId}/challenges</td>
     <td>1</td>
@@ -4485,7 +4485,38 @@ A continuación, se presenta un desglose detallado de las user stories implement
 
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
-*Commits realizados en el repositorio de frontend durante el sprint 3:*
+**Commits realizados en el repositorio de la Landing Page durante el sprint 2:**
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 387399736b7751468d6f01267ee01c11da34e16b </td>
+    <td colspan="1"> feat(landing-page): added language switcher </td>
+    <td colspan="1"> feat(landing-page): added language switcher </td>
+    <td colspan="1"> 02/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 7f33297480e0791256027b23403aa50b1a1f2374 </td>
+    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
+    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
+    <td colspan="1"> 21/06/2025 </td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 <table>
   <tr>
@@ -4503,7 +4534,6 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
     <td colspan="1"> feat(develop): added language switcher </td>
     <td colspan="1"> feat(develop): added language switcher </td>
     <td colspan="1"> 15/05/2025 </td>
-
   </tr>
   <tr>
     <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
@@ -4536,7 +4566,6 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
     <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
     <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
     <td colspan="1"> 15/05/2025 </td>
-
   </tr>
   <tr>
     <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
@@ -4595,14 +4624,6 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
     <td colspan="1"> feat: added group leave functionality </td>
     <td colspan="1"> feat: added group leave functionality </td>
     <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
   </tr>
   <tr>
     <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
@@ -4763,14 +4784,6 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
     <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
     <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
     <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
   </tr>
   <tr>
     <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
@@ -5007,7 +5020,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> main </td>
     <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
     <td colspan="1"> feat: setup </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: setup </td>
     <td colspan="1"> 07/06/2025 </td>
   </tr>
   <tr>
@@ -5015,7 +5028,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
     <td colspan="1"> feat: setup </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: setup </td>
     <td colspan="1"> 07/06/2025 </td>
   </tr>
   <tr>
@@ -5023,7 +5036,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
     <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5031,7 +5044,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
     <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5039,7 +5052,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
     <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5047,7 +5060,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
     <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5055,7 +5068,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
     <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5063,7 +5076,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
     <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5071,7 +5084,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
     <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix: delete api response code </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5079,7 +5092,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
     <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5087,7 +5100,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
     <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5095,7 +5108,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
     <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5103,7 +5116,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
     <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5111,7 +5124,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
     <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5119,7 +5132,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
     <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5127,7 +5140,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
     <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5135,7 +5148,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
     <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5143,7 +5156,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
     <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5151,7 +5164,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
     <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5159,7 +5172,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
     <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5167,7 +5180,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
     <td colspan="1"> feat: base feature </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: base feature </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5175,7 +5188,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
     <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5183,7 +5196,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
     <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: group join code operations </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5191,7 +5204,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
     <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5199,7 +5212,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
     <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5207,7 +5220,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 852f65130ff60644cca4eec492b708781bd02c59 </td>
     <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5215,7 +5228,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
     <td colspan="1"> hotfix(update): hotfix update </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5223,7 +5236,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 4656e2f00cbae2a36c26053f7d033e65bdff53bf </td>
     <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5231,7 +5244,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 9bbbc5c021566e7dd9c0e9e7bf00a2480483b923 </td>
     <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5239,7 +5252,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> b5d801e3688be2aa4da6ac97bc860e0d55bdcaed </td>
     <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
     <td colspan="1"> 20/06/2025 </td>
   </tr>
   <tr>
@@ -5247,7 +5260,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 2580d9744890e1517746c1cf1f295a2c254e24e4 </td>
     <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
     <td colspan="1"> 21/06/2025 </td>
   </tr>
   <tr>
@@ -5255,7 +5268,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> develop </td>
     <td colspan="1"> 197844c303cdf1668bdd7e86d5bf224364a89f21 </td>
     <td colspan="1"> feat(config): Added config </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(config): Added config </td>
     <td colspan="1"> 21/06/2025 </td>
   </tr>
   <tr>
@@ -5263,7 +5276,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
     <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5271,7 +5284,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
     <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5279,7 +5292,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
     <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5287,7 +5300,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
     <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5295,7 +5308,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
     <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5303,7 +5316,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
     <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5311,7 +5324,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
     <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix: delete api response code </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5319,7 +5332,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
     <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
  <tr>
@@ -5327,7 +5340,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
     <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
  <tr>
@@ -5335,7 +5348,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
     <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
  <tr>
@@ -5343,7 +5356,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
     <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
   <tr>
@@ -5351,7 +5364,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
     <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
   <tr>
@@ -5359,7 +5372,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
     <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5367,7 +5380,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
     <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5375,7 +5388,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
     <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5383,7 +5396,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
     <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5391,7 +5404,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
     <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5399,7 +5412,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
     <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5407,7 +5420,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
     <td colspan="1"> feat: base feature </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: base feature </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5415,7 +5428,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
     <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5423,7 +5436,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/groupJoinCodes </td>
     <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
     <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: group join code operations </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5431,7 +5444,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
     <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5439,7 +5452,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
     <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
     <td colspan="1"> 16/06/2025 </td>
   </tr>
   <tr>
@@ -5447,7 +5460,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
     <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5455,7 +5468,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
     <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5463,7 +5476,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
     <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
     <td colspan="1"> 17/06/2025 </td>
   </tr>
   <tr>
@@ -5471,7 +5484,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
     <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5479,7 +5492,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
     <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix: delete api response code </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>
   <tr>
@@ -5487,7 +5500,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
     <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>	
    <tr>
@@ -5495,7 +5508,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
     <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
     <td colspan="1"> 18/06/2025 </td>
   </tr>	
    <tr>
@@ -5503,7 +5516,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
     <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
    <tr>
@@ -5511,7 +5524,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
     <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
    <tr>
@@ -5519,7 +5532,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
     <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
    <tr>
@@ -5527,7 +5540,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
     <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>	
   <tr>
@@ -5535,7 +5548,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
     <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5543,7 +5556,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
     <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5551,7 +5564,7 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
     <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
     <td colspan="1"> 19/06/2025 </td>
   </tr>
   <tr>
@@ -5559,8 +5572,200 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td colspan="1"> feature/iam </td>
     <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
     <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1">  </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
     <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> 20/06/2025 </td>
   </tr>
   
 </table>
