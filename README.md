@@ -4216,6 +4216,79 @@ Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 
+En el presente Sprint, el equipo trabajará en el desarrollo del Backend, enfocándose en la creación de endpoints y mejoras de las funcionalidades y diseño del frontend. Los principales aspectos considerados en este Sprint incluyen la creación de **IAM**, **Groups**, **Submissions** y **Challenges**.
+
+Cada uno de estos aspectos contará con un líder responsable de su desarrollo y colaboradores que brindarán soporte en tareas específicas, con el fin de asegurar una comunicación efectiva, una coordinación eficiente y una distribución clara de responsabilidades dentro del equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>IAM</th>
+      <th>Groups</th>
+      <th>Config</th>
+      <th>Shared</th>
+      <th>Submissions</th>
+      <th>Challenges</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>OmarLLA</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mendoza Vergara Franklin Alejandro</td>
+      <td>AlexBoo1</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 5.2.3.3. Sprint Backlog 3.
 
 En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
@@ -6326,6 +6399,45 @@ La base de datos se desplegó en Railway, una plataforma que permite crear y adm
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+**Landing Page:**<br>
+
+<img src="./images/chapter-5/insights-landingpage-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-landingpage-tb2-2.png" alt="Insights" width="400"/>
+
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 7
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 1
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Frontend:**<br>
+
+<img src="./images/chapter-5/insights-frontend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-frontend-tb2-2.png" alt="Insights" width="400"/>
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 22
+  - Luquillas Asto Omar: 1
+  - Real Calderón Sebastián Omar: 28
+  - Flores Apaico Josue Antonio: 6
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Backend:**<br>
+
+<img src="./images/chapter-5/insights-backend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-backend-tb2-2.png" alt="Insights" width="400"/>
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 12
+  - Luquillas Asto Omar: 5
+  - Real Calderón Sebastián Omar: 11
+  - Flores Apaico Josue Antonio: 11
+  - Mendoza Vergara Franklin Alejandro: 0
+
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
@@ -6412,7 +6524,7 @@ Validar la usabilidad, claridad del mensaje y efectividad de la landing page y l
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZobZ_vc-odKqyNts3pm6-YB-y7Rh6rshCD6IpC3dRGyWA?e=d24NZ8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
-A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento estudiantes universitarios.
 
 | Entrevista 1: Estudiantes Universitarios |                                                                                                                                 |
 |---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -6444,22 +6556,23 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Calificacion de un submission                           | Comenta que el sistema de calificaciones es sencillo y entendible. |
 | Navegación general                                      | Comenta que la distribución y navegación de los elementos es sencilla, pero menciona que al retroceder desde las entregas devuelve a la lista de grupos en vez de al reto. |
 
-| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
+| Entrevista 3: Estudiantes Universitarios |                                                                                                                               |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     | Aldo Vasquez                                                                                                  |
-| Edad                                                    | 20 Años                                                                                                                       |
-| Profesión                                               | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Nombre Entrevistado                                     | Jhon Chuchon                                                                                                 |
+| Edad                                                    | 19 años                                                                                                                       |
+| Profesión                                               | Estudiante de Ingeniería de Software                                                                                                    |
 | Departamento                                            | Lima, Perú                                                                                                                    |
-| Minuto de inicio                                        | 18:14 min                                                                                                                     |
-| Captura de la entrevista                                |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
-| Búsqueda de servicio                                    | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
-| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
-| Reservar un servicio                                    | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
-| Confirmación y agenda de citas pendientes               | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
-| Historial y reseña                                      | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
-| Navegación general                                      | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
+| Minuto de inicio                                        | 2:30 min                                                                                                                     |
+| Captura de la entrevista                                |        <img src="resources/chapter-5/entrevista3.png">                                                                                                                          |
+| Búsqueda de servicio                                    | Encuentra todo facilmente y comenta que esta bien organizado. |
+| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas. |
+| Creacion y union a un grupo                             | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código. |
+| Visualización de un challenge                           | Comenta que la visualizacion de un challenge se ve atractiva y que puede ver todos los datos necesarios. |
+| Calificacion de un submission                           | La calificación de un submission es clara y fácil de encontrar. |
+| Navegación general                                      | Nos comenta que el diseño es muy bueno y que las funciones son faciles de entender asi como de usar. |
 
-A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento profesores universitarios.
 
 | Entrevista 1: Mypes o emprendedores |                                                                                                                                                                                                                        |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
