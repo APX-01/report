@@ -121,9 +121,13 @@ Abril 2025
 
 ## Project Report Collaboration Insights
 
-|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
-| :-----------------------------------: | :-----------------------------------------------: |
-| https://github.com/APX-01 | https://github.com/APX-01/report.git |
+| Tipo de Enlace                      | URL                                                                                   |
+|------------------------------------|----------------------------------------------------------------------------------------|
+| **Landing Page**                   | [https://apx-01.github.io/Landing-Page/](https://apx-01.github.io/Landing-Page/)     |
+| **Frontend desplegado (Vercel)**   | [https://frontend-web-applications-deploymen.vercel.app](https://frontend-web-applications-deploymen.vercel.app) |
+| **Backend desplegado (Render)**    | [https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/](https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/) |
+| **Repositorio de la organización** | [https://github.com/APX-01](https://github.com/APX-01)                                |
+| **Repositorio del reporte**        | [https://github.com/APX-01/report.git](https://github.com/APX-01/report.git)         |
 
 TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio de Github de nuestro equipo: https://github.com/APX-01. Para el informe, cada integrante revisó y mejoró aspectos de la entrega anterior en: https://github.com/APX-01/report.git. Asimismo, el desarrollo de la landing page se trabajó en: https://github.com/APX-01/Landing-Page.git. Cabe mencionar que, con la incorporación de un nuevo miembro en el equipo, surgieron modificaciones en la landing page, por lo que se incluyen capturas de los commits de los últimos dos meses.
 
