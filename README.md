@@ -284,6 +284,10 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
         - [Formato de Registro de la Entrevista](#formato-de-registro-de-la-entrevista)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
       - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [Tareas a Evaluar](#tareas-a-evaluar)
+    - [Tabla Resumen basada en entrevistas](#tabla-resumen-basada-en-entrevistas)
+    - [Descripción de Problemas](#descripción-de-problemas)
+    - [User Flows a Validar](#user-flows-a-validar-1)
     - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [Conclusiones](#conclusiones)
   - [Bibliografía](#bibliografía)
@@ -6587,7 +6591,7 @@ Validar la usabilidad, claridad del mensaje y efectividad de la landing page y l
 
 |                                                           |                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZobZ_vc-odKqyNts3pm6-YB-y7Rh6rshCD6IpC3dRGyWA?e=d24NZ8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/EqnkAi4BEvhArBkNnCvORnIBrs8mjK5kvJgW0jLLipmbbw?e=csvZbm) |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento estudiantes universitarios.
 
@@ -6691,24 +6695,26 @@ En esta sección se presentan las evaluaciones de usabilidad de la landing page 
 
 **Información del Proyecto**
 - **Carrera:** Ingeniería de Software
-- **Curso:** Aplicaciones Web
-- **Auditor:** NRG3
-- **Cliente:** NRG3
-- **Site o App a Evaluar:** Bliss
+- **Curso:** Open Source
+- **Auditor:** APX-01
+- **Cliente:** APX-01
+- **Site o App a Evaluar:** Edu-hive
 
-**Tareas a Evaluar**
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+### Tareas a Evaluar
 
-**Para el Segmento Cliente:**
-1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
-2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
-3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+**Para el Segmento Estudiante Universitario:**
+1. Búsqueda y visualización de servicios o challenges: evaluar la claridad de la interfaz, imágenes, etiquetas, y organización de contenidos.
+2. Creación y unión a grupos: revisar la facilidad para unirse o crear grupos académicos mediante códigos o formularios.
+3. Visualización de challenges: evaluar el diseño y disposición de los retos (challenges) asignados a los grupos.
+4. Creación y calificación de submissions: evaluar el proceso de creación de entregas (submissions) y la claridad del sistema de retroalimentación por parte del docente.
+5. Navegación general de la plataforma: analizar la distribución de elementos, consistencia en el flujo de navegación y retrocesos.
 
-**Para el Segmento Empresa:**
-1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
-2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
-3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas de clientes, incluyendo la visualización y modificación de citas.
-4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
+**Para el Segmento Profesor Universitario:**
+1. **Visualización del Perfil Profesional:** Evaluar cómo el docente visualiza y gestiona su propio perfil, incluyendo datos personales y académicos.
+2. **Creación de Challenges Académicos:** Analizar la facilidad para crear nuevos retos o actividades académicas, definir criterios, y asociarlos a grupos.
+3. **Gestión de Entregas de Estudiantes (Submissions):** Evaluar cómo el docente visualiza y califica submissions, incluyendo claridad de interfaz y herramientas de retroalimentación.
+4. **Administración de Grupos Académicos:** Revisar cómo el docente gestiona sus grupos, visualiza participantes y edita configuraciones del grupo.
+5. **Recepción de Feedback de Estudiantes:** Explorar cómo el sistema permite recibir comentarios o reseñas de los estudiantes respecto a las actividades o interacciones educativas.
 
 **Escala de Severidad**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
@@ -6720,62 +6726,66 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
 | 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
 
-**Tabla Resumen**
-La tabla de resumen muestra los problemas identificados, su nivel de severidad y el principio heurístico o diseño violado.
+### Tabla Resumen basada en entrevistas
 
+| #  | Problema identificado                                                                                 | Escala | Heurística/Principio violado                    | Tarea Evaluada                                |
+|----|--------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------|-----------------------------------------------|
+| 1  | Falta de filtros específicos para tipos de servicios o challenges                                      | 2      | Flexibilidad y eficiencia en el uso             | Exploración de Challenges y Servicios          |
+| 2  | Algunos elementos se ven fuera de lugar en ciertas pantallas                                           | 2      | Consistencia y estándares                       | Navegación general                             |
+| 3  | Uso excesivo de espacios vacíos en listas (entregas, challenges)                                       | 2      | Diseño estético y minimalista                   | Visualización y Gestión de Challenges          |
+| 4  | Al retroceder desde una entrega se regresa a la lista de grupos en lugar del challenge anterior       | 3      | Control del usuario y libertad                  | Navegación general                             |
+| 5  | No se muestran reseñas o retroalimentación visible para los servicios visualizados                    | 2      | Visibilidad del estado del sistema              | Visualización de Challenges y Servicios        |
+| 6  | Falta de confirmación visual al calificar o enviar feedback                                           | 2      | Prevención de errores / Feedback apropiado      | Calificación de Submissions                    |
+| 7  | No hay posibilidad de responder o interactuar con feedback recibido                                   | 2      | Flexibilidad y eficiencia en la comunicación    | Recepción de Feedback                          |
 
-| #  | Problema                                                              | Escala de severidad | Heurística/Principio violado             | Tarea evaluada                                  |
-|----|-----------------------------------------------------------------------|--------------------|-----------------------------------------|-------------------------------------------------|
-| 1  | Navegación lenta y con muchos pasos entre secciones                   | 3                  | Eficiencia y satisfacción del usuario   | Navegación del Catálogo de Servicios            |
-| 2  | Falta de opciones de personalización en creación de servicios         | 2                  | Flexibilidad y eficiencia en el uso     | Creación de Servicio                            |
-| 3  | Filtros ocupan demasiado espacio en la pantalla de búsqueda           | 2                  | Diseño estético y minimalista           | Navegación del Catálogo de Servicios            |
-| 4  | Diálogos grandes con demasiada información no priorizada              | 2                  | Diseño estético, visibilidad de información | Visualización del Perfil de la Empresa          |
-| 5  | Confusión en el mensaje "ver más" al seleccionar un review            | 3                  | Consistencia y claridad en el feedback  | Recepción de Reviews y Feedback de Clientes     |
-| 6  | Falta de confirmaciones en las acciones dentro del historial de reseñas| 2                  | Prevención de errores, ayuda a usuarios | Recepción de Reviews y Feedback de Clientes     |
-| 7  | No se puede responder a reseñas desde el perfil del servicio           | 3                  | Flexibilidad y eficiencia en la comunicación | Recepción de Reviews y Feedback de Clientes  |
+### Descripción de Problemas
 
-**Descripción de Problemas**
+**Problema #1: Falta de filtros específicos para tipos de servicios o challenges**  
+- **Tarea Evaluada:** Exploración de Challenges y Servicios Académicos  
+- **Recomendación:** Implementar filtros más detallados por tipo de contenido (ej. por categoría, dificultad o área temática) para facilitar la búsqueda dirigida.
 
-**Problema #1: Navegación lenta y con muchos pasos entre secciones**
-- **Tarea Evaluada:** Navegación del Catálogo de Servicios
-- **Recomendación:** Optimizar el flujo de navegación reduciendo la cantidad de clics necesarios entre las secciones clave. Implementar menús más rápidos y opciones de acceso directo.
+**Problema #2: Algunos elementos se ven fuera de lugar en ciertas pantallas**  
+- **Tarea Evaluada:** Navegación general de la plataforma  
+- **Recomendación:** Realizar ajustes en el diseño responsivo y la distribución de los componentes en la interfaz para mantener la coherencia visual.
 
-**Problema #2: Falta de opciones de personalización en la creación de servicios**
-- **Tarea Evaluada:** Creación de Servicio
-- **Recomendación:** Agregar más opciones de personalización, como intervalos de tiempo predeterminados y tipos de servicios preconfigurados para mejorar la flexibilidad.
+**Problema #3: Uso excesivo de espacios vacíos en listas (entregas, challenges)**  
+- **Tarea Evaluada:** Visualización y Gestión de Challenges  
+- **Recomendación:** Compactar el diseño de las listas con mejor uso del espacio vertical, especialmente en vistas móviles o de baja resolución.
 
-**Problema #3: Filtros ocupan demasiado espacio en la pantalla de búsqueda**
-- **Tarea Evaluada:** Navegación del Catálogo de Servicios
-- **Recomendación:** Reducir el tamaño de los filtros o permitir que se colapsen para maximizar el espacio disponible en la pantalla.
+**Problema #4: Al retroceder desde una entrega se regresa a la lista de grupos en lugar del challenge anterior**  
+- **Tarea Evaluada:** Navegación general de la plataforma  
+- **Recomendación:** Ajustar el flujo de navegación para que el botón de retroceso respete el contexto anterior del usuario (por ejemplo, volver al challenge en vez de al listado de grupos).
 
-**Problema #4: Diálogos grandes con demasiada información no priorizada**
-- **Tarea Evaluada:** Visualización del Perfil de la Empresa
-- **Recomendación:** Simplificar los diálogos, mostrando solo la información esencial y permitiendo la expansión para detalles adicionales.
+**Problema #5: No se muestran reseñas o retroalimentación visible para los servicios visualizados**  
+- **Tarea Evaluada:** Visualización de Challenges y Servicios  
+- **Recomendación:** Incluir un sistema de comentarios o reseñas visibles que refuercen la confianza del usuario y su toma de decisiones.
 
-**Problema #5: Confusión en el mensaje "ver más" al seleccionar un review**
-- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
-- **Recomendación:** Clarificar el mensaje "ver más" en la sección de reseñas, indicando claramente lo que se va a expandir o mostrar adicionalmente.
+**Problema #6: Falta de confirmación visual al calificar o enviar feedback**  
+- **Tarea Evaluada:** Calificación de Submissions  
+- **Recomendación:** Agregar mensajes de confirmación y alertas visuales luego de enviar calificaciones o comentarios.
 
-**Problema #6: Falta de confirmaciones en acciones dentro del historial de reseñas**
-- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
-- **Recomendación:** Incluir mensajes de confirmación en cada acción del historial, como la publicación de una reseña o la modificación de una cita.
+**Problema #7: No hay posibilidad de responder o interactuar con feedback recibido**  
+- **Tarea Evaluada:** Recepción de Feedback  
+- **Recomendación:** Permitir respuestas a los comentarios recibidos, fomentando una comunicación bidireccional entre estudiantes y profesores.
 
-**Problema #7: No se puede responder a reseñas desde el perfil del servicio**
-- **Tarea Evaluada:** Recepción de Reviews y Feedback de Clientes
-- **Recomendación:** Implementar una funcionalidad que permita a las empresas responder a reseñas directamente desde su perfil para facilitar la comunicación con los clientes.
+---
 
-**User Flows a Validar**
+### User Flows a Validar
 
-**Para el Segmento Cliente:**
-1. **Navegación del Catálogo de Servicios:** Evaluar la facilidad para encontrar y explorar servicios como manicure, pedicure y tratamientos faciales.
-2. **Proceso de Reserva:** Evaluar la facilidad para reservar un servicio, seleccionar un horario y elegir un profesional.
-3. **Recepción de Servicios:** Evaluar la confirmación de la reserva, notificaciones y feedback post-servicio.
+**Para el Segmento Estudiante Universitario:**
+1. **Exploración de Challenges y Servicios Académicos:** Validar si el contenido es fácil de encontrar, y si los filtros existentes son suficientes.
+2. **Creación y Unión a Grupos de Estudio:** Validar el proceso de unión y creación de grupos usando códigos o formularios.
+3. **Visualización y Gestión de Challenges:** Verificar si los retos se visualizan correctamente y están bien organizados.
+4. **Creación y Calificación de Submissions:** Validar la facilidad para subir entregas y entender el sistema de evaluación del docente.
+5. **Navegación General de la Plataforma:** Evaluar si la estructura de navegación es clara, coherente y lógica.
 
-**Para el Segmento Empresa:**
-1. **Visualización del Perfil de la Empresa:** Evaluar cómo la empresa visualiza su propio perfil.
-2. **Creación de Servicio:** Evaluar la facilidad para crear y personalizar nuevos servicios.
-3. **Gestión de Reservas:** Evaluar la capacidad para gestionar reservas, visualizar y modificar citas de clientes.
-4. **Recepción de Reviews y Feedback de Clientes:** Evaluar cómo las empresas reciben y gestionan reseñas de los clientes.
+**Para el Segmento Profesor Universitario:**
+1. **Visualización del Perfil Profesional:** Validar cómo el docente puede acceder y editar su información personal y académica.
+2. **Creación de Challenges Académicos:** Verificar si el sistema permite crear retos de forma intuitiva con campos relevantes.
+3. **Gestión de Entregas de Estudiantes (Submissions):** Evaluar si es fácil revisar y calificar las entregas desde el panel del docente.
+4. **Administración de Grupos Académicos:** Validar la funcionalidad para gestionar participantes, configurar grupos y asignar actividades.
+5. **Recepción de Feedback de Estudiantes:** Comprobar si el docente puede visualizar comentarios recibidos y responder en caso necesario.
+
 
 
 ### 5.4. Video About-the-Product
@@ -6783,8 +6793,8 @@ La tabla de resumen muestra los problemas identificados, su nivel de severidad y
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de Bliss y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Cuadro de Video Representativo**   | <img src="resources/chapter-5/About-the-product-cap.png" alt="Descripción de la imagen" width="300" height="200">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/personal/u20231c784_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231c784%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS53%2DNRG3%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E170084ee%2Dfa15%2D40d0%2Db55e%2D67646b89c958) <br/> **Youtube**:[Link de acceso](https://www.youtube.com/watch?v=hLEgim73rcs&ab_channel=ElviaMarcela) |
+| **Cuadro de Video Representativo**   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/Epy_AhyREGVDh32b1o7ku-gBQlB1EIym2RQ-xOkZfS3-ZQ?e=7pVKvz) |
 
 
 ## Conclusiones
