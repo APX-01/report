@@ -6382,7 +6382,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Visualización de información del servicio               | Las imagenes y elementos usados le agradan y parecen intuitivos.                         |
 | Creacion y union a un grupo                                    | Comenta que la creacion y union a un grupo es interesante intuitiva y sencilla de aprender. |
 | Creacion de un challenge               | Considera que la creacion de un challenge es bastante sencillo y facil de entender.                                                   |
-| Creacion y calificacion de un submission                                      | Comenta que la creacion del contenido de un submission es facil y la calificacion por parte del profesor tbm es intuitiva.                       |
+| Creacion y calificacion de un submission                                      | Comenta que la creacion del contenido de un submission es facil y la calificacion por parte del profesor también es intuitiva.                       |
 | Navegación general                                      | Considera que los elementos y la posicion de estos ayuda a tener una navegacion mas facil.                                                            |
 
 | Entrevista 2: Estudiantes Universitarios |                                                                                                                                                      |
