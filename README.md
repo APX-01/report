@@ -6399,6 +6399,45 @@ La base de datos se desplegó en Railway, una plataforma que permite crear y adm
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+**Landing Page:**<br>
+
+<img src="./images/chapter-5/insights-landingpage-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-landingpage-tb2-2.png" alt="Insights" width="400"/>
+
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 7
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 1
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Frontend:**<br>
+
+<img src="./images/chapter-5/insights-frontend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-frontend-tb2-2.png" alt="Insights" width="400"/>
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 22
+  - Luquillas Asto Omar: 1
+  - Real Calderón Sebastián Omar: 28
+  - Flores Apaico Josue Antonio: 6
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Backend:**<br>
+
+<img src="./images/chapter-5/insights-backend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-backend-tb2-2.png" alt="Insights" width="400"/>
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 12
+  - Luquillas Asto Omar: 5
+  - Real Calderón Sebastián Omar: 11
+  - Flores Apaico Josue Antonio: 11
+  - Mendoza Vergara Franklin Alejandro: 0
+
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
