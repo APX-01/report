@@ -4216,6 +4216,79 @@ Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 
+En el presente Sprint, el equipo trabajará en el desarrollo del Backend, enfocándose en la creación de endpoints y mejoras de las funcionalidades y diseño del frontend. Los principales aspectos considerados en este Sprint incluyen la creación de **IAM**, **Groups**, **Submissions** y **Challenges**.
+
+Cada uno de estos aspectos contará con un líder responsable de su desarrollo y colaboradores que brindarán soporte en tareas específicas, con el fin de asegurar una comunicación efectiva, una coordinación eficiente y una distribución clara de responsabilidades dentro del equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>IAM</th>
+      <th>Groups</th>
+      <th>Config</th>
+      <th>Shared</th>
+      <th>Submissions</th>
+      <th>Challenges</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>OmarLLA</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mendoza Vergara Franklin Alejandro</td>
+      <td>AlexBoo1</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
 ##### 5.2.3.3. Sprint Backlog 3.
 
 En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
