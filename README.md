@@ -5783,51 +5783,51 @@ A continuación se presenta un registro detallado de los commits realizados en e
 
 En este apartado se muestran las evidencias visuales que documentan el progreso alcanzado durante el sprint 3. Mediante capturas de pantalla y un video demostrativo, se ilustran de forma clara los logros obtenidos y la manera en que se han implementado las funcionalidades del producto.
 
-<img src="./images/chapter-5/landing1.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing2.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing3.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing4.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing5.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing6.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing7.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing8.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing9.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing10.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front1.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front2.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front3.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front4.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front5.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front6.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front7.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front8.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front9.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front10.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front10.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front11.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front11.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front12.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front13.png" alt="Deploy" width="400"/>
+<img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
