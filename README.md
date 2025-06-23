@@ -85,15 +85,49 @@ Abril 2025
       <td>Luquillas Asto Omar, Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio</td>
       <td>Revisión completa hasta el capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
     </tr>
+    <tr>
+      <td>1.1</td>
+      <td>2025-05-10</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.2.2. Sprint 2, 5.2.2.1. Sprint Planning 2., 5.2.2.2. Aspect Leaders and Collaborators., 5.2.2.3. Sprint Backlog 2., 5.2.2.4. Development Evidence for Sprint Review., 5.2.2.5. Execution Evidence for Sprint Review., 5.2.2.6. Services Documentation Evidence for Sprint Review., 5.2.2.7. Software Deployment Evidence for Sprint Review., 5.2.2.8. Team Collaboration Insights during Sprint.</td>
+    </tr>
+    <tr>
+      <td>2.0</td>
+      <td>2025-05-18</td>
+      <td>Real Calderón Sebastián Omar y Flores Apaico Josue Antonio</td>
+      <td>Revisión completa hasta capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
+    </tr>
+    <tr>
+      <td>2.1</td>
+      <td>2025-05-20</td>
+      <td>Luquillas Asto Omar y Alejo Cardenas Jose Antonio</td>
+      <td>Revisión completa del capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
+    </tr>
+    <tr>
+      <td>2.2</td>
+      <td>2025-06-20</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.2.3. Sprint 3, 5.2.3.1. Sprint Planning 3., 5.2.3.2. Aspect Leaders and Collaborators., 5.2.3.3. Sprint Backlog 3., 5.2.3.4. Development Evidence for Sprint Review., 5.2.3.5. Execution Evidence for Sprint Review., 5.2.3.6. Services Documentation Evidence for Sprint Review., 5.2.3.7. Software Deployment Evidence for Sprint Review., 5.2.3.8. Team Collaboration Insights during Sprint. </td>
+    </tr>
+    <tr>
+      <td>3.0</td>
+      <td>2025-06-22</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.3. Validation Interviews., 5.3.1. Diseño de Entrevistas., 5.3.2. Registro de Entrevistas., 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product.</td>
+    </tr>
   </tbody>
 </table>
 
 
 ## Project Report Collaboration Insights
 
-|  URL de la organización del proyecto  |          URL del repositorio del reporte          |
-| :-----------------------------------: | :-----------------------------------------------: |
-| https://github.com/APX-01 | https://github.com/APX-01/report.git |
+| Tipo de Enlace                      | URL                                                                                   |
+|------------------------------------|----------------------------------------------------------------------------------------|
+| **Landing Page**                   | [https://apx-01.github.io/Landing-Page/](https://apx-01.github.io/Landing-Page/)     |
+| **Frontend desplegado (Vercel)**   | [https://frontend-web-applications-deploymen.vercel.app](https://frontend-web-applications-deploymen.vercel.app) |
+| **Backend desplegado (Render)**    | [https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/](https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/) |
+| **Repositorio de la organización** | [https://github.com/APX-01](https://github.com/APX-01)                                |
+| **Repositorio del reporte**        | [https://github.com/APX-01/report.git](https://github.com/APX-01/report.git)         |
 
 TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio de Github de nuestro equipo: https://github.com/APX-01. Para el informe, cada integrante revisó y mejoró aspectos de la entrega anterior en: https://github.com/APX-01/report.git. Asimismo, el desarrollo de la landing page se trabajó en: https://github.com/APX-01/Landing-Page.git. Cabe mencionar que, con la incorporación de un nuevo miembro en el equipo, surgieron modificaciones en la landing page, por lo que se incluyen capturas de los commits de los últimos dos meses.
 
@@ -121,102 +155,147 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
 
 ## Contenido
 
-- [Student Outcome](#student-outcome)
-- [Capítulo I](#capítulo-i)
-  - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-  - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2. Lean UX Process](#122-lean-ux-process)
-      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-  - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-  - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-- [Capítulo III: Requirements specification](#capítulo-iii-requirements-specification)
-  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2. User Stories](#32-user-stories)
-  - [3.3. Impact Mapping](#33-impact-mapping)
-  - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#capítulo-iv-product-design)
-  - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-  - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2 Labeling Systems](#422-labeling-systems)
-    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
-  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
-    - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
-  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
-  - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
-
-  - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.2.2. Sprint 2](#522-sprint-2)
-      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
-      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
-      - [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-      - [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+    - [**CURSO:** Desarrollo de Aplicaciones Open Source](#curso-desarrollo-de-aplicaciones-open-source)
+    - [**NRC**: 4334](#nrc-4334)
+    - [**Profesor:** Hugo Allan Mori Paiva](#profesor-hugo-allan-mori-paiva)
+    - [**Ingeniería de software**](#ingeniería-de-software)
+  - [Informe de Trabajo Final](#informe-de-trabajo-final)
+    - [**Nombre del startup:** APX-01](#nombre-del-startup-apx-01)
+    - [**Nombre del producto:** EduHive](#nombre-del-producto-eduhive)
+  - [**Integrantes**](#integrantes)
+  - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+  - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [Contenido](#contenido)
+  - [Student Outcome](#student-outcome)
+  - [Capitulo I](#capitulo-i)
+    - [1.1. Startup Profile](#11-startup-profile)
+      - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+      - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+      - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+      - [1.2.2. Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+    - [**Segmento Objetivo 1: Estudiantes Universitarios**](#segmento-objetivo-1-estudiantes-universitarios)
+    - [**Segmento Objetivo 2: Profesores Universitarios**](#segmento-objetivo-2-profesores-universitarios)
+  - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+      - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+      - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+      - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+      - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+      - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+      - [2.3.1. User Personas](#231-user-personas)
+      - [2.3.2. User Task Matrix](#232-user-task-matrix)
+      - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+      - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+      - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  - [Capítulo III: Requirements specification](#capítulo-iii-requirements-specification)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+    - [3.2. User Stories](#32-user-stories)
+    - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
+  - [Capítulo IV: Product Design](#capítulo-iv-product-design)
+    - [4.1. Style Guidelines](#41-style-guidelines)
+      - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+      - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+      - [4.2.1. Organization Systems](#421-organization-systems)
+      - [4.2.2. Labeling Systems](#422-labeling-systems)
+      - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+      - [4.2.4. Searching Systems](#424-searching-systems)
+      - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+      - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+      - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+      - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+      - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+      - [4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)
+      - [4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+      - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+      - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+      - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+      - [4.7.1. Class Diagrams](#471-class-diagrams)
+      - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.8. Database Design](#48-database-design)
+      - [4.8.1. Database Diagram](#481-database-diagram)
+  - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
+      - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+      - [5.1.2. Source Code Management](#512-source-code-management)
+      - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
+    - [Java](#java)
+    - [Gherkin Conventions for Readable Specifications](#gherkin-conventions-for-readable-specifications)
+    - [Angular Coding Style Guide](#angular-coding-style-guide)
+    - [Spring Boot Features](#spring-boot-features)
+      - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [Despliegue de la Landing Page en GitHub Pages](#despliegue-de-la-landing-page-en-github-pages)
+      - [Consideraciones previas al despliegue:](#consideraciones-previas-al-despliegue)
+      - [Pasos de despliegue:](#pasos-de-despliegue)
+    - [Despliegue de la Frontend Web Application en Vercel](#despliegue-de-la-frontend-web-application-en-vercel)
+      - [Pasos de despliegue:](#pasos-de-despliegue-1)
+    - [Despliegue de los Web Services (Backend) en Azure](#despliegue-de-los-web-services-backend-en-azure)
+      - [Pasos de despliegue:](#pasos-de-despliegue-2)
+    - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+      - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+        - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+        - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+        - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+    - [Tabla de Endpoints Documentados](#tabla-de-endpoints-documentados)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
+      - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
+        - [Objetivo de la Entrevista](#objetivo-de-la-entrevista)
+        - [Elementos de Validación](#elementos-de-validación)
+        - [User Flows a Validar](#user-flows-a-validar)
+        - [Formato de Registro de la Entrevista](#formato-de-registro-de-la-entrevista)
+        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+    - [Tareas a Evaluar](#tareas-a-evaluar)
+    - [Tabla Resumen basada en entrevistas](#tabla-resumen-basada-en-entrevistas)
+    - [Descripción de Problemas](#descripción-de-problemas)
+    - [User Flows a Validar](#user-flows-a-validar-1)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografía](#bibliografía)
+  - [Anexos](#anexos)
 
 ## Student Outcome
 
@@ -266,12 +345,30 @@ Real Calderón Sebastián Omar - TP:<br>
 Mis aportes se centraron en el diseño de la base de datos, el desarrollo del Product Backlog y el prototipado funcional de la aplicación. En los espacios de revisión, expuse cómo se estructuraba la información y cómo se relacionaban los servicios. Presenté documentación y evidencias del trabajo técnico de forma clara, buscando que tanto los compañeros como los docentes pudieran seguir el hilo de los procesos realizados.
 
 <br>
+Alejo Cárdenas José Antonio - TB2:<br>
+Durante el desarrollo del backend, presenté los endpoints implementados y su integración con el frontend en las revisiones de sprint. Expliqué con claridad el flujo de datos y la lógica de negocio, adaptando mi lenguaje según la audiencia (técnica o no técnica). También participé en discusiones sobre la optimización de consultas y la seguridad de los servicios.<br><br>
+
+Flores Apaico Josue Antonio - TB2:<br>
+ Participé en la explicación de cómo el backend soportaba las interacciones de la interfaz, especialmente en flujos críticos como autenticación y gestión de datos. Utilicé ejemplos prácticos para clarificar el impacto del backend en la experiencia del usuario.<br><br>
+
+Mendoza Vergara Franklin Alejandro - TB2:<br>
+resenté las pruebas de integración y los resultados de los endpoints, resaltando su eficiencia y manejo de errores. En las revisiones, relacioné el funcionamiento del backend con las necesidades de UX/UI, asegurando una comunicación efectiva entre ambos equipos.<br><br>
+
+Luquillas Asto Omar - TB2:<br>
+Expuse la arquitectura del backend, destacando el diseño de capas y la conexión con la base de datos. En las reuniones técnicas, detallé cómo los endpoints cumplían con los requisitos del dominio, utilizando diagramas para facilitar la comprensión. Además, argumenté las decisiones técnicas tomadas durante el desarrollo.<br><br>
+
+Real Calderón Sebastián Omar - TB2:<br>
+Comunicé oralmente el diseño de la base de datos y su relación con los endpoints, enfatizando en la normalización y escalabilidad. Durante las demostraciones, mostré cómo los servicios respondían a las peticiones del frontend, asegurando que el equipo entendiera el proceso completo.
+
+<br>
       </td>
       <td>
       <strong>TB1</strong><br>
         A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.<br><br>
         <strong>TP</strong><br>
         Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.
+	<strong>TB2</strong><br>
+    El equipo demostró una comunicación oral clara y adaptativa durante el desarrollo del backend. Cada integrante explicó aspectos técnicos como endpoints, arquitectura y base de datos con precisión, utilizando herramientas visuales y ejemplos para facilitar la comprensión. Las presentaciones técnicas y las discusiones reflejaron un dominio del tema y una capacidad para alinear el backend con las necesidades del frontend, asegurando una integración coherente y eficiente.
       </td>
     </tr>
     <tr>
@@ -308,11 +405,28 @@ Fui responsable de la documentación escrita sobre la arquitectura orientada al 
 Real Calderón Sebastián Omar - TP:<br>
 Elaboré documentación sobre el diseño de base de datos, el Product Backlog y los prototipos funcionales de la aplicación. También desarrollé evidencia escrita sobre la implementación de servicios, cuidando que el contenido fuera detallado, estructurado y entendible por diferentes tipos de lectores. En cada entregable, me aseguré de transmitir con precisión el propósito, funcionamiento y resultado de cada componente técnico.<br><br>
 <br>
+Alejo Cárdenas José Antonio - TB2:<br>
+Documenté los endpoints (rutas, parámetros y respuestas) en formato técnico, incluyendo ejemplos de requests/responses. También redacté guías para el despliegue del backend y la configuración de variables de entorno, asegurando claridad para futuros desarrolladores.<br>
+
+Flores Apaico Josue Antonio - TB2:<br>
+Documenté los contratos entre frontend y backend, especificando formatos JSON y códigos de error. Complementé con ejemplos prácticos para facilitar la integración.<br>
+
+Mendoza Vergara Franklin Alejandro - TB2:<br>
+Escribí informes de pruebas (unitarias, de integración) con resultados y casos de uso. También contribuí a la documentación general del proyecto, vinculando el backend con los objetivos de negocio.<br>
+
+Luquillas Asto Omar - TB2:<br>
+ Elaboré diagramas de secuencia y flujo para explicar el comportamiento de los servicios. Escribí la documentación de la API utilizando Swagger, detallando cada endpoint y su relación con el dominio del proyecto.<br>
+
+Real Calderón Sebastián Omar - TB2:<br>
+Redacté el esquema de la base de datos y las consultas SQL clave, junto con justificaciones técnicas sobre su estructura. Incluí evidencia escrita de las migraciones y seeds para garantizar reproducibilidad.<br><br>
+<br>
       <td>
       <strong>TB1</strong><br>
         El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br><br>
         <strong>TP</strong><br>
         El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.
+	<strong>TB2:</strong><br>
+    	La comunicación escrita durante TB2 fue técnica y detallada, pero accesible. El equipo generó documentación completa sobre APIs, base de datos y pruebas, utilizando estándares como Swagger y diagramas. Los documentos reflejaron un equilibrio entre precisión técnica y claridad, facilitando la mantenibilidad y escalabilidad del backend. La evidencia escrita aseguró transparencia en los procesos y una base sólida para futuras iteraciones.
       </td>
     </tr>
   </tbody>
@@ -4172,7 +4286,2554 @@ En este sprint, las tareas se organizaron en dos áreas: el diseño y la impleme
 
 <img src="./images/chapter-5/insights-2sprint-2.png" alt="Execution Evidence 8" width="700"/> 
 
+#### 5.2.3. Sprint 3
+En esta sección se expone el informe correspondiente al Sprint 3, el cual estuvo centrado en el desarrollo del backend, la incorporación de nuevas funcionalidades y la optimización de la experiencia de usuario en la aplicación web.
+##### 5.2.3.1. Sprint Planning 3.
+Durante este tercer sprint, se continuó utilizando Trello como herramienta principal para la gestión del proyecto. Cada tarjeta dentro del tablero representó una tarea específica, mientras que las distintas columnas reflejaron su estado de avance. Esta organización facilitó una visión integral del progreso general y promovió una colaboración más efectiva entre los miembros del equipo.
 
+En este ciclo de trabajo se propuso construir la versión inicial del backend de la plataforma, así como implementar nuevas características y realizar mejoras orientadas a la experiencia del usuario.
+
+Sprint board en trello:
+<img src="images/chapter-5/sprint-backlog-3.png">
+
+Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3">https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3</a>
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">3</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2025-06-15</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">12:50 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Jose Alejo </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Alejo Cardenas Jose Antonio, Luquillas Asto Omar, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio, Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Review Summary</strong></td>
+      <td colspan="1">Se llevó a cabo el primer despliegue de la aplicación web, incorporando funcionalidades esenciales como la creación de servicios y la visualización de información.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 2 Retrospective Summary</strong></td>
+    <td colspan="1">Se evidenció un notable aumento en la productividad y el compromiso del equipo. Además, se establecieron las bases para una organización del trabajo más eficiente.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Goal</strong></td>
+      <td colspan="1">Este sprint tiene como meta principal mejorar la experiencia tanto de los clientes como de los propietarios, optimizando la gestión de servicios y reservas. Se busca proporcionar herramientas que permitan tomar decisiones informadas y realizar un seguimiento efectivo de las citas. Para los clientes, esto se traducirá en una manera más simple de elegir y gestionar sus servicios, con mayor claridad sobre sus citas y opiniones. Para los dueños, implicará una gestión más eficiente de la información de su negocio y servicios, lo cual repercutirá en una mejora de la calidad del servicio ofrecido. También se contempla el desarrollo de una API para que el equipo de desarrollo pueda manejar servicios y citas desde el backend. Este objetivo se considerará alcanzado cuando los clientes puedan reservar y cancelar citas de forma sencilla y según sus necesidades, los propietarios tengan la capacidad de crear, modificar o eliminar servicios, y los desarrolladores puedan añadir nuevos elementos mediante la API.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 60 story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
+  </tr>
+</table>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En el presente Sprint, el equipo trabajará en el desarrollo del Backend, enfocándose en la creación de endpoints y mejoras de las funcionalidades y diseño del frontend. Los principales aspectos considerados en este Sprint incluyen la creación de **IAM**, **Groups**, **Submissions** y **Challenges**.
+
+Cada uno de estos aspectos contará con un líder responsable de su desarrollo y colaboradores que brindarán soporte en tareas específicas, con el fin de asegurar una comunicación efectiva, una coordinación eficiente y una distribución clara de responsabilidades dentro del equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+<table  cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>IAM</th>
+      <th>Groups</th>
+      <th>Config</th>
+      <th>Shared</th>
+      <th>Submissions</th>
+      <th>Challenges</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>OmarLLA</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mendoza Vergara Franklin Alejandro</td>
+      <td>AlexBoo1</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+##### 5.2.3.3. Sprint Backlog 3.
+
+En este item se detalla el Sprint Backlog del tercer sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 3. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td>TS-001</td>
+    <td>Obtener usuario por ID</td>
+    <td>T01</td>
+    <td>Crear getUserById</td>
+    <td>Crear endpoint de Users GET /api/v1/users/{userId}</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-002</td>
+    <td>Actualizar usuario</td>
+    <td>T02</td>
+    <td>Crear updateUser</td>
+    <td>Crear endpoint de Users PUT /api/v1/users/{userId}</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-003</td>
+    <td>Eliminar usuario</td>
+    <td>T03</td>
+    <td>Crear deleteUser</td>
+    <td>Crear endpoint de Users DELETE /api/v1/users/{userId}</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-004</td>
+    <td>Obtener todos los usuarios</td>
+    <td>T04</td>
+    <td>Crear getAllUsers</td>
+    <td>Crear endpoint de Users GET /api/v1/users</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-005</td>
+    <td>Crear nuevo usuario</td>
+    <td>T05</td>
+    <td>Crear createUser</td>
+    <td>Crear endpoint de Users POST /api/v1/users</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-006</td>
+    <td>Obtener entrega por ID</td>
+    <td>T06</td>
+    <td>Crear getSubmissionById</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/{submissionId}</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-007</td>
+    <td>Actualizar entrega</td>
+    <td>T07</td>
+    <td>Crear updateSubmission</td>
+    <td>Crear endpoint de Submissions PUT /api/v1/submissions/{submissionId}</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-008</td>
+    <td>Eliminar entrega</td>
+    <td>T08</td>
+    <td>Crear deleteSubmission</td>
+    <td>Crear endpoint de Submissions DELETE /api/v1/submissions/{submissionId}</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-009</td>
+    <td>Obtener todas las entregas</td>
+    <td>T09</td>
+    <td>Crear getAllSubmissions</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-010</td>
+    <td>Crear nueva entrega</td>
+    <td>T10</td>
+    <td>Crear createSubmission</td>
+    <td>Crear endpoint de Submissions POST /api/v1/submissions</td>
+    <td>2</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-011</td>
+    <td>Obtener entregas por estudiante</td>
+    <td>T11</td>
+    <td>Crear getSubmissionsByStudent</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/submissions</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-012</td>
+    <td>Obtener entregas por estudiante y reto</td>
+    <td>T12</td>
+    <td>Crear getSubmissionsByStudentAndChallenge</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-013</td>
+    <td>Obtener entregas por reto</td>
+    <td>T13</td>
+    <td>Crear getSubmissionsByChallenge</td>
+    <td>Crear endpoint de Submissions GET /api/v1/submissions/challenges/{challengeId}/submissions</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-014</td>
+    <td>Obtener grupo por ID</td>
+    <td>T14</td>
+    <td>Crear getGroupById</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups/{id}</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-015</td>
+    <td>Actualizar grupo</td>
+    <td>T15</td>
+    <td>Crear updateGroup</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{id}</td>
+    <td>2</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-016</td>
+    <td>Eliminar grupo</td>
+    <td>T16</td>
+    <td>Crear deleteGroup</td>
+    <td>Crear endpoint de Groups DELETE /api/v1/groups/{id}</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-017</td>
+    <td>Obtener código de unión de grupo</td>
+    <td>T17</td>
+    <td>Crear getGroupJoinCode</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>1</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-018</td>
+    <td>Establecer código de unión de grupo</td>
+    <td>T18</td>
+    <td>Crear setGroupJoinCode</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>2</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-019</td>
+    <td>Restablecer código de unión de grupo</td>
+    <td>T19</td>
+    <td>Crear resetGroupJoinCode</td>
+    <td>Crear endpoint de Groups PUT /api/v1/groups/{groupId}/groupJoinCodes/reset</td>
+    <td>2</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-020</td>
+    <td>Obtener todos los grupos</td>
+    <td>T20</td>
+    <td>Crear getAllGroups</td>
+    <td>Crear endpoint de Groups GET /api/v1/groups</td>
+    <td>1</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-021</td>
+    <td>Crear nuevo grupo</td>
+    <td>T21</td>
+    <td>Crear createGroup</td>
+    <td>Crear endpoint de Groups POST /api/v1/groups</td>
+    <td>2</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-022</td>
+    <td>Unirse a grupo con código</td>
+    <td>T22</td>
+    <td>Crear joinGroupWithCode</td>
+    <td>Crear endpoint de Groups POST /api/v1/groups/join</td>
+    <td>2</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-023</td>
+    <td>Obtener reto por ID</td>
+    <td>T23</td>
+    <td>Crear getChallengeById</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges/{challengeId}</td>
+    <td>1</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-024</td>
+    <td>Actualizar reto</td>
+    <td>T24</td>
+    <td>Crear updateChallenge</td>
+    <td>Crear endpoint de Challenges PUT /api/v1/challenges/{challengeId}</td>
+    <td>2</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-025</td>
+    <td>Eliminar reto</td>
+    <td>T25</td>
+    <td>Crear deleteChallenge</td>
+    <td>Crear endpoint de Challenges DELETE /api/v1/challenges/{challengeId}</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-026</td>
+    <td>Obtener todos los retos</td>
+    <td>T26</td>
+    <td>Crear getAllChallenges</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-027</td>
+    <td>Crear nuevo reto</td>
+    <td>T27</td>
+    <td>Crear createChallenge</td>
+    <td>Crear endpoint de Challenges POST /api/v1/challenges</td>
+    <td>2</td>
+    <td>Alejandro Franklin Mendoza Vergara</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS-028</td>
+    <td>Obtener retos por grupo</td>
+    <td>T28</td>
+    <td>Crear getChallengesByGroup</td>
+    <td>Crear endpoint de Challenges GET /api/v1/challenges/groups/{groupId}/challenges</td>
+    <td>1</td>
+    <td>Sebastián Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+**Commits realizados en el repositorio de la Landing Page durante el sprint 3:**
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 387399736b7751468d6f01267ee01c11da34e16b </td>
+    <td colspan="1"> feat(landing-page): added language switcher </td>
+    <td colspan="1"> feat(landing-page): added language switcher </td>
+    <td colspan="1"> 02/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> 7f33297480e0791256027b23403aa50b1a1f2374 </td>
+    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
+    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
+    <td colspan="1"> 21/06/2025 </td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 9321f35 </td>
+    <td colspan="1"> feat(develop): added language switcher </td>
+    <td colspan="1"> feat(develop): added language switcher </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 790fe57 </td>
+    <td colspan="1"> feat(develop): added group entity and service </td>
+    <td colspan="1"> feat(develop): added group entity and service </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 3e5acd2 </td>
+    <td colspan="1"> feat(develop): added group join code entity and service </td>
+    <td colspan="1"> feat(develop): added group join code entity and service </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 1370615 </td>
+    <td colspan="1"> feat(develop): added group list and join </td>
+    <td colspan="1"> feat(develop): added group list and join </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 93b303a </td>
+    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 55e08aa </td>
+    <td colspan="1"> feat(Service): Added services </td>
+    <td colspan="1"> feat(Service): Added services </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 171f700 </td>
+    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
+    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c8d30d2 </td>
+    <td colspan="1"> fix(app-component): Added app component </td>
+    <td colspan="1"> fix(app-component): Added app component </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 71bce45 </td>
+    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
+    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 124ffe2 </td>
+    <td colspan="1"> feat(developer): adjusted and added group view </td>
+    <td colspan="1"> feat(developer): adjusted and added group view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 3f61a3a </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+    </tr>
+    <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f19d42e </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 71bce45 </td>
+    <td colspan="1"> fix: moved base service to appropiate folder </td>
+    <td colspan="1"> fix: moved base service to appropiate folder </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 124ffe2 </td>
+    <td colspan="1"> feat: adjusted and added group view </td>
+    <td colspan="1"> feat: adjusted and added group view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 3f61a3a </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f19d42e </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> feat: added group leave functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> c4f8531 </td>
+    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> dbbab5a </td>
+    <td colspan="1"> fix(font-awesome): fix icons </td>
+    <td colspan="1"> fix(font-awesome): fix icons </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 6e7869f </td>
+    <td colspan="1"> feat: group creation </td>
+    <td colspan="1"> feat: group creation </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+     <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> dbbf130 </td>
+    <td colspan="1"> fix: made challenge components standalone </td>
+    <td colspan="1"> fix: made challenge components standalone </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 1c42370 </td>
+    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 529b24c </td>
+    <td colspan="1"> fix(router-error): fix error </td>
+    <td colspan="1"> fix(router-error): fix error </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> b8cfcd9 </td>
+    <td colspan="1"> feat: added group student list view </td>
+    <td colspan="1"> feat: added group student list view </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+       <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 936123a </td>
+    <td colspan="1"> fix: router param names </td>
+    <td colspan="1"> fix: router param names </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> ae66a9c </td>
+    <td colspan="1"> fix: routes for param names </td>
+    <td colspan="1"> fix: routes for param names </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 9588518 </td>
+    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 738430f </td>
+    <td colspan="1"> fix: fixes update on group list </td>
+    <td colspan="1"> fix: fixes update on group list </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f0f58c7 </td>
+    <td colspan="1"> feat(attempts): Added remaining attempts </td>
+    <td colspan="1"> feat(attempts): Added remaining attempts </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> f96d15d </td>
+    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
+    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> 1635923 </td>
+    <td colspan="1"> feat(analytics): added analytics </td>
+    <td colspan="1"> feat(analytics): added analytics </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> c47402e </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> analytics </td>
+    <td colspan="1"> c47402e </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
+    <td colspan="1"> 16/05/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+    <td colspan="1"> feature/submissions-attempts </td>
+    <td colspan="1"> 9321f35 </td>
+    <td colspan="1"> feat: added language switcher </td>
+    <td colspan="1"> feat: added language switcher </td>
+    <td colspan="1"> 15/05/2025 </td>
+  </tr>
+  <tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 6bb48d0 </td>
+  <td colspan="1"> feat: Added iam auth </td>
+  <td colspan="1"> feat: Added iam auth </td>
+  <td colspan="1"> 15/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 1370615 </td>
+  <td colspan="1"> feat: added group list and join </td>
+  <td colspan="1"> feat: added group list and join </td>
+  <td colspan="1"> 15/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 3e5acd2 </td>
+  <td colspan="1"> feat: added group join code entity and service </td>
+  <td colspan="1"> feat: added group join code entity and service </td>
+  <td colspan="1"> 15/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 790fe57 </td>
+  <td colspan="1"> feat: added group entity and service </td>
+  <td colspan="1"> feat: added group entity and service </td>
+  <td colspan="1"> 15/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 9321f35 </td>
+  <td colspan="1"> feat: added language switcher </td>
+  <td colspan="1"> feat: added language switcher </td>
+  <td colspan="1"> 15/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 8f59d33 </td>
+  <td colspan="1"> feat: setup </td>
+  <td colspan="1"> feat: setup </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> c8d30d2 </td>
+  <td colspan="1"> fix(app-component): Added app component </td>
+  <td colspan="1"> fix(app-component): Added app component </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 171f700 </td>
+  <td colspan="1"> feat: added use functionality to dashboard </td>
+  <td colspan="1"> feat: added use functionality to dashboard </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 556aefb </td>
+  <td colspan="1"> feat(Service): Added services </td>
+  <td colspan="1"> feat(Service): Added services </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 93b303a </td>
+  <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+  <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> c4f8531 </td>
+  <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+  <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> f19d42e </td>
+  <td colspan="1"> feat: added group leave functionality </td>
+  <td colspan="1"> feat: added group leave functionality </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 3f61a3a </td>
+  <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+  <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 124ffe2 </td>
+  <td colspan="1"> feat: adjusted and added group view </td>
+  <td colspan="1"> feat: adjusted and added group view </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 71bce45 </td>
+  <td colspan="1"> fix: moved base service to appropiate folder </td>
+  <td colspan="1"> fix: moved base service to appropiate folder </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 9b3e647 </td>
+  <td colspan="1"> fix: .gitignore /.angular </td>
+  <td colspan="1"> fix: .gitignore /.angular </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> b8cfcd9 </td>
+  <td colspan="1"> feat: added group student list view </td>
+  <td colspan="1"> feat: added group student list view </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 529b24c </td>
+  <td colspan="1"> fix(router-error): fix error </td>
+  <td colspan="1"> fix(router-error): fix error </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 1c42370 </td>
+  <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+  <td colspan="1"> feat(submission-student): Added AddSubmission </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> dbbf130 </td>
+  <td colspan="1"> fix: made challenge components standalone </td>
+  <td colspan="1"> fix: made challenge components standalone </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 6e7869f </td>
+  <td colspan="1"> feat: group creation </td>
+  <td colspan="1"> feat: group creation </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> dbbab5a </td>
+  <td colspan="1"> fix(font-awesome): fix icons </td>
+  <td colspan="1"> fix(font-awesome): fix icons </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> f0f58c7 </td>
+  <td colspan="1"> feat(attempts): Added remaining attempts </td>
+  <td colspan="1"> feat(attempts): Added remaining attempts </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 9588518 </td>
+  <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+  <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> ae66a9c </td>
+  <td colspan="1"> fix: routes for param names </td>
+  <td colspan="1"> fix: routes for param names </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+<tr>
+  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
+  <td colspan="1"> feature/submissions-attempts </td>
+  <td colspan="1"> 936123a </td>
+  <td colspan="1"> fix: router param names </td>
+  <td colspan="1"> fix: router param names </td>
+  <td colspan="1"> 16/05/2025 </td>
+</tr>
+</table>
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> main </td>
+    <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
+    <td colspan="1"> feat: setup </td>
+    <td colspan="1"> feat: setup </td>
+    <td colspan="1"> 07/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
+    <td colspan="1"> feat: setup </td>
+    <td colspan="1"> feat: setup </td>
+    <td colspan="1"> 07/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 852f65130ff60644cca4eec492b708781bd02c59 </td>
+    <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
+    <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 4656e2f00cbae2a36c26053f7d033e65bdff53bf </td>
+    <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
+    <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 9bbbc5c021566e7dd9c0e9e7bf00a2480483b923 </td>
+    <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
+    <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> b5d801e3688be2aa4da6ac97bc860e0d55bdcaed </td>
+    <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 2580d9744890e1517746c1cf1f295a2c254e24e4 </td>
+    <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
+    <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
+    <td colspan="1"> 21/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> develop </td>
+    <td colspan="1"> 197844c303cdf1668bdd7e86d5bf224364a89f21 </td>
+    <td colspan="1"> feat(config): Added config </td>
+    <td colspan="1"> feat(config): Added config </td>
+    <td colspan="1"> 21/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+ <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/groupJoinCodes </td>
+    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+   <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>	
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam </td>
+    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
+    <td colspan="1"> 16/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> feat: groups endpoint setup </td>
+    <td colspan="1"> 17/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> feat: added update and delete operations for groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> fix: delete api response code </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
+    <td colspan="1"> 18/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> feat(groups-challenges): added relationship </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> fix(create-update): fix challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> feat(teachers-students): Added iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> feat: base feature </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> feat: group join code operations </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
+    <td colspan="1"> 19/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  <tr>
+    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
+    <td colspan="1"> feature/iam-submissions </td>
+    <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> hotfix(update): hotfix update </td>
+    <td colspan="1"> 20/06/2025 </td>
+  </tr>
+  
+</table>
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este apartado se muestran las evidencias visuales que documentan el progreso alcanzado durante el sprint 3. Mediante capturas de pantalla y un video demostrativo, se ilustran de forma clara los logros obtenidos y la manera en que se han implementado las funcionalidades del producto.
+
+**Landing Page:**
+
+<img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing3.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing4.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing5.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing6.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing7.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing8.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+
+**Frontend:**
+
+<img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front2.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front3.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front4.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front5.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front6.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front7.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front8.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front9.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front10.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front11.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+
+**Backend:**
+
+<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+La siguiente tabla recoge la documentación de los servicios web desarrollados durante el sprint, organizados por módulos funcionales del sistema. Cada categoría (como Users, Submissions, Groups y Challenges) agrupa los endpoints REST implementados, especificando el método HTTP utilizado, la ruta del recurso y una breve descripción de su propósito. Esta documentación respalda el seguimiento del avance en el backend y sirve como referencia técnica para el equipo.
+
+<table>
+  <tr>
+    <th>Tag</th>
+    <th>Verbo http</th>
+    <th>Endpoint</th>
+    <th>Summary</th>
+    <th>Description</th>
+    <th>OperationId</th>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>GET</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Get</td>
+    <td>Get a user by ID</td>
+    <td>users_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>PUT</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Update</td>
+    <td>Update a user</td>
+    <td>users_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>DELETE</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Delete</td>
+    <td>Delete a user</td>
+    <td>users_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{userId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>GET</td>
+    <td>/api/v1/users</td>
+    <td>List</td>
+    <td>Get all users</td>
+    <td>users_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>POST</td>
+    <td>/api/v1/users</td>
+    <td>Create</td>
+    <td>Create a new user</td>
+    <td>users_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Get</td>
+    <td>Get a submission by ID</td>
+    <td>submissions_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>PUT</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Update</td>
+    <td>Update a submission</td>
+    <td>submissions_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>DELETE</td>
+    <td>/api/v1/submissions/{submissionId}</td>
+    <td>Delete</td>
+    <td>Delete a submission</td>
+    <td>submissions_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{submissionId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions</td>
+    <td>List</td>
+    <td>Get all submissions</td>
+    <td>submissions_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>POST</td>
+    <td>/api/v1/submissions</td>
+    <td>Create</td>
+    <td>Create a new submission</td>
+    <td>submissions_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/students/{studentId}/submissions</td>
+    <td>List</td>
+    <td>Get submissions by studentId</td>
+    <td>submissions_by_student</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{studentId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
+    <td>Get</td>
+    <td>Get submissions by studentId and challengeId</td>
+    <td>submissions_by_student_and_challenge</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{studentId}, {challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Submissions</td>
+    <td>GET</td>
+    <td>/api/v1/submissions/challenges/{challengeId}/submissions</td>
+    <td>List</td>
+    <td>Get submissions by challengeId</td>
+    <td>submissions_by_challenge</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Get</td>
+    <td>Get group by id</td>
+    <td>groups_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Update</td>
+    <td>Update a group</td>
+    <td>groups_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>DELETE</td>
+    <td>/api/v1/groups/{id}</td>
+    <td>Delete</td>
+    <td>Delete group</td>
+    <td>groups_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{id}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>Get</td>
+    <td>Get group join code</td>
+    <td>groups_get_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+    <td>Update</td>
+    <td>Set group join code</td>
+    <td>groups_set_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>PUT</td>
+    <td>/api/v1/groups/{groupId}/groupJoinCodes/reset</td>
+    <td>Update</td>
+    <td>Reset group join code</td>
+    <td>groups_reset_join_code</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>GET</td>
+    <td>/api/v1/groups</td>
+    <td>List</td>
+    <td>Get all groups</td>
+    <td>groups_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>POST</td>
+    <td>/api/v1/groups</td>
+    <td>Create</td>
+    <td>Create a Group</td>
+    <td>groups_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Groups</td>
+    <td>POST</td>
+    <td>/api/v1/groups/join</td>
+    <td>Join</td>
+    <td>Join a group via join code</td>
+    <td>groups_join</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Get</td>
+    <td>Get a challenge by ID</td>
+    <td>challenges_get_by_id</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>PUT</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Update</td>
+    <td>Update an existing challenge</td>
+    <td>challenges_update</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>DELETE</td>
+    <td>/api/v1/challenges/{challengeId}</td>
+    <td>Delete</td>
+    <td>Delete a challenge</td>
+    <td>challenges_delete</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{challengeId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges</td>
+    <td>List</td>
+    <td>Get all challenges</td>
+    <td>challenges_list</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>POST</td>
+    <td>/api/v1/challenges</td>
+    <td>Create</td>
+    <td>Create a new challenge</td>
+    <td>challenges_create</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">–</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">yes</td>
+  </tr>
+  <tr>
+    <td>Challenges</td>
+    <td>GET</td>
+    <td>/api/v1/challenges/groups/{groupId}/challenges</td>
+    <td>List</td>
+    <td>Get challenges by group ID</td>
+    <td>challenges_by_group</td>
+  </tr>
+  <tr>
+    <td colspan="1">Parameters</td>
+    <td colspan="2">{groupId}</td>
+    <td colspan="1">Request body</td>
+    <td colspan="2">no</td>
+  </tr>
+</table>
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page:**<br>
+
+Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: https://apx-01.github.io/Landing-Page/.
+
+<img src="./images/chapter-5/deploy-evidence-1.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-2.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-3.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-4.png" alt="Landing Page Deployment" width="400"/>
+
+**Frontend:**<br>
+El despliegue del frontend se realizó utilizando Vercel, una plataforma que facilita la publicación de aplicaciones web modernas. Se configuró el proyecto desarrollado con Angular y TypeScript cargando el repositorio desde GitHub. En la configuración de Vercel, se definió el comando de build (ng build) y la carpeta de salida (dist/<nombre-del-proyecto>). Vercel detecta automáticamente estas configuraciones y genera una URL pública para acceder a la aplicación desplegada, ofreciendo también actualizaciones automáticas con cada push al repositorio.
+
+<img src="./images/chapter-5/deploy1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy5.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy6.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy7.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy8.png" alt="Backend Deployment" width="400"/>
+
+
+**Backend:**<br>
+Para el backend, se utilizó Render, una plataforma en la nube que permite desplegar aplicaciones de backend con facilidad. El proyecto fue desarrollado con Spring Boot en Java y se conectó a Render a través de GitHub. Render se encargó de construir el proyecto utilizando Maven o Gradle, según la configuración del build.gradle o pom.xml. Se asignó un entorno de ejecución de Java, y una vez desplegado, se obtuvo una URL pública que permite consumir los endpoints del backend desde el frontend u otras aplicaciones.
+
+<img src="./images/chapter-5/deploy-backend-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+
+**Database:**<br>
+La base de datos se desplegó en Railway, una plataforma que permite crear y administrar bases de datos en la nube de manera sencilla. Se creó una instancia de MySQL desde la interfaz de Railway, lo que generó automáticamente las credenciales de conexión (host, puerto, usuario, contraseña y nombre de la base de datos). Estas credenciales fueron utilizadas en la configuración del backend (por ejemplo, en application.properties de Spring Boot) para establecer la conexión remota. Railway proporciona herramientas para visualizar, modificar y respaldar la base de datos desde su dashboard web.
+
+<img src="./images/chapter-5/deploy-database-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-4.png" alt="Backend Deployment" width="400"/>
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+**Landing Page:**<br>
+
+<img src="./images/chapter-5/insights-landingpage-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-landingpage-tb2-2.png" alt="Insights" width="400"/>
+
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 7
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 1
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Frontend:**<br>
+
+<img src="./images/chapter-5/insights-frontend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-frontend-tb2-2.png" alt="Insights" width="400"/>
+
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 22
+  - Luquillas Asto Omar: 1
+  - Real Calderón Sebastián Omar: 28
+  - Flores Apaico Josue Antonio: 6
+  - Mendoza Vergara Franklin Alejandro: 0
+
+**Backend:**<br>
+
+<img src="./images/chapter-5/insights-backend-tb2-1.png" alt="Insights" width="400"/>
+<img src="./images/chapter-5/insights-backend-tb2-2.png" alt="Insights" width="400"/>
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 12
+  - Luquillas Asto Omar: 5
+  - Real Calderón Sebastián Omar: 11
+  - Flores Apaico Josue Antonio: 11
+  - Mendoza Vergara Franklin Alejandro: 0
+
+### 5.3. Validation Interviews
+En esta sección se presentan los detalles de las entrevistas de validación realizadas.
+
+#### 5.3.1 Diseño de Entrevistas
+
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+##### Objetivo de la Entrevista
+
+Validar la usabilidad, claridad del mensaje y efectividad de la landing page y las aplicaciones web de EduHive para los segmentos objetivo: estudiantes universitarios y profesores universitarios. Se busca asegurar que los flujos de usuario sean intuitivos, funcionales y alineados con las necesidades reales de los usuarios finales.
+
+##### Elementos de Validación
+
+- **Landing Page:** Se evaluará la claridad del mensaje, la organización del contenido, la efectividad de las secciones informativas como características del producto, testimonios, presentación del equipo y formulario de contacto. Se validará la facilidad para entender el propósito del proyecto y la motivación para suscribirse al newsletter.
+- **Aplicación para estudiantes universitarios:** Se evaluarán los principales flujos de interacción de los estudiantes con la aplicación, incluyendo su capacidad para unirse a grupos mediante código, visualizar retos activos, gestionar envíos (submissions), y acceder a la lista de miembros del grupo.
+- **Aplicación para profesores universitarios:** Se validarán las funcionalidades clave de los docentes como la creación de grupos, generación de retos (challenges), visualización y calificación de entregas, gestión de alumnos y el acceso a métricas analíticas del desempeño grupal e individual.
+
+##### User Flows a Validar
+
+- **Landing Page**:
+
+  - Sección de características que EduHive ofrece respecto a la aplicación y testimonios: Se validará si los usuarios comprenden fácilmente las funcionalidades que ofrece EduHive, si los testimonios les generan confianza y si esta sección transmite valor de forma clara y atractiva.
+  - Sección “Meet the team”, “Contact us” y suscripción al newsletter: Se evaluará si la presentación del equipo genera cercanía y credibilidad, si el formulario de contacto es accesible y funcional, y si el usuario entiende para qué sirve suscribirse al newsletter y se siente motivado a hacerlo.
+
+- **Aplicación web para Estudiantes Universitarios:**
+
+  - Unión de grupos mediante código: Se analizará si el proceso es intuitivo, si el código es fácil de ingresar y si la retroalimentación del sistema es clara ante códigos correctos o erróneos.
+  - Visualización de retos: Se evaluará la facilidad para acceder a los retos activos, identificar su contenido, fechas límite y estados de avance.
+  - Visualización y creación de submissions: Se validará si el proceso de entregar una solución (subir un submission) es comprensible y fluido, y si el estudiante puede ver sus entregas pasadas de manera ordenada.
+  - Ver listas de miembros de un grupo: Se medirá qué tan fácil es acceder al listado de compañeros, si la información mostrada es útil y si ayuda a identificar roles o niveles de participación.
+
+- **Aplicación web para Profesores Universitarios**
+
+  - Creación de grupos mediante un código: Se analizará si el flujo para crear un grupo es claro, rápido y si el código generado es comprensible y compartible con los estudiantes.
+  - Creación de challenges: Se evaluará si los docentes pueden crear desafíos fácilmente, configurando correctamente sus parámetros (nombre, descripción, fecha límite, etc.).
+  - Visualización de submissions de alumnos: Se medirá la facilidad para encontrar las entregas, filtrarlas por grupo o reto, y acceder a sus contenidos de forma eficiente.
+  - Calificación de submissions: Se validará si el proceso de calificación es claro, accesible y si permite dejar retroalimentación significativa.
+  - Gestionar alumnos en grupos: Se evaluará la funcionalidad para eliminar alumnos de un grupo, analizando si es fácil de encontrar y si da mensajes de confirmación adecuados para evitar errores.
+  - Visualización de analíticas de alumnos: Se analizará la comprensión de los datos mostrados sobre el desempeño del grupo o estudiante, evaluando si son útiles para tomar decisiones pedagógicas.
+
+##### Formato de Registro de la Entrevista
+
+**Landing Page**
+
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page?
+- ¿Entendiste claramente qué es EduHive y para qué sirve?
+- ¿Qué opinas de la sección de características? ¿Te motivan a usar la plataforma?
+- ¿Qué sensación te generan los testimonios? ¿Aportan confianza o credibilidad?
+- ¿Qué opinas del diseño de la sección “Meet the Team” y "Contact us"? ¿Te pareció profesional o cercano?
+- ¿Qué tan fácil fue encontrar el formulario de contacto?
+- ¿Te animarías a suscribirte al newsletter? ¿Qué te generaría más confianza?
+- ¿Hay algo que cambiarías o eliminarías en esta página?
+- ¿El diseño general (colores, texto, estructura) te parece adecuado y atractivo?
+- ¿Hubo algún momento en el que no supiste qué hacer o adónde ir?
+
+**Segmento Estudiantes Universitarios**
+
+- ¿Cómo fue el proceso para unirte a un grupo? ¿Tuviste algún inconveniente con el código?
+- ¿Te pareció clara la lista de retos disponibles? ¿Qué mejorarías?
+- ¿Te resultó sencillo entregar una solución (submission)? ¿Qué parte te pareció más o menos clara?
+- ¿Pudiste encontrar fácilmente tus entregas pasadas? ¿Cómo calificarías la organización?
+- ¿Pudiste encontrar la lista de miembros del grupo? ¿La información presentada fue útil?
+- ¿En algún punto sentiste que algo estaba mal ubicado o no funcionaba como esperabas?
+- ¿Qué funcionalidades te parecieron más útiles como estudiante?
+- ¿Te sentiste cómodo usando esta aplicación? ¿La recomendarías a tus compañeros?
+- ¿Cómo describirías la organización general de la aplicación? ¿Sentiste que fue fácil entender por dónde empezar y cómo navegar entre las distintas secciones como grupos, retos, entregas o métricas?
+- ¿Consideras que esta plataforma apoya efectivamente tu colaboración con otros y el seguimiento de tu desempeño académico? ¿Qué herramientas o secciones te parecieron más valiosas en ese sentido?
+
+**Segmento Profesores Universitarios**
+
+- ¿Cómo fue tu experiencia al crear un grupo y compartir el código? ¿Algo te resultó confuso?
+- ¿Fue fácil crear un challenge? ¿Hay campos que agregarías o quitarías?
+- ¿Cómo fue la experiencia al revisar submissions de los alumnos? ¿Encontraste todo con facilidad?
+- ¿Pudiste calificar entregas sin problemas? ¿La retroalimentación es clara?
+- ¿El proceso para eliminar alumnos de un grupo te pareció seguro y comprensible?
+- ¿Entendiste fácilmente las métricas que se te presentaron? ¿Te fueron útiles?
+- ¿Qué cambiarías para facilitar tu labor docente en la plataforma?
+- ¿Recomendarías esta herramienta a otros profesores?
+
+
+##### 5.3.2. Registro de Entrevistas
+
+|                                                           |                                                                                                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/EqnkAi4BEvhArBkNnCvORnIBrs8mjK5kvJgW0jLLipmbbw?e=csvZbm) |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento estudiantes universitarios.
+
+| Entrevista 1: Estudiantes Universitarios |                                                                                                                                 |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Luis Angel Alejo Cardenas                                                                                                    |
+| Edad                                                    | 25 Años                                                                                                                         |
+| Profesión                                               | Estudiante de Ingenieria de Software                                                                                                      |
+| Departamento                                            | Lima, Perú                                                                                                                      |
+| Minuto de inicio                                        | 00:00 min                                                                                                                       |
+| Captura de la entrevista                                |     <img src="images/chapter-5/entrevista1.png">                                                                                                                            |
+| Búsqueda de servicio                                    | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
+| Visualización de información del servicio               | Las imagenes y elementos usados le agradan y parecen intuitivos.                         |
+| Creacion y union a un grupo                                    | Comenta que la creacion y union a un grupo es interesante intuitiva y sencilla de aprender. |
+| Creacion de un challenge               | Considera que la creacion de un challenge es bastante sencillo y facil de entender.                                                   |
+| Creacion y calificacion de un submission                                      | Comenta que la creacion del contenido de un submission es facil y la calificacion por parte del profesor también es intuitiva.                       |
+| Navegación general                                      | Considera que los elementos y la posicion de estos ayuda a tener una navegacion mas facil.                                                            |
+
+| Entrevista 2: Estudiantes Universitarios |                                                                                                                                                      |
+|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Sebastián Pacheco Astiguetta                                                                                                                              |
+| Edad                                                    | 22 Años                                                                                                                                              |
+| Profesión                                               | Estudiante de Ingenieria de Software                                                                                                                           |
+| Departamento                                            | Lima, Perú                                                                                                                                           |
+| Minuto de inicio                                        | 00:00 min                                                                                                                                            |
+| Captura de la entrevista                                | <img src="images/chapter-5/entrevista2-pacheco.png">                                                                                                   |
+| Búsqueda de servicio                                    | Comenta que el flujo es intuitivo, pero menciona que algunos elementos se ven algo fuera de lugar |
+| Visualización de información del servicio               | Menciona que los elementos utilizados son agradables visualmente |
+| Creacion y union a un grupo                             | Opina que la union a un grupo es sencilla y cómoda . |
+| Visualización de un challenge                           | Considera que la vista de los challenges podría mejorarse, ya que estos se muestran con demasiado espacio, de la misma manera, opina que la lista de entregas se ve demasiado vacía y con demasiado espacio verticalmente. |
+| Calificacion de un submission                           | Comenta que el sistema de calificaciones es sencillo y entendible. |
+| Navegación general                                      | Comenta que la distribución y navegación de los elementos es sencilla, pero menciona que al retroceder desde las entregas devuelve a la lista de grupos en vez de al reto. |
+
+| Entrevista 3: Estudiantes Universitarios |                                                                                                                               |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                     | Jhon Chuchon                                                                                                 |
+| Edad                                                    | 19 años                                                                                                                       |
+| Profesión                                               | Estudiante de Ingeniería de Software                                                                                                    |
+| Departamento                                            | Lima, Perú                                                                                                                    |
+| Minuto de inicio                                        | 2:30 min                                                                                                                     |
+| Captura de la entrevista                                |        <img src="resources/chapter-5/entrevista3.png">                                                                                                                          |
+| Búsqueda de servicio                                    | Encuentra todo facilmente y comenta que esta bien organizado. |
+| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas. |
+| Creacion y union a un grupo                             | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código. |
+| Visualización de un challenge                           | Comenta que la visualizacion de un challenge se ve atractiva y que puede ver todos los datos necesarios. |
+| Calificacion de un submission                           | La calificación de un submission es clara y fácil de encontrar. |
+| Navegación general                                      | Nos comenta que el diseño es muy bueno y que las funciones son faciles de entender asi como de usar. |
+
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento profesores universitarios.
+
+| Entrevista 1: Profesores universitarios |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 | Xiomara Peña                                                                                                                                                                                                                 |
+| Edad                                | 22 Años                                                                                                                                                                                                                |
+| Profesión                           | Licenciada en diseño                                                                                                                                                                                             |
+| Departamento                        | Buenos Aires, Argentina                                                                                                                                                                                                             |
+| Minuto de inicio                    | 00:00 min                                                                                                                                                                                                              |
+| Captura de la Entrevista            |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
+| Visualización de información del servicio | Considera que la información es clara, pero le gustaría ver reseñas.                                             |
+| Creación y unión a un grupo              | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código.                                 |
+| Visualización de un challenge            | Comenta que la visualización de un challenge se ve atractiva y que puede ver todos los datos necesarios.        |
+| Calificación de un submission            | La calificación de un submission es clara y fácil de encontrar.                                                 |
+| Navegación general                       | Nos comenta que el diseño es muy bueno y que las funciones son fáciles de entender, así como de usar.           |
+
+
+#### 5.3.3. Evaluaciones según heurísticas.
+En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web de servicios de belleza y cuidado personal, basadas en heurísticas y principios de diseño.
+
+**UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
+
+**Información del Proyecto**
+- **Carrera:** Ingeniería de Software
+- **Curso:** Open Source
+- **Auditor:** APX-01
+- **Cliente:** APX-01
+- **Site o App a Evaluar:** Edu-hive
+
+### Tareas a Evaluar
+
+**Para el Segmento Estudiante Universitario:**
+1. Búsqueda y visualización de servicios o challenges: evaluar la claridad de la interfaz, imágenes, etiquetas, y organización de contenidos.
+2. Creación y unión a grupos: revisar la facilidad para unirse o crear grupos académicos mediante códigos o formularios.
+3. Visualización de challenges: evaluar el diseño y disposición de los retos (challenges) asignados a los grupos.
+4. Creación y calificación de submissions: evaluar el proceso de creación de entregas (submissions) y la claridad del sistema de retroalimentación por parte del docente.
+5. Navegación general de la plataforma: analizar la distribución de elementos, consistencia en el flujo de navegación y retrocesos.
+
+**Para el Segmento Profesor Universitario:**
+1. **Visualización del Perfil Profesional:** Evaluar cómo el docente visualiza y gestiona su propio perfil, incluyendo datos personales y académicos.
+2. **Creación de Challenges Académicos:** Analizar la facilidad para crear nuevos retos o actividades académicas, definir criterios, y asociarlos a grupos.
+3. **Gestión de Entregas de Estudiantes (Submissions):** Evaluar cómo el docente visualiza y califica submissions, incluyendo claridad de interfaz y herramientas de retroalimentación.
+4. **Administración de Grupos Académicos:** Revisar cómo el docente gestiona sus grupos, visualiza participantes y edita configuraciones del grupo.
+5. **Recepción de Feedback de Estudiantes:** Explorar cómo el sistema permite recibir comentarios o reseñas de los estudiantes respecto a las actividades o interacciones educativas.
+
+**Escala de Severidad**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+### Tabla Resumen basada en entrevistas
+
+| #  | Problema identificado                                                                                 | Escala | Heurística/Principio violado                    | Tarea Evaluada                                |
+|----|--------------------------------------------------------------------------------------------------------|--------|--------------------------------------------------|-----------------------------------------------|
+| 1  | Falta de filtros específicos para tipos de servicios o challenges                                      | 2      | Flexibilidad y eficiencia en el uso             | Exploración de Challenges y Servicios          |
+| 2  | Algunos elementos se ven fuera de lugar en ciertas pantallas                                           | 2      | Consistencia y estándares                       | Navegación general                             |
+| 3  | Uso excesivo de espacios vacíos en listas (entregas, challenges)                                       | 2      | Diseño estético y minimalista                   | Visualización y Gestión de Challenges          |
+| 4  | Al retroceder desde una entrega se regresa a la lista de grupos en lugar del challenge anterior       | 3      | Control del usuario y libertad                  | Navegación general                             |
+| 5  | No se muestran reseñas o retroalimentación visible para los servicios visualizados                    | 2      | Visibilidad del estado del sistema              | Visualización de Challenges y Servicios        |
+| 6  | Falta de confirmación visual al calificar o enviar feedback                                           | 2      | Prevención de errores / Feedback apropiado      | Calificación de Submissions                    |
+| 7  | No hay posibilidad de responder o interactuar con feedback recibido                                   | 2      | Flexibilidad y eficiencia en la comunicación    | Recepción de Feedback                          |
+
+### Descripción de Problemas
+
+**Problema #1: Falta de filtros específicos para tipos de servicios o challenges**  
+- **Tarea Evaluada:** Exploración de Challenges y Servicios Académicos  
+- **Recomendación:** Implementar filtros más detallados por tipo de contenido (ej. por categoría, dificultad o área temática) para facilitar la búsqueda dirigida.
+
+**Problema #2: Algunos elementos se ven fuera de lugar en ciertas pantallas**  
+- **Tarea Evaluada:** Navegación general de la plataforma  
+- **Recomendación:** Realizar ajustes en el diseño responsivo y la distribución de los componentes en la interfaz para mantener la coherencia visual.
+
+**Problema #3: Uso excesivo de espacios vacíos en listas (entregas, challenges)**  
+- **Tarea Evaluada:** Visualización y Gestión de Challenges  
+- **Recomendación:** Compactar el diseño de las listas con mejor uso del espacio vertical, especialmente en vistas móviles o de baja resolución.
+
+**Problema #4: Al retroceder desde una entrega se regresa a la lista de grupos en lugar del challenge anterior**  
+- **Tarea Evaluada:** Navegación general de la plataforma  
+- **Recomendación:** Ajustar el flujo de navegación para que el botón de retroceso respete el contexto anterior del usuario (por ejemplo, volver al challenge en vez de al listado de grupos).
+
+**Problema #5: No se muestran reseñas o retroalimentación visible para los servicios visualizados**  
+- **Tarea Evaluada:** Visualización de Challenges y Servicios  
+- **Recomendación:** Incluir un sistema de comentarios o reseñas visibles que refuercen la confianza del usuario y su toma de decisiones.
+
+**Problema #6: Falta de confirmación visual al calificar o enviar feedback**  
+- **Tarea Evaluada:** Calificación de Submissions  
+- **Recomendación:** Agregar mensajes de confirmación y alertas visuales luego de enviar calificaciones o comentarios.
+
+**Problema #7: No hay posibilidad de responder o interactuar con feedback recibido**  
+- **Tarea Evaluada:** Recepción de Feedback  
+- **Recomendación:** Permitir respuestas a los comentarios recibidos, fomentando una comunicación bidireccional entre estudiantes y profesores.
+
+---
+
+### User Flows a Validar
+
+**Para el Segmento Estudiante Universitario:**
+1. **Exploración de Challenges y Servicios Académicos:** Validar si el contenido es fácil de encontrar, y si los filtros existentes son suficientes.
+2. **Creación y Unión a Grupos de Estudio:** Validar el proceso de unión y creación de grupos usando códigos o formularios.
+3. **Visualización y Gestión de Challenges:** Verificar si los retos se visualizan correctamente y están bien organizados.
+4. **Creación y Calificación de Submissions:** Validar la facilidad para subir entregas y entender el sistema de evaluación del docente.
+5. **Navegación General de la Plataforma:** Evaluar si la estructura de navegación es clara, coherente y lógica.
+
+**Para el Segmento Profesor Universitario:**
+1. **Visualización del Perfil Profesional:** Validar cómo el docente puede acceder y editar su información personal y académica.
+2. **Creación de Challenges Académicos:** Verificar si el sistema permite crear retos de forma intuitiva con campos relevantes.
+3. **Gestión de Entregas de Estudiantes (Submissions):** Evaluar si es fácil revisar y calificar las entregas desde el panel del docente.
+4. **Administración de Grupos Académicos:** Validar la funcionalidad para gestionar participantes, configurar grupos y asignar actividades.
+5. **Recepción de Feedback de Estudiantes:** Comprobar si el docente puede visualizar comentarios recibidos y responder en caso necesario.
+
+
+
+### 5.4. Video About-the-Product
+| **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de Bliss y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Cuadro de Video Representativo**   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/Epy_AhyREGVDh32b1o7ku-gBQlB1EIym2RQ-xOkZfS3-ZQ?e=7pVKvz) |
 
 
 ## Conclusiones
