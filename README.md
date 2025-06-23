@@ -307,12 +307,30 @@ Real Calderón Sebastián Omar - TP:<br>
 Mis aportes se centraron en el diseño de la base de datos, el desarrollo del Product Backlog y el prototipado funcional de la aplicación. En los espacios de revisión, expuse cómo se estructuraba la información y cómo se relacionaban los servicios. Presenté documentación y evidencias del trabajo técnico de forma clara, buscando que tanto los compañeros como los docentes pudieran seguir el hilo de los procesos realizados.
 
 <br>
+Alejo Cárdenas José Antonio - TB2:<br>
+Durante el desarrollo del backend, presenté los endpoints implementados y su integración con el frontend en las revisiones de sprint. Expliqué con claridad el flujo de datos y la lógica de negocio, adaptando mi lenguaje según la audiencia (técnica o no técnica). También participé en discusiones sobre la optimización de consultas y la seguridad de los servicios.<br><br>
+
+Flores Apaico Josue Antonio - TB2:<br>
+ Participé en la explicación de cómo el backend soportaba las interacciones de la interfaz, especialmente en flujos críticos como autenticación y gestión de datos. Utilicé ejemplos prácticos para clarificar el impacto del backend en la experiencia del usuario.<br><br>
+
+Mendoza Vergara Franklin Alejandro - TB2:<br>
+resenté las pruebas de integración y los resultados de los endpoints, resaltando su eficiencia y manejo de errores. En las revisiones, relacioné el funcionamiento del backend con las necesidades de UX/UI, asegurando una comunicación efectiva entre ambos equipos.<br><br>
+
+Luquillas Asto Omar - TB2:<br>
+Expuse la arquitectura del backend, destacando el diseño de capas y la conexión con la base de datos. En las reuniones técnicas, detallé cómo los endpoints cumplían con los requisitos del dominio, utilizando diagramas para facilitar la comprensión. Además, argumenté las decisiones técnicas tomadas durante el desarrollo.<br><br>
+
+Real Calderón Sebastián Omar - TB2:<br>
+Comunicé oralmente el diseño de la base de datos y su relación con los endpoints, enfatizando en la normalización y escalabilidad. Durante las demostraciones, mostré cómo los servicios respondían a las peticiones del frontend, asegurando que el equipo entendiera el proceso completo.
+
+<br>
       </td>
       <td>
       <strong>TB1</strong><br>
         A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.<br><br>
         <strong>TP</strong><br>
         Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.
+	<strong>TB2</strong><br>
+    El equipo demostró una comunicación oral clara y adaptativa durante el desarrollo del backend. Cada integrante explicó aspectos técnicos como endpoints, arquitectura y base de datos con precisión, utilizando herramientas visuales y ejemplos para facilitar la comprensión. Las presentaciones técnicas y las discusiones reflejaron un dominio del tema y una capacidad para alinear el backend con las necesidades del frontend, asegurando una integración coherente y eficiente.
       </td>
     </tr>
     <tr>
@@ -349,11 +367,28 @@ Fui responsable de la documentación escrita sobre la arquitectura orientada al 
 Real Calderón Sebastián Omar - TP:<br>
 Elaboré documentación sobre el diseño de base de datos, el Product Backlog y los prototipos funcionales de la aplicación. También desarrollé evidencia escrita sobre la implementación de servicios, cuidando que el contenido fuera detallado, estructurado y entendible por diferentes tipos de lectores. En cada entregable, me aseguré de transmitir con precisión el propósito, funcionamiento y resultado de cada componente técnico.<br><br>
 <br>
+Alejo Cárdenas José Antonio - TB2:<br>
+Documenté los endpoints (rutas, parámetros y respuestas) en formato técnico, incluyendo ejemplos de requests/responses. También redacté guías para el despliegue del backend y la configuración de variables de entorno, asegurando claridad para futuros desarrolladores.<br>
+
+Flores Apaico Josue Antonio - TB2:<br>
+Documenté los contratos entre frontend y backend, especificando formatos JSON y códigos de error. Complementé con ejemplos prácticos para facilitar la integración.<br>
+
+Mendoza Vergara Franklin Alejandro - TB2:<br>
+Escribí informes de pruebas (unitarias, de integración) con resultados y casos de uso. También contribuí a la documentación general del proyecto, vinculando el backend con los objetivos de negocio.<br>
+
+Luquillas Asto Omar - TB2:<br>
+ Elaboré diagramas de secuencia y flujo para explicar el comportamiento de los servicios. Escribí la documentación de la API utilizando Swagger, detallando cada endpoint y su relación con el dominio del proyecto.<br>
+
+Real Calderón Sebastián Omar - TB2:<br>
+Redacté el esquema de la base de datos y las consultas SQL clave, junto con justificaciones técnicas sobre su estructura. Incluí evidencia escrita de las migraciones y seeds para garantizar reproducibilidad.<br><br>
+<br>
       <td>
       <strong>TB1</strong><br>
         El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br><br>
         <strong>TP</strong><br>
         El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.
+	<strong>TB2:</strong><br>
+    	La comunicación escrita durante TB2 fue técnica y detallada, pero accesible. El equipo generó documentación completa sobre APIs, base de datos y pruebas, utilizando estándares como Swagger y diagramas. Los documentos reflejaron un equilibrio entre precisión técnica y claridad, facilitando la mantenibilidad y escalabilidad del backend. La evidencia escrita aseguró transparencia en los procesos y una base sólida para futuras iteraciones.
       </td>
     </tr>
   </tbody>
