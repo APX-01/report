@@ -6377,7 +6377,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                               | Estudiante de Ingenieria de Software                                                                                                      |
 | Departamento                                            | Lima, Perú                                                                                                                      |
 | Minuto de inicio                                        | 00:00 min                                                                                                                       |
-| Captura de la entrevista                                |     <img src="resources/chapter-5/entrevista1.png">                                                                                                                            |
+| Captura de la entrevista                                |     <img src="images/chapter-5/entrevista1.png">                                                                                                                            |
 | Búsqueda de servicio                                    | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
 | Visualización de información del servicio               | Las imagenes y elementos usados le agradan y parecen intuitivos.                         |
 | Creacion y union a un grupo                                    | Comenta que la creacion y union a un grupo es interesante intuitiva y sencilla de aprender. |
@@ -6392,7 +6392,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                               | Estudiante de contabilidad                                                                                                                           |
 | Departamento                                            | Lima, Perú                                                                                                                                           |
 | Minuto de inicio                                        | 12:15 min                                                                                                                                            |
-| Captura de la entrevista                                | <img src="resources/chapter-5/capturaECarlos.png">                                                                                                   |
+| Captura de la entrevista                                |                                                                                                    |
 | Búsqueda de servicio                                    | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
 | Visualización de información del servicio               | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
 | Reservar un servicio                                    | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
