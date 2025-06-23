@@ -6236,6 +6236,32 @@ La siguiente tabla recoge la documentación de los servicios web desarrollados d
   </tr>
 </table>
 
+<img src="./images/chapter-5/Back2.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back3.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back4.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back5.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back6.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back7.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back8.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back9.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back10.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back11.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back12.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back13.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Back14.png" alt="Deploy" width="800"/>
+
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
