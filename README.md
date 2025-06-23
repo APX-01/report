@@ -6385,20 +6385,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Creacion y calificacion de un submission                                      | Comenta que la creacion del contenido de un submission es facil y la calificacion por parte del profesor tbm es intuitiva.                       |
 | Navegación general                                      | Considera que los elementos y la posicion de estos ayuda a tener una navegacion mas facil.                                                            |
 
-| Entrevista 2: Usuario se servicios de belleza y cuidado |                                                                                                                                                      |
+| Entrevista 2: Estudiantes Universitarios |                                                                                                                                                      |
 |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     | Carlos Villa Cayetano                                                                                                                                |
-| Edad                                                    | 20 Años                                                                                                                                              |
-| Profesión                                               | Estudiante de contabilidad                                                                                                                           |
+| Nombre Entrevistado                                     | Sebastián Pacheco Astiguetta                                                                                                                              |
+| Edad                                                    | 22 Años                                                                                                                                              |
+| Profesión                                               | Estudiante de Ingenieria de Software                                                                                                                           |
 | Departamento                                            | Lima, Perú                                                                                                                                           |
-| Minuto de inicio                                        | 12:15 min                                                                                                                                            |
-| Captura de la entrevista                                | <img src="resources/chapter-5/capturaECarlos.png">                                                                                                   |
-| Búsqueda de servicio                                    | Comenta no haber tenido inconvenientes, pero preferiría quelos filtros ocupen menos espacio en pantalla                                              |
-| Visualización de información del servicio               | Comenta que el dialog es muy grande y que preferiría una imagen más oportuna.                                                                        |
-| Reservar un servicio                                    | Aprecia los mensajes de confirmación pero agradecería visualizar el nombre y un logo distintivo de la compañia.                                      |
-| Confirmación y agenda de citas pendientes               | Comenta no tener inconvenientes en la visualización de su agenda y menciona que el poder elminarla sin restricción alguna podría no ser conveniente. |
-| Historial y reseña                                      | Preferiría otro título para la sección y menciona que poder arrastrar la imagen hacia la sección de reviews facilitaría el proceso                   |
-| Navegación general                                      | Aprecia mucho la facilidad de uso de la toolbar, sin embargo comenta preferir un sidebar para mayor comodidad de navegación vertical                 |
+| Minuto de inicio                                        | 00:00 min                                                                                                                                            |
+| Captura de la entrevista                                | <img src="images/chapter-5/entrevista2-pacheco.png">                                                                                                   |
+| Búsqueda de servicio                                    | Comenta que el flujo es intuitivo, pero menciona que algunos elementos se ven algo fuera de lugar |
+| Visualización de información del servicio               | Menciona que los elementos utilizados son agradables visualmente |
+| Creacion y union a un grupo                             | Opina que la union a un grupo es sencilla y cómoda . |
+| Visualización de un challenge                           | Considera que la vista de los challenges podría mejorarse, ya que estos se muestran con demasiado espacio, de la misma manera, opina que la lista de entregas se ve demasiado vacía y con demasiado espacio verticalmente. |
+| Calificacion de un submission                           | Comenta que el sistema de calificaciones es sencillo y entendible. |
+| Navegación general                                      | Comenta que la distribución y navegación de los elementos es sencilla, pero menciona que al retroceder desde las entregas devuelve a la lista de grupos en vez de al reto. |
 
 | Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
