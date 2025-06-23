@@ -238,7 +238,7 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
     - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
       - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Spring Planning 3.](#5231-spring-planning-3)
+        - [5.2.3.1. Sprint Planning 3.](#5231-sprint-planning-3)
         - [5.2.3.2. Aspect Leaders and Collaborators.](#5232-aspect-leaders-and-collaborators)
         - [5.2.3.3. Sprint Backlog 3.](#5233-sprint-backlog-3)
         - [5.2.3.4. Development Evidence for Sprint Review.](#5234-development-evidence-for-sprint-review)
@@ -4151,7 +4151,7 @@ En este sprint, las tareas se organizaron en dos áreas: el diseño y la impleme
 
 #### 5.2.3. Sprint 3
 En esta sección se expone el informe correspondiente al Sprint 3, el cual estuvo centrado en el desarrollo del backend, la incorporación de nuevas funcionalidades y la optimización de la experiencia de usuario en la aplicación web.
-##### 5.2.3.1. Spring Planning 3.
+##### 5.2.3.1. Sprint Planning 3.
 Durante este tercer sprint, se continuó utilizando Trello como herramienta principal para la gestión del proyecto. Cada tarjeta dentro del tablero representó una tarea específica, mientras que las distintas columnas reflejaron su estado de avance. Esta organización facilitó una visión integral del progreso general y promovió una colaboración más efectiva entre los miembros del equipo.
 
 En este ciclo de trabajo se propuso construir la versión inicial del backend de la plataforma, así como implementar nuevas características y realizar mejoras orientadas a la experiencia del usuario.
