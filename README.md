@@ -6485,7 +6485,7 @@ Validar la usabilidad, claridad del mensaje y efectividad de la landing page y l
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c784_upc_edu_pe/EZobZ_vc-odKqyNts3pm6-YB-y7Rh6rshCD6IpC3dRGyWA?e=d24NZ8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
-A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios y MYPES del sector de belleza y cuidado personal.
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento estudiantes universitarios.
 
 | Entrevista 1: Estudiantes Universitarios |                                                                                                                                 |
 |---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -6517,22 +6517,23 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Calificacion de un submission                           | Comenta que el sistema de calificaciones es sencillo y entendible. |
 | Navegación general                                      | Comenta que la distribución y navegación de los elementos es sencilla, pero menciona que al retroceder desde las entregas devuelve a la lista de grupos en vez de al reto. |
 
-| Entrevista 3: Usuario de servicios de belleza y cuidado |                                                                                                                               |
+| Entrevista 3: Estudiantes Universitarios |                                                                                                                               |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Nombre Entrevistado                                     | Aldo Vasquez                                                                                                  |
-| Edad                                                    | 20 Años                                                                                                                       |
-| Profesión                                               | Estudiante de Ingeniería Ambiental                                                                                                    |
+| Nombre Entrevistado                                     | Jhon Chuchon                                                                                                 |
+| Edad                                                    | 19 años                                                                                                                       |
+| Profesión                                               | Estudiante de Ingeniería de Software                                                                                                    |
 | Departamento                                            | Lima, Perú                                                                                                                    |
-| Minuto de inicio                                        | 18:14 min                                                                                                                     |
-| Captura de la entrevista                                |        <img src="resources/chapter-5/capturaEAldo.png">                                                                                                                          |
-| Búsqueda de servicio                                    | Encuentra el catálogo fácil de navegar y bien organizado, pero sugiere una barra de búsqueda más destacada y filtros específicos. |
-| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas y calificaciones en cada servicio para decidir rápidamente. |
-| Reservar un servicio                                    | Comenta que es sencillo iniciar la reserva; sin embargo, el selector de horarios podría ser más intuitivo. |
-| Confirmación y agenda de citas pendientes               | Valora la retroalimentación del sistema, especialmente la confirmación inmediata y los recordatorios previos a cada cita.       |
-| Historial y reseña                                      | Encuentra el historial fácil de acceder, pero sugiere agregar opciones de filtro para organizar reservas pasadas por fecha o tipo de servicio. |
-| Navegación general                                      | Destaca la utilidad del toolbar, sin mayores sugerencias al respecto.                                                         |
+| Minuto de inicio                                        | 2:30 min                                                                                                                     |
+| Captura de la entrevista                                |        <img src="resources/chapter-5/entrevista3.png">                                                                                                                          |
+| Búsqueda de servicio                                    | Encuentra todo facilmente y comenta que esta bien organizado. |
+| Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas. |
+| Creacion y union a un grupo                             | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código. |
+| Visualización de un challenge                           | Comenta que la visualizacion de un challenge se ve atractiva y que puede ver todos los datos necesarios. |
+| Calificacion de un submission                           | La calificación de un submission es clara y fácil de encontrar. |
+| Navegación general                                      | Nos comenta que el diseño es muy bueno y que las funciones son faciles de entender asi como de usar. |
 
-A continuación se presentan los detalles clave de las entrevistas realizadas a las MYPES y emprendedores del sector de belleza y cuidado personal.
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento profesores universitarios.
 
 | Entrevista 1: Mypes o emprendedores |                                                                                                                                                                                                                        |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
