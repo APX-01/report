@@ -85,6 +85,34 @@ Abril 2025
       <td>Luquillas Asto Omar, Real Calderón Sebastián Omar y Alejo Cardenas Jose Antonio</td>
       <td>Revisión completa hasta el capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
     </tr>
+    <tr>
+      <td>1.1</td>
+      <td>2025-05-10</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.2.2. Sprint 2, 5.2.2.1. Sprint Planning 2., 5.2.2.2. Aspect Leaders and Collaborators., 5.2.2.3. Sprint Backlog 2., 5.2.2.4. Development Evidence for Sprint Review., 5.2.2.5. Execution Evidence for Sprint Review., 5.2.2.6. Services Documentation Evidence for Sprint Review., 5.2.2.7. Software Deployment Evidence for Sprint Review., 5.2.2.8. Team Collaboration Insights during Sprint.</td>
+    </tr>
+    <tr>
+      <td>1.2</td>
+      <td>2025-05-18</td>
+      <td>Real Calderón Sebastián Omar y Flores Apaico Josue Antonio</td>
+      <td>Revisión completa hasta capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
+    </tr>
+    <tr>
+      <td>2.0</td>
+      <td>2025-05-20</td>
+      <td>Luquillas Asto Omar y Alejo Cardenas Jose Antonio</td>
+      <td>Revisión completa del capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
+    </tr>
+    <tr>
+      <td>2.1</td>
+      <td>2025-06-20</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.2.3. Sprint 3, 5.2.3.1. Sprint Planning 3., 5.2.3.2. Aspect Leaders and Collaborators., 5.2.3.3. Sprint Backlog 3., 5.2.3.4. Development Evidence for Sprint Review., 5.2.3.5. Execution Evidence for Sprint Review., 5.2.3.6. Services Documentation Evidence for Sprint Review., 5.2.3.7. Software Deployment Evidence for Sprint Review., 5.2.3.8. Team Collaboration Insights during Sprint. </td>
+      <td>2.2</td>
+      <td>2025-06-22</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.3. Validation Interviews., 5.3.1. Diseño de Entrevistas., 5.3.2. Registro de Entrevistas., 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product.</td>
+    </tr>
   </tbody>
 </table>
 
