@@ -5815,6 +5815,8 @@ A continuación se presenta un registro detallado de los commits realizados en e
 
 En este apartado se muestran las evidencias visuales que documentan el progreso alcanzado durante el sprint 3. Mediante capturas de pantalla y un video demostrativo, se ilustran de forma clara los logros obtenidos y la manera en que se han implementado las funcionalidades del producto.
 
+**Landing Page:**
+
 <img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
@@ -5834,6 +5836,8 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 <img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+
+**Frontend:**
 
 <img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
 
@@ -5860,6 +5864,16 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 <img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+
+**Backend:**
+
+<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -6280,6 +6294,36 @@ Para realizar el despliegue de una landing page se utilizó GitHub Pages, una pl
 <img src="./images/chapter-5/deploy-evidence-3.png" alt="Landing Page Deployment" width="400"/>
 <img src="./images/chapter-5/deploy-evidence-4.png" alt="Landing Page Deployment" width="400"/>
 
+**Frontend:**<br>
+El despliegue del frontend se realizó utilizando Vercel, una plataforma que facilita la publicación de aplicaciones web modernas. Se configuró el proyecto desarrollado con Angular y TypeScript cargando el repositorio desde GitHub. En la configuración de Vercel, se definió el comando de build (ng build) y la carpeta de salida (dist/<nombre-del-proyecto>). Vercel detecta automáticamente estas configuraciones y genera una URL pública para acceder a la aplicación desplegada, ofreciendo también actualizaciones automáticas con cada push al repositorio.
+
+<img src="./images/chapter-5/deploy1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy5.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy6.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy7.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy8.png" alt="Backend Deployment" width="400"/>
+
+
+**Backend:**<br>
+Para el backend, se utilizó Render, una plataforma en la nube que permite desplegar aplicaciones de backend con facilidad. El proyecto fue desarrollado con Spring Boot en Java y se conectó a Render a través de GitHub. Render se encargó de construir el proyecto utilizando Maven o Gradle, según la configuración del build.gradle o pom.xml. Se asignó un entorno de ejecución de Java, y una vez desplegado, se obtuvo una URL pública que permite consumir los endpoints del backend desde el frontend u otras aplicaciones.
+
+<img src="./images/chapter-5/deploy-backend-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+
+**Database:**<br>
+La base de datos se desplegó en Railway, una plataforma que permite crear y administrar bases de datos en la nube de manera sencilla. Se creó una instancia de MySQL desde la interfaz de Railway, lo que generó automáticamente las credenciales de conexión (host, puerto, usuario, contraseña y nombre de la base de datos). Estas credenciales fueron utilizadas en la configuración del backend (por ejemplo, en application.properties de Spring Boot) para establecer la conexión remota. Railway proporciona herramientas para visualizar, modificar y respaldar la base de datos desde su dashboard web.
+
+<img src="./images/chapter-5/deploy-database-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-4.png" alt="Backend Deployment" width="400"/>
+
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews
@@ -6377,7 +6421,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                               | Estudiante de Ingenieria de Software                                                                                                      |
 | Departamento                                            | Lima, Perú                                                                                                                      |
 | Minuto de inicio                                        | 00:00 min                                                                                                                       |
-| Captura de la entrevista                                |     <img src="resources/chapter-5/entrevista1.png">                                                                                                                            |
+| Captura de la entrevista                                |     <img src="images/chapter-5/entrevista1.png">                                                                                                                            |
 | Búsqueda de servicio                                    | Comenta que el flujo es intuitivo y fácil,sin embargo incluiría un filtro de servicios más específico por tipo.                 |
 | Visualización de información del servicio               | Las imagenes y elementos usados le agradan y parecen intuitivos.                         |
 | Creacion y union a un grupo                                    | Comenta que la creacion y union a un grupo es interesante intuitiva y sencilla de aprender. |
