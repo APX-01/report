@@ -5815,6 +5815,8 @@ A continuación se presenta un registro detallado de los commits realizados en e
 
 En este apartado se muestran las evidencias visuales que documentan el progreso alcanzado durante el sprint 3. Mediante capturas de pantalla y un video demostrativo, se ilustran de forma clara los logros obtenidos y la manera en que se han implementado las funcionalidades del producto.
 
+**Landing Page:**
+
 <img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
@@ -5834,6 +5836,8 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 <img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+
+**Frontend:**
 
 <img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
 
@@ -5860,6 +5864,16 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 <img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
 
 <img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+
+**Backend:**
+
+<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
