@@ -4288,6 +4288,7 @@ En este sprint, las tareas se organizaron en dos áreas: el diseño y la impleme
 
 #### 5.2.3. Sprint 3
 En esta sección se expone el informe correspondiente al Sprint 3, el cual estuvo centrado en el desarrollo del backend, la incorporación de nuevas funcionalidades y la optimización de la experiencia de usuario en la aplicación web.
+
 ##### 5.2.3.1. Sprint Planning 3.
 Durante este tercer sprint, se continuó utilizando Trello como herramienta principal para la gestión del proyecto. Cada tarjeta dentro del tablero representó una tarea específica, mientras que las distintas columnas reflejaron su estado de avance. Esta organización facilitó una visión integral del progreso general y promovió una colaboración más efectiva entre los miembros del equipo.
 
@@ -4296,7 +4297,7 @@ En este ciclo de trabajo se propuso construir la versión inicial del backend de
 Sprint board en trello:
 <img src="images/chapter-5/sprint-backlog-3.png">
 
-Enlace al trello: <a href="https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3">https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3</a>
+Enlace al trello: [Sprint 3](https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3)
 
 <table>
   <tr>
@@ -6585,10 +6586,9 @@ Durante este cuarto sprint, se continuó utilizando Trello como herramienta prin
 En este ciclo de trabajo se propuso construir la versión final del landing page, frontend y del backend de la plataforma, así como realizar mejoras orientadas a la experiencia del usuario.
 
 Sprint board en trello:
+<img src="images/chapter-5/sprint-backlog-4.png">
 
-
-Enlace al trello:
-
+Enlace al trello: [Sprint 4](https://trello.com/invite/b/686c7af84109a386b556f6da/ATTI8757c21adfa8499234060860cc9dc38aAC0DB0A3/sprint-4)
 
 <table>
   <tr>
@@ -6604,7 +6604,7 @@ Enlace al trello:
   </tr>
   <tr>
     <td colspan="1"><strong>Time</strong></td>
-    <td colspan="1">8:00 PM</td>
+    <td colspan="1">20:00 PM</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Location</strong></td>
@@ -6616,15 +6616,15 @@ Enlace al trello:
   </tr>
   <tr>
     <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
-    <td colspan="1">Alejo Cardenas Jose Antonio, Luquillas Asto Omar, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio, Mendoza Vergara Franklin Alejandro</td>
+    <td colspan="1">Alejo Cardenas Jose Antonio, Luquillas Asto Omar, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint 3 Review Summary</strong></td>
-      <td colspan="1">Se llevó a cabo el primer despliegue del backend, incorporando funcionalidades esenciales como la creación de endpoints necesarios para la implementación en el frontend.</td>
+    <td colspan="1"><strong>Sprint 4 Review Summary</strong></td>
+      <td colspan="1">Se llevó a cabo el primer despliegue del backend, incorporando funcionalidades esenciales como la creación de endpoints necesarios para su implementación en el frontend.</td>
   </tr>
   <tr>
-    <td colspan="1"><strong>Sprint 3 Retrospective Summary</strong></td>
-    <td colspan="1">Se evidenció un notable aumento en la productividad y el compromiso del equipo. Además, se establecieron las bases para una organización del trabajo más eficiente.</td>
+    <td colspan="1"><strong>Sprint 4 Retrospective Summary</strong></td>
+    <td colspan="1">Se evidenció un notable aumento en la productividad y el compromiso del equipo. Asi que se continuará con una distribución de tareas similar.</td>
   </tr>
   <tr>
     <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
@@ -6632,12 +6632,11 @@ Enlace al trello:
   <tr>
     <td colspan="1"><strong>Sprint 4 Goal</strong></td>
       <td colspan="1">Este sprint tiene como meta principal fortalecer la seguridad del sistema e incrementar la usabilidad general de la plataforma. Se implementará un módulo de gestión de identidad y acceso (IAM), que incluirá encriptación de credenciales y roles personalizados para controlar el acceso de usuarios según su perfil (estudiante o profesor). Esta funcionalidad garantizará la protección de los datos y permitirá un control más preciso sobre las acciones disponibles para cada tipo de usuario. <br>
-Además, se trabajará en la mejora final de la experiencia visual y funcional de la landing page, corrigiendo algunas partes de diseño y de información, asegurando una navegación clara y atractiva. En el frontend, se integrarán los componentes relacionados con IAM y se refinarán algunas interfaces. En el backend, se consolidarán las funcionalidades existentes y se optimizará el manejo de endpoints. <br><br>
-Este objetivo se considerará cumplido cuando la autenticación y autorización funcionen correctamente con encriptación, cada usuario pueda acceder únicamente a sus funcionalidades específicas, y tanto la landing page como el sistema completo presenten una experiencia fluida, coherente y segura.</td>
+Además, se trabajará en la mejora final de la experiencia visual y funcional de la landing page, corrigiendo errores de diseño y asegurando una navegación clara y atractiva. En el frontend, se integrarán los componentes relacionados con IAM y se refinarán las interfaces. En el backend, se consolidarán las funcionalidades existentes.</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
-    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 60 story points</td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 80 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
