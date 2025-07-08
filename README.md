@@ -6636,11 +6636,11 @@ Además, se trabajará en la mejora final de la experiencia visual y funcional d
   </tr>
   <tr>
     <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
-    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 80 story points</td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 100 story points</td>
   </tr>
   <tr>
     <td colspan="1"><strong>Sum of Story Points</strong></td>
-    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
+    <td colspan="1">La suma de story point atendidos es de 93 story point.</td>
   </tr>
 </table>
 
@@ -6699,11 +6699,181 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
   </tbody>
 </table>
 
+
 ##### 5.2.4.3. Sprint Backlog 4.
 
 En este item se detalla el Sprint Backlog del cuarto sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
-A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 4. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
 
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-Item/task</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Id</strong></td>
+    <td colspan="1"><strong>Title</strong></td>
+    <td colspan="1"><strong>Description</strong></td>
+    <td colspan="1"><strong>Estimation(Hours)</strong></td>
+    <td colspan="1"><strong>Assigned To</strong></td>
+    <td colspan="1"><strong>Status</strong></td>
+  </tr>
+  <tr>
+    <td>US-005</td>
+    <td>Acceder al panel de progreso del curso</td>
+    <td>T01</td>
+    <td>Implementar panel de progreso</td>
+    <td>Crear vista de panel de progreso para profesores con resumen por equipos y retos</td>
+    <td>4</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-004</td>
+    <td>Comparación de rendimiento</td>
+    <td>T02</td>
+    <td>Desarrollar comparador de progreso</td>
+    <td>Implementar funcionalidad para que estudiantes comparen su rendimiento con el promedio del grupo</td>
+    <td>3</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-007</td>
+    <td>Diseñar de retos personalizados</td>
+    <td>T03</td>
+    <td>Crear editor de retos</td>
+    <td>Implementar interfaz para creación de retos con niveles de dificultad configurables</td>
+    <td>5</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-008</td>
+    <td>Obtencion de feedback automático</td>
+    <td>T04</td>
+    <td>Implementar sistema de feedback</td>
+    <td>Desarrollar mecanismo de retroalimentación automática para entregas de retos</td>
+    <td>4</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-010</td>
+    <td>Seguir el rendimiento de los equipos</td>
+    <td>T05</td>
+    <td>Crear dashboard de equipos</td>
+    <td>Implementar vista de seguimiento de rendimiento por equipos para profesores</td>
+    <td>4</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-011</td>
+    <td>Revisar general de rendimiento</td>
+    <td>T06</td>
+    <td>Implementar gráficas de progreso</td>
+    <td>Crear vista gráfica de notas acumuladas para estudiantes</td>
+    <td>3</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-015</td>
+    <td>Distribución programada de retos</td>
+    <td>T07</td>
+    <td>Implementar programador de retos</td>
+    <td>Desarrollar funcionalidad de publicación automática de retos en fechas específicas</td>
+    <td>5</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-017</td>
+    <td>Visualización de logros gamificados</td>
+    <td>T08</td>
+    <td>Crear tablero de logros</td>
+    <td>Implementar vista de insignias y puntos acumulados para estudiantes</td>
+    <td>4</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-027</td>
+    <td>Edición de perfil</td>
+    <td>T09</td>
+    <td>Implementar editor de perfil</td>
+    <td>Crear funcionalidad para editar información personal, foto y habilidades</td>
+    <td>3</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-028</td>
+    <td>Recordatorios de Fechas Límite</td>
+    <td>T10</td>
+    <td>Implementar sistema de notificaciones</td>
+    <td>Crear mecanismo de recordatorios automáticos para fechas límite de retos</td>
+    <td>4</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-029</td>
+    <td>Historial de retos completados</td>
+    <td>T11</td>
+    <td>Crear historial de retos</td>
+    <td>Implementar vista de historial con detalles de retos completados por estudiantes</td>
+    <td>3</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-031</td>
+    <td>Clasificación de equipos</td>
+    <td>T12</td>
+    <td>Implementar ranking de equipos</td>
+    <td>Crear sistema de clasificación basado en puntos de retos completados</td>
+    <td>4</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-032</td>
+    <td>Reporte semanal</td>
+    <td>T13</td>
+    <td>Implementar generador de reportes</td>
+    <td>Desarrollar sistema de reportes semanales automáticos para estudiantes</td>
+    <td>5</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-034</td>
+    <td>Visualización de medalla de desempeño</td>
+    <td>T14</td>
+    <td>Implementar sistema de medallas</td>
+    <td>Crear mecanismo de asignación y visualización de medallas de desempeño</td>
+    <td>4</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-035</td>
+    <td>Gestión de intentos de entrega</td>
+    <td>T15</td>
+    <td>Implementar control de intentos</td>
+    <td>Desarrollar configuración de múltiples intentos para entregas de retos</td>
+    <td>3</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
