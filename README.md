@@ -6575,6 +6575,285 @@ Distribucion de commits:
   - Flores Apaico Josue Antonio: 11
   - Mendoza Vergara Franklin Alejandro: 0
 
+
+#### 5.2.4. Sprint 4
+En esta sección se expone el informe correspondiente al Sprint 4, el cual estuvo centrado en el desarrollo de mejoras finales para el landing page, el frontend y el backend, para una mejor experiencia de usuario en la versión final de nuestra aplicación web.
+
+##### 5.2.4.1. Sprint Planning 4.
+Durante este cuarto sprint, se continuó utilizando Trello como herramienta principal para la gestión del proyecto. Cada tarjeta dentro del tablero representó una tarea específica, mientras que las distintas columnas reflejaron su estado de avance. Esta organización facilitó una visión integral del progreso general y promovió una colaboración más efectiva entre los miembros del equipo.
+
+En este ciclo de trabajo se propuso construir la versión final del landing page, frontend y del backend de la plataforma, así como realizar mejoras orientadas a la experiencia del usuario.
+
+Sprint board en trello:
+
+
+Enlace al trello:
+
+
+<table>
+  <tr>
+    <td colspan="1"><strong>Sprint #</strong></td>
+    <td colspan="1">4</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Date</strong></td>
+    <td colspan="1">2025-07-07</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Time</strong></td>
+    <td colspan="1">8:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Location</strong></td>
+    <td colspan="1">Discord</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Prepared by</strong></td>
+    <td colspan="1">Jose Alejo </td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Attendees (to planning meeting)</strong></td>
+    <td colspan="1">Alejo Cardenas Jose Antonio, Luquillas Asto Omar, Real Calderón Sebastián Omar, Flores Apaico Josue Antonio, Mendoza Vergara Franklin Alejandro</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Review Summary</strong></td>
+      <td colspan="1">Se llevó a cabo el primer despliegue del backend, incorporando funcionalidades esenciales como la creación de endpoints necesarios para la implementación en el frontend.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td colspan="1">Se evidenció un notable aumento en la productividad y el compromiso del equipo. Además, se establecieron las bases para una organización del trabajo más eficiente.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Goal</strong></td>
+      <td colspan="1">Este sprint tiene como meta principal fortalecer la seguridad del sistema e incrementar la usabilidad general de la plataforma. Se implementará un módulo de gestión de identidad y acceso (IAM), que incluirá encriptación de credenciales y roles personalizados para controlar el acceso de usuarios según su perfil (estudiante o profesor). Esta funcionalidad garantizará la protección de los datos y permitirá un control más preciso sobre las acciones disponibles para cada tipo de usuario. <br>
+Además, se trabajará en la mejora final de la experiencia visual y funcional de la landing page, corrigiendo algunas partes de diseño y de información, asegurando una navegación clara y atractiva. En el frontend, se integrarán los componentes relacionados con IAM y se refinarán algunas interfaces. En el backend, se consolidarán las funcionalidades existentes y se optimizará el manejo de endpoints. <br><br>
+Este objetivo se considerará cumplido cuando la autenticación y autorización funcionen correctamente con encriptación, cada usuario pueda acceder únicamente a sus funcionalidades específicas, y tanto la landing page como el sistema completo presenten una experiencia fluida, coherente y segura.</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sprint 4 Velocity</strong></td>
+    <td colspan="1">Para este sprint nuestro equipo puende aceptar hasta 60 story points</td>
+  </tr>
+  <tr>
+    <td colspan="1"><strong>Sum of Story Points</strong></td>
+    <td colspan="1">La suma de story point atendidos es de 40 story point.</td>
+  </tr>
+</table>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators.
+
+En el presente Sprint, el equipo trabajará en la implementación del sistema de gestión de identidad y acceso (IAM) con mecanismos de encriptación, así como en la mejora final del landing page, el frontend y el backend. Estas tareas buscan consolidar la seguridad de la plataforma, optimizar la experiencia de usuario y asegurar una integración coherente entre todos los componentes del sistema.
+
+Cada uno de estos aspectos contará con un líder responsable de su desarrollo y colaboradores que brindarán soporte en tareas específicas, con el fin de asegurar una comunicación efectiva, una coordinación eficiente y una distribución clara de responsabilidades dentro del equipo.
+
+A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
+
+<table  cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>IAM</th>
+      <th>Perfil</th>
+      <th>Layout</th>
+      <th>Landing-page</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cardenas Jose Antonio Alejo</td>
+      <td>Firtness</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Luquillas Asto Omar</td>
+      <td>OmarLLA</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Real Calderón Sebastián Omar</td>
+      <td>sebastianrealcalderon</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>JosueFloresAp</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+##### 5.2.4.3. Sprint Backlog 4.
+
+En este item se detalla el Sprint Backlog del cuarto sprint de desarrollo del proyecto, incluyendo el id, user story, work-item/task, description, estimation, assigned to y status.
+A continuación, se presenta un desglose detallado de las user stories implementadas durante el Sprint 4. Esta tabla muestra el progreso de cada historia, incluyendo su estado actual, las evidencias de su finalización y cualquier observación relevante.
+
+
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+**Commits realizados en el repositorio de la Landing Page durante el sprint 4:**
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+
+
+
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+
+
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este apartado se muestran las evidencias visuales que documentan el progreso alcanzado durante el sprint 4. Mediante capturas de pantalla y un video demostrativo, se ilustran de forma clara los logros obtenidos y la manera en que se han implementado las funcionalidades del producto.
+
+**Landing Page:**
+
+<img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing3.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing4.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing5.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing6.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing7.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing8.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+
+**Frontend:**
+
+<img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front2.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front3.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front4.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front5.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front6.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front7.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front8.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front9.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front10.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front11.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+
+**Backend:**
+
+<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page:**<br>
+
+Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: https://apx-01.github.io/Landing-Page/.
+
+<img src="./images/chapter-5/deploy-evidence-1.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-2.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-3.png" alt="Landing Page Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-evidence-4.png" alt="Landing Page Deployment" width="400"/>
+
+**Frontend:**<br>
+El despliegue del frontend se realizó utilizando Vercel, una plataforma que facilita la publicación de aplicaciones web modernas. Se configuró el proyecto desarrollado con Angular y TypeScript cargando el repositorio desde GitHub. En la configuración de Vercel, se definió el comando de build (ng build) y la carpeta de salida (dist/<nombre-del-proyecto>). Vercel detecta automáticamente estas configuraciones y genera una URL pública para acceder a la aplicación desplegada, ofreciendo también actualizaciones automáticas con cada push al repositorio.
+
+<img src="./images/chapter-5/deploy1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy5.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy6.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy7.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy8.png" alt="Backend Deployment" width="400"/>
+
+
+**Backend:**<br>
+Para el backend, se utilizó Render, una plataforma en la nube que permite desplegar aplicaciones de backend con facilidad. El proyecto fue desarrollado con Spring Boot en Java y se conectó a Render a través de GitHub. Render se encargó de construir el proyecto utilizando Maven o Gradle, según la configuración del build.gradle o pom.xml. Se asignó un entorno de ejecución de Java, y una vez desplegado, se obtuvo una URL pública que permite consumir los endpoints del backend desde el frontend u otras aplicaciones.
+
+<img src="./images/chapter-5/deploy-backend-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-backend-evidence-4.png" alt="Backend Deployment" width="400"/>
+
+**Database:**<br>
+La base de datos se desplegó en Railway, una plataforma que permite crear y administrar bases de datos en la nube de manera sencilla. Se creó una instancia de MySQL desde la interfaz de Railway, lo que generó automáticamente las credenciales de conexión (host, puerto, usuario, contraseña y nombre de la base de datos). Estas credenciales fueron utilizadas en la configuración del backend (por ejemplo, en application.properties de Spring Boot) para establecer la conexión remota. Railway proporciona herramientas para visualizar, modificar y respaldar la base de datos desde su dashboard web.
+
+<img src="./images/chapter-5/deploy-database-evidence-1.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-2.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-3.png" alt="Backend Deployment" width="400"/>
+<img src="./images/chapter-5/deploy-database-evidence-4.png" alt="Backend Deployment" width="400"/>
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+**Landing Page:**<br>
+
+
+
+**Frontend:**<br>
+
+
+
+**Backend:**<br>
+
+
+
+
 ### 5.3. Validation Interviews
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
