@@ -280,6 +280,15 @@ TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+      - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4.](#5241-sprint-planning-4)
+        - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+        - [5.2.4.3. Sprint Backlog 4.](#5243-sprint-backlog-4)
+        - [5.2.4.4. Development Evidence for Sprint Review.](#5244-development-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
       - [5.3.1 Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [Objetivo de la Entrevista](#objetivo-de-la-entrevista)
@@ -6883,18 +6892,371 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 **Commits realizados en el repositorio de la Landing Page durante el sprint 4:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>a60269b3479a2fa3109750ab3eb6206eb4251793</td>
+      <td>feat(landing-page): add eduhive information and dark mode</td>
+      <td>feat(landing-page): add eduhive information and dark mode</td>
+      <td>Jul 11 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>d7f31231d37bcbfb0ef106bb71753ad8c246d15f</td>
+      <td>fix link of video about the product and video about the team</td>
+      <td>fix link of video about the product and video about the team</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>ae4431781c60055023151d6ca236b784fcf8c629</td>
+      <td>add links of about the product and about the team</td>
+      <td>add links of about the product and about the team</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>6dd4b5dfa0fe2e623a63036d1e155ff29eef8333</td>
+      <td>add link of about the product and about the team</td>
+      <td>add link of about the product and about the team</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>4810160885cca41b80b3a85b061da91ba566adfa</td>
+      <td>fix login button</td>
+      <td>fix login button</td>
+      <td>Jun 22 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 
 **Commits realizados en el repositorio de frontend durante el sprint 4:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>dafcc34f2e3b935407cf76860512de204208407e</td>
+      <td>Merge pull request #30 from APX-01/develop</td>
+      <td>Merge pull request #30 from APX-01/develop</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>440e1c1cd4e3a88d894647acadccc1ed9a321cb2</td>
+      <td>fix: average space</td>
+      <td>fix: average space</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>6ff3dc0e6ff6100f7cc50928d5a464cf162530a8</td>
+      <td>fix: general style changes</td>
+      <td>fix: general style changes</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>fde5ec5b08706a0525b5f22f0856690827c8b82c</td>
+      <td>fix: registration redirects to login</td>
+      <td>fix: registration redirects to login</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>1e0603b15103ea768c313c5c9f7cc7d189192362</td>
+      <td>x</td>
+      <td>x</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>8ed2422d84403e2ad9cf5e167d61730aa56707dc</td>
+      <td>Merge pull request #29 from APX-01/develop</td>
+      <td>Merge pull request #29 from APX-01/develop</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>6ffdb4ba904871b825df61a492179559fc40cbee</td>
+      <td>fix: general style fixes</td>
+      <td>fix: general style fixes</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>aecbeea6298eb2e4910fee4184c0080a1273c2b5</td>
+      <td>Merge pull request #28 from APX-01/fix/design-structure</td>
+      <td>Merge pull request #28 from APX-01/fix/design-structure</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>94bec14d795825da23419a9519a9b6ef24f56c2b</td>
+      <td>Merge pull request #27 from APX-01/feature/edit-profile</td>
+      <td>Merge pull request #27 from APX-01/feature/edit-profile</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>18c079b005bf7078e1966633f633f74c068e96eb</td>
+      <td>feat(profile-edit): Added edit profile</td>
+      <td>feat(profile-edit): Added edit profile</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>ab915145e23849991e700ef8e3b22096ac1ac323</td>
+      <td>fix(sidebar): the dashboard icon was changed</td>
+      <td>fix(sidebar): the dashboard icon was changed</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>f4a8534d9a85e8b3b1971d8123ed3050f64603bd</td>
+      <td>fix(challenge-create-list): The structure of your HTML was changed and design was added</td>
+      <td>fix(challenge-create-list): The structure of your HTML was changed and design was added</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>de3e7dd5de146f25e69ea86cf98d377331e66d5f</td>
+      <td>fix(sidebar):changing the dashboard icon</td>
+      <td>fix(sidebar):changing the dashboard icon</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>a89c12e6bf89803d391fa86bdf71eb7e3d71572f</td>
+      <td>fix(group-create-list): HTML correction</td>
+      <td>fix(group-create-list): HTML correction</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>9ca3b5d815dc99246a6e84548de04ef6561b5bbd</td>
+      <td>hotfix(challenges-submissions): delete error</td>
+      <td>hotfix(challenges-submissions): delete error</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>d15253e60d130e3d4b322fa9c23257f970db0417</td>
+      <td>feat(merge-frontend-css): Added cssV1</td>
+      <td>feat(merge-frontend-css): Added cssV1</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>b3d838bed0f8fd2caa494462542cfd49faa662ed</td>
+      <td>Merge pull request #26 from APX-01/css2</td>
+      <td>Merge pull request #26 from APX-01/css2</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>93a63f321a51088deca93fdc6dfa599a3af47258</td>
+      <td>Merge branch 'develop' into css2</td>
+      <td>Merge branch 'develop' into css2</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>62d4ce28e7acd4b1c9d5e01a40f9baae8d19babe</td>
+      <td>initial</td>
+      <td>initial</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Application</td>
+      <td>release</td>
+      <td>498e6fac232188d1f038b6360c2fe52654423a15</td>
+      <td>feat(css): add page design, user profile</td>
+      <td>feat(css): add page design, user profile</td>
+      <td>Jun 22 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
 **Commits realizados en el repositorio de backend durante el sprint 4:**
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>bd5802ed4556ca58ccf2520931593f33d1f29628</td>
+      <td>feat(sign-upv2): Added sign-upv2</td>
+      <td>feat(sign-upv2): Added sign-upv2</td>
+      <td>Jul 11 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>845e3342d7263934d4b35ad157685b7a7b941e01</td>
+      <td>feat(iam): Added iam totally</td>
+      <td>feat(iam): Added iam totally</td>
+      <td>Jul 11 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>1c2b7c91d273bc7abc40de238e3519366d504515</td>
+      <td>feat(authentication, roles & createAGroup): Added delete unnecessary id</td>
+      <td>feat(authentication, roles & createAGroup): Added delete unnecessary id</td>
+      <td>Jul 10 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>45b77e12cf1dcc30a2b02e7829b0cdffdd9825a5</td>
+      <td>feat(Authentication)</td>
+      <td>feat(Authentication)</td>
+      <td>Jul 10 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>dba9573b5de29da9a0bc331393c20c2881122633</td>
+      <td>feat(authorize): Added authorization</td>
+      <td>feat(authorize): Added authorization</td>
+      <td>Jul 10 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>feature/iamv2</td>
+      <td>d4b3bc3e16b298638ff15e78b8f1442df34136e0</td>
+      <td>Merge pull request #13 from APX-01/develop</td>
+      <td>Merge pull request #13 from APX-01/develop</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>11febcbabc45d6ad84ce61f483db370d71cd0d53</td>
+      <td>docker</td>
+      <td>docker</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>0261d1e809f1e66716190c9df0b553459b08ce13</td>
+      <td>commit24</td>
+      <td>commit24</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>1fd0106e29871e2e5c4c51f632c913a9bbdd62a2</td>
+      <td>feat(24): 24</td>
+      <td>feat(24): 24</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>0abc7016ef23d5bacff59cff076273b44e598ec6</td>
+      <td>commit x</td>
+      <td>commit x</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>e286abc01e9fac55bcc02e7f910bf13dcf994195</td>
+      <td>feat(java version): new java version 17</td>
+      <td>feat(java version): new java version 17</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>45f2328eae155ca8b51850bdeef267b7c85eb2fe</td>
+      <td>feat(Dockerfile): Added new Dockerfile</td>
+      <td>feat(Dockerfile): Added new Dockerfile</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>57779a2fac7c37413da33b54e21b8329bea49416</td>
+      <td>feat(credentials): Added credentials</td>
+      <td>feat(credentials): Added credentials</td>
+      <td>Jun 22 2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>release</td>
+      <td>c5ce6f796ed3f621ab7e529542361f3765bcc055</td>
+      <td>vercel</td>
+      <td>vercel</td>
+      <td>Jun 22 2025</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
