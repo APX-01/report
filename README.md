@@ -115,6 +115,12 @@ Abril 2025
       <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
       <td>5.3. Validation Interviews., 5.3.1. Diseño de Entrevistas., 5.3.2. Registro de Entrevistas., 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product.</td>
     </tr>
+    <tr>
+      <td>4.0</td>
+      <td>2025-07-11</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>5.2.4. Sprint 4, 5.2.4.2. Aspect Leaders and Collaborators., 5.2.4.3. Sprint Backlog 4., 5.2.4.4. Development Evidence for Sprint Review., 5.2.4.5. Execution Evidence for Sprint Review, 5.2.4.6. Services Documentation Evidence for Sprint Review, 5.2.4.7. Software Deployment Evidence for Sprint Review, 5.2.4.8. Team Collaboration Insights during Sprint, 5.3. Validation Interviews, 5.3.1 Diseño de Entrevistas, 5.3.2. Registro de Entrevistas, 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product</td>
+    </tr>
   </tbody>
 </table>
 
