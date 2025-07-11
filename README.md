@@ -6873,6 +6873,66 @@ En este item se detalla el Sprint Backlog del cuarto sprint de desarrollo del pr
     <td>Sebastian Omar Real Calderón</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td>US-037</td>
+    <td>Modo oscuro en Landing Page</td>
+    <td>T16</td>
+    <td>Implementar toggle de modo oscuro</td>
+    <td>Crear componente para cambiar entre temas claro/oscuro en la landing</td>
+    <td>3</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-038</td>
+    <td>Búsqueda en historial</td>
+    <td>T17</td>
+    <td>Desarrollar buscador de historial</td>
+    <td>Implementar filtros por nombre en historial de retos</td>
+    <td>4</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-039</td>
+    <td>Vista previa de feedback</td>
+    <td>T18</td>
+    <td>Crear preview de feedback</td>
+    <td>Desarrollar vista simulada de cómo ven los estudiantes los comentarios</td>
+    <td>3</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-040</td>
+    <td>Filtrado avanzado en panel de progreso</td>
+    <td>T19</td>
+    <td>Mejorar filtros del dashboard</td>
+    <td>Añadir filtros combinables al panel de profesores</td>
+    <td>5</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-041</td>
+    <td>Recordatorios personalizables</td>
+    <td>T20</td>
+    <td>Configurar notificaciones personalizadas</td>
+    <td>Permitir ajustar tiempos de recordatorios por estudiante</td>
+    <td>4</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-042</td>
+    <td>Estadísticas comparativas grupales</td>
+    <td>T21</td>
+    <td>Implementar curva de rendimiento</td>
+    <td>Crear gráfico de distribución para grupos</td>
+    <td>6</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 
