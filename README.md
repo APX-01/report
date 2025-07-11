@@ -7326,7 +7326,554 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint Review, se recopiló y organizó toda la evidencia relacionada con los servicios implementados en el proyecto, detallando cada endpoint, verbo HTTP, parámetros, cuerpos de solicitud y respuestas esperadas. Esta documentación refleja la estructura, operaciones y flujos de trabajo principales de los módulos clave, como usuarios, grupos, autenticación, desafíos y roles.
 
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Verbo http</th>
+      <th>Endpoint</th>
+      <th>Summary</th>
+      <th>Description</th>
+      <th>OperationId</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Users</td>
+      <td>GET</td>
+      <td>/api/v1/users</td>
+      <td>List</td>
+      <td>Get all users</td>
+      <td>users_list</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>PUT</td>
+      <td>/api/v1/users</td>
+      <td>Update</td>
+      <td>Update a user</td>
+      <td>users_update</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>GET</td>
+      <td>/api/v1/users/{userId}</td>
+      <td>Get</td>
+      <td>Get a user by ID</td>
+      <td>users_get_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{userId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>DELETE</td>
+      <td>/api/v1/users/{userId}</td>
+      <td>Delete</td>
+      <td>Delete a user</td>
+      <td>users_delete_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{userId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>GET</td>
+      <td>/api/v1/users/{userId}/profiles/{groupId}</td>
+      <td>Get</td>
+      <td>Get user profiles in a group</td>
+      <td>users_get_profiles_by_group</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{userId}, {groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>GET</td>
+      <td>/api/v1/users/group/{groupId}</td>
+      <td>Get</td>
+      <td>Get users by group ID</td>
+      <td>users_get_by_group_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>GET</td>
+      <td>/api/v1/users/email/{email}</td>
+      <td>Get</td>
+      <td>Get a user by email</td>
+      <td>users_get_by_email</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{email}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>DELETE</td>
+      <td>/api/v1/users/leave/{userId}/{groupId}</td>
+      <td>Delete</td>
+      <td>Leave a group</td>
+      <td>users_leave_group</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{userId}, {groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions/{submissionId}</td>
+      <td>Get</td>
+      <td>Get a submission by ID</td>
+      <td>submissions_get_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{submissionId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>PUT</td>
+      <td>/api/v1/submissions/{submissionId}</td>
+      <td>Update</td>
+      <td>Update a submission</td>
+      <td>submissions_update_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{submissionId}</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>DELETE</td>
+      <td>/api/v1/submissions/{submissionId}</td>
+      <td>Delete</td>
+      <td>Delete a submission</td>
+      <td>submissions_delete_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{submissionId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>PUT</td>
+      <td>/api/v1/submissions/{submissionId}/grade</td>
+      <td>Update</td>
+      <td>Grade a submission</td>
+      <td>submissions_grade_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{submissionId}</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions</td>
+      <td>List</td>
+      <td>Get all submissions</td>
+      <td>submissions_list</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>POST</td>
+      <td>/api/v1/submissions</td>
+      <td>Create</td>
+      <td>Create a new submission</td>
+      <td>submissions_create</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions/students/{studentId}/challenges/{challengeId}</td>
+      <td>Get</td>
+      <td>Get submissions by studentId and challengeId</td>
+      <td>submissions_get_by_student_and_challenge</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{studentId}, {challengeId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions/student/{studentId}</td>
+      <td>Get</td>
+      <td>Get submissions by studentId</td>
+      <td>submissions_get_by_student</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{studentId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions/student/{studentId}/group/{groupId}</td>
+      <td>Get</td>
+      <td>Get submissions by studentId and groupId</td>
+      <td>submissions_get_by_student_and_group</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{studentId}, {groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Submissions</td>
+      <td>GET</td>
+      <td>/api/v1/submissions/challenge/{challengeId}</td>
+      <td>Get</td>
+      <td>Get submissions by challengeId</td>
+      <td>submissions_get_by_challenge</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{challengeId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups/{id}</td>
+      <td>Get</td>
+      <td>Get group by ID</td>
+      <td>groups_get_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{id}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>PUT</td>
+      <td>/api/v1/groups/{id}</td>
+      <td>Update</td>
+      <td>Update a group</td>
+      <td>groups_update</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{id}</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>DELETE</td>
+      <td>/api/v1/groups/{id}</td>
+      <td>Delete</td>
+      <td>Delete group</td>
+      <td>groups_delete</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{id}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+      <td>Get</td>
+      <td>Get group join code</td>
+      <td>groups_get_join_code</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>PUT</td>
+      <td>/api/v1/groups/{groupId}/groupJoinCodes</td>
+      <td>Update</td>
+      <td>Set group join code</td>
+      <td>groups_set_join_code</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>PUT</td>
+      <td>/api/v1/groups/{groupId}/groupJoinCodes/reset</td>
+      <td>Update</td>
+      <td>Reset group join code</td>
+      <td>groups_reset_join_code</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups</td>
+      <td>List</td>
+      <td>Get all groups</td>
+      <td>groups_list</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>POST</td>
+      <td>/api/v1/groups</td>
+      <td>Create</td>
+      <td>Create a group</td>
+      <td>groups_create</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups/user/{userId}</td>
+      <td>Get</td>
+      <td>Get groups by user ID</td>
+      <td>groups_get_by_user_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{userId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups/join/{key}</td>
+      <td>Get</td>
+      <td>Join a group via join code</td>
+      <td>groups_join_by_key</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{key}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Groups</td>
+      <td>GET</td>
+      <td>/api/v1/groups/groupJoinCode/{key}</td>
+      <td>Get</td>
+      <td>Get group by join code key</td>
+      <td>groups_get_by_join_code</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{key}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>/api/v1/authentication/sign-up</td>
+      <td>Create</td>
+      <td>Sign-up</td>
+      <td>auth_sign_up</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Authentication</td>
+      <td>POST</td>
+      <td>/api/v1/authentication/sign-in</td>
+      <td>Create</td>
+      <td>Sign in user</td>
+      <td>auth_sign_in</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>GET</td>
+      <td>/api/v1/challenges/{challengeId}</td>
+      <td>Get</td>
+      <td>Get a challenge by ID</td>
+      <td>challenges_get_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{challengeId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>PUT</td>
+      <td>/api/v1/challenges/{challengeId}</td>
+      <td>Update</td>
+      <td>Update an existing challenge</td>
+      <td>challenges_update_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{challengeId}</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>DELETE</td>
+      <td>/api/v1/challenges/{challengeId}</td>
+      <td>Delete</td>
+      <td>Delete a challenge</td>
+      <td>challenges_delete_by_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{challengeId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>GET</td>
+      <td>/api/v1/challenges</td>
+      <td>List</td>
+      <td>Get all challenges</td>
+      <td>challenges_list</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>POST</td>
+      <td>/api/v1/challenges</td>
+      <td>Create</td>
+      <td>Create a new challenge</td>
+      <td>challenges_create</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">yes</td>
+    </tr>
+    <tr>
+      <td>Challenges</td>
+      <td>GET</td>
+      <td>/api/v1/challenges/group/{groupId}</td>
+      <td>Get</td>
+      <td>Get challenges by group ID</td>
+      <td>challenges_get_by_group_id</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">{groupId}</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+    <tr>
+      <td>Roles</td>
+      <td>GET</td>
+      <td>/api/v1/roles</td>
+      <td>List</td>
+      <td>Get all roles</td>
+      <td>roles_list</td>
+    </tr>
+    <tr>
+      <td>Parameters</td>
+      <td colspan="2">–</td>
+      <td>Request body</td>
+      <td colspan="2">no</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review
