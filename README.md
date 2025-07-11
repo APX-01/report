@@ -7033,15 +7033,40 @@ La base de datos se desplegó en Railway, una plataforma que permite crear y adm
 
 **Landing Page:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-1.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-2.png" alt="Execution Evidence 8" width="700"/>
 
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 10
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 0
+  - Mendoza Vergara Franklin Alejandro: 1
 
 **Frontend:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-3.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-4.png" alt="Execution Evidence 8" width="700"/>
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 10
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 0
+  - Mendoza Vergara Franklin Alejandro: 1
 
 
 **Backend:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-5.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-6.png" alt="Execution Evidence 8" width="700"/>
 
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 12
+  - Luquillas Asto Omar: 5
+  - Real Calderón Sebastián Omar: 11
+  - Flores Apaico Josue Antonio: 11
+  - Mendoza Vergara Franklin Alejandro: 0
 
 
 ### 5.3. Validation Interviews
