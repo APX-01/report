@@ -375,15 +375,32 @@ Expuse la arquitectura del backend, destacando el diseño de capas y la conexió
 Real Calderón Sebastián Omar - TB2:<br>
 Comunicé oralmente el diseño de la base de datos y su relación con los endpoints, enfatizando en la normalización y escalabilidad. Durante las demostraciones, mostré cómo los servicios respondían a las peticiones del frontend, asegurando que el equipo entendiera el proceso completo.
 
+Alejo Cardenas Jose Antonio-TF:<br>
+
+<br><br> 
+Luquillas Asto Omar-TF:<br>
+
+<br><br> 
+Real Calderón Sebastián Omar-TF:<br>
+
+<br><br>
+Flores Apaico Josue Antonio-TF:<br>
+
+<br><br>
+Mendoza Vergara Franklin Alejandro-TF:<br>
+<br>
+
 <br>
       </td>
       <td>
       <strong>TB1</strong><br>
         A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.<br><br>
         <strong>TP</strong><br>
-        Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.
+        Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.<br>
 	<strong>TB2</strong><br>
     El equipo demostró una comunicación oral clara y adaptativa durante el desarrollo del backend. Cada integrante explicó aspectos técnicos como endpoints, arquitectura y base de datos con precisión, utilizando herramientas visuales y ejemplos para facilitar la comprensión. Las presentaciones técnicas y las discusiones reflejaron un dominio del tema y una capacidad para alinear el backend con las necesidades del frontend, asegurando una integración coherente y eficiente.
+    <strong>TF</strong><br>
+    En esta etapa del proyecto, el equipo consolidó su capacidad de comunicación oral efectiva frente a distintos tipos de audiencia. Las exposiciones de avances técnicos, como la documentación de servicios y el despliegue del software, se realizaron con orden y claridad, facilitando la comprensión incluso de aspectos complejos. Asimismo, en las entrevistas de validación y la elaboración del video del producto, los integrantes supieron adaptar su lenguaje y enfoque para conectar con usuarios y docentes, transmitiendo tanto detalles funcionales como el valor del proyecto. Esto evidencia un progreso significativo en su habilidad para comunicar ideas técnicas y conceptuales de manera precisa y profesional, contribuyendo al trabajo colaborativo y al éxito del desarrollo.
       </td>
     </tr>
     <tr>
@@ -434,14 +451,33 @@ Luquillas Asto Omar - TB2:<br>
 
 Real Calderón Sebastián Omar - TB2:<br>
 Redacté el esquema de la base de datos y las consultas SQL clave, junto con justificaciones técnicas sobre su estructura. Incluí evidencia escrita de las migraciones y seeds para garantizar reproducibilidad.<br><br>
+
+Alejo Cardenas Jose Antonio-TF:<br>
+
+<br><br> 
+Luquillas Asto Omar-TF:<br>
+
+<br><br> 
+Real Calderón Sebastián Omar-TF:<br>
+
+<br><br>
+Flores Apaico Josue Antonio-TF:<br>
+
+<br><br>
+Mendoza Vergara Franklin Alejandro-TF:<br>
+<br>
+
 <br>
       <td>
       <strong>TB1</strong><br>
-        El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apratdos del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br><br>
+        El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apartados del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br><br>
         <strong>TP</strong><br>
         El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.
-	<strong>TB2:</strong><br>
+	<br><strong>TB2:</strong><br>
     	La comunicación escrita durante TB2 fue técnica y detallada, pero accesible. El equipo generó documentación completa sobre APIs, base de datos y pruebas, utilizando estándares como Swagger y diagramas. Los documentos reflejaron un equilibrio entre precisión técnica y claridad, facilitando la mantenibilidad y escalabilidad del backend. La evidencia escrita aseguró transparencia en los procesos y una base sólida para futuras iteraciones.
+      <strong>TF:</strong><br>
+    	A lo largo de esta etapa, el equipo fortaleció su capacidad de comunicación escrita, elaborando diversos documentos que reflejan tanto el progreso técnico como los hallazgos de investigación del proyecto. La documentación generada en el Sprint 4 —incluyendo el Sprint Backlog, las evidencias de desarrollo, ejecución, despliegue y la descripción de roles— se redactó de forma clara y organizada, permitiendo que lectores con distintos niveles técnicos comprendieran el trabajo realizado. Asimismo, la redacción de guiones para el video “About-the-Product”, los registros de entrevistas, el diseño de instrumentos de validación y las evaluaciones heurísticas demostraron la habilidad del equipo para adaptar su lenguaje según el propósito comunicativo y el público objetivo. Esta competencia permitió mantener la coherencia entre las distintas partes del proyecto y asegurar que tanto docentes como posibles usuarios o stakeholders pudieran interpretar fácilmente la información, fortaleciendo la calidad y la solidez del trabajo entregado.
+      </td>
       </td>
     </tr>
   </tbody>
