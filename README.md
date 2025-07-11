@@ -7157,21 +7157,83 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Navegación general                                      | Nos comenta que el diseño es muy bueno y que las funciones son faciles de entender asi como de usar. |
 
 
-A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento profesores universitarios.
-
-| Entrevista 1: Profesores universitarios |                                                                                                                                                                                                                        |
+| Entrevista 4: Estudiantes Universitarios |                                                                                                                                                                                                                        |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                 | Xiomara Peña                                                                                                                                                                                                                 |
 | Edad                                | 22 Años                                                                                                                                                                                                                |
 | Profesión                           | Licenciada en diseño                                                                                                                                                                                             |
 | Departamento                        | Buenos Aires, Argentina                                                                                                                                                                                                             |
 | Minuto de inicio                    | 00:00 min                                                                                                                                                                                                              |
-| Captura de la Entrevista            |     <img src="resources/chapter-5/capturaEEliana.png">                                                                                                                                                                  |
+| Captura de la Entrevista            |     <img src="images/chapter-5/entrevista-xiomara.png" alt="Insights" width="400">                                                                                                                           |
 | Visualización de información del servicio | Considera que la información es clara, pero le gustaría ver reseñas.                                             |
 | Creación y unión a un grupo              | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código.                                 |
 | Visualización de un challenge            | Comenta que la visualización de un challenge se ve atractiva y que puede ver todos los datos necesarios.        |
 | Calificación de un submission            | La calificación de un submission es clara y fácil de encontrar.                                                 |
 | Navegación general                       | Nos comenta que el diseño es muy bueno y que las funciones son fáciles de entender, así como de usar.           |
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento profesores universitarios.
+
+| Entrevista 1: Profesores universitarios |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 | Melina Orderique                                                                                                                                                                                                                 |
+| Edad                                | 21 Años                                                                                                                                                                                                                |
+| Profesión                           | Ingeniería Textil                                                                                                                                                                                             |
+| Departamento                        | Lima, Perú                                                                                                                                                                                                             |
+| Minuto de inicio                    | 00:00 min                                                                                                                                                                                                              |
+| Captura de la Entrevista            |     <img src="images/chapter-5/entrevista-Melina.png" alt="Insights" width="400">                                                                                                                                                                  |
+| Visualización de información del servicio | La información es clara, pero le gustaría ver reseñas de más usuarios.                                             |
+| Creación y unión a un grupo              | Muy sencillo; solo fue necesario poner un código. Todo estaba bien indicado y no presentó ninguna complicación.                                 |
+| Visualización de un challenge            | Fue fácil crear challenges. Le resultó práctico el botón de crear, el formulario, la fecha límite con icono de calendario. Le parece claro y suficiente.        |
+| Calificación de un submission            | La calificación es clara y fácil de encontrar. Sugiere que se podría añadir un campo de retroalimentación junto con la nota.                                                 |
+| Navegación general                       | El diseño es muy bueno. Las funciones son fáciles de entender y usar. Nunca tuvo confusión.           |
+| Analíticas y métricas            | Le parecen útiles y visuales para analizar el progreso de los estudiantes. Ayudan a identificar si un alumno va en caída o está avanzando.                                                 |
+| Proceso de eliminación de alumnos                       | Fácil de comprender. Entendió perfectamente cómo eliminar un alumno junto con sus métricas.           |
+| Newsletter y suscripción            | Estaría interesada en suscribirse después de un tiempo de uso, cuando se familiarice más con las herramientas.                                                 |
+| Diseño adecuado para su rubro                       | Considera que los colores, texto y estructura son atractivos y apropiados también para ámbitos educativos relacionados con el diseño textil.           |
+
+
+| Entrevista 2: Profesores universitarios |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 | Fiorella  Vilca                                                                                                                                                                                                                 |
+| Edad                                | 24 Años                                                                                                                                                                                                                |
+| Profesión                           | Ingeniería de Software                                                                                                                                                                                             |
+| Departamento                        | Lima, Perú                                                                                                                                                                                                             |
+| Minuto de inicio                    | 00:00 min                                                                                                                                                                                                              |
+| Captura de la Entrevista            |     <img src="images/chapter-5/entrevista-Jose.png" alt="Insights" width="400">                                                                                                                                                                  |
+| Visualización de información del servicio | La información es clara, el diseño es moderno y el mensaje motivador. Las ilustraciones le parecen amigables y tecnológicas. Entiende perfectamente la misión y visión de la plataforma educativa. Le gustaría ver más reseñas o testimonios, pues para ella son claves para decidir si usar un servicio. |
+| Creación y unión a un grupo | Crear y unirse a un grupo le pareció rápido, sencillo e interactivo. No tuvo complicaciones al generar el grupo ni al compartir el código con sus estudiantes. |
+| Visualización de un challenge | Crear challenges le resultó muy fácil y práctico. Considera que el botón de creación, el formulario y el selector de fecha con icono de calendario son claros y suficientes. Piensa que no haría cambios ni quitaría campos. |
+| Calificación de un submission | Fue fácil encontrar y calificar las tareas enviadas por los alumnos. La retroalimentación es clara. Sugiere que sería útil permitir a los estudiantes enviar fotos de sus trabajos para evidenciar mejor cómo están resolviendo los ejercicios. |
+| Navegación general | El diseño le parece muy agradable y moderno. Encuentra la estructura limpia, con buena combinación de colores y sin exceso de texto. Nunca se sintió perdida o confundida; siempre supo dónde hacer clic para encontrar lo que buscaba. |
+| Analíticas y métricas | Le parecen muy útiles y visuales para analizar el desempeño y progreso de los estudiantes. Considera valioso poder identificar si algún alumno está en retroceso o necesita apoyo para reintegrarse al curso. |
+| Proceso de eliminación de alumnos | Considera que el proceso es seguro, claro y comprensible. Valora que se pueda gestionar qué alumnos permanecen en el grupo y que esto ayude a la dinámica de clase. |
+| Newsletter y suscripción | Sí estaría interesada en suscribirse al newsletter para enterarse de nuevos cursos, actualizaciones o novedades, tanto para profesores como para estudiantes. Lo haría tras un tiempo de uso y familiarización con la plataforma. |
+| Diseño adecuado para su rubro | Le parece muy adecuado. Considera que la paleta de colores, tipografía y estructura resultan atractivas y apropiadas también para entornos educativos, incluidos los relacionados con diseño o textil. |
+
+| Entrevista 3: Profesores universitarios |                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                 | Alejandro Marchena                                                                                                                                                                                                                 |
+| Edad                                | 23 Años                                                                                                                                                                                                                |
+| Profesión                           | Ingeniería de Sistemas                                                                                                                                                                                             |
+| Departamento                        | Lima, Perú                                                                                                                                                                                                             |
+| Minuto de inicio                    | 00:00 min                                                                                                                                                                                                              |
+| Captura de la Entrevista            |     <img src="images/chapter-5/entrevista-Fiorella.png" alt="Insights" width="400">                                                                                                                                                                  |
+| Primera impresión del landing | Página con colores bien seleccionados, agradable a la vista, fluida y con buen front end. Transmite claramente beneficios, ventajas y misión de la plataforma. |
+| Características que motivan a usar la plataforma | Videos en HD, clases grabadas, intercambio de conocimiento entre mentores, acceso gratuito para alumnos. Los testimonios generan confianza. |
+| Sección de testimonios | Los testimonios generan calidez y mayor confianza, pues garantizan la fiabilidad de la página. |
+| Sección de contacto | Muy agradable, combina con el diseño. Intuitiva y fácil de usar para enviar dudas o sugerencias. Genera confianza saber que hay respuestas. |
+| Interés en suscribirse al newsletter | Sí estaría interesado en suscribirse para recibir más información y actualizaciones sobre el software. |
+| Aspectos a mejorar en la landing | Sugiere ampliar variedad de idiomas, aunque reconoce que ya existe traducción inglés-español. En general, considera que está bien diseñada. |
+| Diseño general (colores, texto, estructura) | Atractivo, con una paleta de colores clara y consistente (amarillo, etc.), respetada a lo largo de la página. |
+| Dificultades de navegación | Solo tuvo algo de duda al inicio, pero al recorrer la página una vez se familiarizó fácilmente con la ubicación de las secciones. |
+| Creación y unión a un grupo | Intuitivo y sencillo. Solo se coloca nombre y descripción, se genera el grupo y se comparte el código. No presentó complicaciones. |
+| Visualización de un challenge | Fue sencillo crear un challenge: nombre, descripción y fecha de expiración. Sugiere incluir más opciones de entrega como archivos adjuntos, texto o cuestionarios. |
+| Calificación de un submission | Puede calificar sin problemas (puntaje de 1 a 20). Sugiere incluir un campo adicional para observaciones o retroalimentación, para explicar la nota al alumno. |
+| Proceso de eliminación de alumnos | Claro y comprensible. Solo se presiona el botón de eliminar en la misma fila del estudiante. |
+| Analíticas y métricas | Útiles y visuales. Valora los diagramas que permiten seguir la evolución de las notas del alumno para analizar rendimiento. |
+| Cambios que implementaría | Agregar campo para retroalimentación textual en las calificaciones. Incluir más tipos de actividades (entrega de archivos, cuestionarios, etc.). |
+| Recomendaría la plataforma | Sí, la recomienda a otros docentes. La considera práctica, sencilla, didáctica y útil para trabajar con alumnos y gestionar actividades. |
+
 
 
 #### 5.3.3. Evaluaciones según heurísticas.
