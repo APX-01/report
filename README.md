@@ -116,10 +116,16 @@ Abril 2025
       <td>5.3. Validation Interviews., 5.3.1. Diseño de Entrevistas., 5.3.2. Registro de Entrevistas., 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product.</td>
     </tr>
     <tr>
-      <td>4.0</td>
-      <td>2025-07-11</td>
+      <td>3.3</td>
+      <td>2025-07-09</td>
       <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
-      <td>5.2.4. Sprint 4, 5.2.4.2. Aspect Leaders and Collaborators., 5.2.4.3. Sprint Backlog 4., 5.2.4.4. Development Evidence for Sprint Review., 5.2.4.5. Execution Evidence for Sprint Review, 5.2.4.6. Services Documentation Evidence for Sprint Review, 5.2.4.7. Software Deployment Evidence for Sprint Review, 5.2.4.8. Team Collaboration Insights during Sprint, 5.3. Validation Interviews, 5.3.1 Diseño de Entrevistas, 5.3.2. Registro de Entrevistas, 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product</td>
+      <td>5.3. Validation Interviews, 5.3.1 Diseño de Entrevistas, 5.3.2. Registro de Entrevistas, 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product</td>
+    </tr>
+    <tr>
+      <td>3.7</td>
+      <td>2025-07-11</td>
+      <td>Luquillas Asto Omar,  Alejo Cardenas Jose Antonio </td>
+      <td>5.2.4. Sprint 4, 5.2.4.2. Aspect Leaders and Collaborators., 5.2.4.3. Sprint Backlog 4., 5.2.4.4. Development Evidence for Sprint Review., 5.2.4.5. Execution Evidence for Sprint Review, 5.2.4.6. Services Documentation Evidence for Sprint Review, 5.2.4.7. Software Deployment Evidence for Sprint Review, 5.2.4.8. Team Collaboration Insights during Sprint</td>
     </tr>
   </tbody>
 </table>
@@ -7939,6 +7945,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **9.**	Pivoltracker nos permitió realizar con mayor facilidad el product backlog, usando un sistema de trabajo basado en sus metodologías ágiles.
 
+**10.**	El video About-the-Product sirvió para presentar el proyecto de manera clara y comprensible para diferentes audiencias.
+
+**11.**	Las entrevistas de validación y las evaluaciones heurísticas aportaron información valiosa para mejorar la experiencia de usuario.
+
+**12.**	Elaborar un Sprint Backlog detallado facilitó priorizar tareas importantes y reducir el riesgo de retrabajos innecesarios.
+
+**13.**	Las evaluaciones heurísticas permitieron identificar pequeños detalles de usabilidad que, aunque no críticos, elevan la calidad percibida del producto.
+
+**14.**	Documentar el proceso de despliegue asegura que cualquier integrante pueda replicarlo en el futuro sin depender únicamente del área técnica.
+
+**15.**	Trabajar con criterios de validación obtenidos de usuarios reales fortaleció la seguridad del equipo respecto a la utilidad y relevancia de la solución desarrollada.
+
 ## Bibliografía
 
 •	LucidChart. (2010). LucidChart. Lucid Software Inc. https://www.lucidchart.com
@@ -7962,6 +7980,20 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 •	Structurizr. (s. f.). Embedding diagrams. https://docs.structurizr.com/cloud/embed
 
 •	Structurizr. (s. f.). Structurizr. https://structurizr.com/
+
+• Loy, M., Niemeyer, P., & Leuck, D. (2023). Learning Java (6th edition). O’Reilly.
+
+• Sciore, E. (2018). Java Program Design: Principles, Polymorphism, and Patterns. Apress L. P.
+
+• Heckler, M. (2021). Spring Boot:  Up and Running (1st edition). O’Reilly Media, Inc.
+
+• Modern API Development with Spring and Spring Boot. (2021). Packt Publishing.
+
+• Kotaru, V. Keerti. author. (2020). Angular for Material Design Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps  (1st ed. 2020.). Apress. https://doi.org/10.1007/978-1-4842-5434-9
+
+• Karanam, R. R. (2017). Mastering Spring 5.0. Packt Publishing, Limited.
+
+• Gutierrez, F. (2018). Pro Spring Boot 2: An Authoritative Guide to Building Microservices, Web and Enterprise Applications, and Best Practices. Apress L. P.
 
 ## Anexos
 
@@ -8004,3 +8036,19 @@ https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
 **Anexo K:**
 
 https://apx-01.github.io/Landing-Page/
+
+**Anexo L:**
+
+https://github.com/APX-01/report
+
+**Anexo M:**
+
+https://github.com/APX-01/Backend-Web-Services
+
+**Anexo N:**
+
+https://github.com/APX-01/Frontend-Web-Applications
+
+**Anexo O:**
+
+https://github.com/APX-01/Testing
