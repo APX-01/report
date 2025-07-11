@@ -6904,25 +6904,47 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Landing Page:**
 
-<img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing8.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage10.png" alt="Deploy" width="800"/>
+
+**Landing Page: Modo Oscuro**
+
+<img src="./images/chapter-5/landingpage11.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage12.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage13.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage14.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage15.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage16.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage17.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage18.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage19.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage20.png" alt="Deploy" width="800"/>
 
 **Frontend:**
 
@@ -6954,13 +6976,12 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Backend:**
 
-<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend5.png" alt="Deploy" width="800"/>
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
