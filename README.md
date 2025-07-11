@@ -6879,6 +6879,66 @@ En este item se detalla el Sprint Backlog del cuarto sprint de desarrollo del pr
     <td>Sebastian Omar Real Calderón</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td>US-037</td>
+    <td>Modo oscuro en Landing Page</td>
+    <td>T16</td>
+    <td>Implementar toggle de modo oscuro</td>
+    <td>Crear componente para cambiar entre temas claro/oscuro en la landing</td>
+    <td>3</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-038</td>
+    <td>Búsqueda en historial</td>
+    <td>T17</td>
+    <td>Desarrollar buscador de historial</td>
+    <td>Implementar filtros por nombre en historial de retos</td>
+    <td>4</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-039</td>
+    <td>Vista previa de feedback</td>
+    <td>T18</td>
+    <td>Crear preview de feedback</td>
+    <td>Desarrollar vista simulada de cómo ven los estudiantes los comentarios</td>
+    <td>3</td>
+    <td>José Antonio Alejo Cardenas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-040</td>
+    <td>Filtrado avanzado en panel de progreso</td>
+    <td>T19</td>
+    <td>Mejorar filtros del dashboard</td>
+    <td>Añadir filtros combinables al panel de profesores</td>
+    <td>5</td>
+    <td>Omar Luquillas Asto</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-041</td>
+    <td>Recordatorios personalizables</td>
+    <td>T20</td>
+    <td>Configurar notificaciones personalizadas</td>
+    <td>Permitir ajustar tiempos de recordatorios por estudiante</td>
+    <td>4</td>
+    <td>Josue Antonio Flores Apaico</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US-042</td>
+    <td>Estadísticas comparativas grupales</td>
+    <td>T21</td>
+    <td>Implementar curva de rendimiento</td>
+    <td>Crear gráfico de distribución para grupos</td>
+    <td>6</td>
+    <td>Sebastian Omar Real Calderón</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 
@@ -6910,25 +6970,47 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Landing Page:**
 
-<img src="./images/chapter-5/landing1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing8.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing9.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/landing10.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/landingpage10.png" alt="Deploy" width="800"/>
+
+**Landing Page: Modo Oscuro**
+
+<img src="./images/chapter-5/landingpage11.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage12.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage13.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage14.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage15.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage16.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage17.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage18.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage19.png" alt="Deploy" width="800"/>
+
+<img src="./images/chapter-5/landingpage20.png" alt="Deploy" width="800"/>
 
 **Frontend:**
 
@@ -6960,13 +7042,12 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Backend:**
 
-<img src="./images/chapter-5/execution-evidence-backend1.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend2.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend3.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend4.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend5.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend6.png" alt="Deploy" width="800"/>
-<img src="./images/chapter-5/execution-evidence-backend7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/backend5.png" alt="Deploy" width="800"/>
+
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -7018,15 +7099,40 @@ La base de datos se desplegó en Railway, una plataforma que permite crear y adm
 
 **Landing Page:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-1.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-2.png" alt="Execution Evidence 8" width="700"/>
 
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 10
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 0
+  - Mendoza Vergara Franklin Alejandro: 1
 
 **Frontend:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-3.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-4.png" alt="Execution Evidence 8" width="700"/>
+
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 7
+  - Luquillas Asto Omar: 10
+  - Real Calderón Sebastián Omar: 2
+  - Flores Apaico Josue Antonio: 0
+  - Mendoza Vergara Franklin Alejandro: 1
 
 
 **Backend:**<br>
 
+<img src="./images/chapter-5/insights-4sprint-5.png" alt="Execution Evidence 8" width="700"/>
+<img src="./images/chapter-5/insights-4sprint-6.png" alt="Execution Evidence 8" width="700"/>
 
+Distribucion de commits:
+  - Alejo Cardenas Jose Antonio: 12
+  - Luquillas Asto Omar: 5
+  - Real Calderón Sebastián Omar: 11
+  - Flores Apaico Josue Antonio: 11
+  - Mendoza Vergara Franklin Alejandro: 0
 
 
 ### 5.3. Validation Interviews
