@@ -4035,7 +4035,7 @@ Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durant
   </thead>
   <tbody>
     <tr>
-      <td rowspan="13">https://github.com/APX-01/Frontend-Web-Applications</td>
+      <td rowspan="13">Frontend-Web-Applications</td>
       <td>feature/aestheticv3</td>
       <td>714cc3334ba6159919c3effe512a143897a47f35</td>
       <td>feat(aestheticv3): Added aestheticv3</td>
@@ -4750,1286 +4750,802 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra Landing Page. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
 <table>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
-    <td colspan="1"> main </td>
-    <td colspan="1"> 387399736b7751468d6f01267ee01c11da34e16b </td>
-    <td colspan="1"> feat(landing-page): added language switcher </td>
-    <td colspan="1"> feat(landing-page): added language switcher </td>
-    <td colspan="1"> 02/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Landing-Page </td>
-    <td colspan="1"> main </td>
-    <td colspan="1"> 7f33297480e0791256027b23403aa50b1a1f2374 </td>
-    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
-    <td colspan="1"> feat(landing-page): add dark mode, about the product and team sections </td>
-    <td colspan="1"> 21/06/2025 </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>387399736b7751468d6f01267ee01c11da34e16b</td>
+      <td>feat(landing-page): added language switcher</td>
+      <td>feat(landing-page): added language switcher</td>
+      <td>Jun 2, 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>7f33297480e0791256027b23403aa50b1a1f2374</td>
+      <td>feat(landing-page): add dark mode, about the product and team sections</td>
+      <td>feat(landing-page): add dark mode, about the product and team sections</td>
+      <td>Jun 21, 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>77991eb37f4709028c58c7f8f518ddaed751ef56</td>
+      <td>Delete images/laptop2.png</td>
+      <td>Delete images/laptop2.png</td>
+      <td>Jun 21, 2025</td>
+    </tr>
+    <tr>
+      <td>Landing-Page</td>
+      <td>main</td>
+      <td>c245f6804d5683a17ea6a3f3f3908be46c75da1a</td>
+      <td>Delete images/laptop.jpg</td>
+      <td>Delete images/laptop.jpg</td>
+      <td>Jun 21, 2025</td>
+    </tr>
+  </tbody>
 </table>
 
 
 **Commits realizados en el repositorio de frontend durante el sprint 3:**
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
 <table>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 9321f35 </td>
-    <td colspan="1"> feat(develop): added language switcher </td>
-    <td colspan="1"> feat(develop): added language switcher </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 790fe57 </td>
-    <td colspan="1"> feat(develop): added group entity and service </td>
-    <td colspan="1"> feat(develop): added group entity and service </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 3e5acd2 </td>
-    <td colspan="1"> feat(develop): added group join code entity and service </td>
-    <td colspan="1"> feat(develop): added group join code entity and service </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 1370615 </td>
-    <td colspan="1"> feat(develop): added group list and join </td>
-    <td colspan="1"> feat(develop): added group list and join </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 93b303a </td>
-    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
-    <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 55e08aa </td>
-    <td colspan="1"> feat(Service): Added services </td>
-    <td colspan="1"> feat(Service): Added services </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 171f700 </td>
-    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
-    <td colspan="1"> feat(develop): added use functionality to dashboard. </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> c8d30d2 </td>
-    <td colspan="1"> fix(app-component): Added app component </td>
-    <td colspan="1"> fix(app-component): Added app component </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
+  <thead>
     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 71bce45 </td>
-    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
-    <td colspan="1"> fix(developer): moved base service to appropiate folder </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 124ffe2 </td>
-    <td colspan="1"> feat(developer): adjusted and added group view </td>
-    <td colspan="1"> feat(developer): adjusted and added group view </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>714cc3334ba6159919c3effe512a143897a47f35</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 3f61a3a </td>
-    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>570a0aa96008bb8c9bde7f7b7640aae0de69feab</td>
+      <td>Merge remote-tracking branch 'origin/develop' into develop</td>
+      <td>Merge remote-tracking branch 'origin/develop' into develop</td>
+      <td>16/05/2025</td>
     </tr>
     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> f19d42e </td>
-    <td colspan="1"> feat: added group leave functionality </td>
-    <td colspan="1"> feat: added group leave functionality </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 71bce45 </td>
-    <td colspan="1"> fix: moved base service to appropiate folder </td>
-    <td colspan="1"> fix: moved base service to appropiate folder </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 124ffe2 </td>
-    <td colspan="1"> feat: adjusted and added group view </td>
-    <td colspan="1"> feat: adjusted and added group view </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 3f61a3a </td>
-    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-    <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> f19d42e </td>
-    <td colspan="1"> feat: added group leave functionality </td>
-    <td colspan="1"> feat: added group leave functionality </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> c4f8531 </td>
-    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
-    <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> dbbab5a </td>
-    <td colspan="1"> fix(font-awesome): fix icons </td>
-    <td colspan="1"> fix(font-awesome): fix icons </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 6e7869f </td>
-    <td colspan="1"> feat: group creation </td>
-    <td colspan="1"> feat: group creation </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-     <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> dbbf130 </td>
-    <td colspan="1"> fix: made challenge components standalone </td>
-    <td colspan="1"> fix: made challenge components standalone </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-       <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 1c42370 </td>
-    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
-    <td colspan="1"> feat(submission-student): Added AddSubmission </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-       <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 529b24c </td>
-    <td colspan="1"> fix(router-error): fix error </td>
-    <td colspan="1"> fix(router-error): fix error </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-       <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> b8cfcd9 </td>
-    <td colspan="1"> feat: added group student list view </td>
-    <td colspan="1"> feat: added group student list view </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-       <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 936123a </td>
-    <td colspan="1"> fix: router param names </td>
-    <td colspan="1"> fix: router param names </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> ae66a9c </td>
-    <td colspan="1"> fix: routes for param names </td>
-    <td colspan="1"> fix: routes for param names </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 9588518 </td>
-    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
-    <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 738430f </td>
-    <td colspan="1"> fix: fixes update on group list </td>
-    <td colspan="1"> fix: fixes update on group list </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> f0f58c7 </td>
-    <td colspan="1"> feat(attempts): Added remaining attempts </td>
-    <td colspan="1"> feat(attempts): Added remaining attempts </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> f96d15d </td>
-    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
-    <td colspan="1"> feat(aesthetic): Added aesthetic </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> 1635923 </td>
-    <td colspan="1"> feat(analytics): added analytics </td>
-    <td colspan="1"> feat(analytics): added analytics </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> c47402e </td>
-    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
-    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> analytics </td>
-    <td colspan="1"> c47402e </td>
-    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
-    <td colspan="1"> feat(aestheticv2): Added aestheticv2 </td>
-    <td colspan="1"> 16/05/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-    <td colspan="1"> feature/submissions-attempts </td>
-    <td colspan="1"> 9321f35 </td>
-    <td colspan="1"> feat: added language switcher </td>
-    <td colspan="1"> feat: added language switcher </td>
-    <td colspan="1"> 15/05/2025 </td>
-  </tr>
-  <tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 6bb48d0 </td>
-  <td colspan="1"> feat: Added iam auth </td>
-  <td colspan="1"> feat: Added iam auth </td>
-  <td colspan="1"> 15/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 1370615 </td>
-  <td colspan="1"> feat: added group list and join </td>
-  <td colspan="1"> feat: added group list and join </td>
-  <td colspan="1"> 15/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 3e5acd2 </td>
-  <td colspan="1"> feat: added group join code entity and service </td>
-  <td colspan="1"> feat: added group join code entity and service </td>
-  <td colspan="1"> 15/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 790fe57 </td>
-  <td colspan="1"> feat: added group entity and service </td>
-  <td colspan="1"> feat: added group entity and service </td>
-  <td colspan="1"> 15/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 9321f35 </td>
-  <td colspan="1"> feat: added language switcher </td>
-  <td colspan="1"> feat: added language switcher </td>
-  <td colspan="1"> 15/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 8f59d33 </td>
-  <td colspan="1"> feat: setup </td>
-  <td colspan="1"> feat: setup </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> c8d30d2 </td>
-  <td colspan="1"> fix(app-component): Added app component </td>
-  <td colspan="1"> fix(app-component): Added app component </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 171f700 </td>
-  <td colspan="1"> feat: added use functionality to dashboard </td>
-  <td colspan="1"> feat: added use functionality to dashboard </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 556aefb </td>
-  <td colspan="1"> feat(Service): Added services </td>
-  <td colspan="1"> feat(Service): Added services </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 93b303a </td>
-  <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
-  <td colspan="1"> fix(user-entity): fix profilesInGroups </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> c4f8531 </td>
-  <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
-  <td colspan="1"> feat(challenges-v3): Added challengesv3 </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> f19d42e </td>
-  <td colspan="1"> feat: added group leave functionality </td>
-  <td colspan="1"> feat: added group leave functionality </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 3f61a3a </td>
-  <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-  <td colspan="1"> feat(challenges-v2): Added challengesv2 </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 124ffe2 </td>
-  <td colspan="1"> feat: adjusted and added group view </td>
-  <td colspan="1"> feat: adjusted and added group view </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 71bce45 </td>
-  <td colspan="1"> fix: moved base service to appropiate folder </td>
-  <td colspan="1"> fix: moved base service to appropiate folder </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 9b3e647 </td>
-  <td colspan="1"> fix: .gitignore /.angular </td>
-  <td colspan="1"> fix: .gitignore /.angular </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> b8cfcd9 </td>
-  <td colspan="1"> feat: added group student list view </td>
-  <td colspan="1"> feat: added group student list view </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 529b24c </td>
-  <td colspan="1"> fix(router-error): fix error </td>
-  <td colspan="1"> fix(router-error): fix error </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 1c42370 </td>
-  <td colspan="1"> feat(submission-student): Added AddSubmission </td>
-  <td colspan="1"> feat(submission-student): Added AddSubmission </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> dbbf130 </td>
-  <td colspan="1"> fix: made challenge components standalone </td>
-  <td colspan="1"> fix: made challenge components standalone </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 6e7869f </td>
-  <td colspan="1"> feat: group creation </td>
-  <td colspan="1"> feat: group creation </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> dbbab5a </td>
-  <td colspan="1"> fix(font-awesome): fix icons </td>
-  <td colspan="1"> fix(font-awesome): fix icons </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> f0f58c7 </td>
-  <td colspan="1"> feat(attempts): Added remaining attempts </td>
-  <td colspan="1"> feat(attempts): Added remaining attempts </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 9588518 </td>
-  <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
-  <td colspan="1"> feat(set-score-teacher): Added set score functionality </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> ae66a9c </td>
-  <td colspan="1"> fix: routes for param names </td>
-  <td colspan="1"> fix: routes for param names </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
-<tr>
-  <td colspan="1"> https://github.com/APX-01/Frontend-Web-Applications </td>
-  <td colspan="1"> feature/submissions-attempts </td>
-  <td colspan="1"> 936123a </td>
-  <td colspan="1"> fix: router param names </td>
-  <td colspan="1"> fix: router param names </td>
-  <td colspan="1"> 16/05/2025 </td>
-</tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>419bd6f95e4d0d7e9a95032cc5fb66aa00fb7033</td>
+      <td>feat: modified environments to use deployed fake api</td>
+      <td>feat: modified environments to use deployed fake api</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>5785c1727ab291902cc53b2d040c07d60f1d618f</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>feat(aestheticv3): Added aestheticv3</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>0e9c4f7b80bb218af9173eac66624166c9444366</td>
+      <td>fix: fixed sidebar</td>
+      <td>fix: fixed sidebar</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>31281a2d93a547b20d678a4d89ebfda6c29c8c4d</td>
+      <td>Merge pull request #23 from APX-01/feature/page-validation</td>
+      <td>Merge pull request #23 from APX-01/feature/page-validation</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>41a99b5193987218819731d9a6b57a9865bc9ff9</td>
+      <td>Merge branch 'develop' into feature/page-validation</td>
+      <td>Merge branch 'develop' into feature/page-validation</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>c5d102d7061be67e4061559919885fe794522332</td>
+      <td>feat: added access protection</td>
+      <td>feat: added access protection</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>058a7d89b6604d45467adb59620aa30a1169bd57</td>
+      <td>Merge pull request #22 from APX-01/analytics</td>
+      <td>Merge pull request #22 from APX-01/analytics</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>4079aac0f1e4f9bc53381b977c221ea9ac10e841</td>
+      <td>Merge branch 'develop' into analytics</td>
+      <td>Merge branch 'develop' into analytics</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>97484ea4667c05f25afa9742911428abe2295f81</td>
+      <td>Merge pull request #21 from APX-01/feature/styles</td>
+      <td>Merge pull request #21 from APX-01/feature/styles</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>c47402e880208b8989bcecd3dff1d31036a534b7</td>
+      <td>feat(aestheticv2): Added aestheticv2</td>
+      <td>feat(aestheticv2): Added aestheticv2</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>163592373a817d6aee5ae40156c35f74898ccd34</td>
+      <td>feat(analytics): added analytics</td>
+      <td>feat(analytics): added analytics</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>f96d15da440a736298f412f773fdc63904ecfd92</td>
+      <td>feat(aesthetic): Added aesthetic</td>
+      <td>feat(aesthetic): Added aesthetic</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>f0f58c7494874bb2672a9645a0e99b6bdb7978ac</td>
+      <td>feat(attempts): Added remaining attempts</td>
+      <td>feat(attempts): Added remaining attempts</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>738430f3a6c2738addd5668fc5b1e188e5f7c04b</td>
+      <td>fix: fixes update on group list</td>
+      <td>fix: fixes update on group list</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>9588518996abf5cfa2a32633669c7d231563b138</td>
+      <td>feat(set-score-teacher): Added set score functionality</td>
+      <td>feat(set-score-teacher): Added set score functionality</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>ae66a9cd780fb9bc7b55f8a864db725d191b5b51</td>
+      <td>fix: routes for param names</td>
+      <td>fix: routes for param names</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>936123a1dcdfbd94cac29cdb66f5acc3bb7bb69c</td>
+      <td>fix: router param names</td>
+      <td>fix: router param names</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>b8cfcd90bacc4f3ca8cf3613e35597f3f53c1a6f</td>
+      <td>feat: added group student list view</td>
+      <td>feat: added group student list view</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>529b24cd06ee9a1d5c8ff0baa883c38e01c6aeaf</td>
+      <td>fix(router-error): fix error</td>
+      <td>fix(router-error): fix error</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>1c4237009b9a3861010d4d98796c8a0d3edd4ea2</td>
+      <td>feat(submission-student): Added AddSubmission</td>
+      <td>feat(submission-student): Added AddSubmission</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>dbbf13082f1ba50c31f993961d63ff165ece9873</td>
+      <td>fix: made challenge components standalone</td>
+      <td>fix: made challenge components standalone</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>6e7869ff9c740eeb7fc1f6fb717c5ad13643af2a</td>
+      <td>feat: group creation</td>
+      <td>feat: group creation</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>dbbab5a7d4a518c4b1cae555ac060804e0bf2c70</td>
+      <td>fix(font-awesome): fix icons</td>
+      <td>fix(font-awesome): fix icons</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>c4f8531677d34991b8fb1eb881a6190c1dbfdeca</td>
+      <td>feat(challenges-v3): Added challengesv3</td>
+      <td>feat(challenges-v3): Added challengesv3</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>f19d42e0b83a9f67d8b16ade794c364583693873</td>
+      <td>feat: added group leave functionality</td>
+      <td>feat: added group leave functionality</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>3f61a3a9e0ec096e2613986a035814e955aaa5eb</td>
+      <td>feat(challenges-v2): Added challengesv2</td>
+      <td>feat(challenges-v2): Added challengesv2</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>124ffe28694588d94355a4d924db6e5356ef5107</td>
+      <td>feat: adjusted and added group view</td>
+      <td>feat: adjusted and added group view</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>71bce45b149d710634b4cfa94662ee96f7b72bfe</td>
+      <td>fix: moved base service to appropiate folder</td>
+      <td>fix: moved base service to appropiate folder</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>9b3e647b78ef9d4aef4a15ef94d1effffe93d463</td>
+      <td>fix: .gitignore /.angular</td>
+      <td>fix: .gitignore /.angular</td>
+      <td>16/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>c8d30d2d627891fb1efd84fbae32af01d2d10340</td>
+      <td>fix(app-component): Added app component</td>
+      <td>fix(app-component): Added app component</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>171f70033f1d8c89912f17e7fac20ebaef8a2e4f</td>
+      <td>feat: added use functionality to dashboard</td>
+      <td>feat: added use functionality to dashboard</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>556aefba41c8a2d3ee26bac3bd4c53c5dc3c91a7</td>
+      <td>feat(Service): Added services</td>
+      <td>feat(Service): Added services</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>93b303a030b1f0ca91a4be5fb213d39469e2d3f6</td>
+      <td>fix(user-entity): fix profilesInGroups</td>
+      <td>fix(user-entity): fix profilesInGroups</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>6bb48d05307339f9af3520c98b9237a39df28102</td>
+      <td>feat(iam-auth): Added iam auth</td>
+      <td>feat(iam-auth): Added iam auth</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>1370615e0e230b284b58f4e3853df41f544d89cc</td>
+      <td>feat: added group list and join</td>
+      <td>feat: added group list and join</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>3e5acd24ba7efee029140ae2723f00b46f9c26b0</td>
+      <td>feat: added group join code entity and service</td>
+      <td>feat: added group join code entity and service</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>790fe574d23dfff700092e083400e3487ba4e9cf</td>
+      <td>feat: added group entity and service</td>
+      <td>feat: added group entity and service</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>9321f354a8a27f9442db03d1b92fccbb9317c077</td>
+      <td>feat: added language switcher</td>
+      <td>feat: added language switcher</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>Frontend-Web-Applications</td>
+      <td>develop</td>
+      <td>8f59d33916088be4a74a209bee0b9cacb7b29787</td>
+      <td>feat: setup</td>
+      <td>feat: setup</td>
+      <td>15/05/2025</td>
+    </tr>
+  </tbody>
 </table>
+
 
 **Commits realizados en el repositorio de backend durante el sprint 3:**
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
 <table>
-  <tr>
-    <td colspan="1">Repository</td>
-    <td colspan="1">Branch</td>
-    <td colspan="1">Commit Id</td>
-    <td colspan="1">Commit Message</td>
-    <td colspan="1">Commit Message Body</td>
-    <td colspan="1">Commited on (Date)</td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> main </td>
-    <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
-    <td colspan="1"> feat: setup </td>
-    <td colspan="1"> feat: setup </td>
-    <td colspan="1"> 07/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> f690e4f8d84bb00579168808a432ca54dcffa3fa </td>
-    <td colspan="1"> feat: setup </td>
-    <td colspan="1"> feat: setup </td>
-    <td colspan="1"> 07/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
-    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
-    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
-    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
-    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 852f65130ff60644cca4eec492b708781bd02c59 </td>
-    <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
-    <td colspan="1"> Merge pull request #10 from APX-01/feature/iam-submissions </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
-    <td colspan="1"> hotfix(update): hotfix update </td>
-    <td colspan="1"> hotfix(update): hotfix update </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 4656e2f00cbae2a36c26053f7d033e65bdff53bf </td>
-    <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
-    <td colspan="1"> Merge pull request #11 from APX-01/feature/iam-submissions </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 9bbbc5c021566e7dd9c0e9e7bf00a2480483b923 </td>
-    <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
-    <td colspan="1"> feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> b5d801e3688be2aa4da6ac97bc860e0d55bdcaed </td>
-    <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
-    <td colspan="1"> Merge pull request #12 from APX-01/feature/submissions </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 2580d9744890e1517746c1cf1f295a2c254e24e4 </td>
-    <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
-    <td colspan="1"> feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery </td>
-    <td colspan="1"> 21/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> develop </td>
-    <td colspan="1"> 197844c303cdf1668bdd7e86d5bf224364a89f21 </td>
-    <td colspan="1"> feat(config): Added config </td>
-    <td colspan="1"> feat(config): Added config </td>
-    <td colspan="1"> 21/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
- <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/groupJoinCodes </td>
-    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-   <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>	
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam </td>
-    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 37802243caa0e97c4c04dfaabf9b724008612d1f </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> feat(submissions): Added submissions endpoints </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 956e1c95323474538942538a074916f47072d45a </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> Merge pull request #1 from APX-01/feature/submissions </td>
-    <td colspan="1"> 16/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 4f450ff434de56171349a6cf8f3e9f44d25b31e5 </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> feat(challenges): Added challenge's endpoints </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> c05ebadef8802c06b85e33a9b2cdcbee041fed46 </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> Merge pull request #2 from APX-01/feature/challenges </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 39176e22d227ac46fe8e5037f6e15e22d4e6cf9c </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> feat: groups endpoint setup </td>
-    <td colspan="1"> 17/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 11c1e1f4c896be39e79eed2d4f44805a8b358293 </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> feat: added update and delete operations for groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> a5e8b0fed986b984aa523089f57d609dfdb1c4b7 </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> fix: delete api response code </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> f53a96cdf6ad6c5313a5016c0693e44ae429af22 </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> Merge pull request #3 from APX-01/feature/groups </td>
-    <td colspan="1"> 18/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> fd689560a44eae4c8a3476cf2b2201c02acbd7a8 </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> hotfix(submission-challenge): hotfix relations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 39bc3c851faca89ac39ebbf3f5c9acfb84968f02 </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> feat(groups-challenges): added relationship </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 5dcdd7c58ab8e021e96510efa91099a93e60e8a8 </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> fix(create-update): fix challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 372edd1b2053f121fc8e67e7eca84d2cabf640e2 </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> Merge pull request #4 from APX-01/feature/groups-challenges </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> e255095e21003e671ad93c2ecc825ed9110c4b68 </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> fix(challenges-submissions): fix testing challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 18aa6ccb88f66245ee05fef8aef74d089f2af785 </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> Merge pull request #5 from APX-01/feature/challenges-submissions </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 62de1d45b69bf74df9e3529f222c8d10e6e8aad8 </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> feat(teachers-students): Added iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 992d404743f21765696c365f59c029e4fc892685 </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #6 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 77b7e9762cf656487de8a6038b51da55df66ee8d </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> feat(users-groups): Added relation users-groups </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> edf6560331b736e0b84f168d33b9f79000d16ffd </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> Merge pull request #7 from APX-01/feature/iam </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> c81e69d369e81aa063466fea0d7bd9213d146fab </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> feat: base feature </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 7fe8946fdb3b88ee7e1f164669dc520ee87e3836 </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> Merge pull request #8 from APX-01/develop </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> cfb610caae0e21083afbe1c41381eef622f8d0fc </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> feat: group join code operations </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98 </td>
-    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
-    <td colspan="1"> Merge pull request #9 from APX-01/feature/groupJoinCodes </td>
-    <td colspan="1"> 19/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 3d6cb0725e273ce20954b8d84457d3656fca503b </td>
-    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
-    <td colspan="1"> feat(users-groups-challenges-submissions): Added relationship </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  <tr>
-    <td colspan="1"> https://github.com/APX-01/Backend-Web-Services </td>
-    <td colspan="1"> feature/iam-submissions </td>
-    <td colspan="1"> 75513c2cd674cfee9fd1addd4b388ef14a3bc9c3 </td>
-    <td colspan="1"> hotfix(update): hotfix update </td>
-    <td colspan="1"> hotfix(update): hotfix update </td>
-    <td colspan="1"> 20/06/2025 </td>
-  </tr>
-  
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>d5db140ace5ab55f81f7335275dc35603947d413</td>
+      <td>fix: SubmissionsController operation response correction</td>
+      <td>fix: SubmissionsController operation response correction</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>5ae34d838ca235ed8914db334987363450e63681</td>
+      <td>hotfix(userId-groupId): hotfix GetSubmissionsByStudentIdAndGroupIdQuery</td>
+      <td>hotfix(userId-groupId): hotfix GetSubmissionsByStudentIdAndGroupIdQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>8d33d819a3309da1a105de5bb2a1e1c9d2955e72</td>
+      <td>feat(submissions): Added corrected submissions</td>
+      <td>feat(submissions): Added corrected submissions</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>05bde604093b76abf591dc1a61154f1017bdf775</td>
+      <td>fix: fixed routes</td>
+      <td>fix: fixed routes</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>16dfb02cc8245e9e5719431e82e3cfb381f9488d</td>
+      <td>fix: fix pathvariable</td>
+      <td>fix: fix pathvariable</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>c9ff1fc177111b567de1b7b2dbd8e4f43d20ac6c</td>
+      <td>fix: fixed leave operation route</td>
+      <td>fix: fixed leave operation route</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>0d69302853ad30a205f7e73933bbc2242eb2acb6</td>
+      <td>feat(groups): toGetFromPost</td>
+      <td>feat(groups): toGetFromPost</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>f43c78e68c5fa28824652330aaf1ccec744948c8</td>
+      <td>feat(groups): Added GetGroupByKeyQuery</td>
+      <td>feat(groups): Added GetGroupByKeyQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>cc16f169fc1890c989d01bb346fd56dbd2ee8593</td>
+      <td>fix(path): new path</td>
+      <td>fix(path): new path</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>eb73195c5dbf4b19b7710f75233d842a03160c08</td>
+      <td>fix(name): fix name</td>
+      <td>fix(name): fix name</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>a2cc130bcc39bbf45b6ab805b35540abb842623f</td>
+      <td>feat(iam): Added GetUsersByGroupIdQuery</td>
+      <td>feat(iam): Added GetUsersByGroupIdQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>ea86d612581daf35ef1c002b1d2ae17c90e21fb9</td>
+      <td>feat(challenges): validation title create and update</td>
+      <td>feat(challenges): validation title create and update</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>024a5c8d67e1857574e81b13b2ff76b5b8d11743</td>
+      <td>feat(challenges): new validation</td>
+      <td>feat(challenges): new validation</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>117d00d0113e0b720bb85fb5b05d1435c2023657</td>
+      <td>feat(challenges): Added new path</td>
+      <td>feat(challenges): Added new path</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>fe62235a87bad85e7828ae86eff8165136ee0745</td>
+      <td>feat(user): Added GetProfilesInGroupsByGroupIdAndStudentIdQuery</td>
+      <td>feat(user): Added GetProfilesInGroupsByGroupIdAndStudentIdQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>aea99a158098c02b1549770fd48a1c177f1c9ab3</td>
+      <td>feat(groups): Added new create group</td>
+      <td>feat(groups): Added new create group</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>cbeeb6a76c8c4f5df844afe1894c44d7b5dc86c7</td>
+      <td>feat(groups): Added GetGroupsByUserIdQuery</td>
+      <td>feat(groups): Added GetGroupsByUserIdQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>bfca71bea8aa5231e5c516df1070186efec01f73</td>
+      <td>feat(iam): Added email validations</td>
+      <td>feat(iam): Added email validations</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>a72b1dbe3ff305f4616ab6b8e26b8780dbf6c6f2</td>
+      <td>feat(user): added email validation</td>
+      <td>feat(user): added email validation</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>197844c303cdf1668bdd7e86d5bf224364a89f21</td>
+      <td>feat(config): Added config</td>
+      <td>feat(config): Added config</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>2580d9744890e1517746c1cf1f295a2c254e24e4</td>
+      <td>feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery</td>
+      <td>feat(iam): Added GetUserByEmailAndPasswordQuery and GetUserByEmailQuery</td>
+      <td>21/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>b5d801e3688be2aa4da6ac97bc860e0d55bdcaed</td>
+      <td>fix: fixed route for operation in SubmissionsController</td>
+      <td>fix: fixed route for operation in SubmissionsController</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>f58bb06751d9378739bd5f0a8ea40e888e68bc45</td>
+      <td>Merge pull request #12 from APX-01/feature/submissions</td>
+      <td>Merge pull request #12 from APX-01/feature/submissions</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>9bbbc5c021566e7dd9c0e9e7bf00a2480483b923</td>
+      <td>feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery</td>
+      <td>feat(submissions): Added query GetSubmissionsByStudentIdAndChallengeIdQuery</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>4656e2f00cbae2a36c26053f7d033e65bdff53bf</td>
+      <td>Merge pull request #11 from APX-01/feature/iam-submissions</td>
+      <td>Merge pull request #11 from APX-01/feature/iam-submissions</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>75513c2cd674cfee9fd1addd4b388ef14a3bc9c3</td>
+      <td>hotfix(update): hotfix update</td>
+      <td>hotfix(update): hotfix update</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>852f65130ff60644cca4eec492b708781bd02c59</td>
+      <td>Merge pull request #10 from APX-01/feature/iam-submissions</td>
+      <td>Merge pull request #10 from APX-01/feature/iam-submissions</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>3d6cb0725e273ce20954b8d84457d3656fca503b</td>
+      <td>feat(users-groups-challenges-submissions): Added relationship</td>
+      <td>feat(users-groups-challenges-submissions): Added relationship</td>
+      <td>20/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>b9ebf77f45501ca0aea9ee5d9276bc7ad3956b98</td>
+      <td>Merge pull request #9 from APX-01/feature/groupJoinCodes</td>
+      <td>Merge pull request #9 from APX-01/feature/groupJoinCodes</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>cfb610caae0e21083afbe1c41381eef622f8d0fc</td>
+      <td>feat: group join code operations</td>
+      <td>feat: group join code operations</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>7fe8946fdb3b88ee7e1f164669dc520ee87e3836</td>
+      <td>Merge pull request #8 from APX-01/develop</td>
+      <td>Merge pull request #8 from APX-01/develop</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>c81e69d369e81aa063466fea0d7bd9213d146fab</td>
+      <td>feat: base feature</td>
+      <td>feat: base feature</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>edf6560331b736e0b84f168d33b9f79000d16ffd</td>
+      <td>Merge pull request #7 from APX-01/feature/iam</td>
+      <td>Merge pull request #7 from APX-01/feature/iam</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>77b7e9762cf656487de8a6038b51da55df66ee8d</td>
+      <td>feat(users-groups): Added relation users-groups</td>
+      <td>feat(users-groups): Added relation users-groups</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>992d404743f21765696c365f59c029e4fc892685</td>
+      <td>Merge pull request #6 from APX-01/feature/iam</td>
+      <td>Merge pull request #6 from APX-01/feature/iam</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>62de1d45b69bf74df9e3529f222c8d10e6e8aad8</td>
+      <td>feat(teachers-students): Added iam</td>
+      <td>feat(teachers-students): Added iam</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>18aa6ccb88f66245ee05fef8aef74d089f2af785</td>
+      <td>Merge pull request #5 from APX-01/feature/challenges-submissions</td>
+      <td>Merge pull request #5 from APX-01/feature/challenges-submissions</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>e255095e21003e671ad93c2ecc825ed9110c4b68</td>
+      <td>fix(challenges-submissions): fix testing challenges-submissions</td>
+      <td>fix(challenges-submissions): fix testing challenges-submissions</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>372edd1b2053f121fc8e67e7eca84d2cabf640e2</td>
+      <td>Merge pull request #4 from APX-01/feature/groups-challenges</td>
+      <td>Merge pull request #4 from APX-01/feature/groups-challenges</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>5dcdd7c58ab8e021e96510efa91099a93e60e8a8</td>
+      <td>fix(create-update): fix challenges</td>
+      <td>fix(create-update): fix challenges</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>39bc3c851faca89ac39ebbf3f5c9acfb84968f02</td>
+      <td>feat(groups-challenges): added relationship</td>
+      <td>feat(groups-challenges): added relationship</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>fd689560a44eae4c8a3476cf2b2201c02acbd7a8</td>
+      <td>hotfix(submission-challenge): hotfix relations</td>
+      <td>hotfix(submission-challenge): hotfix relations</td>
+      <td>19/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>f53a96cdf6ad6c5313a5016c0693e44ae429af22</td>
+      <td>Merge pull request #3 from APX-01/feature/groups</td>
+      <td>Merge pull request #3 from APX-01/feature/groups</td>
+      <td>18/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>a5e8b0fed986b984aa523089f57d609dfdb1c4b7</td>
+      <td>fix: delete api response code</td>
+      <td>fix: delete api response code</td>
+      <td>18/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>11c1e1f4c896be39e79eed2d4f44805a8b358293</td>
+      <td>feat: added update and delete operations for groups</td>
+      <td>feat: added update and delete operations for groups</td>
+      <td>18/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>39176e22d227ac46fe8e5037f6e15e22d4e6cf9c</td>
+      <td>feat: groups endpoint setup</td>
+      <td>feat: groups endpoint setup</td>
+      <td>17/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>c05ebadef8802c06b85e33a9b2cdcbee041fed46</td>
+      <td>Merge pull request #2 from APX-01/feature/challenges</td>
+      <td>Merge pull request #2 from APX-01/feature/challenges</td>
+      <td>17/06/2025</td>
+    </tr>
+    <tr>
+      <td>Backend-Web-Services</td>
+      <td>develop</td>
+      <td>4f450ff434de56171349a6cf8f3e9f44d25b31e5</td>
+      <td>feat(challenges): Added challenge's endpoints</td>
+      <td>feat(challenges): Added challenge's endpoints</td>
+      <td>17/06/2025</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -6666,9 +6182,9 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
     <tr>
       <th>Team Member (Last Name, First Name)</th>
       <th>GitHub Username</th>
-      <th>IAM</th>
-      <th>Perfil</th>
-      <th>Layout</th>
+      <th>Implementacion del iam</th>
+      <th>Syncronizacion de backend con frontend</th>
+      <th>Mejoras de entregas pasadas</th>
       <th>Landing-page</th>
     </tr>
   </thead>
