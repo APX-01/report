@@ -7647,7 +7647,7 @@ Distribucion de commits:
   - Alejo Cardenas Jose Antonio: 7
   - Luquillas Asto Omar: 10
   - Real Calderón Sebastián Omar: 2
-  - Flores Apaico Josue Antonio: 0
+  - Flores Apaico Josue Antonio: 1
   - Mendoza Vergara Franklin Alejandro: 1
 
 **Frontend:**<br>
@@ -7656,11 +7656,11 @@ Distribucion de commits:
 <img src="./images/chapter-5/insights-4sprint-4.png" alt="Execution Evidence 8" width="700"/>
 
 Distribucion de commits:
-  - Alejo Cardenas Jose Antonio: 7
-  - Luquillas Asto Omar: 10
-  - Real Calderón Sebastián Omar: 2
-  - Flores Apaico Josue Antonio: 0
-  - Mendoza Vergara Franklin Alejandro: 1
+  - Alejo Cardenas Jose Antonio: 22
+  - Luquillas Asto Omar: 1
+  - Real Calderón Sebastián Omar: 28
+  - Flores Apaico Josue Antonio: 6
+  - Mendoza Vergara Franklin Alejandro: 0
 
 
 **Backend:**<br>
@@ -7801,7 +7801,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                               | Estudiante de Ingeniería de Software                                                                                                    |
 | Departamento                                            | Lima, Perú                                                                                                                    |
 | Minuto de inicio                                        | 2:30 min                                                                                                                     |
-| Captura de la entrevista                                |        <img src="resources/chapter-5/entrevista3.png">                                                                                                                          |
+| Captura de la entrevista                                |        <img src="./images/chapter-5/entrevista3.png">                                                                                                                          |
 | Búsqueda de servicio                                    | Encuentra todo facilmente y comenta que esta bien organizado. |
 | Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas. |
 | Creacion y union a un grupo                             | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código. |
