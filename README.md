@@ -141,28 +141,77 @@ Abril 2025
 | **Repositorio de la organización** | [https://github.com/APX-01](https://github.com/APX-01)                                |
 | **Repositorio del reporte**        | [https://github.com/APX-01/report.git](https://github.com/APX-01/report.git)         |
 
-TP1: Todas las tareas del TP1 fueron completadas y registradas en el repositorio de Github de nuestro equipo: https://github.com/APX-01. Para el informe, cada integrante revisó y mejoró aspectos de la entrega anterior en: https://github.com/APX-01/report.git. Asimismo, el desarrollo de la landing page se trabajó en: https://github.com/APX-01/Landing-Page.git. Cabe mencionar que, con la incorporación de un nuevo miembro en el equipo, surgieron modificaciones en la landing page, por lo que se incluyen capturas de los commits de los últimos dos meses.
+Entrega TB1 (27/04/2025):
 
-<br>**Vista de commits: Report:**  
-![alt text](./images/chapter-1/Commit1.png)
+<img src="./images/chapter-1/Commit1.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit2.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit3.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit4.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit5.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit6.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit7.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit8.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit9.png" alt="Insights Report Collaboration Insights TB1" />
+<img src="./images/chapter-1/Commit10.png" alt="Insights Report Collaboration Insights TB1" />
 
-![alt text](./images/chapter-1/Commit2.png)
+Para esta primera entrega se desarollaron los capítulos del 1 al 5 y el sprint 1, en imagenes adjuntadas se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
 
-![alt text](./images/chapter-1/Commit3.png)
+Distribución de commits:
 
-![alt text](./images/chapter-1/Commit4.png)
+* Alejo Cardenas Jose Antonio: 42 commits
+* Luquillas Asto Omar: 27 commits
+* Real Calderón Sebastián Omar: 27 commits
+* Flores Apaico Josue Antonio: 47 commits
+* Mendoza Vergara Franklin Alejandro: 22 commits
 
-![alt text](./images/chapter-1/Commit5.png)
+Entrega TP (16/05/2025):
 
-![alt text](./images/chapter-1/Commit6.png)
+<img src="./images/chapter-1/commit2-1.png" alt="Insights Report Collaboration Insights TP" />
+<img src="./images/chapter-1/commit2-2.png" alt="Insights Report Collaboration Insights TP" />
+<img src="./images/chapter-1/commit2-3.png" alt="Insights Report Collaboration Insights TP" />
 
-![alt text](./images/chapter-1/Commit7.png)
+Para esta entrega se desarollo el capitulo 5 y el sprint 2, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
 
-![alt text](./images/chapter-1/Commit8.png)
+Distribución de commits:
 
-![alt text](./images/chapter-1/Commit9.png)
+* Alejo Cardenas Jose Antonio: 64 commits
+* Luquillas Asto Omar: 46 commits
+* Real Calderón Sebastián Omar: 27 commits
+* Flores Apaico Josue Antonio: 47 commits
+* Mendoza Vergara Franklin Alejandro: 22 commits
 
-![alt text](./images/chapter-1/Commit10.png)
+
+Entrega TB2 (22/06/2025):
+
+<img src="./images/chapter-1/commit3-1.png" alt="Insights Report Collaboration Insights TB2" />
+<img src="./images/chapter-1/commit3-2.png" alt="Insights Report Collaboration Insights TB2" />
+<img src="./images/chapter-1/commit3-3.png" alt="Insights Report Collaboration Insights TB2" />
+
+Para esta entrega se desarollo el capitulo 5 y el sprint 3, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
+
+Distribución de commits:
+
+* Alejo Cardenas Jose Antonio: 75 commits
+* Luquillas Asto Omar: 65 commits
+* Real Calderón Sebastián Omar: 30 commits
+* Flores Apaico Josue Antonio: 47 commits
+* Mendoza Vergara Franklin Alejandro: 22 commits
+
+Entrega TF (12/07/2025):
+
+<img src="./images/chapter-1/commit4-1.png" alt="Insights Report Collaboration Insights TF" />
+<img src="./images/chapter-1/commit4-2.png" alt="Insights Report Collaboration Insights TF" />
+<img src="./images/chapter-1/commit4-3.png" alt="Insights Report Collaboration Insights TF" />
+
+Para esta entrega se desarollo el capitulo 5, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
+
+Distribución de commits:
+
+* Alejo Cardenas Jose Antonio: 75 commits
+* Luquillas Asto Omar: 65 commits
+* Real Calderón Sebastián Omar: 30 commits
+* Flores Apaico Josue Antonio: 47 commits
+* Mendoza Vergara Franklin Alejandro: 22 commits
 
 
 ## Contenido
