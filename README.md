@@ -219,8 +219,8 @@ Para esta entrega se desarollo el sprint 4 y conclusiones finales, en la captura
 
 Distribución de commits:
 
-* Alejo Cardenas Jose Antonio: 75 commits
-* Luquillas Asto Omar: 65 commits
+* Alejo Cardenas Jose Antonio: 78 commits
+* Luquillas Asto Omar: 74 commits
 * Real Calderón Sebastián Omar: 30 commits
 * Flores Apaico Josue Antonio: 47 commits
 * Mendoza Vergara Franklin Alejandro: 22 commits
