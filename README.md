@@ -116,16 +116,27 @@ Abril 2025
       <td>5.3. Validation Interviews., 5.3.1. Diseño de Entrevistas., 5.3.2. Registro de Entrevistas., 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product.</td>
     </tr>
     <tr>
-      <td>3.3</td>
+      <td>3.1</td>
       <td>2025-07-09</td>
       <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
-      <td>5.3. Validation Interviews, 5.3.1 Diseño de Entrevistas, 5.3.2. Registro de Entrevistas, 5.3.3. Evaluaciones según heurísticas., 5.4. Video About-the-Product</td>
+      <td>Correción y mejoras del informe general hasta el capitulo 5</td>
     </tr>
     <tr>
-      <td>3.7</td>
+      <td>3.2</td>
+      <td>2025-07-10</td>
+      <td>Flores Apaico Josue Antonio</td>
+      <td>Correción y mejoras de las Validation Interviews</td>
+    </tr>
+    <tr>
+      <td>3.3</td>
       <td>2025-07-11</td>
       <td>Luquillas Asto Omar,  Alejo Cardenas Jose Antonio </td>
       <td>5.2.4. Sprint 4, 5.2.4.2. Aspect Leaders and Collaborators., 5.2.4.3. Sprint Backlog 4., 5.2.4.4. Development Evidence for Sprint Review., 5.2.4.5. Execution Evidence for Sprint Review, 5.2.4.6. Services Documentation Evidence for Sprint Review, 5.2.4.7. Software Deployment Evidence for Sprint Review, 5.2.4.8. Team Collaboration Insights during Sprint</td>
+    </tr><tr>
+      <td>4.0</td>
+      <td>2025-07-12</td>
+      <td>Luquillas Asto Omar, Real Calderón Sebastián Omar, Alejo Cardenas Jose Antonio y Flores Apaico Josue Antonio</td>
+      <td>Revisión y corrección final del informe. Se agregaron las conclusiones finales.</td>
     </tr>
   </tbody>
 </table>
