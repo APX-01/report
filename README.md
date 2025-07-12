@@ -443,19 +443,18 @@ Real Calderón Sebastián Omar - TB2:<br>
 Comunicé oralmente el diseño de la base de datos y su relación con los endpoints, enfatizando en la normalización y escalabilidad. Durante las demostraciones, mostré cómo los servicios respondían a las peticiones del frontend, asegurando que el equipo entendiera el proceso completo.
 
 Alejo Cardenas Jose Antonio-TF:<br>
-
+Durante esta etapa, presentó evidencias de ejecución y documentación de servicios para el Sprint Review, además de participar activamente en el desarrollo tanto de frontend como backend. Comunicó de forma clara los procesos técnicos, como el despliegue del software y el registro de entrevistas, adaptando su lenguaje según el público, lo cual facilitó la comprensión del avance y la integración de los distintos componentes del proyecto.
 <br><br> 
 Luquillas Asto Omar-TF:<br>
-
+Explicó de forma clara los avances en el desarrollo de la Landing Page y del backend, incluyendo la planificación del Sprint 4 y la definición de roles en el equipo. Además, detalló el diseño de entrevistas y el manejo del Sprint Backlog. Su comunicación permitió integrar aspectos técnicos con la visión de producto, adaptándose tanto a audiencias técnicas como no técnicas.
 <br><br> 
 Real Calderón Sebastián Omar-TF:<br>
-
+Presentó avances en el desarrollo de frontend y backend, además de participar en el registro de entrevistas y aportar perspectivas sobre la colaboración del equipo durante el sprint. También contribuyó a la revisión final del informe, comunicando eficazmente tanto detalles técnicos como funcionales, y asegurando que diferentes públicos comprendieran el impacto de su trabajo.
 <br><br>
 Flores Apaico Josue Antonio-TF:<br>
-
+Expuso de manera efectiva los hallazgos obtenidos en las entrevistas de validación y participó en su registro y análisis. Además, contribuyó a la revisión final del informe, asegurando que la información técnica y funcional fuera comprensible para distintos públicos. Su comunicación fue clave para vincular los resultados de validación con decisiones de mejora en el proyecto.
 <br><br>
-Mendoza Vergara Franklin Alejandro-TF:<br>
-<br>
+
 
 <br>
       </td>
@@ -520,19 +519,22 @@ Real Calderón Sebastián Omar - TB2:<br>
 Redacté el esquema de la base de datos y las consultas SQL clave, junto con justificaciones técnicas sobre su estructura. Incluí evidencia escrita de las migraciones y seeds para garantizar reproducibilidad.<br><br>
 
 Alejo Cardenas Jose Antonio-TF:<br>
-
+En esta etapa, elaboró documentación técnica para el Sprint Review, detallando evidencias de ejecución y despliegue del software. Redactó registros claros de entrevistas y participó en la generación de documentos funcionales, manteniendo un lenguaje técnico accesible tanto para miembros del equipo como para audiencias menos especializadas, asegurando coherencia y entendimiento en todos los entregables.
 <br><br> 
 Luquillas Asto Omar-TF:<br>
-
+Documentó avances del Sprint 4, elaborando detalles sobre la planificación, backlog y asignación de roles. También participó en la redacción de los hallazgos de entrevistas y en la documentación técnica del backend, usando un estilo preciso y estructurado que permitió transmitir información tanto a perfiles técnicos como a stakeholders no especializados.
 <br><br> 
 Real Calderón Sebastián Omar-TF:<br>
+Contribuyó a la documentación de desarrollo y despliegue del frontend y backend, participando en la redacción de evidencias y apartados técnicos del informe final. Su escritura combinó claridad técnica con lenguaje accesible, logrando que distintos públicos comprendieran tanto aspectos funcionales como detalles técnicos de los avances realizados.
+
 
 <br><br>
 Flores Apaico Josue Antonio-TF:<br>
+Contribuyó a la redacción de registros de entrevistas y evaluaciones heurísticas, sintetizando hallazgos en documentos entendibles para audiencias variadas. Participó en la redacción de apartados del informe final, logrando exponer información técnica y de experiencia de usuario de manera organizada y clara, facilitando el análisis y la toma de decisiones del equipo.
+
 
 <br><br>
-Mendoza Vergara Franklin Alejandro-TF:<br>
-<br>
+
 
 <br>
       <td>
