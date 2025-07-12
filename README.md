@@ -213,6 +213,7 @@ Entrega TF (12/07/2025):
 <img src="./images/chapter-1/commit4-1.png" alt="Insights Report Collaboration Insights TF" />
 <img src="./images/chapter-1/commit4-2.png" alt="Insights Report Collaboration Insights TF" />
 <img src="./images/chapter-1/commit4-3.png" alt="Insights Report Collaboration Insights TF" />
+<img src="./images/chapter-1/commit4-4.png" alt="Insights Report Collaboration Insights TF" />
 
 Para esta entrega se desarollo el sprint 4 y conclusiones finales, en la captura adjuntada se evidencia del trabajo colaborativo de github.
 
