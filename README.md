@@ -146,11 +146,11 @@ Abril 2025
 
 | Tipo de Enlace                      | URL                                                                                   |
 |------------------------------------|----------------------------------------------------------------------------------------|
-| **Landing Page**                   | [https://apx-01.github.io/Landing-Page/](https://apx-01.github.io/Landing-Page/)     |
-| **Frontend desplegado (Vercel)**   | [https://frontend-web-applications-deploymen.vercel.app](https://frontend-web-applications-deploymen.vercel.app) |
-| **Backend desplegado (Render)**    | [https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/](https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/) |
-| **Repositorio de la organización** | [https://github.com/APX-01](https://github.com/APX-01)                                |
-| **Repositorio del reporte**        | [https://github.com/APX-01/report.git](https://github.com/APX-01/report.git)         |
+| **Landing Page**                   | `https://apx-01.github.io/Landing-Page/`     |
+| **Frontend desplegado (Vercel)**   | `https://frontend-web-applications-deploymen.vercel.app` |
+| **Backend desplegado (Render)**    | `https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/` |
+| **Repositorio de la organización** | `https://github.com/APX-01`                                |
+| **Repositorio del reporte**        | `https://github.com/APX-01/report.git`         |
 
 Entrega TB1 (27/04/2025):
 
@@ -213,13 +213,14 @@ Entrega TF (12/07/2025):
 <img src="./images/chapter-1/commit4-1.png" alt="Insights Report Collaboration Insights TF" />
 <img src="./images/chapter-1/commit4-2.png" alt="Insights Report Collaboration Insights TF" />
 <img src="./images/chapter-1/commit4-3.png" alt="Insights Report Collaboration Insights TF" />
+<img src="./images/chapter-1/commit4-4.png" alt="Insights Report Collaboration Insights TF" />
 
 Para esta entrega se desarollo el sprint 4 y conclusiones finales, en la captura adjuntada se evidencia del trabajo colaborativo de github.
 
 Distribución de commits:
 
-* Alejo Cardenas Jose Antonio: 75 commits
-* Luquillas Asto Omar: 65 commits
+* Alejo Cardenas Jose Antonio: 78 commits
+* Luquillas Asto Omar: 74 commits
 * Real Calderón Sebastián Omar: 30 commits
 * Flores Apaico Josue Antonio: 47 commits
 * Mendoza Vergara Franklin Alejandro: 22 commits
@@ -442,19 +443,18 @@ Real Calderón Sebastián Omar - TB2:<br>
 Comunicé oralmente el diseño de la base de datos y su relación con los endpoints, enfatizando en la normalización y escalabilidad. Durante las demostraciones, mostré cómo los servicios respondían a las peticiones del frontend, asegurando que el equipo entendiera el proceso completo.
 
 Alejo Cardenas Jose Antonio-TF:<br>
-
+Durante esta etapa, presentó evidencias de ejecución y documentación de servicios para el Sprint Review, además de participar activamente en el desarrollo tanto de frontend como backend. Comunicó de forma clara los procesos técnicos, como el despliegue del software y el registro de entrevistas, adaptando su lenguaje según el público, lo cual facilitó la comprensión del avance y la integración de los distintos componentes del proyecto.
 <br><br> 
 Luquillas Asto Omar-TF:<br>
-
+Explicó de forma clara los avances en el desarrollo de la Landing Page y del backend, incluyendo la planificación del Sprint 4 y la definición de roles en el equipo. Además, detalló el diseño de entrevistas y el manejo del Sprint Backlog. Su comunicación permitió integrar aspectos técnicos con la visión de producto, adaptándose tanto a audiencias técnicas como no técnicas.
 <br><br> 
 Real Calderón Sebastián Omar-TF:<br>
-
+Presentó avances en el desarrollo de frontend y backend, además de participar en el registro de entrevistas y aportar perspectivas sobre la colaboración del equipo durante el sprint. También contribuyó a la revisión final del informe, comunicando eficazmente tanto detalles técnicos como funcionales, y asegurando que diferentes públicos comprendieran el impacto de su trabajo.
 <br><br>
 Flores Apaico Josue Antonio-TF:<br>
-
+Expuso de manera efectiva los hallazgos obtenidos en las entrevistas de validación y participó en su registro y análisis. Además, contribuyó a la revisión final del informe, asegurando que la información técnica y funcional fuera comprensible para distintos públicos. Su comunicación fue clave para vincular los resultados de validación con decisiones de mejora en el proyecto.
 <br><br>
-Mendoza Vergara Franklin Alejandro-TF:<br>
-<br>
+
 
 <br>
       </td>
@@ -462,9 +462,9 @@ Mendoza Vergara Franklin Alejandro-TF:<br>
       <strong>TB1</strong><br>
         A lo largo del desarrollo del proyecto, el equipo demostró una comunicación oral efectiva al participar activamente en presentaciones, reuniones y sesiones colaborativas. Cada integrante logró adaptar su discurso según el perfil de la audiencia, ya sea en contextos técnicos con sus compañeros o en espacios académicos con docentes. Esta habilidad se evidenció en la explicación clara y argumentada de conceptos como el perfil de solución, la segmentación de usuarios, las arquitecturas propuestas y el diseño de experiencias de usuario. El equipo también destacó por su capacidad para presentar hallazgos de entrevistas y resultados de investigación de forma comprensible, lo que permitió un diálogo fluido y enriquecedor dentro del grupo. En conjunto, la comunicación oral fue clave para alinear criterios, validar decisiones y transmitir ideas de forma clara y profesional.<br><br>
         <strong>TP</strong><br>
-        Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.<br>
+        Durante el desarrollo de EduHive, el equipo mostró una comunicación oral clara y efectiva, adaptando sus intervenciones al público presente en cada ocasión. Ya fuera en presentaciones técnicas, reuniones internas o espacios académicos, cada integrante explicó sus aportes de forma organizada, permitiendo el entendimiento colectivo y la toma de decisiones fundamentadas. Esta capacidad de expresar ideas con claridad fue fundamental para el avance coherente y profesional del proyecto.<br><br>
 	<strong>TB2</strong><br>
-    El equipo demostró una comunicación oral clara y adaptativa durante el desarrollo del backend. Cada integrante explicó aspectos técnicos como endpoints, arquitectura y base de datos con precisión, utilizando herramientas visuales y ejemplos para facilitar la comprensión. Las presentaciones técnicas y las discusiones reflejaron un dominio del tema y una capacidad para alinear el backend con las necesidades del frontend, asegurando una integración coherente y eficiente.
+    El equipo demostró una comunicación oral clara y adaptativa durante el desarrollo del backend. Cada integrante explicó aspectos técnicos como endpoints, arquitectura y base de datos con precisión, utilizando herramientas visuales y ejemplos para facilitar la comprensión. Las presentaciones técnicas y las discusiones reflejaron un dominio del tema y una capacidad para alinear el backend con las necesidades del frontend, asegurando una integración coherente y eficiente.<br><br>
     <strong>TF</strong><br>
     En esta etapa del proyecto, el equipo consolidó su capacidad de comunicación oral efectiva frente a distintos tipos de audiencia. Las exposiciones de avances técnicos, como la documentación de servicios y el despliegue del software, se realizaron con orden y claridad, facilitando la comprensión incluso de aspectos complejos. Asimismo, en las entrevistas de validación y la elaboración del video del producto, los integrantes supieron adaptar su lenguaje y enfoque para conectar con usuarios y docentes, transmitiendo tanto detalles funcionales como el valor del proyecto. Esto evidencia un progreso significativo en su habilidad para comunicar ideas técnicas y conceptuales de manera precisa y profesional, contribuyendo al trabajo colaborativo y al éxito del desarrollo.
       </td>
@@ -519,28 +519,31 @@ Real Calderón Sebastián Omar - TB2:<br>
 Redacté el esquema de la base de datos y las consultas SQL clave, junto con justificaciones técnicas sobre su estructura. Incluí evidencia escrita de las migraciones y seeds para garantizar reproducibilidad.<br><br>
 
 Alejo Cardenas Jose Antonio-TF:<br>
-
+En esta etapa, elaboró documentación técnica para el Sprint Review, detallando evidencias de ejecución y despliegue del software. Redactó registros claros de entrevistas y participó en la generación de documentos funcionales, manteniendo un lenguaje técnico accesible tanto para miembros del equipo como para audiencias menos especializadas, asegurando coherencia y entendimiento en todos los entregables.
 <br><br> 
 Luquillas Asto Omar-TF:<br>
-
+Documentó avances del Sprint 4, elaborando detalles sobre la planificación, backlog y asignación de roles. También participó en la redacción de los hallazgos de entrevistas y en la documentación técnica del backend, usando un estilo preciso y estructurado que permitió transmitir información tanto a perfiles técnicos como a stakeholders no especializados.
 <br><br> 
 Real Calderón Sebastián Omar-TF:<br>
+Contribuyó a la documentación de desarrollo y despliegue del frontend y backend, participando en la redacción de evidencias y apartados técnicos del informe final. Su escritura combinó claridad técnica con lenguaje accesible, logrando que distintos públicos comprendieran tanto aspectos funcionales como detalles técnicos de los avances realizados.
+
 
 <br><br>
 Flores Apaico Josue Antonio-TF:<br>
+Contribuyó a la redacción de registros de entrevistas y evaluaciones heurísticas, sintetizando hallazgos en documentos entendibles para audiencias variadas. Participó en la redacción de apartados del informe final, logrando exponer información técnica y de experiencia de usuario de manera organizada y clara, facilitando el análisis y la toma de decisiones del equipo.
+
 
 <br><br>
-Mendoza Vergara Franklin Alejandro-TF:<br>
-<br>
+
 
 <br>
       <td>
       <strong>TB1</strong><br>
         El equipo demostró una sólida competencia en comunicación escrita al redactar diversos apartados del proyecto, como entrevistas, User Stories, Backlog, documentación técnica, diseño de interfaces, y partes del informe final. Cada integrante empleó un estilo claro, coherente y adaptado a diferentes audiencias, logrando que la información fuera comprensible tanto para profesionales del área técnica como para lectores con menos conocimientos especializados. La precisión en la redacción de conceptos técnicos, combinada con una adecuada organización de la información, permitió que los documentos cumplieran su función informativa, explicativa y de soporte para la toma de decisiones. Esta capacidad de comunicar de manera escrita de forma efectiva fue fundamental para mantener la coherencia del proyecto y asegurar una documentación completa, profesional y alineada con los objetivos del equipo.<br><br>
         <strong>TP</strong><br>
-        El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.
-	<br><strong>TB2:</strong><br>
-    	La comunicación escrita durante TB2 fue técnica y detallada, pero accesible. El equipo generó documentación completa sobre APIs, base de datos y pruebas, utilizando estándares como Swagger y diagramas. Los documentos reflejaron un equilibrio entre precisión técnica y claridad, facilitando la mantenibilidad y escalabilidad del backend. La evidencia escrita aseguró transparencia en los procesos y una base sólida para futuras iteraciones.
+        El equipo demostró una competencia destacada en comunicación escrita durante el Sprint 2 al desarrollar documentos técnicos y organizativos como el Sprint Planning, el Sprint Backlog, y la asignación de líderes y colaboradores por aspecto. Asimismo, se elaboraron evidencias claras y bien estructuradas del desarrollo, ejecución, despliegue y documentación de servicios, lo cual permitió un seguimiento efectivo del avance del proyecto. Cada entregable fue redactado con precisión y adaptado a diferentes niveles de comprensión, asegurando que tanto miembros técnicos como docentes pudieran interpretar los resultados y decisiones del equipo. Esta capacidad de redactar con claridad, orden y enfoque técnico fue clave para mantener la coherencia del sprint, sustentar los avances y comunicar de manera profesional los logros alcanzados.<br><br>
+	    <strong>TB2:</strong><br>
+    	La comunicación escrita durante TB2 fue técnica y detallada, pero accesible. El equipo generó documentación completa sobre APIs, base de datos y pruebas, utilizando estándares como Swagger y diagramas. Los documentos reflejaron un equilibrio entre precisión técnica y claridad, facilitando la mantenibilidad y escalabilidad del backend. La evidencia escrita aseguró transparencia en los procesos y una base sólida para futuras iteraciones.<br><br>
       <strong>TF:</strong><br>
     	A lo largo de esta etapa, el equipo fortaleció su capacidad de comunicación escrita, elaborando diversos documentos que reflejan tanto el progreso técnico como los hallazgos de investigación del proyecto. La documentación generada en el Sprint 4 —incluyendo el Sprint Backlog, las evidencias de desarrollo, ejecución, despliegue y la descripción de roles— se redactó de forma clara y organizada, permitiendo que lectores con distintos niveles técnicos comprendieran el trabajo realizado. Asimismo, la redacción de guiones para el video “About-the-Product”, los registros de entrevistas, el diseño de instrumentos de validación y las evaluaciones heurísticas demostraron la habilidad del equipo para adaptar su lenguaje según el propósito comunicativo y el público objetivo. Esta competencia permitió mantener la coherencia entre las distintas partes del proyecto y asegurar que tanto docentes como posibles usuarios o stakeholders pudieran interpretar fácilmente la información, fortaleciendo la calidad y la solidez del trabajo entregado.
       </td>
@@ -1175,7 +1178,7 @@ Tácticas:
 - Inicio: 0:23
 - Duración: 4:46
 
-URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing)
+URL de la Entrevista: `https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing`
 
 - Resumen de la entrevista:
 
@@ -1191,7 +1194,7 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmf
 
 <img src="./images/chapter-2/entrevistaS12.png" alt="Moodle" width="800"/>
 
-URL: [Entrevista Luis](https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing)
+URL de la Entrevista: `https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing`
 
 - Resumen de la entrevista:
 
@@ -1207,7 +1210,7 @@ URL: [Entrevista Luis](https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkA
 
 <img src="./images/chapter-2/entrevistaS13.png" alt="Moodle" width="800"/>
 
-URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link)
+URL de la Entrevista: `https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link`
 
 - Resumen de la entrevista:
   - La entrevista con Jhon resalta la importancia de que los estudiantes universitarios se mantengan comunicados, organizados y motivados. Él menciona que valora las plataformas que están bien estructuradas y que ofrecen diversas herramientas integradas en un solo lugar. Además, considera que un sistema gamificado sería útil, ya que fomentaría la competitividad, la motivación por superarse y una mayor participación entre los estudiantes. Finalmente, destaca la utilidad de poder visualizar fácilmente las fechas límite de tareas o pendientes, ya que es común que los estudiantes las olviden.
@@ -1226,7 +1229,7 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAR
 
 
 <img src="./images/chapter-2/Entrevista-Jose.png" alt="Entrevista-Jose" width="400"/><br>
-URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link)
+URL de la Entrevista: `https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link`
 
 - Resumen de la entrevista:
 
@@ -1244,7 +1247,7 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-m
 
 <img src="./images/chapter-2/Interviews-Melina.png" alt="Interviews-Melina" width="400"/><br>
 
-URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link)
+URL de la Entrevista: `https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link`
 
 - Resumen de la entrevista:
 
@@ -1262,7 +1265,7 @@ URL: [Link de la Entrevista](https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1o
 
 <img src="./images/chapter-2/Entrevista_3.png" alt="Chamilo" width="400"/>
 
-URL: https://youtu.be/QTE_TH3pnVc
+URL de la Entrevista: `https://youtu.be/QTE_TH3pnVc`
 
 - Resumen de la entrevista:
 
@@ -1879,6 +1882,17 @@ Entonces el sistema actualiza y muestra la medalla correspondiente automáticame
 </td><td>EP-003</td></tr>
     <tr><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
 </td><td>EP-001</td></tr>
+<tr><td>US-037</td><td>Modo oscuro en Landing Page</td><td>Como usuario, quiero cambiar entre modo oscuro y claro en la landing page, para mayor comodidad visual según mis preferencias.</td><td>Escenario 1: Dado que estoy en la landing page, Cuando hago clic en el ícono de "luna/sol" en el header, Entonces el tema cambia instantáneamente y se guarda en localStorage.<br><br>Escenario 2: Dado que recargué la página, Cuando tengo preferencia guardada, Entonces el modo seleccionado se aplica automáticamente.</td><td>EP-005</td></tr>
+
+<tr><td>US-038</td><td>Búsqueda en historial</td><td>Como estudiante, quiero buscar retos en mi historial por nombre/fecha, para encontrar rápidamente entregas pasadas.</td><td>Escenario 1: Dado que tengo +5 retos completados, Cuando ingreso palabras clave en la barra de búsqueda, Entonces veo resultados filtrados en tiempo real.<br><br>Escenario 2: Dado que selecciono un rango de fechas, Cuando aplico el filtro, Entonces el sistema muestra solo retos entregados en ese período.</td><td>EP-004</td></tr>
+
+<tr><td>US-039</td><td>Vista previa de feedback</td><td>Como profesor, quiero previsualizar cómo verán los estudiantes mi feedback antes de enviarlo, para asegurar claridad.</td><td>Escenario 1: Dado que escribí un comentario, Cuando hago clic en "Vista previa", Entonces veo una simulación exacta de la vista móvil/desktop del estudiante.<br><br>Escenario 2: Dado que la vista previa está activa, Cuando edito el texto, Entonces los cambios se reflejan al instante.</td><td>EP-004</td></tr>
+
+<tr><td>US-040</td><td>Filtrado avanzado en panel de progreso</td><td>Como profesor, quiero filtrar el progreso por rango de fechas, nivel de medalla o completitud, para identificar casos específicos.</td><td>Escenario 1: Dado que aplico filtros "Bronze + últimos 7 días", Cuando confirmo, Entonces veo solo estudiantes que cumplen ambas condiciones.<br><br>Escenario 2: Dado que hay filtros activos, Cuando hago clic en "Resetear", Entonces vuelvo a la vista completa sin recargar.</td><td>EP-002</td></tr>
+
+<tr><td>US-041</td><td>Recordatorios personalizables</td><td>Como estudiante, quiero configurar cuándo recibir recordatorios de fechas límite, para adaptarlos a mi flujo.</td><td>Escenario 1: Dado que voy a "Configuración de notificaciones", Cuando selecciono "3 días antes" y "1 hora antes", Entonces recibo recordatorios en esos momentos.<br><br>Escenario 2: Dado un reto opcional, Cuando desactivo notificaciones para ese reto, Entonces solo recibo recordatorios de otros retos.</td><td>EP-003</td></tr>
+
+<tr><td>US-042</td><td>Estadísticas comparativas grupales</td><td>Como profesor, quiero ver porcentajes de estudiantes por rango de rendimiento (ej: "Top 20%", "Medio 60%"), para identificar distribuciones atípicas.</td><td>Escenario 1: Dado que hay 30+ estudiantes, Cuando accedo al panel de estadísticas, Entonces veo un gráfico de curva de campana con segmentos visuales claros.<br><br>Escenario 2: Dado que un grupo tiene rendimiento atípico, Cuando paso el cursor sobre un segmento, Entonces veo tooltips con el número exacto de estudiantes en ese rango.</td><td>EP-002</td></tr>
     <tr><td>TS-001</td><td>Obtener usuario por ID</td><td>Como developer, quiero obtener un usuario por su ID para verificar que la API devuelve los detalles correctos del usuario.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se realiza la solicitud GET, Entonces se debe devolver los detalles del usuario correspondiente.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud GET, Entonces la respuesta debe ser un error 404 indicando que no se encontró el usuario.</td><td>EP-001</td></tr>
     <tr><td>TS-002</td><td>Actualizar usuario</td><td>Como developer, quiero actualizar la información de un usuario existente para mantener los datos actualizados.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se envía una solicitud PUT con datos válidos, Entonces se debe actualizar el usuario y devolver 200 OK.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud PUT, Entonces la respuesta debe ser un error 404.</td><td>EP-001</td></tr>
     <tr><td>TS-003</td><td>Eliminar usuario</td><td>Como developer, quiero eliminar un usuario por su ID para permitir la gestión de cuentas.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se realiza la solicitud DELETE, Entonces se debe eliminar el usuario y devolver 204 No Content.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud DELETE, Entonces la respuesta debe ser un error 404.</td><td>EP-001</td></tr>
@@ -1929,67 +1943,73 @@ Entonces el sistema actualiza y muestra la medalla correspondiente automáticame
     <tr><td>1</td><td>US-005</td><td>Acceder al panel de progreso del curso</td><td>13</td></tr>
     <tr><td>2</td><td>US-010</td><td>Seguir el rendimiento de los equipos</td><td>13</td></tr>
     <tr><td>3</td><td>US-030</td><td>Métricas de participación</td><td>13</td></tr>
-    <tr><td>4</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
-    <tr><td>5</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
-    <tr><td>6</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
-    <tr><td>7</td><td>US-015</td><td>Distribución programada de retos</td><td>8</td></tr>
-    <tr><td>8</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
-    <tr><td>9</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
-    <tr><td>10</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
-    <tr><td>11</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
-    <tr><td>12</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
-    <tr><td>13</td><td>US-011</td><td>Revisar general de rendimiento</td><td>5</td></tr>
-    <tr><td>14</td><td>US-012</td><td>Asignación de feeback</td><td>5</td></tr>
-    <tr><td>15</td><td>US-013</td><td>Enviar respuesta a reto</td><td>5</td></tr>
-    <tr><td>16</td><td>US-014</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
-    <tr><td>17</td><td>US-016</td><td>Generación de Código de Invitación</td><td>5</td></tr>
-    <tr><td>18</td><td>US-017</td><td>Visualización de logros gamificados</td><td>5</td></tr>
-    <tr><td>19</td><td>US-018</td><td>Validación de códigos de grupo</td><td>5</td></tr>
-    <tr><td>20</td><td>US-019</td><td>Hero Section</td><td>5</td></tr>
-    <tr><td>21</td><td>US-020</td><td>Main Features Section</td><td>5</td></tr>
-    <tr><td>22</td><td>US-021</td><td>Explore Course Section</td><td>5</td></tr>
-    <tr><td>23</td><td>US-022</td><td>Knowledge Section</td><td>5</td></tr>
-    <tr><td>24</td><td>US-023</td><td>Contact Section</td><td>5</td></tr>
-    <tr><td>25</td><td>US-024</td><td>Testimonials Section</td><td>5</td></tr>
-    <tr><td>26</td><td>US-025</td><td>Latest Updates Section</td><td>5</td></tr>
-    <tr><td>27</td><td>US-026</td><td>Subscribe Section</td><td>5</td></tr>
-    <tr><td>28</td><td>US-027</td><td>Edición de perfil</td><td>5</td></tr>
-    <tr><td>29</td><td>US-028</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
-    <tr><td>30</td><td>US-029</td><td>Historial de retos completados</td><td>5</td></tr>
-    <tr><td>31</td><td>US-031</td><td>Clasificación de equipos</td><td>5</td></tr>
-    <tr><td>32</td><td>US-032</td><td>Reporte semanal</td><td>5</td></tr>
-    <tr><td>33</td><td>US-033</td><td>Visualización del desempeño individual en el grupo</td><td>3</td></tr>
-    <tr><td>34</td><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>3</td></tr>
-    <tr><td>35</td><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>3</td></tr>
-    <tr><td>36</td><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
-    <tr><td>37</td><td>TS-002</td><td>Actualizar usuario</td><td>3</td></tr>
-    <tr><td>38</td><td>TS-005</td><td>Crear nuevo usuario</td><td>3</td></tr>
-    <tr><td>39</td><td>TS-007</td><td>Actualizar entrega</td><td>3</td></tr>
-    <tr><td>40</td><td>TS-010</td><td>Crear nueva entrega</td><td>3</td></tr>
-    <tr><td>41</td><td>TS-015</td><td>Actualizar grupo</td><td>3</td></tr>
-    <tr><td>42</td><td>TS-018</td><td>Establecer código de unión de grupo</td><td>3</td></tr>
-    <tr><td>43</td><td>TS-019</td><td>Restablecer código de unión de grupo</td><td>3</td></tr>
-    <tr><td>44</td><td>TS-021</td><td>Crear nuevo grupo</td><td>3</td></tr>
-    <tr><td>45</td><td>TS-022</td><td>Unirse a grupo con código</td><td>3</td></tr>
-    <tr><td>46</td><td>TS-024</td><td>Actualizar reto</td><td>3</td></tr>
-    <tr><td>47</td><td>TS-027</td><td>Crear nuevo reto</td><td>3</td></tr>
-    <tr><td>48</td><td>TS-001</td><td>Obtener usuario por ID</td><td>2</td></tr>
-    <tr><td>49</td><td>TS-003</td><td>Eliminar usuario</td><td>2</td></tr>
-    <tr><td>50</td><td>TS-004</td><td>Obtener todos los usuarios</td><td>2</td></tr>
-    <tr><td>51</td><td>TS-006</td><td>Obtener entrega por ID</td><td>2</td></tr>
-    <tr><td>52</td><td>TS-008</td><td>Eliminar entrega</td><td>2</td></tr>
-    <tr><td>53</td><td>TS-009</td><td>Obtener todas las entregas</td><td>2</td></tr>
-    <tr><td>54</td><td>TS-011</td><td>Obtener entregas por estudiante</td><td>2</td></tr>
-    <tr><td>55</td><td>TS-012</td><td>Obtener entregas por estudiante y reto</td><td>2</td></tr>
-    <tr><td>56</td><td>TS-013</td><td>Obtener entregas por reto</td><td>2</td></tr>
-    <tr><td>57</td><td>TS-014</td><td>Obtener grupo por ID</td><td>2</td></tr>
-    <tr><td>58</td><td>TS-016</td><td>Eliminar grupo</td><td>2</td></tr>
-    <tr><td>59</td><td>TS-017</td><td>Obtener código de unión de grupo</td><td>2</td></tr>
-    <tr><td>60</td><td>TS-020</td><td>Obtener todos los grupos</td><td>2</td></tr>
-    <tr><td>61</td><td>TS-023</td><td>Obtener reto por ID</td><td>2</td></tr>
-    <tr><td>62</td><td>TS-025</td><td>Eliminar reto</td><td>2</td></tr>
-    <tr><td>63</td><td>TS-026</td><td>Obtener todos los retos</td><td>2</td></tr>
-    <tr><td>64</td><td>TS-028</td><td>Obtener retos por grupo</td><td>2</td></tr>
+    <tr><td>4</td><td>US-040</td><td>Filtrado avanzado en panel de progreso</td><td>8</td></tr>
+    <tr><td>5</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
+    <tr><td>6</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
+    <tr><td>7</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
+    <tr><td>8</td><td>US-015</td><td>Distribución programada de retos</td><td>8</td></tr>
+    <tr><td>9</td><td>US-042</td><td>Estadísticas comparativas grupales</td><td>5</td></tr>
+    <tr><td>10</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
+    <tr><td>11</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
+    <tr><td>12</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
+    <tr><td>13</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
+    <tr><td>14</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
+    <tr><td>15</td><td>US-011</td><td>Revisar general de rendimiento</td><td>5</td></tr>
+    <tr><td>16</td><td>US-012</td><td>Asignación de feeback</td><td>5</td></tr>
+    <tr><td>17</td><td>US-013</td><td>Enviar respuesta a reto</td><td>5</td></tr>
+    <tr><td>18</td><td>US-014</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
+    <tr><td>19</td><td>US-016</td><td>Generación de Código de Invitación</td><td>5</td></tr>
+    <tr><td>20</td><td>US-017</td><td>Visualización de logros gamificados</td><td>5</td></tr>
+    <tr><td>21</td><td>US-018</td><td>Validación de códigos de grupo</td><td>5</td></tr>
+    <tr><td>22</td><td>US-019</td><td>Hero Section</td><td>5</td></tr>
+    <tr><td>23</td><td>US-020</td><td>Main Features Section</td><td>5</td></tr>
+    <tr><td>24</td><td>US-021</td><td>Explore Course Section</td><td>5</td></tr>
+    <tr><td>25</td><td>US-022</td><td>Knowledge Section</td><td>5</td></tr>
+    <tr><td>26</td><td>US-023</td><td>Contact Section</td><td>5</td></tr>
+    <tr><td>27</td><td>US-024</td><td>Testimonials Section</td><td>5</td></tr>
+    <tr><td>28</td><td>US-025</td><td>Latest Updates Section</td><td>5</td></tr>
+    <tr><td>29</td><td>US-026</td><td>Subscribe Section</td><td>5</td></tr>
+    <tr><td>30</td><td>US-027</td><td>Edición de perfil</td><td>5</td></tr>
+    <tr><td>31</td><td>US-028</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
+    <tr><td>32</td><td>US-029</td><td>Historial de retos completados</td><td>5</td></tr>
+    <tr><td>33</td><td>US-031</td><td>Clasificación de equipos</td><td>5</td></tr>
+    <tr><td>34</td><td>US-032</td><td>Reporte semanal</td><td>5</td></tr>
+    <tr><td>35</td><td>US-037</td><td>Modo oscuro en Landing Page</td><td>5</td></tr>
+    <tr><td>36</td><td>US-038</td><td>Búsqueda en historial</td><td>5</td></tr>
+    <tr><td>37</td><td>US-039</td><td>Vista previa de feedback</td><td>5</td></tr>
+    <tr><td>38</td><td>US-041</td><td>Recordatorios personalizables</td><td>5</td></tr>
+    <tr><td>39</td><td>US-033</td><td>Visualización del desempeño individual en el grupo</td><td>3</td></tr>
+    <tr><td>40</td><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>3</td></tr>
+    <tr><td>41</td><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>3</td></tr>
+    <tr><td>42</td><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
+    <tr><td>43</td><td>TS-002</td><td>Actualizar usuario</td><td>3</td></tr>
+    <tr><td>44</td><td>TS-005</td><td>Crear nuevo usuario</td><td>3</td></tr>
+    <tr><td>45</td><td>TS-007</td><td>Actualizar entrega</td><td>3</td></tr>
+    <tr><td>46</td><td>TS-010</td><td>Crear nueva entrega</td><td>3</td></tr>
+    <tr><td>47</td><td>TS-015</td><td>Actualizar grupo</td><td>3</td></tr>
+    <tr><td>48</td><td>TS-018</td><td>Establecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>49</td><td>TS-019</td><td>Restablecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>50</td><td>TS-021</td><td>Crear nuevo grupo</td><td>3</td></tr>
+    <tr><td>51</td><td>TS-022</td><td>Unirse a grupo con código</td><td>3</td></tr>
+    <tr><td>52</td><td>TS-024</td><td>Actualizar reto</td><td>3</td></tr>
+    <tr><td>53</td><td>TS-027</td><td>Crear nuevo reto</td><td>3</td></tr>
+    <tr><td>54</td><td>TS-001</td><td>Obtener usuario por ID</td><td>2</td></tr>
+    <tr><td>55</td><td>TS-003</td><td>Eliminar usuario</td><td>2</td></tr>
+    <tr><td>56</td><td>TS-004</td><td>Obtener todos los usuarios</td><td>2</td></tr>
+    <tr><td>57</td><td>TS-006</td><td>Obtener entrega por ID</td><td>2</td></tr>
+    <tr><td>58</td><td>TS-008</td><td>Eliminar entrega</td><td>2</td></tr>
+    <tr><td>59</td><td>TS-009</td><td>Obtener todas las entregas</td><td>2</td></tr>
+    <tr><td>60</td><td>TS-011</td><td>Obtener entregas por estudiante</td><td>2</td></tr>
+    <tr><td>61</td><td>TS-012</td><td>Obtener entregas por estudiante y reto</td><td>2</td></tr>
+    <tr><td>62</td><td>TS-013</td><td>Obtener entregas por reto</td><td>2</td></tr>
+    <tr><td>63</td><td>TS-014</td><td>Obtener grupo por ID</td><td>2</td></tr>
+    <tr><td>64</td><td>TS-016</td><td>Eliminar grupo</td><td>2</td></tr>
+    <tr><td>65</td><td>TS-017</td><td>Obtener código de unión de grupo</td><td>2</td></tr>
+    <tr><td>66</td><td>TS-020</td><td>Obtener todos los grupos</td><td>2</td></tr>
+    <tr><td>67</td><td>TS-023</td><td>Obtener reto por ID</td><td>2</td></tr>
+    <tr><td>68</td><td>TS-025</td><td>Eliminar reto</td><td>2</td></tr>
+    <tr><td>69</td><td>TS-026</td><td>Obtener todos los retos</td><td>2</td></tr>
+    <tr><td>70</td><td>TS-028</td><td>Obtener retos por grupo</td><td>2</td></tr>
   </tbody>
 </table>
 
@@ -2656,52 +2676,66 @@ Visualmente se apoya en dos imágenes: una junto al título y otra en el lado de
 <img src="./images/chapter-4/EduHiveWireFrames/Account%20Creation.png" alt="Chamilo" width="400"/>
 <img src="./images/chapter-4/EduHiveWireFrames/Account%20Creation-1.png" alt="Chamilo" width="400"/>
 
-- Dashboard
+- Dashboard:
   - Estudiantes
+
   <img src="./images/chapter-4/EduHiveWireFrames/Dashboard%20Student.png" alt="Chamilo" width="400"/>
 
   - Profesores
+
   <img src="./images/chapter-4/EduHiveWireFrames/Dashboard%20Teacher.png" alt="Chamilo" width="400"/>
 
 - Perfil Estudiante
+
   <img src="./images/chapter-4/EduHiveWireFrames/Profile%20Student.png" alt="Chamilo" width="400"/>
 
-- Grupos
+- Grupos:
   - Estudiantes
+
   <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png" alt="Chamilo" width="400"/>
+
   - Profesores
     - Creación
+
     <img src="./images/chapter-4/EduHiveWireFrames/Group%20Creation.png" alt="Chamilo" width="400"/>
    
     - Vista
+
     <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher.png" alt="Chamilo" width="400"/>
     
     
 
 - Retos
   - Estudiantes
+
   <img src="./images/chapter-4/EduHiveWireFrames/Challenge%20View%20Student.png" alt="Chamilo" width="400"/>
   
-  - Profesores
+  - Profesores:
     - Creación
+
     <img src="./images/chapter-4/EduHiveWireFrames/Group%20View%20Teacher-1.png" alt="Chamilo" width="400"/>
     
     - Vista
+
     <img src="./images/chapter-4/EduHiveWireFrames/Challenge%20View%20Teacher.png" alt="Chamilo" width="400"/>
     
 
-- Envíos
+- Envíos:
   - Estudiantes
+
   <img src="./images/chapter-4/EduHiveWireFrames/Submission%20View.png" alt="Chamilo" width="400"/>
   
   - Profesores
+
   <img src="./images/chapter-4/EduHiveWireFrames/Submission%20View%20Teacher.png" alt="Chamilo" width="400"/>
 
-- Lista
+- Lista:
   - Estudiantes
+
   <img src="./images/chapter-4/EduHiveWireFrames/Member%20List%20Student.png" alt="Chamilo" width="400"/>
 
   - Profesores
+
   <img src="./images/chapter-4/EduHiveWireFrames/Member%20List%20Teacher.png" alt="Chamilo" width="400"/>
 
 
@@ -2992,7 +3026,7 @@ En esta sección se muestra el video de un prototipo interactivo de la aplicaci�
 
 <img src="./images/chapter-4/PrototypeEduHiveVideoImage.png" alt="Chamilo" width="400"/>
 
-URL del Video: [Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d964_upc_edu_pe/EQe-KWdwUtlOvgRtJsG5i94BMiSwEtBO3-aLU2dPm6HR6w?e=K7niRD)
+URL del Video: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d964_upc_edu_pe/EQe-KWdwUtlOvgRtJsG5i94BMiSwEtBO3-aLU2dPm6HR6w?e=K7niRD`
 
 ### 4.6. Domain-Driven Software Architecture
 
@@ -3037,7 +3071,7 @@ Los Component Diagrams detallan la estructura interna de cada Bounded Context, m
 
 <img src="./images/chapter-4/eduhive-class-diagram.jpeg" alt="eduhive-class-diagram" width="400"/>
 
-Link del Diagrama de Clases: [Enlace](https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88)
+Link del Diagrama de Clases: `https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88`
 
 #### 4.7.2. Class Dictionary
 
@@ -3216,9 +3250,9 @@ En esta sección, nuestro equipo establece los medios y el esquema de  organizac
 * Plataforma de control de versiones:
   De esta manera, configuramos un repositorio remoto en GitHub para  almacenar el código fuente y colaborar con los compañeros del grupo.  Los URLs de los repositorios son los siguientes:
 
-  * Landing Page : [Landing Page](https://github.com/APX-01/Landing-Page)
-  * Frontend Web Applications : [Frontend Web Applications](https://github.com/APX-01/Frontend-Web-Applications)
-  * Backend Web Services : [Backend Web Services](https://github.com/APX-01/Backend-Web-Services)
+  * Landing Page : `https://github.com/APX-01/Landing-Page`
+  * Frontend Web Applications : `https://github.com/APX-01/Frontend-Web-Applications`
+  * Backend Web Services : `https://github.com/APX-01/Backend-Web-Services`
 * Implementación de GitFlow:
   Organizamos el repositorio en ramas para diferentes entornos.
 
@@ -3305,7 +3339,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 
 ### HTML
 
-- **Guía adoptada**: [W3C HTML Style Guide](https://www.w3.org/TR/html5/)
+- **Guía adoptada**: W3C HTML Style Guide (`https://www.w3.org/TR/html5/`)
 - **Nomenclatura y convenciones**:
   - Minúsculas para etiquetas y atributos: `<div class="container">`
   - Indentación: 2 espacios.
@@ -3315,7 +3349,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 
 ### CSS
 
-- **Guía adoptada**: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- **Guía adoptada**: Google HTML/CSS Style Guide (`https://google.github.io/styleguide/htmlcssguide.html`)
 - **Nomenclatura y convenciones**:
   - `kebab-case` para clases e IDs:
     Ejemplo: `.main-header`, `#footer-section`
@@ -3325,7 +3359,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 
 ### JavaScript
 
-- **Guía adoptada**: [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- **Guía adoptada**: Google JavaScript Style Guide (`https://google.github.io/styleguide/jsguide.html`)
 - **Nomenclatura y convenciones**:
   - `camelCase` para variables y funciones:
     Ejemplo: `let userName = 'José';`, `function calculateTotal() {}`
@@ -3345,7 +3379,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 
 ### TypeScript
 
-- **Guía adoptada**: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+- **Guía adoptada**: Google TypeScript Style Guide (`https://google.github.io/styleguide/tsguide.html`)
 - **Nomenclatura y convenciones**:
   - `camelCase` para variables, funciones y propiedades:
     Ejemplo: `let isActive: boolean = true;`, `function getUserData() {}`
@@ -3357,7 +3391,7 @@ El equipo ha definido las siguientes convenciones de nombres y estilos de codifi
 
 ### Java
 
-- **Guía adoptada**: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- **Guía adoptada**: Google Java Style Guide (`https://google.github.io/styleguide/javaguide.html`)
 - **Nomenclatura y convenciones**:
   - `PascalCase` para clases:
     Ejemplo: `public class OrderService {}`
@@ -3380,7 +3414,7 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 
 ### Gherkin Conventions for Readable Specifications
 
-- **Guía adoptada**: [Gherkin Syntax and Conventions](https://cucumber.io/docs/gherkin/reference/)
+- **Guía adoptada**: Gherkin Syntax and Conventions (`https://cucumber.io/docs/gherkin/reference/`)
 - **Nomenclatura y convenciones**:
   - **Estructura**:
     - **Given**: Define el contexto o el estado inicial.
@@ -3405,7 +3439,7 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 
 ### Angular Coding Style Guide
 
-- **Guía adoptada**: [Angular Style Guide](https://angular.io/guide/styleguide)
+- **Guía adoptada**: Angular Style Guide (`https://angular.io/guide/styleguide`)
 - **Nomenclatura y convenciones**:
   - **Estructura de carpetas**:
     - `app/` para componentes, servicios y módulos.
@@ -3419,7 +3453,7 @@ Adicionalmente hemos considerado tener convenciones para los siguientes apartado
 
 ### Spring Boot Features
 
-- **Guía adoptada**: [Spring Boot Features](https://spring.io/projects/spring-boot)
+- **Guía adoptada**: Spring Boot Features (`https://spring.io/projects/spring-boot`)
 - **Nomenclatura y convenciones**:
   - **Paquetes**: El paquete raíz debe ser el nombre del proyecto, seguido de subpaquetes para organización.
     Ejemplo: `com.projectname.backend`
@@ -3670,7 +3704,7 @@ A continuación, se presenta la **Leadership-and-Collaboration Matrix (LACX)**:
 Para el primer sprint backlog, seleccionamos las historias de usuario que estaban relacionadas con el desarrollo de la landing page. Para organizarnos mejor, usamos Trello, una herramienta que nos permitió dividir cada historia en tareas más pequeñas y repartirlas entre los integrantes del equipo de forma ordenada.
 Durante este sprint, nos centramos en terminar esas historias con la meta de construir una landing page completa, visualmente atractiva y fácil de usar. Trello nos ayudó bastante para hacer seguimiento al avance de cada tarea y mantener una buena coordinación entre todos, lo que facilitó que resolviéramos casi todas las historias de usuario planificadas.
 
-Trello: [Sprint 1](https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1)
+Trello Sprint 1: `https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1`
 
 <table>
   <tr>
@@ -3967,7 +4001,7 @@ En este sprint, implementamos con éxito la landing page de EduHive en un entorn
   - GitHub Actions ejecutó el flujo predeterminado de Pages al hacer push a main.
   - Verificamos que el sitio se publicara correctamente.
 
-    Link Landing Page: https://apx-01.github.io/Landing-Page/
+    Link Landing Page: `https://apx-01.github.io/Landing-Page/`
 
 <img src="./images/chapter-5/deploy-evidence-1.png" alt="Deploy Evidence 1" width="700"/>
 
@@ -4253,7 +4287,7 @@ Esta sección muestra las evidencias del desarrollo del Frontend de Bliss durant
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
-Acontinuación se entrega el enlace a la landing page actualizada https://apx-01.github.io/Landing-Page/
+Acontinuación se entrega el enlace a la landing page actualizada: `https://apx-01.github.io/Landing-Page/`
 
 <img src="./images/chapter-5/execution-evidence-1.png" alt="Execution Evidence 1" width="700"/>
 
@@ -4340,12 +4374,12 @@ Esta documentación incluye los verbos HTTP utilizados, sintaxis de llamadas, pa
 
 | Bounded Context   | Endpoint                                    | Acción                                                                 | Verbo HTTP | Parámetros                   | Ejemplo de Respuesta                                                                                                                                                                                                                                     | Documentación/URL                                                       |
 |-------------------|---------------------------------------------|------------------------------------------------------------------------|------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Users             | `/api/users/{groupId}/users`                | Filtra y devuelve los usuarios que pertenecen a un grupo específico    | GET        | `groupId=3`                  | `[{"id": 2, "email": "maria.gonzales@upc.edu.pe", "firstName": "Maria", "lastName": "Gonzales", "role": "teacher", "profilesInGroups": [{"groupId": 3, "score": 0}]}]`                                                                                   | http://localhost:3000/api/v1/users/{groupId}/users                     |
-| Groups            | `/api/groups`                               | Devuelve todos los grupos registrados                                  | GET        | —                            | `[{"id": 1, "name": "Programación Avanzada", "description": "...", "imageUrl": "..."}, ...]`                                                                                                                      | http://localhost:3000/api/v1/groups                                    |
-| groupJoinCodes    | `/api/groupJoinCodes/byKey`                 | Devuelve el grupo que coincide con una clave dada                      | GET        | `key=AI2023`                 | `{ "key": "AI2023", "groupId": 3 }`                                                                                                                                                                                                                      | http://localhost:3000/api/v1/groupJoinCodes/byKey                     |
-| Challenges        | `/api/challenges`                           | Obtiene todos los retos asignados a todos los grupos                   | GET        | —                            | `[{"id": 1, "title": "API REST con Spring Boot", "groupId": 1, ...}, ...]`                                                                                                                                                                               | http://localhost:3000/api/v1/challenges                                |
-| Challenges        | `/api/challenges/group/{groupId}`           | Obtiene todos los retos asignados a un grupo específico                | GET        | `groupId=3`                  | `[{"id": 8, "title": "Clasificador de Imágenes", "groupId": 3, ...}, ...]`                                                                                                                                                                               | http://localhost:3000/api/v1/challenges/group/{groupId}                |
-| Submissions       | `/api/submissions/challenge/{challengeId}`  | Obtiene todas las entregas realizadas para un reto específico          | GET        | `challengeId=1`              | `[{"id": 1, "challengeId": 1, "studentId": 3, "content": "API para gestión...", ...}]`                                                                                                                                                                   | http://localhost:3000/api/v1/submissions/challenge/{challengeId}       |
+| Users             | `/api/users/{groupId}/users`                | Filtra y devuelve los usuarios que pertenecen a un grupo específico    | GET        | `groupId=3`                  | `[{"id": 2, "email": "maria.gonzales@upc.edu.pe", "firstName": "Maria", "lastName": "Gonzales", "role": "teacher", "profilesInGroups": [{"groupId": 3, "score": 0}]}]`                                                                                   | `http://localhost:3000/api/v1/users/{groupId}/users`                     |
+| Groups            | `/api/groups`                               | Devuelve todos los grupos registrados                                  | GET        | —                            | `[{"id": 1, "name": "Programación Avanzada", "description": "...", "imageUrl": "..."}, ...]`                                                                                                                      | `http://localhost:3000/api/v1/groups`                                    |
+| groupJoinCodes    | `/api/groupJoinCodes/byKey`                 | Devuelve el grupo que coincide con una clave dada                      | GET        | `key=AI2023`                 | `{ "key": "AI2023", "groupId": 3 }`                                                                                                                                                                                                                      | `http://localhost:3000/api/v1/groupJoinCodes/byKey`                     |
+| Challenges        | `/api/challenges`                           | Obtiene todos los retos asignados a todos los grupos                   | GET        | —                            | `[{"id": 1, "title": "API REST con Spring Boot", "groupId": 1, ...}, ...]`                                                                                                                                                                               | `http://localhost:3000/api/v1/challenges`                                |
+| Challenges        | `/api/challenges/group/{groupId}`           | Obtiene todos los retos asignados a un grupo específico                | GET        | `groupId=3`                  | `[{"id": 8, "title": "Clasificador de Imágenes", "groupId": 3, ...}, ...]`                                                                                                                                                                               | `http://localhost:3000/api/v1/challenges/group/{groupId}`                |
+| Submissions       | `/api/submissions/challenge/{challengeId}`  | Obtiene todas las entregas realizadas para un reto específico          | GET        | `challengeId=1`              | `[{"id": 1, "challengeId": 1, "studentId": 3, "content": "API para gestión...", ...}]`                                                                                                                                                                   | `http://localhost:3000/api/v1/submissions/challenge/{challengeId}`       |
 
 
 
@@ -4414,7 +4448,7 @@ En este ciclo de trabajo se propuso construir la versión inicial del backend de
 Sprint board en trello:
 <img src="images/chapter-5/sprint-backlog-3.png">
 
-Enlace al trello: [Sprint 3](https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3)
+Enlace al trello Sprint 3: `https://trello.com/invite/b/68369c368df6d301e02a6ca3/ATTIbb0a850facab1b462a628ac1b43bab1346007895/sprint-3`
 
 <table>
   <tr>
@@ -6131,7 +6165,7 @@ La siguiente tabla recoge la documentación de los servicios web desarrollados d
 
 **Landing Page:**<br>
 
-Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: https://apx-01.github.io/Landing-Page/.
+Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: `https://apx-01.github.io/Landing-Page/.`
 
 <img src="./images/chapter-5/deploy-evidence-1.png" alt="Landing Page Deployment" width="400"/>
 <img src="./images/chapter-5/deploy-evidence-2.png" alt="Landing Page Deployment" width="400"/>
@@ -6221,7 +6255,7 @@ En este ciclo de trabajo se propuso construir la versión final del landing page
 Sprint board en trello:
 <img src="images/chapter-5/sprint-backlog-4.png">
 
-Enlace al trello: [Sprint 4](https://trello.com/invite/b/686c7af84109a386b556f6da/ATTI8757c21adfa8499234060860cc9dc38aAC0DB0A3/sprint-4)
+Enlace al trello - Sprint 4: `https://trello.com/invite/b/686c7af84109a386b556f6da/ATTI8757c21adfa8499234060860cc9dc38aAC0DB0A3/sprint-4`
 
 <table>
   <tr>
@@ -6994,31 +7028,25 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Frontend:**
 
-<img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front8.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front9.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front10.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front11.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front10.png" alt="Deploy" width="800"/>
 
 **Backend:**
 
@@ -7585,7 +7613,7 @@ Durante el Sprint Review, se recopiló y organizó toda la evidencia relacionada
 
 **Landing Page:**<br>
 
-Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: https://apx-01.github.io/Landing-Page/.
+Para realizar el despliegue de una landing page se utilizó GitHub Pages, una plataforma gratuita que permite publicar sitios web estáticos directamente desde un repositorio de GitHub. El proceso consiste en subir el código fuente de la landing page al repositorio, asegurándose de que el archivo index.html se encuentre en la raíz o en la rama configurada para el despliegue (generalmente main o gh-pages). Luego, desde la configuración del repositorio, se activa GitHub Pages seleccionando la rama correspondiente como fuente de publicación. Una vez configurado, GitHub genera una URL pública donde el sitio queda disponible. En este caso, la landing page puede visualizarse en el siguiente enlace: `https://apx-01.github.io/Landing-Page/.`
 
 <img src="./images/chapter-5/deploy-evidence-1.png" alt="Landing Page Deployment" width="400"/>
 <img src="./images/chapter-5/deploy-evidence-2.png" alt="Landing Page Deployment" width="400"/>
@@ -7633,7 +7661,7 @@ Distribucion de commits:
   - Alejo Cardenas Jose Antonio: 7
   - Luquillas Asto Omar: 10
   - Real Calderón Sebastián Omar: 2
-  - Flores Apaico Josue Antonio: 0
+  - Flores Apaico Josue Antonio: 1
   - Mendoza Vergara Franklin Alejandro: 1
 
 **Frontend:**<br>
@@ -7642,11 +7670,11 @@ Distribucion de commits:
 <img src="./images/chapter-5/insights-4sprint-4.png" alt="Execution Evidence 8" width="700"/>
 
 Distribucion de commits:
-  - Alejo Cardenas Jose Antonio: 7
-  - Luquillas Asto Omar: 10
-  - Real Calderón Sebastián Omar: 2
-  - Flores Apaico Josue Antonio: 0
-  - Mendoza Vergara Franklin Alejandro: 1
+  - Alejo Cardenas Jose Antonio: 22
+  - Luquillas Asto Omar: 1
+  - Real Calderón Sebastián Omar: 28
+  - Flores Apaico Josue Antonio: 6
+  - Mendoza Vergara Franklin Alejandro: 0
 
 
 **Backend:**<br>
@@ -7746,7 +7774,7 @@ Validar la usabilidad, claridad del mensaje y efectividad de la landing page y l
 
 |                                                           |                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Link de video de entrevistas**                          | [Video](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/EqnkAi4BEvhArBkNnCvORnIBrs8mjK5kvJgW0jLLipmbbw?e=csvZbm) |
+| **Link de video de entrevistas**                          | `https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/EqnkAi4BEvhArBkNnCvORnIBrs8mjK5kvJgW0jLLipmbbw?e=csvZbm` |
 
 A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del segmento estudiantes universitarios.
 
@@ -7787,7 +7815,7 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 | Profesión                                               | Estudiante de Ingeniería de Software                                                                                                    |
 | Departamento                                            | Lima, Perú                                                                                                                    |
 | Minuto de inicio                                        | 2:30 min                                                                                                                     |
-| Captura de la entrevista                                |        <img src="resources/chapter-5/entrevista3.png">                                                                                                                          |
+| Captura de la entrevista                                |        <img src="./images/chapter-5/entrevista3.png">                                                                                                                          |
 | Búsqueda de servicio                                    | Encuentra todo facilmente y comenta que esta bien organizado. |
 | Visualización de información del servicio               | Considera que la información es clara, pero le gustaría ver reseñas. |
 | Creacion y union a un grupo                             | Nos comenta que la unión de grupo es sencilla ya que solo debe poner un código. |
@@ -7979,10 +8007,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ### 5.4. Video About-the-Product
 | **Sección**                          | **Descripción**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de Bliss y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:00:10**: Features <br> **00:01:08**: Recorrido del cliente <br> **00:03:45**: Recorrido de la compañía <br> **00:06:32**: Cierre y conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Cuadro de Video Representativo**   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **URL del Video**                    | **Microsoft Stream**: [Link de acceso](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/Epy_AhyREGVDh32b1o7ku-gBQlB1EIym2RQ-xOkZfS3-ZQ?e=7pVKvz) |
+| **Resumen del Video**                | Se muestra una descripción general del modelo de negocio de Eduhive y las principales características del mismo, por otro lado, se muestra un recorrido por la aplicación y las acciones que se pueden realizar en la misma.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Pauta de Secuencias de Contenido** | **00:00:00**: Introducción <br> **00:01:00**: Recorrido del profesor en el Dashboard <br> **00:03:40**: Recorrido del estudiante en el Dashboard <br> **00:04:05**: Recorrido del alumno por Submissions <br> **00:05:00**: Recorrido del profesor por Submissions<br> **00:08:35**: Recorrido por el perfil del usuario                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Cuadro de Video Representativo**   |  <img src="./images/chapter-5/video-about-the-product.png" alt="Insights" width="400">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **URL del Video**                    | `https://upcedupe-my.sharepoint.com/:f:/g/personal/u202122484_upc_edu_pe/Epy_AhyREGVDh32b1o7ku-gBQlB1EIym2RQ-xOkZfS3-ZQ?e=7pVKvz` |
 
 
 ## Conclusiones
@@ -8019,27 +8047,27 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## Bibliografía
 
-•	LucidChart. (2010). LucidChart. Lucid Software Inc. https://www.lucidchart.com
+•	LucidChart. (2010). LucidChart. Lucid Software Inc. `https://www.lucidchart.com`
 
-•	Trello(2011). Trello. Atlassian. https://trello.com/
+•	Trello(2011). Trello. Atlassian. `https://trello.com/`
 
-•	Pivotal Tracker (2008). Pivotal Tracker. VMware, Inc. https://www.pivotaltracker.com/
+•	Pivotal Tracker (2008). Pivotal Tracker. VMware, Inc. `https://www.pivotaltracker.com/`
 
-•	Figma (2016). Figma. Figma, Inc.  https://www.figma.com/
+•	Figma (2016). Figma. Figma, Inc.  `https://www.figma.com/`
 
-•	Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The definitive guide to Scrum: The rules of the game. Scrum.org. https://scrumguides.org/
+•	Schwaber, K., & Sutherland, J. (2020). The Scrum Guide: The definitive guide to Scrum: The rules of the game. Scrum.org. `https://scrumguides.org/`
 
-•	ProgressaLean. (2014). 5W+2H: Técnica de análisis de problemas. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+•	ProgressaLean. (2014). 5W+2H: Técnica de análisis de problemas. `https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/`
 
-•	IBM. (2022). As-is Scenario Map. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+•	IBM. (2022). As-is Scenario Map. `https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map`
 
-•	IBM. (s. f.). Empathy Map. https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+•	IBM. (s. f.). Empathy Map. `https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map`
 
-•	Browne, C. (2022). What are user flows in UX design? .CareerFoundry. https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+•	Browne, C. (2022). What are user flows in UX design? .CareerFoundry. `https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/`
 
-•	Structurizr. (s. f.). Embedding diagrams. https://docs.structurizr.com/cloud/embed
+•	Structurizr. (s. f.). Embedding diagrams. `https://docs.structurizr.com/cloud/embed`
 
-•	Structurizr. (s. f.). Structurizr. https://structurizr.com/
+•	Structurizr. (s. f.). Structurizr. `https://structurizr.com/`
 
 • Loy, M., Niemeyer, P., & Leuck, D. (2023). Learning Java (6th edition). O’Reilly.
 
@@ -8049,7 +8077,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 • Modern API Development with Spring and Spring Boot. (2021). Packt Publishing.
 
-• Kotaru, V. Keerti. author. (2020). Angular for Material Design Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps  (1st ed. 2020.). Apress. https://doi.org/10.1007/978-1-4842-5434-9
+• Kotaru, V. Keerti. author. (2020). Angular for Material Design Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps  (1st ed. 2020.). Apress. `https://doi.org/10.1007/978-1-4842-5434-9`
 
 • Karanam, R. R. (2017). Mastering Spring 5.0. Packt Publishing, Limited.
 
@@ -8058,57 +8086,57 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ## Anexos
 
 **Anexo A:**
-https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing
+`https://drive.google.com/file/d/1O7KD7yPBEEN0ZW6fmfPgLXTRWlm64wF5/view?usp=sharing`
 
 **Anexo B:**
-https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing
+`https://drive.google.com/file/d/1BhuX4fWP7TAfVWXeDaHPoxkAYatOYrYv/view?usp=sharing`
 
 **Anexo C:**
-https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link
+`https://drive.google.com/file/d/13wdEr0jYvA2IRAnuAReC42t7sB5QRqY7/view?usp=drive_link`
 
 **Anexo D:**
-https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link
+`https://drive.google.com/file/d/1YY7Z6qGQi_AiX7WK-ms3v26tmmknqYqK/view?usp=drive_link`
 
 **Anexo E:**
 
-https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link
+`https://drive.google.com/file/d/1ImXhOUmLZpevvlPW1oYm_Y7A9z5AXstp/view?usp=drive_link`
 
 **Anexo F:**
 
-https://youtu.be/QTE_TH3pnVc
+`https://youtu.be/QTE_TH3pnVc`
 
 **Anexo G:**
 
-https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1
+`https://trello.com/invite/b/680c173600dffef6faf177cf/ATTIf7a10e4c68081609a658cac8a43916a4BECDB52B/sprint-1`
 
 **Anexo H:**
 
-https://www.figma.com/design/kgM3yQP7rTFErupKASTWFq/EduHive?node-id=1-3&t=q1juqOFhPBfXgsgs-1
+`https://www.figma.com/design/kgM3yQP7rTFErupKASTWFq/EduHive?node-id=1-3&t=q1juqOFhPBfXgsgs-1`
 
 **Anexo I:**
 
-https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88
+`https://lucid.app/lucidchart/cc8ce46e-0c42-4459-97d9-51e9b7a93953/edit?viewport_loc=-2060%2C36%2C5447%2C2532%2CHWEp-vi-RSFO&invitationId=inv_4a9b55a8-0f3e-4474-ad69-061d4b596f88`
 
 **Anexo J:**
 
-https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738
+`https://structurizr.com/share/101509/1d79650d-f8fb-488b-a4c4-0879267ec738`
 
 **Anexo K:**
 
-https://apx-01.github.io/Landing-Page/
+`https://apx-01.github.io/Landing-Page/`
 
 **Anexo L:**
 
-https://github.com/APX-01/report
+`https://github.com/APX-01/report`
 
 **Anexo M:**
 
-https://github.com/APX-01/Backend-Web-Services
+`https://github.com/APX-01/Backend-Web-Services`
 
 **Anexo N:**
 
-https://github.com/APX-01/Frontend-Web-Applications
+`https://github.com/APX-01/Frontend-Web-Applications`
 
 **Anexo O:**
 
-https://github.com/APX-01/Testing
+`https://github.com/APX-01/Testing`
