@@ -1879,6 +1879,17 @@ Entonces el sistema actualiza y muestra la medalla correspondiente automáticame
 </td><td>EP-003</td></tr>
     <tr><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>Como profesor quiero poder eliminar estudiantes de los grupos para que haya una mejor gestión de estos</td><td>Escenario 1: Dado que el profesor hace click en “Kick ” Cuando la gestión de grupos se le pregunta si desea echar al estudiante, Entonces el profesor ve las opciones<br><br>Escenario 2: Dado que eligió la opción “Si ”, Cuando se envía el formulario, Entonces se procede a eliminar al estudiante del grupo
 </td><td>EP-001</td></tr>
+<tr><td>US-037</td><td>Modo oscuro en Landing Page</td><td>Como usuario, quiero cambiar entre modo oscuro y claro en la landing page, para mayor comodidad visual según mis preferencias.</td><td>Escenario 1: Dado que estoy en la landing page, Cuando hago clic en el ícono de "luna/sol" en el header, Entonces el tema cambia instantáneamente y se guarda en localStorage.<br><br>Escenario 2: Dado que recargué la página, Cuando tengo preferencia guardada, Entonces el modo seleccionado se aplica automáticamente.</td><td>EP-005</td></tr>
+
+<tr><td>US-038</td><td>Búsqueda en historial</td><td>Como estudiante, quiero buscar retos en mi historial por nombre/fecha, para encontrar rápidamente entregas pasadas.</td><td>Escenario 1: Dado que tengo +5 retos completados, Cuando ingreso palabras clave en la barra de búsqueda, Entonces veo resultados filtrados en tiempo real.<br><br>Escenario 2: Dado que selecciono un rango de fechas, Cuando aplico el filtro, Entonces el sistema muestra solo retos entregados en ese período.</td><td>EP-004</td></tr>
+
+<tr><td>US-039</td><td>Vista previa de feedback</td><td>Como profesor, quiero previsualizar cómo verán los estudiantes mi feedback antes de enviarlo, para asegurar claridad.</td><td>Escenario 1: Dado que escribí un comentario, Cuando hago clic en "Vista previa", Entonces veo una simulación exacta de la vista móvil/desktop del estudiante.<br><br>Escenario 2: Dado que la vista previa está activa, Cuando edito el texto, Entonces los cambios se reflejan al instante.</td><td>EP-004</td></tr>
+
+<tr><td>US-040</td><td>Filtrado avanzado en panel de progreso</td><td>Como profesor, quiero filtrar el progreso por rango de fechas, nivel de medalla o completitud, para identificar casos específicos.</td><td>Escenario 1: Dado que aplico filtros "Bronze + últimos 7 días", Cuando confirmo, Entonces veo solo estudiantes que cumplen ambas condiciones.<br><br>Escenario 2: Dado que hay filtros activos, Cuando hago clic en "Resetear", Entonces vuelvo a la vista completa sin recargar.</td><td>EP-002</td></tr>
+
+<tr><td>US-041</td><td>Recordatorios personalizables</td><td>Como estudiante, quiero configurar cuándo recibir recordatorios de fechas límite, para adaptarlos a mi flujo.</td><td>Escenario 1: Dado que voy a "Configuración de notificaciones", Cuando selecciono "3 días antes" y "1 hora antes", Entonces recibo recordatorios en esos momentos.<br><br>Escenario 2: Dado un reto opcional, Cuando desactivo notificaciones para ese reto, Entonces solo recibo recordatorios de otros retos.</td><td>EP-003</td></tr>
+
+<tr><td>US-042</td><td>Estadísticas comparativas grupales</td><td>Como profesor, quiero ver porcentajes de estudiantes por rango de rendimiento (ej: "Top 20%", "Medio 60%"), para identificar distribuciones atípicas.</td><td>Escenario 1: Dado que hay 30+ estudiantes, Cuando accedo al panel de estadísticas, Entonces veo un gráfico de curva de campana con segmentos visuales claros.<br><br>Escenario 2: Dado que un grupo tiene rendimiento atípico, Cuando paso el cursor sobre un segmento, Entonces veo tooltips con el número exacto de estudiantes en ese rango.</td><td>EP-002</td></tr>
     <tr><td>TS-001</td><td>Obtener usuario por ID</td><td>Como developer, quiero obtener un usuario por su ID para verificar que la API devuelve los detalles correctos del usuario.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se realiza la solicitud GET, Entonces se debe devolver los detalles del usuario correspondiente.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud GET, Entonces la respuesta debe ser un error 404 indicando que no se encontró el usuario.</td><td>EP-001</td></tr>
     <tr><td>TS-002</td><td>Actualizar usuario</td><td>Como developer, quiero actualizar la información de un usuario existente para mantener los datos actualizados.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se envía una solicitud PUT con datos válidos, Entonces se debe actualizar el usuario y devolver 200 OK.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud PUT, Entonces la respuesta debe ser un error 404.</td><td>EP-001</td></tr>
     <tr><td>TS-003</td><td>Eliminar usuario</td><td>Como developer, quiero eliminar un usuario por su ID para permitir la gestión de cuentas.</td><td>Escenario 1: Dado que el ID del usuario es válido, Cuando se realiza la solicitud DELETE, Entonces se debe eliminar el usuario y devolver 204 No Content.<br><br>Escenario 2: Dado que el ID del usuario no existe, Cuando se realiza la solicitud DELETE, Entonces la respuesta debe ser un error 404.</td><td>EP-001</td></tr>
@@ -1929,67 +1940,73 @@ Entonces el sistema actualiza y muestra la medalla correspondiente automáticame
     <tr><td>1</td><td>US-005</td><td>Acceder al panel de progreso del curso</td><td>13</td></tr>
     <tr><td>2</td><td>US-010</td><td>Seguir el rendimiento de los equipos</td><td>13</td></tr>
     <tr><td>3</td><td>US-030</td><td>Métricas de participación</td><td>13</td></tr>
-    <tr><td>4</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
-    <tr><td>5</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
-    <tr><td>6</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
-    <tr><td>7</td><td>US-015</td><td>Distribución programada de retos</td><td>8</td></tr>
-    <tr><td>8</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
-    <tr><td>9</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
-    <tr><td>10</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
-    <tr><td>11</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
-    <tr><td>12</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
-    <tr><td>13</td><td>US-011</td><td>Revisar general de rendimiento</td><td>5</td></tr>
-    <tr><td>14</td><td>US-012</td><td>Asignación de feeback</td><td>5</td></tr>
-    <tr><td>15</td><td>US-013</td><td>Enviar respuesta a reto</td><td>5</td></tr>
-    <tr><td>16</td><td>US-014</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
-    <tr><td>17</td><td>US-016</td><td>Generación de Código de Invitación</td><td>5</td></tr>
-    <tr><td>18</td><td>US-017</td><td>Visualización de logros gamificados</td><td>5</td></tr>
-    <tr><td>19</td><td>US-018</td><td>Validación de códigos de grupo</td><td>5</td></tr>
-    <tr><td>20</td><td>US-019</td><td>Hero Section</td><td>5</td></tr>
-    <tr><td>21</td><td>US-020</td><td>Main Features Section</td><td>5</td></tr>
-    <tr><td>22</td><td>US-021</td><td>Explore Course Section</td><td>5</td></tr>
-    <tr><td>23</td><td>US-022</td><td>Knowledge Section</td><td>5</td></tr>
-    <tr><td>24</td><td>US-023</td><td>Contact Section</td><td>5</td></tr>
-    <tr><td>25</td><td>US-024</td><td>Testimonials Section</td><td>5</td></tr>
-    <tr><td>26</td><td>US-025</td><td>Latest Updates Section</td><td>5</td></tr>
-    <tr><td>27</td><td>US-026</td><td>Subscribe Section</td><td>5</td></tr>
-    <tr><td>28</td><td>US-027</td><td>Edición de perfil</td><td>5</td></tr>
-    <tr><td>29</td><td>US-028</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
-    <tr><td>30</td><td>US-029</td><td>Historial de retos completados</td><td>5</td></tr>
-    <tr><td>31</td><td>US-031</td><td>Clasificación de equipos</td><td>5</td></tr>
-    <tr><td>32</td><td>US-032</td><td>Reporte semanal</td><td>5</td></tr>
-    <tr><td>33</td><td>US-033</td><td>Visualización del desempeño individual en el grupo</td><td>3</td></tr>
-    <tr><td>34</td><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>3</td></tr>
-    <tr><td>35</td><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>3</td></tr>
-    <tr><td>36</td><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
-    <tr><td>37</td><td>TS-002</td><td>Actualizar usuario</td><td>3</td></tr>
-    <tr><td>38</td><td>TS-005</td><td>Crear nuevo usuario</td><td>3</td></tr>
-    <tr><td>39</td><td>TS-007</td><td>Actualizar entrega</td><td>3</td></tr>
-    <tr><td>40</td><td>TS-010</td><td>Crear nueva entrega</td><td>3</td></tr>
-    <tr><td>41</td><td>TS-015</td><td>Actualizar grupo</td><td>3</td></tr>
-    <tr><td>42</td><td>TS-018</td><td>Establecer código de unión de grupo</td><td>3</td></tr>
-    <tr><td>43</td><td>TS-019</td><td>Restablecer código de unión de grupo</td><td>3</td></tr>
-    <tr><td>44</td><td>TS-021</td><td>Crear nuevo grupo</td><td>3</td></tr>
-    <tr><td>45</td><td>TS-022</td><td>Unirse a grupo con código</td><td>3</td></tr>
-    <tr><td>46</td><td>TS-024</td><td>Actualizar reto</td><td>3</td></tr>
-    <tr><td>47</td><td>TS-027</td><td>Crear nuevo reto</td><td>3</td></tr>
-    <tr><td>48</td><td>TS-001</td><td>Obtener usuario por ID</td><td>2</td></tr>
-    <tr><td>49</td><td>TS-003</td><td>Eliminar usuario</td><td>2</td></tr>
-    <tr><td>50</td><td>TS-004</td><td>Obtener todos los usuarios</td><td>2</td></tr>
-    <tr><td>51</td><td>TS-006</td><td>Obtener entrega por ID</td><td>2</td></tr>
-    <tr><td>52</td><td>TS-008</td><td>Eliminar entrega</td><td>2</td></tr>
-    <tr><td>53</td><td>TS-009</td><td>Obtener todas las entregas</td><td>2</td></tr>
-    <tr><td>54</td><td>TS-011</td><td>Obtener entregas por estudiante</td><td>2</td></tr>
-    <tr><td>55</td><td>TS-012</td><td>Obtener entregas por estudiante y reto</td><td>2</td></tr>
-    <tr><td>56</td><td>TS-013</td><td>Obtener entregas por reto</td><td>2</td></tr>
-    <tr><td>57</td><td>TS-014</td><td>Obtener grupo por ID</td><td>2</td></tr>
-    <tr><td>58</td><td>TS-016</td><td>Eliminar grupo</td><td>2</td></tr>
-    <tr><td>59</td><td>TS-017</td><td>Obtener código de unión de grupo</td><td>2</td></tr>
-    <tr><td>60</td><td>TS-020</td><td>Obtener todos los grupos</td><td>2</td></tr>
-    <tr><td>61</td><td>TS-023</td><td>Obtener reto por ID</td><td>2</td></tr>
-    <tr><td>62</td><td>TS-025</td><td>Eliminar reto</td><td>2</td></tr>
-    <tr><td>63</td><td>TS-026</td><td>Obtener todos los retos</td><td>2</td></tr>
-    <tr><td>64</td><td>TS-028</td><td>Obtener retos por grupo</td><td>2</td></tr>
+    <tr><td>4</td><td>US-040</td><td>Filtrado avanzado en panel de progreso</td><td>8</td></tr>
+    <tr><td>5</td><td>US-003</td><td>Creación de grupos</td><td>8</td></tr>
+    <tr><td>6</td><td>US-007</td><td>Diseñar de retos personalizados</td><td>8</td></tr>
+    <tr><td>7</td><td>US-009</td><td>Definición de fechas límite de retos</td><td>8</td></tr>
+    <tr><td>8</td><td>US-015</td><td>Distribución programada de retos</td><td>8</td></tr>
+    <tr><td>9</td><td>US-042</td><td>Estadísticas comparativas grupales</td><td>5</td></tr>
+    <tr><td>10</td><td>US-001</td><td>Asignación de grupos</td><td>5</td></tr>
+    <tr><td>11</td><td>US-002</td><td>Visualización del equipo</td><td>5</td></tr>
+    <tr><td>12</td><td>US-004</td><td>Comparación de rendimiento</td><td>5</td></tr>
+    <tr><td>13</td><td>US-006</td><td>Recepcion de retos semanales gamificados</td><td>5</td></tr>
+    <tr><td>14</td><td>US-008</td><td>Obtencion de feedback automático</td><td>5</td></tr>
+    <tr><td>15</td><td>US-011</td><td>Revisar general de rendimiento</td><td>5</td></tr>
+    <tr><td>16</td><td>US-012</td><td>Asignación de feeback</td><td>5</td></tr>
+    <tr><td>17</td><td>US-013</td><td>Enviar respuesta a reto</td><td>5</td></tr>
+    <tr><td>18</td><td>US-014</td><td>Gestionar integrantes del grupo</td><td>5</td></tr>
+    <tr><td>19</td><td>US-016</td><td>Generación de Código de Invitación</td><td>5</td></tr>
+    <tr><td>20</td><td>US-017</td><td>Visualización de logros gamificados</td><td>5</td></tr>
+    <tr><td>21</td><td>US-018</td><td>Validación de códigos de grupo</td><td>5</td></tr>
+    <tr><td>22</td><td>US-019</td><td>Hero Section</td><td>5</td></tr>
+    <tr><td>23</td><td>US-020</td><td>Main Features Section</td><td>5</td></tr>
+    <tr><td>24</td><td>US-021</td><td>Explore Course Section</td><td>5</td></tr>
+    <tr><td>25</td><td>US-022</td><td>Knowledge Section</td><td>5</td></tr>
+    <tr><td>26</td><td>US-023</td><td>Contact Section</td><td>5</td></tr>
+    <tr><td>27</td><td>US-024</td><td>Testimonials Section</td><td>5</td></tr>
+    <tr><td>28</td><td>US-025</td><td>Latest Updates Section</td><td>5</td></tr>
+    <tr><td>29</td><td>US-026</td><td>Subscribe Section</td><td>5</td></tr>
+    <tr><td>30</td><td>US-027</td><td>Edición de perfil</td><td>5</td></tr>
+    <tr><td>31</td><td>US-028</td><td>Recordatorios de Fechas Límite</td><td>5</td></tr>
+    <tr><td>32</td><td>US-029</td><td>Historial de retos completados</td><td>5</td></tr>
+    <tr><td>33</td><td>US-031</td><td>Clasificación de equipos</td><td>5</td></tr>
+    <tr><td>34</td><td>US-032</td><td>Reporte semanal</td><td>5</td></tr>
+    <tr><td>35</td><td>US-037</td><td>Modo oscuro en Landing Page</td><td>5</td></tr>
+    <tr><td>36</td><td>US-038</td><td>Búsqueda en historial</td><td>5</td></tr>
+    <tr><td>37</td><td>US-039</td><td>Vista previa de feedback</td><td>5</td></tr>
+    <tr><td>38</td><td>US-041</td><td>Recordatorios personalizables</td><td>5</td></tr>
+    <tr><td>39</td><td>US-033</td><td>Visualización del desempeño individual en el grupo</td><td>3</td></tr>
+    <tr><td>40</td><td>US-034</td><td>Visualización de medalla de desempeño del estudiante</td><td>3</td></tr>
+    <tr><td>41</td><td>US-035</td><td>Gestión de intentos de entrega de retos</td><td>3</td></tr>
+    <tr><td>42</td><td>US-036</td><td>Eliminar estudiantes de los grupos</td><td>3</td></tr>
+    <tr><td>43</td><td>TS-002</td><td>Actualizar usuario</td><td>3</td></tr>
+    <tr><td>44</td><td>TS-005</td><td>Crear nuevo usuario</td><td>3</td></tr>
+    <tr><td>45</td><td>TS-007</td><td>Actualizar entrega</td><td>3</td></tr>
+    <tr><td>46</td><td>TS-010</td><td>Crear nueva entrega</td><td>3</td></tr>
+    <tr><td>47</td><td>TS-015</td><td>Actualizar grupo</td><td>3</td></tr>
+    <tr><td>48</td><td>TS-018</td><td>Establecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>49</td><td>TS-019</td><td>Restablecer código de unión de grupo</td><td>3</td></tr>
+    <tr><td>50</td><td>TS-021</td><td>Crear nuevo grupo</td><td>3</td></tr>
+    <tr><td>51</td><td>TS-022</td><td>Unirse a grupo con código</td><td>3</td></tr>
+    <tr><td>52</td><td>TS-024</td><td>Actualizar reto</td><td>3</td></tr>
+    <tr><td>53</td><td>TS-027</td><td>Crear nuevo reto</td><td>3</td></tr>
+    <tr><td>54</td><td>TS-001</td><td>Obtener usuario por ID</td><td>2</td></tr>
+    <tr><td>55</td><td>TS-003</td><td>Eliminar usuario</td><td>2</td></tr>
+    <tr><td>56</td><td>TS-004</td><td>Obtener todos los usuarios</td><td>2</td></tr>
+    <tr><td>57</td><td>TS-006</td><td>Obtener entrega por ID</td><td>2</td></tr>
+    <tr><td>58</td><td>TS-008</td><td>Eliminar entrega</td><td>2</td></tr>
+    <tr><td>59</td><td>TS-009</td><td>Obtener todas las entregas</td><td>2</td></tr>
+    <tr><td>60</td><td>TS-011</td><td>Obtener entregas por estudiante</td><td>2</td></tr>
+    <tr><td>61</td><td>TS-012</td><td>Obtener entregas por estudiante y reto</td><td>2</td></tr>
+    <tr><td>62</td><td>TS-013</td><td>Obtener entregas por reto</td><td>2</td></tr>
+    <tr><td>63</td><td>TS-014</td><td>Obtener grupo por ID</td><td>2</td></tr>
+    <tr><td>64</td><td>TS-016</td><td>Eliminar grupo</td><td>2</td></tr>
+    <tr><td>65</td><td>TS-017</td><td>Obtener código de unión de grupo</td><td>2</td></tr>
+    <tr><td>66</td><td>TS-020</td><td>Obtener todos los grupos</td><td>2</td></tr>
+    <tr><td>67</td><td>TS-023</td><td>Obtener reto por ID</td><td>2</td></tr>
+    <tr><td>68</td><td>TS-025</td><td>Eliminar reto</td><td>2</td></tr>
+    <tr><td>69</td><td>TS-026</td><td>Obtener todos los retos</td><td>2</td></tr>
+    <tr><td>70</td><td>TS-028</td><td>Obtener retos por grupo</td><td>2</td></tr>
   </tbody>
 </table>
 
