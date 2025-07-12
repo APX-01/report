@@ -7008,31 +7008,25 @@ En este apartado se muestran las evidencias visuales que documentan el progreso 
 
 **Frontend:**
 
-<img src="./images/chapter-5/Front1.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front1.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front2.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front2.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front3.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front3.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front4.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front4.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front5.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front5.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front6.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front6.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front7.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front7.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front8.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front8.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front9.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front9.png" alt="Deploy" width="800"/>
 
-<img src="./images/chapter-5/Front10.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front11.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front12.png" alt="Deploy" width="800"/>
-
-<img src="./images/chapter-5/Front13.png" alt="Deploy" width="800"/>
+<img src="./images/chapter-5/sprint4-front10.png" alt="Deploy" width="800"/>
 
 **Backend:**
 
