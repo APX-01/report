@@ -101,7 +101,7 @@ Abril 2025
       <td>2.1</td>
       <td>2025-05-20</td>
       <td>Luquillas Asto Omar y Alejo Cardenas Jose Antonio</td>
-      <td>Revisión completa del capitulo 5, corrección ortográfica y coherencia global del reporte.</td>
+      <td>Revisión completa del capítulo 5, corrección ortográfica y coherencia global del reporte.</td>
     </tr>
     <tr>
       <td>2.2</td>
@@ -181,7 +181,7 @@ Entrega TP (16/05/2025):
 <img src="./images/chapter-1/commit2-2.png" alt="Insights Report Collaboration Insights TP" />
 <img src="./images/chapter-1/commit2-3.png" alt="Insights Report Collaboration Insights TP" />
 
-Para esta entrega se desarollo el capitulo 5 y el sprint 2, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
+Para esta entrega se desarollo el sprint 2, en la captura adjuntada se evidencia del trabajo colaborativo de github.
 
 Distribución de commits:
 
@@ -198,7 +198,7 @@ Entrega TB2 (22/06/2025):
 <img src="./images/chapter-1/commit3-2.png" alt="Insights Report Collaboration Insights TB2" />
 <img src="./images/chapter-1/commit3-3.png" alt="Insights Report Collaboration Insights TB2" />
 
-Para esta entrega se desarollo el capitulo 5 y el sprint 3, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
+Para esta entrega se desarollo el sprint 3 y el capítulo 5, en la captura adjuntada se evidencia del trabajo colaborativo de github.
 
 Distribución de commits:
 
@@ -214,7 +214,7 @@ Entrega TF (12/07/2025):
 <img src="./images/chapter-1/commit4-2.png" alt="Insights Report Collaboration Insights TF" />
 <img src="./images/chapter-1/commit4-3.png" alt="Insights Report Collaboration Insights TF" />
 
-Para esta entrega se desarollo el capitulo 5, en la captura adjuntada se evidencia del trabajo colaborativo de github. Todos los integrantes del grupo trabajaron en el proyecto.
+Para esta entrega se desarollo el sprint 4 y conclusiones finales, en la captura adjuntada se evidencia del trabajo colaborativo de github.
 
 Distribución de commits:
 
