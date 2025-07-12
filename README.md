@@ -147,8 +147,8 @@ Abril 2025
 | Tipo de Enlace                      | URL                                                                                   |
 |------------------------------------|----------------------------------------------------------------------------------------|
 | **Landing Page**                   | `https://apx-01.github.io/Landing-Page/`     |
-| **Frontend desplegado (Vercel)**   | `https://frontend-web-applications-deploymen.vercel.app` |
-| **Backend desplegado (Render)**    | `https://backend-web-services-1ayx.onrender.com/swagger-ui/index.html#/` |
+| **Frontend desplegado (Vercel)**   | `https://frontend-web-applications-deploymen.vercel.app/auth` |
+| **Backend desplegado (Render)**    | `https://backend-web-services-bekx.onrender.com/swagger-ui/index.html#/` |
 | **Repositorio de la organización** | `https://github.com/APX-01`                                |
 | **Repositorio del reporte**        | `https://github.com/APX-01/report.git`         |
 
